@@ -1,0 +1,330 @@
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://nextiptv.pro:80
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://nextiptv.pro:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 12 Şubat 2024 14:35
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 12 Şubat 2027 21:49
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ anilerkilicTR
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ eEtU5Ejs
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇸 United States
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/New_York
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome to Cabel Stream
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 172.67.179.15
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ CLOUDFLARENET
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 28 Ekim 2025 - 04:39
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ ⚠️ Yayın kontrolü başarısız: Bağlantı hatası
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://nextiptv.pro:80/get.php?username=anilerkilicTR&password=eEtU5Ejs&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://nextiptv.pro:80/xmltv.php?username=anilerkilicTR&password=eEtU5Ejs&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢IPTV MERKEZI Önemli Duyuru ! 💢 TR | ULUSAL 💢 TR  | ULUSAL 4K 💢 TR | HEVC 💢 TR | BEIN SPORT 💢 TR | BEIN SPORT (VIP) 💢 TR | BEIN SPORT FEED 💢 TR | S-SPORT 💢 TR | TABii SPOR 💢 TR | EX-XEN SPORT 💢 TR | SPOR 💢 TR | TIVIBU SPORT 💢 TR | BELGESEL 💢 TR | BELGESEL 7/24 💢 TR | BOX OFFICE 💢 TR | beIN MEDIA SINEMA 💢 TR | D-SMART & TIVIBU SINEMA 💢 TR | SINEMA 7/24 💢 TR | YERLİ DIZI 7/24 💢 TR | YABANCI DIZI 7/24 💢 TR | CINE BOX 7/24 💢 TR | CINE BOXSET 7/24 💢 TR | CINE STARS 7/24 💢 TR | YESILCAM SINEMA 7/24 💢 TR | ANIMASYON SINEMA 💢 TR | COCUK 7/24 💢 DE | STANDARD 💢 DE | REGIONAL 💢 DE | KIDS 💢 DE | DOKU 💢 DE | SKY SELECT 💢 DE | CINEMA 💢 DE | KINO 💢 DE | KINO BOX 💢 DE | KINO BOXSET 💢 DE | ACTOR KINO 💢 DE | SPORT 💢 DE | DAZN 💢 DE | DAZN BUNDESLIGA 💢 DE | DAZN LALIGA 💢 DE | DAZN SERIE A 💢 DE | DAZN LIGUE 1 💢 DE | DAZN GROUP & CL 💢 DE | DAZN EVENT 💢 DE | SPORT EVENT 💢 DE | SPORT EUROPA 💢 DE | SPORT EUROPA DEL2 💢 DE | SPORT EUROPA CHL 💢 DE | SPORT EUROPA ICE 💢 DE | SPORT EUROPA PRO A 💢 DE | DYN SPORT 💢 DE | RTL+ SPORT EVENT 💢 DE | MAGENTA SPORT 💢 DE | QHD 💢 DE | HEVC 💢 DE | KABEL 💢 AT | SKY SPORT 💢 WS | WORLD SPORT 💢 WS | DAZN FIFA 💢 WS | UHD SPORT 💢 WS | DISNEY+ SPORT EVENT 💢 RU | СТАНДАРТ 💢 RU |  KIDS 💢 RU | CINEMA 💢 RU | DOKU 💢 RU |  SPORT 💢 RU |  MUSIC ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://nextiptv.pro:80
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://nextiptv.pro:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 30 Ocak 2025 21:02
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 30 Ocak 2026 21:02
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ necati3434TRTR
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 083763927363hh3
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇸 United States
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/New_York
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome to Cabel Stream
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 172.67.179.15
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ CLOUDFLARENET
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 28 Ekim 2025 - 04:42
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ ⚠️ Yayın kontrolü başarısız: Bağlantı hatası
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://nextiptv.pro:80/get.php?username=necati3434TRTR&password=083763927363hh3&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://nextiptv.pro:80/xmltv.php?username=necati3434TRTR&password=083763927363hh3&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢IPTV MERKEZI Önemli Duyuru ! 💢 SCREENSAVER 💢 TR | ULUSAL 💢 TR  | ULUSAL 4K 💢 TR | HEVC 💢 TR | BEIN SPORT 💢 TR | BEIN SPORT (VIP) 💢 TR | BEIN SPORT FEED 💢 TR | S-SPORT 💢 TR | TABii SPOR 💢 TR | EX-XEN SPORT 💢 TR | SPOR 💢 TR | TIVIBU SPORT 💢 TR | BELGESEL 💢 TR | BELGESEL 7/24 💢 TR | HABER 💢 TR | BOX OFFICE 💢 TR | beIN MEDIA SINEMA 💢 TR | D-SMART & TIVIBU SINEMA 💢 TR | SINEMA 7/24 💢 TR | YERLİ DIZI 7/24 💢 TR | YABANCI DIZI 7/24 💢 TR | CINE BOX 7/24 💢 TR | CINE BOXSET 7/24 💢 TR | CINE STARS 7/24 💢 TR | YESILCAM SINEMA 7/24 💢 TR | ANIMASYON SINEMA 💢 TR | MUZIK 💢 TR | COCUK 7/24 💢 TR | DINI 💢 TR | YEREL 💢 TR | QHD 💢 DE | STANDARD 💢 DE | REGIONAL 💢 DE | KIDS 💢 DE | DOKU 💢 DE | MUSIK 💢 DE | SKY 💢 DE | SKY SELECT 💢 DE | CINEMA 💢 DE | KINO 💢 DE | KINO BOX 💢 DE | KINO BOXSET 💢 DE | ACTOR KINO 💢 DE | 24/7 💢 DE | SPORT 💢 DE | SKY SPORT 💢 DE | DAZN 💢 DE | DAZN BUNDESLIGA 💢 DE | DAZN LALIGA 💢 DE | DAZN SERIE A 💢 DE | DAZN LIGUE 1 💢 DE | DAZN GROUP & CL 💢 DE | DAZN EVENT 💢 DE | SPORT EVENT 💢 DE | SPORT EUROPA 💢 DE | SPORT EUROPA DEL2 💢 DE | SPORT EUROPA CHL 💢 DE | SPORT EUROPA ICE 💢 DE | SPORT EUROPA PRO A 💢 DE | DYN SPORT 💢 DE | RTL+ SPORT EVENT 💢 DE | MAGENTA SPORT 💢 DE | QHD 💢 DE | HEVC 💢 DE | KABEL 💢 NL | STANDAARD 💢 NL | CULTUUR 💢 NL | KIDS 💢 NL | MOVIES 💢 NL | SPORT 💢 NL | MUZIEK 💢 NL | VIAPLAY 💢 AT | STANDARD 💢 AT | PRIVATE 💢 AT | KIDS 💢 AT | CANAL+ 💢 AT | SPORT 💢 AT | SKY SPORT 💢 WS | WORLD SPORT 💢 WS | DAZN FIFA 💢 WS | UHD SPORT 💢 WS | DISNEY+ SPORT EVENT 💢 GR | DIGEA 💢 GR | NATIONAL 💢 GR | CYPERN 💢 GR | CINEMA 💢 GR | DOKU 💢 GR | LIFESTYLE-NEWS 💢 GR | FILM TOP STARS 💢 GR | SPORTS 💢 GR | KIDS 💢 GR | MUSIC 💢 GR | RAW 💢 GR | RADIO 💢 EX-YU | BIH 💢 EX-YU | SRB 💢 EX-YU | HR 💢 EX-YU | DJECIJI 💢 EX-YU | DOKU 💢 EX-YU | FİLM 💢 EX-YU | CINEMA 💢 EX-YU | PİNK 💢 EX-YU | SPORT 💢 SL | SLOVENIA 💢 AM | ARMENIA 💢 AL | GJENERAL 💢 AL | DOKUMENTAR 💢 AL | KIDS-FËMIJË 💢 AL | RAJONAL 💢 AL | ISLAM SHQIP 💢 AL | MUZIKA 💢 AL | LAJME TV 💢 AL | SPORT 💢 AL | HUMOR 💢 AL | FILM & SERIAL 💢 MK | MAKEDONIA 💢 CH | SWISS 💢 PL | OGOLNE 💢 PL | INFORMACYJNE 💢 PL | DZIECIECE 💢 PL | MUZYCZNE 💢 PL | PRZYRODZNICZE 💢 PL | ROZRYWKA 💢 PL | SERIALE 💢 PL | FILMOWE 💢 PL | SPORTOWE 💢 PL | CANAL+ SPORT 💢 BE| VLAANDEREN 💢 BE | WALONIE 💢 AZ | AZERBAIJAN 💢 SP | GENERAL 💢 SP | NOTICIAS 💢 SP | NINOS 💢 SP | DOCUMENTACION 💢 SP | ENTRETENIMIENTO 💢 SP | PELICULAS-SERIES 💢 SP | MUSICA 💢 SP | DEPORTES 💢 SP | DEPORTES DAZN 💢 SP | DEPORTES LALIGA 💢 SP | DEPORTES CAMPEONES 💢 SP | DEPORTES MOVISTAR 💢 BG | BULGARIA 💢 IT | PREDEFINITO 💢 IT | CINEMA 💢 IT | DOKU 💢 IT | KIDS 💢 IT | SPORT 💢 IT | SPORT CHAMPIONS LEAGUE 💢 IT | LIGA PORTUGAL BETCLIC LIGA 💢 IT | UEFA EUROPA CONFERENCE 💢 IT | UEFA EUROPA LEAGUE 💢 IT | LALIGA EA SPORTS 💢 IT | SERIE BKT 💢 IT | Serie A TIM 💢 IT | NFL GAME PASS 💢 IT | SPORT DISCOVERY 💢 FR | STANDARD 💢 FR | DOKU 💢 FR |  KIDS 💢 FR | CINEMA 💢 FR | SERIES 💢 FR | SPORT 💢 FR | SPORT DAZN 💢 FR | SPORT EVENT 💢 UK | GENERALLY 💢 UK | ENTERTAINMENT 💢 UK | MOVIE 💢 UK | SPORT 💢 UK | DOCU 💢 UK | KIDS 💢 UK | NEWS 💢 UK | MUSIC 💢 UK | RELIGIOUS 💢 RO | ROMANIA 💢 PT | PORTUGAL 💢 RU | СТАНДАРТ 💢 RU |  KIDS 💢 RU | CINEMA 💢 RU | DOKU 💢 RU |  SPORT 💢 RU |  MUSIC 💢 HU | HUNGARY 💢 KR | KURDISH 💢 CZ | CZECH REPUBLIC 💢 DENMARK 💢 NORWAY 💢 SWEDEN 💢 FINLAND 💢 KANADA 💢 US | USA ALL 💢 US | SPORT ( NBA NFL NHL MLB) 💢 US | SPORTS FOX 💢 US | SPORTS BALLY 💢 AR | SPORTS 💢 AR | PREMIUM 💢 AR | NEWS 💢 AR |  IRAQ 💢 AR | MYHD 💢 AR | AGYPTEN 💢 AR | LEBANON 💢 AR | TUNUSIA 💢 AR | LIBYA 💢 AR | AFGHANISTAN 💢 AR | MOROCCO 💢 AR | SYRIA 💢 AR | ISLAM 💢 PAKISTAN 💢 IRAN 💢 INDIA 💢 UKRAIN 💢 AFRICA 💢 ISRAIL 💢 KKTC| KIBRIS ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://nextiptv.pro:80
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://nextiptv.pro:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 28 Ağustos 2024 17:45
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 29 Ağustos 2026 21:38
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ Kubra3851torun
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ dkHAkFEAXX
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇨🇦 Canada
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/Toronto
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome to Cabel Stream
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 172.67.179.15
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ CLOUDFLARENET
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 28 Ekim 2025 - 04:46
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ ⚠️ Yayın kontrolü başarısız: Bağlantı hatası
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://nextiptv.pro:80/get.php?username=Kubra3851torun&password=dkHAkFEAXX&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://nextiptv.pro:80/xmltv.php?username=Kubra3851torun&password=dkHAkFEAXX&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢SCREENSAVER 💢 TR | ULUSAL 💢 TR  | ULUSAL 4K 💢 TR | HEVC 💢 TR | BEIN SPORT 💢 TR | BEIN SPORT (VIP) 💢 TR | BEIN SPORT FEED 💢 TR | S-SPORT 💢 TR | TABii SPOR 💢 TR | EX-XEN SPORT 💢 TR | SPOR 💢 TR | TIVIBU SPORT 💢 TR | BELGESEL 💢 TR | BELGESEL 7/24 💢 TR | HABER 💢 TR | BOX OFFICE 💢 TR | beIN MEDIA SINEMA 💢 TR | D-SMART & TIVIBU SINEMA 💢 TR | SINEMA 7/24 💢 TR | YERLİ DIZI 7/24 💢 TR | YABANCI DIZI 7/24 💢 TR | CINE BOX 7/24 💢 TR | CINE BOXSET 7/24 💢 TR | CINE STARS 7/24 💢 TR | YESILCAM SINEMA 7/24 💢 TR | ANIMASYON SINEMA 💢 TR | MUZIK 💢 TR | COCUK 7/24 💢 TR | DINI 💢 TR | YEREL 💢 TR | QHD 💢 DE | STANDARD 💢 DE | REGIONAL 💢 DE | KIDS 💢 DE | DOKU 💢 DE | MUSIK 💢 DE | SKY 💢 DE | SKY SELECT 💢 DE | CINEMA 💢 DE | KINO 💢 DE | KINO BOX 💢 DE | KINO BOXSET 💢 DE | ACTOR KINO 💢 DE | 24/7 💢 DE | SPORT 💢 DE | SKY SPORT 💢 DE | DAZN 💢 DE | DAZN BUNDESLIGA 💢 DE | DAZN LALIGA 💢 DE | DAZN SERIE A 💢 DE | DAZN LIGUE 1 💢 DE | DAZN GROUP & CL 💢 DE | DAZN EVENT 💢 DE | SPORT EVENT 💢 DE | SPORT EUROPA 💢 DE | SPORT EUROPA DEL2 💢 DE | SPORT EUROPA CHL 💢 DE | SPORT EUROPA ICE 💢 DE | SPORT EUROPA PRO A 💢 DE | DYN SPORT 💢 DE | RTL+ SPORT EVENT 💢 DE | MAGENTA SPORT 💢 DE | QHD 💢 DE | HEVC 💢 DE | KABEL 💢 NL | STANDAARD 💢 NL | CULTUUR 💢 NL | KIDS 💢 NL | MOVIES 💢 NL | SPORT 💢 NL | VIAPLAY 💢 AT | STANDARD 💢 AT | PRIVATE 💢 AT | KIDS 💢 AT | CANAL+ 💢 AT | SPORT 💢 AT | SKY SPORT 💢 WS | WORLD SPORT 💢 WS | DAZN FIFA 💢 WS | UHD SPORT 💢 WS | DISNEY+ SPORT EVENT 💢 GR | DIGEA 💢 GR | NATIONAL 💢 GR | CYPERN 💢 GR | CINEMA 💢 GR | DOKU 💢 GR | LIFESTYLE-NEWS 💢 GR | FILM TOP STARS 💢 GR | SPORTS 💢 GR | KIDS 💢 GR | MUSIC 💢 GR | RAW 💢 GR | RADIO 💢 EX-YU | BIH 💢 EX-YU | SRB 💢 EX-YU | HR 💢 EX-YU | DJECIJI 💢 EX-YU | DOKU 💢 EX-YU | FİLM 💢 EX-YU | CINEMA 💢 EX-YU | PİNK 💢 EX-YU | SPORT 💢 SL | SLOVENIA 💢 AL | GJENERAL 💢 AL | DOKUMENTAR 💢 AL | KIDS-FËMIJË 💢 AL | RAJONAL 💢 AL | ISLAM SHQIP 💢 AL | MUZIKA 💢 AL | LAJME TV 💢 AL | SPORT 💢 AL | HUMOR 💢 AL | FILM & SERIAL 💢 MK | MAKEDONIA 💢 CH | SWISS 💢 PL | OGOLNE 💢 PL | INFORMACYJNE 💢 PL | DZIECIECE 💢 PL | MUZYCZNE 💢 PL | PRZYRODZNICZE 💢 PL | ROZRYWKA 💢 PL | SERIALE 💢 PL | FILMOWE 💢 PL | SPORTOWE 💢 PL | CANAL+ SPORT 💢 BE| VLAANDEREN 💢 BE | WALONIE 💢 AZ | AZERBAIJAN 💢 SP | GENERAL 💢 SP | NOTICIAS 💢 SP | NINOS 💢 SP | DOCUMENTACION 💢 SP | ENTRETENIMIENTO 💢 SP | PELICULAS-SERIES 💢 SP | MUSICA 💢 SP | DEPORTES 💢 SP | DEPORTES DAZN 💢 SP | DEPORTES LALIGA 💢 SP | DEPORTES CAMPEONES 💢 SP | DEPORTES MOVISTAR 💢 BG | BULGARIA 💢 IT | PREDEFINITO 💢 IT | CINEMA 💢 IT | DOKU 💢 IT | KIDS 💢 IT | SPORT 💢 IT | SPORT CHAMPIONS LEAGUE 💢 IT | LIGA PORTUGAL BETCLIC LIGA 💢 IT | UEFA EUROPA CONFERENCE 💢 IT | UEFA EUROPA LEAGUE 💢 IT | LALIGA EA SPORTS 💢 IT | SERIE BKT 💢 IT | Serie A TIM 💢 IT | NFL GAME PASS 💢 IT | SPORT DISCOVERY 💢 FR | STANDARD 💢 FR | DOKU 💢 FR |  KIDS 💢 FR | CINEMA 💢 FR | SERIES 💢 FR | SPORT 💢 FR | SPORT DAZN 💢 FR | SPORT EVENT 💢 UK | GENERALLY 💢 UK | ENTERTAINMENT 💢 UK | MOVIE 💢 UK | SPORT 💢 UK | DOCU 💢 UK | KIDS 💢 UK | NEWS 💢 UK | MUSIC 💢 UK | RELIGIOUS 💢 RO | ROMANIA 💢 PT | PORTUGAL 💢 RU | СТАНДАРТ 💢 RU |  KIDS 💢 RU | CINEMA 💢 RU | DOKU 💢 RU |  SPORT 💢 RU |  MUSIC 💢 HU | HUNGARY 💢 KR | KURDISH 💢 CZ | CZECH REPUBLIC 💢 DENMARK 💢 NORWAY 💢 SWEDEN 💢 FINLAND 💢 KANADA 💢 US | USA ALL 💢 US | SPORT ( NBA NFL NHL MLB) 💢 US | SPORTS FOX 💢 US | SPORTS BALLY 💢 AR | SPORTS 💢 AR | PREMIUM 💢 AR | NEWS 💢 AR |  IRAQ 💢 AR | MYHD 💢 AR | AGYPTEN 💢 AR | LEBANON 💢 AR | TUNUSIA 💢 AR | LIBYA 💢 AR | AFGHANISTAN 💢 AR | MOROCCO 💢 AR | SYRIA 💢 AR | ISLAM 💢 PAKISTAN 💢 IRAN 💢 INDIA 💢 UKRAIN 💢 AFRICA 💢 ISRAIL 💢 KKTC| KIBRIS ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://nextiptv.pro:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://nextiptv.pro:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 23 Mart 2025 00:31
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 23 Mart 2026 01:31
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 1103460
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ f1jKUet
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇸 United States
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/New_York
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome to Cabel Stream
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 104.21.43.120
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ CLOUDFLARENET
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 28 Ekim 2025 - 05:14
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ ⚠️ Yayın kontrolü başarısız: Bağlantı hatası
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://nextiptv.pro:8080/get.php?username=1103460&password=f1jKUet&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://nextiptv.pro:8080/xmltv.php?username=1103460&password=f1jKUet&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢SCREENSAVER 💢 TR | ULUSAL 💢 TR  | ULUSAL 4K 💢 TR | HEVC 💢 TR | BEIN SPORT 💢 TR | BEIN SPORT (VIP) 💢 TR | BEIN SPORT FEED 💢 TR | S-SPORT 💢 TR | TABii SPOR 💢 TR | EX-XEN SPORT 💢 TR | SPOR 💢 TR | TIVIBU SPORT 💢 TR | BELGESEL 💢 TR | BELGESEL 7/24 💢 TR | HABER 💢 TR | BOX OFFICE 💢 TR | beIN MEDIA SINEMA 💢 TR | D-SMART & TIVIBU SINEMA 💢 TR | SINEMA 7/24 💢 TR | YERLİ DIZI 7/24 💢 TR | YABANCI DIZI 7/24 💢 TR | CINE BOX 7/24 💢 TR | CINE BOXSET 7/24 💢 TR | CINE STARS 7/24 💢 TR | YESILCAM SINEMA 7/24 💢 TR | ANIMASYON SINEMA 💢 TR | MUZIK 💢 TR | COCUK 7/24 💢 TR | DINI 💢 TR | YEREL 💢 TR | QHD 💢 DE | STANDARD 💢 DE | REGIONAL 💢 DE | KIDS 💢 DE | DOKU 💢 DE | MUSIK 💢 DE | SKY 💢 DE | SKY SELECT 💢 DE | CINEMA 💢 DE | KINO 💢 DE | KINO BOX 💢 DE | KINO BOXSET 💢 DE | ACTOR KINO 💢 DE | 24/7 💢 DE | SPORT 💢 DE | SKY SPORT 💢 DE | DAZN 💢 DE | DAZN BUNDESLIGA 💢 DE | DAZN LALIGA 💢 DE | DAZN SERIE A 💢 DE | DAZN LIGUE 1 💢 DE | DAZN GROUP & CL 💢 DE | DAZN EVENT 💢 DE | SPORT EVENT 💢 DE | SPORT EUROPA 💢 DE | SPORT EUROPA DEL2 💢 DE | SPORT EUROPA CHL 💢 DE | SPORT EUROPA ICE 💢 DE | SPORT EUROPA PRO A 💢 DE | DYN SPORT 💢 DE | RTL+ SPORT EVENT 💢 DE | MAGENTA SPORT 💢 DE | QHD 💢 DE | HEVC 💢 DE | KABEL 💢 NL | STANDAARD 💢 NL | CULTUUR 💢 NL | KIDS 💢 NL | MOVIES 💢 NL | SPORT 💢 NL | MUZIEK 💢 NL | VIAPLAY 💢 AT | STANDARD 💢 AT | PRIVATE 💢 AT | KIDS 💢 AT | CANAL+ 💢 AT | SPORT 💢 AT | SKY SPORT 💢 WS | WORLD SPORT 💢 WS | DAZN FIFA 💢 WS | UHD SPORT 💢 WS | DISNEY+ SPORT EVENT 💢 GR | DIGEA 💢 GR | NATIONAL 💢 GR | CYPERN 💢 GR | CINEMA 💢 GR | DOKU 💢 GR | LIFESTYLE-NEWS 💢 GR | FILM TOP STARS 💢 GR | SPORTS 💢 GR | KIDS 💢 GR | MUSIC 💢 GR | RAW 💢 GR | RADIO 💢 EX-YU | BIH 💢 EX-YU | SRB 💢 EX-YU | HR 💢 EX-YU | DJECIJI 💢 EX-YU | DOKU 💢 EX-YU | FİLM 💢 EX-YU | CINEMA 💢 EX-YU | PİNK 💢 EX-YU | SPORT 💢 SL | SLOVENIA 💢 AM | ARMENIA 💢 AL | GJENERAL 💢 AL | DOKUMENTAR 💢 AL | KIDS-FËMIJË 💢 AL | RAJONAL 💢 AL | ISLAM SHQIP 💢 AL | MUZIKA 💢 AL | LAJME TV 💢 AL | SPORT 💢 AL | HUMOR 💢 AL | FILM & SERIAL 💢 MK | MAKEDONIA 💢 CH | SWISS 💢 PL | OGOLNE 💢 PL | INFORMACYJNE 💢 PL | DZIECIECE 💢 PL | MUZYCZNE 💢 PL | PRZYRODZNICZE 💢 PL | ROZRYWKA 💢 PL | SERIALE 💢 PL | FILMOWE 💢 PL | SPORTOWE 💢 PL | CANAL+ SPORT 💢 BE| VLAANDEREN 💢 BE | WALONIE 💢 AZ | AZERBAIJAN 💢 SP | GENERAL 💢 SP | NOTICIAS 💢 SP | NINOS 💢 SP | DOCUMENTACION 💢 SP | ENTRETENIMIENTO 💢 SP | PELICULAS-SERIES 💢 SP | MUSICA 💢 SP | DEPORTES 💢 SP | DEPORTES DAZN 💢 SP | DEPORTES LALIGA 💢 SP | DEPORTES CAMPEONES 💢 SP | DEPORTES MOVISTAR 💢 BG | BULGARIA 💢 IT | PREDEFINITO 💢 IT | CINEMA 💢 IT | DOKU 💢 IT | KIDS 💢 IT | SPORT 💢 IT | SPORT CHAMPIONS LEAGUE 💢 IT | LIGA PORTUGAL BETCLIC LIGA 💢 IT | UEFA EUROPA CONFERENCE 💢 IT | UEFA EUROPA LEAGUE 💢 IT | LALIGA EA SPORTS 💢 IT | SERIE BKT 💢 IT | Serie A TIM 💢 IT | NFL GAME PASS 💢 IT | SPORT DISCOVERY 💢 FR | STANDARD 💢 FR | DOKU 💢 FR |  KIDS 💢 FR | CINEMA 💢 FR | SERIES 💢 FR | SPORT 💢 FR | SPORT DAZN 💢 FR | SPORT EVENT 💢 UK | GENERALLY 💢 UK | ENTERTAINMENT 💢 UK | MOVIE 💢 UK | SPORT 💢 UK | DOCU 💢 UK | KIDS 💢 UK | NEWS 💢 UK | MUSIC 💢 UK | RELIGIOUS 💢 RO | ROMANIA 💢 PT | PORTUGAL 💢 RU | СТАНДАРТ 💢 RU |  KIDS 💢 RU | CINEMA 💢 RU | DOKU 💢 RU |  SPORT 💢 RU |  MUSIC 💢 HU | HUNGARY 💢 KR | KURDISH 💢 CZ | CZECH REPUBLIC 💢 DENMARK 💢 NORWAY 💢 SWEDEN 💢 FINLAND 💢 KANADA 💢 US | USA ALL 💢 US | SPORT ( NBA NFL NHL MLB) 💢 US | SPORTS FOX 💢 US | SPORTS BALLY 💢 AR | SPORTS 💢 AR | PREMIUM 💢 AR | NEWS 💢 AR |  IRAQ 💢 AR | MYHD 💢 AR | AGYPTEN 💢 AR | LEBANON 💢 AR | TUNUSIA 💢 AR | LIBYA 💢 AR | AFGHANISTAN 💢 AR | MOROCCO 💢 AR | SYRIA 💢 AR | ISLAM 💢 PAKISTAN 💢 IRAN 💢 INDIA 💢 UKRAIN 💢 AFRICA 💢 ISRAIL 💢 KKTC| KIBRIS 💢 FOR ADULTS 💢 FOR ADULTS 24/7 ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://nextiptv.pro:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://nextiptv.pro:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 07 Ocak 2025 22:41
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 07 Ocak 2026 22:41
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ vg0XS0Pe
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ bEyCaEw
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇸 United States
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/New_York
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome to Cabel Stream
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 172.67.179.15
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ CLOUDFLARENET
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 28 Ekim 2025 - 05:21
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ ⚠️ Yayın kontrolü başarısız: Bağlantı hatası
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://nextiptv.pro:8080/get.php?username=vg0XS0Pe&password=bEyCaEw&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://nextiptv.pro:8080/xmltv.php?username=vg0XS0Pe&password=bEyCaEw&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR | ULUSAL 💢 TR  | ULUSAL 4K 💢 TR | HEVC 💢 TR | BEIN SPORT 💢 TR | BEIN SPORT (VIP) 💢 TR | BEIN SPORT FEED 💢 TR | S-SPORT 💢 TR | TABii SPOR 💢 TR | EX-XEN SPORT 💢 TR | SPOR 💢 TR | TIVIBU SPORT 💢 TR | BELGESEL 💢 TR | BELGESEL 7/24 💢 TR | HABER 💢 TR | BOX OFFICE 💢 TR | beIN MEDIA SINEMA 💢 TR | D-SMART & TIVIBU SINEMA 💢 TR | SINEMA 7/24 💢 TR | YERLİ DIZI 7/24 💢 TR | YABANCI DIZI 7/24 💢 TR | CINE BOX 7/24 💢 TR | CINE BOXSET 7/24 💢 TR | CINE STARS 7/24 💢 TR | YESILCAM SINEMA 7/24 💢 TR | ANIMASYON SINEMA 💢 TR | MUZIK 💢 TR | COCUK 7/24 💢 TR | DINI 💢 TR | YEREL 💢 TR | QHD 💢 DE | STANDARD 💢 DE | REGIONAL 💢 DE | KIDS 💢 DE | DOKU 💢 DE | MUSIK 💢 DE | SKY 💢 DE | SKY SELECT 💢 DE | CINEMA 💢 DE | KINO 💢 DE | KINO BOX 💢 DE | KINO BOXSET 💢 DE | ACTOR KINO 💢 DE | 24/7 💢 DE | SPORT 💢 DE | SKY SPORT 💢 DE | DAZN 💢 DE | DAZN BUNDESLIGA 💢 DE | DAZN LALIGA 💢 DE | DAZN SERIE A 💢 DE | DAZN LIGUE 1 💢 DE | DAZN GROUP & CL 💢 DE | DAZN EVENT 💢 DE | SPORT EVENT 💢 DE | SPORT EUROPA 💢 DE | SPORT EUROPA DEL2 💢 DE | SPORT EUROPA CHL 💢 DE | SPORT EUROPA ICE 💢 DE | SPORT EUROPA PRO A 💢 DE | DYN SPORT 💢 DE | RTL+ SPORT EVENT 💢 DE | MAGENTA SPORT 💢 DE | QHD 💢 DE | HEVC 💢 DE | KABEL 💢 NL | STANDAARD 💢 NL | CULTUUR 💢 NL | KIDS 💢 NL | MOVIES 💢 NL | SPORT 💢 NL | VIAPLAY 💢 AT | STANDARD 💢 AT | PRIVATE 💢 AT | KIDS 💢 AT | CANAL+ 💢 AT | SPORT 💢 AT | SKY SPORT 💢 WS | WORLD SPORT 💢 WS | DAZN FIFA 💢 WS | UHD SPORT 💢 WS | DISNEY+ SPORT EVENT 💢 GR | DIGEA 💢 GR | NATIONAL 💢 GR | CYPERN 💢 GR | CINEMA 💢 GR | DOKU 💢 GR | LIFESTYLE-NEWS 💢 GR | FILM TOP STARS 💢 GR | SPORTS 💢 GR | KIDS 💢 GR | MUSIC 💢 GR | RAW 💢 EX-YU | BIH 💢 EX-YU | SRB 💢 EX-YU | HR 💢 EX-YU | DJECIJI 💢 EX-YU | DOKU 💢 EX-YU | FİLM 💢 EX-YU | CINEMA 💢 EX-YU | PİNK 💢 EX-YU | SPORT 💢 SL | SLOVENIA 💢 AL | GJENERAL 💢 AL | DOKUMENTAR 💢 AL | KIDS-FËMIJË 💢 AL | RAJONAL 💢 AL | ISLAM SHQIP 💢 AL | MUZIKA 💢 AL | LAJME TV 💢 AL | SPORT 💢 AL | HUMOR 💢 AL | FILM & SERIAL 💢 MK | MAKEDONIA 💢 CH | SWISS 💢 PL | OGOLNE 💢 PL | INFORMACYJNE 💢 PL | DZIECIECE 💢 PL | MUZYCZNE 💢 PL | PRZYRODZNICZE 💢 PL | ROZRYWKA 💢 PL | SERIALE 💢 PL | FILMOWE 💢 PL | SPORTOWE 💢 PL | CANAL+ SPORT 💢 BE| VLAANDEREN 💢 BE | WALONIE 💢 AZ | AZERBAIJAN 💢 SP | GENERAL 💢 SP | NOTICIAS 💢 SP | NINOS 💢 SP | DOCUMENTACION 💢 SP | ENTRETENIMIENTO 💢 SP | PELICULAS-SERIES 💢 SP | MUSICA 💢 SP | DEPORTES 💢 SP | DEPORTES DAZN 💢 SP | DEPORTES LALIGA 💢 SP | DEPORTES CAMPEONES 💢 SP | DEPORTES MOVISTAR 💢 BG | BULGARIA 💢 IT | PREDEFINITO 💢 IT | CINEMA 💢 IT | DOKU 💢 IT | KIDS 💢 IT | SPORT 💢 IT | SPORT CHAMPIONS LEAGUE 💢 IT | LIGA PORTUGAL BETCLIC LIGA 💢 IT | UEFA EUROPA CONFERENCE 💢 IT | UEFA EUROPA LEAGUE 💢 IT | LALIGA EA SPORTS 💢 IT | SERIE BKT 💢 IT | Serie A TIM 💢 IT | NFL GAME PASS 💢 IT | SPORT DISCOVERY 💢 FR | STANDARD 💢 FR | DOKU 💢 FR |  KIDS 💢 FR | CINEMA 💢 FR | SERIES 💢 FR | SPORT 💢 FR | SPORT DAZN 💢 FR | SPORT EVENT 💢 UK | GENERALLY 💢 UK | ENTERTAINMENT 💢 UK | MOVIE 💢 UK | SPORT 💢 UK | DOCU 💢 UK | KIDS 💢 UK | NEWS 💢 UK | MUSIC 💢 UK | RELIGIOUS 💢 RO | ROMANIA 💢 PT | PORTUGAL 💢 RU | СТАНДАРТ 💢 RU |  KIDS 💢 RU | CINEMA 💢 RU | DOKU 💢 RU |  SPORT 💢 RU |  MUSIC 💢 HU | HUNGARY 💢 KR | KURDISH 💢 CZ | CZECH REPUBLIC 💢 DENMARK 💢 NORWAY 💢 SWEDEN 💢 FINLAND 💢 KANADA 💢 US | USA ALL 💢 US | SPORT ( NBA NFL NHL MLB) 💢 US | SPORTS FOX 💢 US | SPORTS BALLY 💢 AR | SPORTS 💢 AR | PREMIUM 💢 AR | NEWS 💢 AR |  IRAQ 💢 AR | MYHD 💢 AR | AGYPTEN 💢 AR | LEBANON 💢 AR | TUNUSIA 💢 AR | LIBYA 💢 AR | AFGHANISTAN 💢 AR | MOROCCO 💢 AR | SYRIA 💢 AR | ISLAM 💢 PAKISTAN 💢 IRAN 💢 INDIA 💢 UKRAIN 💢 AFRICA 💢 ISRAIL 💢 KKTC| KIBRIS 💢 FOR ADULTS 💢 FOR ADULTS 24/7 ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://nextiptv.pro:80
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://nextiptv.pro:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 13 Şubat 2024 21:26
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 27 Şubat 2027 13:10
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ aliyurtEU
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ jqt1rMNq
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇸 United States
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/New_York
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome to Cabel Stream
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 172.67.179.15
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ CLOUDFLARENET
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 28 Ekim 2025 - 10:52
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ ⚠️ Yayın kontrolü başarısız: Bağlantı hatası
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://nextiptv.pro:80/get.php?username=aliyurtEU&password=jqt1rMNq&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://nextiptv.pro:80/xmltv.php?username=aliyurtEU&password=jqt1rMNq&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢IPTV MERKEZI Önemli Duyuru ! 💢 TR | ULUSAL 💢 TR  | ULUSAL 4K 💢 TR | HEVC 💢 TR | BEIN SPORT 💢 TR | BEIN SPORT (VIP) 💢 TR | BEIN SPORT FEED 💢 TR | S-SPORT 💢 TR | TABii SPOR 💢 TR | EX-XEN SPORT 💢 TR | SPOR 💢 TR | TIVIBU SPORT 💢 TR | BELGESEL 💢 TR | BELGESEL 7/24 💢 TR | HABER 💢 TR | ANIMASYON SINEMA 💢 TR | COCUK 7/24 💢 TR | YEREL 💢 TR | QHD 💢 DE | STANDARD 💢 DE | REGIONAL 💢 DE | DOKU 💢 DE | SKY 💢 DE | SPORT 💢 DE | SKY SPORT 💢 DE | DAZN 💢 DE | DAZN BUNDESLIGA 💢 DE | DAZN LALIGA 💢 DE | DAZN SERIE A 💢 DE | DAZN LIGUE 1 💢 DE | DAZN GROUP & CL 💢 DE | DAZN EVENT 💢 DE | SPORT EVENT 💢 DE | SPORT EUROPA 💢 DE | SPORT EUROPA DEL2 💢 DE | SPORT EUROPA CHL 💢 DE | SPORT EUROPA ICE 💢 DE | SPORT EUROPA PRO A 💢 DE | DYN SPORT 💢 DE | RTL+ SPORT EVENT 💢 DE | MAGENTA SPORT 💢 DE | QHD 💢 DE | HEVC 💢 DE | KABEL 💢 AT | SKY SPORT ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://nextiptv.pro:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://nextiptv.pro:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 27 Ağustos 2024 14:54
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 28 Ağustos 2026 20:11
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ tNrj476..yM
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ g2pSM4UhtT
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇸 United States
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/New_York
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome to Cabel Stream
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 104.21.43.120
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ CLOUDFLARENET
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 28 Ekim 2025 - 10:58
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ ⚠️ Yayın kontrolü başarısız: Bağlantı hatası
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://nextiptv.pro:8080/get.php?username=tNrj476..yM&password=g2pSM4UhtT&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://nextiptv.pro:8080/xmltv.php?username=tNrj476..yM&password=g2pSM4UhtT&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢SCREENSAVER 💢 TR | ULUSAL 💢 TR  | ULUSAL 4K 💢 TR | BEIN SPORT 💢 TR | BEIN SPORT (VIP) 💢 TR | BEIN SPORT FEED 💢 TR | S-SPORT 💢 TR | TABii SPOR 💢 TR | EX-XEN SPORT 💢 TR | SPOR 💢 TR | TIVIBU SPORT 💢 TR | BELGESEL 💢 TR | BELGESEL 7/24 💢 TR | HABER 💢 TR | BOX OFFICE 💢 TR | beIN MEDIA SINEMA 💢 TR | D-SMART & TIVIBU SINEMA 💢 TR | SINEMA 7/24 💢 TR | YERLİ DIZI 7/24 💢 TR | YABANCI DIZI 7/24 💢 TR | CINE BOX 7/24 💢 TR | CINE BOXSET 7/24 💢 TR | CINE STARS 7/24 💢 TR | YESILCAM SINEMA 7/24 💢 TR | ANIMASYON SINEMA 💢 TR | MUZIK 💢 TR | COCUK 7/24 💢 TR | DINI 💢 TR | YEREL 💢 TR | QHD 💢 DE | STANDARD 💢 DE | REGIONAL 💢 DE | KIDS 💢 DE | DOKU 💢 DE | MUSIK 💢 DE | SKY 💢 DE | SKY SELECT 💢 DE | CINEMA 💢 DE | KINO 💢 DE | KINO BOX 💢 DE | KINO BOXSET 💢 DE | ACTOR KINO 💢 DE | 24/7 💢 DE | SPORT 💢 DE | SKY SPORT 💢 DE | DAZN 💢 DE | DAZN BUNDESLIGA 💢 DE | DAZN LALIGA 💢 DE | DAZN SERIE A 💢 DE | DAZN LIGUE 1 💢 DE | DAZN GROUP & CL 💢 DE | DAZN EVENT 💢 DE | SPORT EVENT 💢 DE | SPORT EUROPA 💢 DE | SPORT EUROPA DEL2 💢 DE | SPORT EUROPA CHL 💢 DE | SPORT EUROPA ICE 💢 DE | SPORT EUROPA PRO A 💢 DE | DYN SPORT 💢 DE | RTL+ SPORT EVENT 💢 DE | MAGENTA SPORT 💢 DE | QHD 💢 DE | HEVC 💢 DE | KABEL 💢 NL | STANDAARD 💢 NL | CULTUUR 💢 NL | KIDS 💢 NL | MOVIES 💢 NL | SPORT 💢 NL | VIAPLAY 💢 AT | STANDARD 💢 AT | PRIVATE 💢 AT | KIDS 💢 AT | CANAL+ 💢 AT | SPORT 💢 AT | SKY SPORT 💢 WS | WORLD SPORT 💢 WS | DAZN FIFA 💢 WS | UHD SPORT 💢 WS | DISNEY+ SPORT EVENT 💢 GR | DIGEA 💢 GR | NATIONAL 💢 GR | CYPERN 💢 GR | CINEMA 💢 GR | DOKU 💢 GR | LIFESTYLE-NEWS 💢 GR | FILM TOP STARS 💢 GR | SPORTS 💢 GR | KIDS 💢 GR | MUSIC 💢 GR | RAW 💢 GR | RADIO 💢 EX-YU | BIH 💢 EX-YU | SRB 💢 EX-YU | HR 💢 EX-YU | DJECIJI 💢 EX-YU | DOKU 💢 EX-YU | FİLM 💢 EX-YU | CINEMA 💢 EX-YU | PİNK 💢 EX-YU | SPORT 💢 SL | SLOVENIA 💢 AL | GJENERAL 💢 AL | DOKUMENTAR 💢 AL | KIDS-FËMIJË 💢 AL | RAJONAL 💢 AL | ISLAM SHQIP 💢 AL | MUZIKA 💢 AL | LAJME TV 💢 AL | SPORT 💢 AL | HUMOR 💢 AL | FILM & SERIAL 💢 MK | MAKEDONIA 💢 CH | SWISS 💢 PL | OGOLNE 💢 PL | INFORMACYJNE 💢 PL | DZIECIECE 💢 PL | MUZYCZNE 💢 PL | PRZYRODZNICZE 💢 PL | ROZRYWKA 💢 PL | SERIALE 💢 PL | FILMOWE 💢 PL | SPORTOWE 💢 PL | CANAL+ SPORT 💢 BE| VLAANDEREN 💢 BE | WALONIE 💢 AZ | AZERBAIJAN 💢 SP | GENERAL 💢 SP | NOTICIAS 💢 SP | NINOS 💢 SP | DOCUMENTACION 💢 SP | ENTRETENIMIENTO 💢 SP | PELICULAS-SERIES 💢 SP | MUSICA 💢 SP | DEPORTES 💢 SP | DEPORTES DAZN 💢 SP | DEPORTES LALIGA 💢 SP | DEPORTES CAMPEONES 💢 SP | DEPORTES MOVISTAR 💢 BG | BULGARIA 💢 IT | PREDEFINITO 💢 IT | CINEMA 💢 IT | DOKU 💢 IT | KIDS 💢 IT | SPORT 💢 IT | SPORT CHAMPIONS LEAGUE 💢 IT | LIGA PORTUGAL BETCLIC LIGA 💢 IT | UEFA EUROPA CONFERENCE 💢 IT | UEFA EUROPA LEAGUE 💢 IT | LALIGA EA SPORTS 💢 IT | SERIE BKT 💢 IT | Serie A TIM 💢 IT | NFL GAME PASS 💢 IT | SPORT DISCOVERY 💢 FR | STANDARD 💢 FR | DOKU 💢 FR |  KIDS 💢 FR | CINEMA 💢 FR | SERIES 💢 FR | SPORT 💢 FR | SPORT DAZN 💢 FR | SPORT EVENT 💢 UK | GENERALLY 💢 UK | ENTERTAINMENT 💢 UK | MOVIE 💢 UK | SPORT 💢 UK | DOCU 💢 UK | KIDS 💢 UK | NEWS 💢 UK | MUSIC 💢 UK | RELIGIOUS 💢 RO | ROMANIA 💢 PT | PORTUGAL 💢 RU | СТАНДАРТ 💢 RU |  KIDS 💢 RU | CINEMA 💢 RU | DOKU 💢 RU |  SPORT 💢 RU |  MUSIC 💢 HU | HUNGARY 💢 KR | KURDISH 💢 CZ | CZECH REPUBLIC 💢 DENMARK 💢 NORWAY 💢 SWEDEN 💢 FINLAND 💢 KANADA 💢 US | USA ALL 💢 US | SPORT ( NBA NFL NHL MLB) 💢 US | SPORTS FOX 💢 US | SPORTS BALLY 💢 AR | SPORTS 💢 AR | PREMIUM 💢 AR | NEWS 💢 AR |  IRAQ 💢 AR | MYHD 💢 AR | AGYPTEN 💢 AR | LEBANON 💢 AR | TUNUSIA 💢 AR | LIBYA 💢 AR | AFGHANISTAN 💢 AR | MOROCCO 💢 AR | SYRIA 💢 AR | ISLAM 💢 PAKISTAN 💢 IRAN 💢 INDIA 💢 UKRAIN 💢 AFRICA 💢 ISRAIL 💢 KKTC| KIBRIS ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://nextiptv.pro:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://nextiptv.pro:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 07 Eylül 2024 01:49
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 11 Eylül 2026 22:24
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ SüleymanEmmi
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ n997gAu7fp
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇸 United States
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/New_York
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome to Cabel Stream
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 172.67.179.15
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ CLOUDFLARENET
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 28 Ekim 2025 - 11:02
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ ⚠️ Yayın kontrolü başarısız: Bağlantı hatası
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://nextiptv.pro:8080/get.php?username=SüleymanEmmi&password=n997gAu7fp&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://nextiptv.pro:8080/xmltv.php?username=SüleymanEmmi&password=n997gAu7fp&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR | ULUSAL 💢 TR  | ULUSAL 4K 💢 TR | HEVC 💢 TR | BEIN SPORT 💢 TR | BEIN SPORT (VIP) 💢 TR | BEIN SPORT FEED 💢 TR | S-SPORT 💢 TR | TABii SPOR 💢 TR | EX-XEN SPORT 💢 TR | SPOR 💢 TR | TIVIBU SPORT 💢 TR | BELGESEL 💢 TR | BELGESEL 7/24 💢 TR | HABER 💢 TR | BOX OFFICE 💢 TR | beIN MEDIA SINEMA 💢 TR | D-SMART & TIVIBU SINEMA 💢 TR | SINEMA 7/24 💢 TR | YERLİ DIZI 7/24 💢 TR | YABANCI DIZI 7/24 💢 TR | CINE BOX 7/24 💢 TR | CINE BOXSET 7/24 💢 TR | CINE STARS 7/24 💢 TR | YESILCAM SINEMA 7/24 💢 TR | ANIMASYON SINEMA 💢 TR | MUZIK 💢 TR | COCUK 7/24 💢 TR | DINI 💢 TR | YEREL 💢 TR | QHD 💢 DE | STANDARD 💢 DE | REGIONAL 💢 DE | KIDS 💢 DE | DOKU 💢 DE | MUSIK 💢 DE | SKY 💢 DE | SKY SELECT 💢 DE | CINEMA 💢 DE | KINO 💢 DE | KINO BOX 💢 DE | KINO BOXSET 💢 DE | ACTOR KINO 💢 DE | SPORT 💢 DE | SKY SPORT 💢 DE | DAZN 💢 DE | DAZN BUNDESLIGA 💢 DE | DAZN LALIGA 💢 DE | DAZN SERIE A 💢 DE | DAZN LIGUE 1 💢 DE | DAZN GROUP & CL 💢 DE | DAZN EVENT 💢 DE | SPORT EVENT 💢 DE | SPORT EUROPA 💢 DE | SPORT EUROPA DEL2 💢 DE | SPORT EUROPA CHL 💢 DE | SPORT EUROPA ICE 💢 DE | SPORT EUROPA PRO A 💢 DE | DYN SPORT 💢 DE | RTL+ SPORT EVENT 💢 DE | MAGENTA SPORT 💢 DE | QHD 💢 DE | HEVC 💢 DE | KABEL 💢 AT | SKY SPORT 💢 WS | WORLD SPORT 💢 WS | DAZN FIFA 💢 WS | UHD SPORT 💢 WS | DISNEY+ SPORT EVENT 💢 RO | ROMANIA 💢 KKTC| KIBRIS 💢 FOR ADULTS 💢 FOR ADULTS 24/7 ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://nextiptv.pro:80
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://nextiptv.pro:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 19 Şubat 2024 13:49
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 19 Şubat 2027 13:49
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ adnanfiratTR
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ bs45A7bC
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇸 United States
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/New_York
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome to Cabel Stream
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 104.21.43.120
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ CLOUDFLARENET
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 28 Ekim 2025 - 12:42
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ ⚠️ Yayın kontrolü başarısız: Bağlantı hatası
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://nextiptv.pro:80/get.php?username=adnanfiratTR&password=bs45A7bC&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://nextiptv.pro:80/xmltv.php?username=adnanfiratTR&password=bs45A7bC&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢IPTV MERKEZI Önemli Duyuru ! 💢 TR | ULUSAL 💢 TR  | ULUSAL 4K 💢 TR | HEVC 💢 TR | BEIN SPORT 💢 TR | BEIN SPORT (VIP) 💢 TR | BEIN SPORT FEED 💢 TR | S-SPORT 💢 TR | TABii SPOR 💢 TR | EX-XEN SPORT 💢 TR | SPOR 💢 TR | TIVIBU SPORT 💢 TR | BELGESEL 💢 TR | BELGESEL 7/24 💢 TR | HABER 💢 TR | BOX OFFICE 💢 TR | beIN MEDIA SINEMA 💢 TR | D-SMART & TIVIBU SINEMA 💢 TR | SINEMA 7/24 💢 TR | YERLİ DIZI 7/24 💢 TR | YABANCI DIZI 7/24 💢 TR | CINE BOX 7/24 💢 TR | CINE BOXSET 7/24 💢 TR | CINE STARS 7/24 💢 TR | YESILCAM SINEMA 7/24 💢 TR | ANIMASYON SINEMA 💢 TR | MUZIK 💢 TR | COCUK 7/24 💢 TR | DINI 💢 TR | YEREL 💢 TR | QHD 💢 DE | STANDARD 💢 DE | REGIONAL 💢 DE | KIDS 💢 DE | DOKU 💢 DE | MUSIK 💢 DE | SKY 💢 DE | SKY SELECT 💢 DE | CINEMA 💢 DE | KINO 💢 DE | KINO BOX 💢 DE | KINO BOXSET 💢 DE | ACTOR KINO 💢 DE | 24/7 💢 DE | SPORT 💢 DE | SKY SPORT 💢 DE | DAZN 💢 DE | DAZN BUNDESLIGA 💢 DE | DAZN LALIGA 💢 DE | DAZN SERIE A 💢 DE | DAZN LIGUE 1 💢 DE | DAZN GROUP & CL 💢 DE | DAZN EVENT 💢 DE | SPORT EVENT 💢 DE | SPORT EUROPA 💢 DE | SPORT EUROPA DEL2 💢 DE | SPORT EUROPA CHL 💢 DE | SPORT EUROPA ICE 💢 DE | SPORT EUROPA PRO A 💢 DE | DYN SPORT 💢 DE | RTL+ SPORT EVENT 💢 DE | MAGENTA SPORT 💢 DE | QHD 💢 DE | HEVC 💢 DE | KABEL 💢 NL | STANDAARD 💢 NL | CULTUUR 💢 NL | KIDS 💢 NL | MOVIES 💢 NL | SPORT 💢 NL | VIAPLAY 💢 AT | STANDARD 💢 AT | PRIVATE 💢 AT | KIDS 💢 AT | CANAL+ 💢 AT | SPORT 💢 AT | SKY SPORT 💢 WS | WORLD SPORT 💢 WS | DAZN FIFA 💢 WS | UHD SPORT 💢 WS | DISNEY+ SPORT EVENT 💢 GR | DIGEA 💢 GR | NATIONAL 💢 GR | CYPERN 💢 GR | CINEMA 💢 GR | DOKU 💢 GR | LIFESTYLE-NEWS 💢 GR | FILM TOP STARS 💢 GR | SPORTS 💢 GR | KIDS 💢 GR | MUSIC 💢 GR | RAW 💢 EX-YU | BIH 💢 EX-YU | SRB 💢 EX-YU | HR 💢 EX-YU | DJECIJI 💢 EX-YU | DOKU 💢 EX-YU | FİLM 💢 EX-YU | CINEMA 💢 EX-YU | PİNK 💢 EX-YU | SPORT 💢 SL | SLOVENIA 💢 AL | GJENERAL 💢 AL | DOKUMENTAR 💢 AL | KIDS-FËMIJË 💢 AL | RAJONAL 💢 AL | ISLAM SHQIP 💢 AL | MUZIKA 💢 AL | LAJME TV 💢 AL | SPORT 💢 AL | HUMOR 💢 AL | FILM & SERIAL 💢 MK | MAKEDONIA 💢 CH | SWISS 💢 PL | OGOLNE 💢 PL | INFORMACYJNE 💢 PL | DZIECIECE 💢 PL | MUZYCZNE 💢 PL | PRZYRODZNICZE 💢 PL | ROZRYWKA 💢 PL | SERIALE 💢 PL | FILMOWE 💢 PL | SPORTOWE 💢 PL | CANAL+ SPORT 💢 BE| VLAANDEREN 💢 BE | WALONIE 💢 AZ | AZERBAIJAN 💢 SP | GENERAL 💢 SP | NOTICIAS 💢 SP | NINOS 💢 SP | DOCUMENTACION 💢 SP | ENTRETENIMIENTO 💢 SP | PELICULAS-SERIES 💢 SP | MUSICA 💢 SP | DEPORTES 💢 SP | DEPORTES DAZN 💢 SP | DEPORTES LALIGA 💢 SP | DEPORTES CAMPEONES 💢 SP | DEPORTES MOVISTAR 💢 BG | BULGARIA 💢 IT | PREDEFINITO 💢 IT | CINEMA 💢 IT | DOKU 💢 IT | KIDS 💢 IT | SPORT 💢 IT | SPORT CHAMPIONS LEAGUE 💢 IT | LIGA PORTUGAL BETCLIC LIGA 💢 IT | UEFA EUROPA CONFERENCE 💢 IT | UEFA EUROPA LEAGUE 💢 IT | LALIGA EA SPORTS 💢 IT | SERIE BKT 💢 IT | Serie A TIM 💢 IT | NFL GAME PASS 💢 IT | SPORT DISCOVERY 💢 FR | STANDARD 💢 FR | DOKU 💢 FR |  KIDS 💢 FR | CINEMA 💢 FR | SERIES 💢 FR | SPORT 💢 FR | SPORT DAZN 💢 FR | SPORT EVENT 💢 UK | GENERALLY 💢 UK | ENTERTAINMENT 💢 UK | MOVIE 💢 UK | SPORT 💢 UK | DOCU 💢 UK | KIDS 💢 UK | NEWS 💢 UK | MUSIC 💢 UK | RELIGIOUS 💢 RO | ROMANIA 💢 PT | PORTUGAL 💢 RU | СТАНДАРТ 💢 RU |  KIDS 💢 RU | CINEMA 💢 RU | DOKU 💢 RU |  SPORT 💢 RU |  MUSIC 💢 HU | HUNGARY 💢 KR | KURDISH 💢 CZ | CZECH REPUBLIC 💢 DENMARK 💢 NORWAY 💢 SWEDEN 💢 FINLAND 💢 KANADA 💢 US | USA ALL 💢 US | SPORT ( NBA NFL NHL MLB) 💢 US | SPORTS FOX 💢 US | SPORTS BALLY 💢 AR | SPORTS 💢 AR | PREMIUM 💢 AR | NEWS 💢 AR |  IRAQ 💢 AR | MYHD 💢 AR | AGYPTEN 💢 AR | LEBANON 💢 AR | TUNUSIA 💢 AR | LIBYA 💢 AR | AFGHANISTAN 💢 AR | MOROCCO 💢 AR | SYRIA 💢 AR | ISLAM 💢 PAKISTAN 💢 IRAN 💢 INDIA 💢 UKRAIN 💢 AFRICA 💢 ISRAIL ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://nextiptv.pro:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://nextiptv.pro:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 15 Temmuz 2023 08:43
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 16 Temmuz 2026 20:21
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ Kd2551
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ ytUJU5nBt9
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇸 United States
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/New_York
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome to Cabel Stream
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 104.21.43.120
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ CLOUDFLARENET
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 28 Ekim 2025 - 12:50
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ ⚠️ Yayın kontrolü başarısız: Bağlantı hatası
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://nextiptv.pro:8080/get.php?username=Kd2551&password=ytUJU5nBt9&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://nextiptv.pro:8080/xmltv.php?username=Kd2551&password=ytUJU5nBt9&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢DE | STANDARD 💢 DE | REGIONAL 💢 DE | KIDS 💢 DE | DOKU 💢 DE | MUSIK 💢 DE | SKY 💢 DE | SKY SELECT 💢 DE | CINEMA 💢 DE | KINO 💢 DE | KINO BOX 💢 DE | KINO BOXSET 💢 DE | ACTOR KINO 💢 DE | 24/7 💢 DE | SPORT 💢 DE | SKY SPORT 💢 DE | DAZN 💢 DE | DAZN BUNDESLIGA 💢 DE | DAZN LALIGA 💢 DE | DAZN SERIE A 💢 DE | DAZN LIGUE 1 💢 DE | DAZN GROUP & CL 💢 DE | DAZN EVENT 💢 DE | SPORT EVENT 💢 DE | SPORT EUROPA 💢 DE | SPORT EUROPA DEL2 💢 DE | SPORT EUROPA CHL 💢 DE | SPORT EUROPA ICE 💢 DE | SPORT EUROPA PRO A 💢 DE | DYN SPORT 💢 DE | RTL+ SPORT EVENT 💢 DE | MAGENTA SPORT 💢 DE | QHD 💢 DE | HEVC 💢 DE | KABEL 💢 AT | STANDARD 💢 AT | PRIVATE 💢 AT | KIDS 💢 AT | CANAL+ 💢 AT | SPORT 💢 AT | SKY SPORT 💢 WS | WORLD SPORT 💢 WS | DAZN FIFA 💢 WS | UHD SPORT 💢 WS | DISNEY+ SPORT EVENT 💢 CH | SWISS 💢 SP | GENERAL 💢 SP | NOTICIAS 💢 SP | NINOS 💢 SP | DOCUMENTACION 💢 SP | ENTRETENIMIENTO 💢 SP | PELICULAS-SERIES 💢 SP | MUSICA 💢 SP | DEPORTES 💢 SP | DEPORTES DAZN 💢 SP | DEPORTES LALIGA 💢 SP | DEPORTES CAMPEONES 💢 SP | DEPORTES MOVISTAR 💢 UK | GENERALLY 💢 UK | ENTERTAINMENT 💢 UK | MOVIE 💢 UK | SPORT 💢 UK | DOCU 💢 UK | KIDS 💢 UK | NEWS 💢 UK | MUSIC 💢 UK | RELIGIOUS 💢 PT | PORTUGAL 💢 KANADA 💢 US | USA ALL 💢 US | SPORT ( NBA NFL NHL MLB) 💢 US | SPORTS FOX 💢 US | SPORTS BALLY ✷✷ 📺
+
+========================================

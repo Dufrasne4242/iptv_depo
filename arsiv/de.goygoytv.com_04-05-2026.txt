@@ -1,0 +1,33 @@
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://de.goygoytv.com:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://de.goygoytv.com:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 18 Aralık 2023 23:32
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 02 Temmuz 2026 23:30
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ ac4d82447ddaa3ac
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ cb7aca
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇵🇱 Poland
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Warsaw
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ API Message
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 57.128.211.97
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 04 Mayıs 2026 - 12:42
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 4853 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 19845 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 6021 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://de.goygoytv.com:8080/get.php?username=ac4d82447ddaa3ac&password=cb7aca&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://de.goygoytv.com:8080/xmltv.php?username=ac4d82447ddaa3ac&password=cb7aca&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR: ULUSAL 💢 TR: HEVC 💢 TR: HABER 💢 TR: SPOR 💢 TR: BEIN SPOR 💢 TR: D-SMART SPOR 💢 TR: EXXEN SPOR 💢 TR: S SPORT 💢 TR: TABII SPOR 💢 TR: TIVIBU SPOR 💢 TR: BLU CINEMA PAKETI 💢 TR: SINEMA TV 💢 TR: BEIN & TOD SINEMA TV 💢 TR: D-SMART SINEMA TV 💢 TR: TIVIBU SINEMA TV 💢 TR: YEŞİLÇAM SINEMA TV 💢 TR: 24/7 YERLİ DİZİ 💢 TR: 24/7 DUBLAJ BOXSET 💢 TR: 24/7 YERLİ FİLM 💢 TR: BELGESEL 💢 TR: YEREL 💢 TR: ÇOCUK 💢 TR: DİNİ 💢 TR: MÜZİK 💢 TR: RADYO 💢 TR: TALKSHOW 7/24 💢 DE: ALLGEMEiN & PRiVAT 💢 DE: PAY TV/CiNEMA 💢 DE: SERIEN/CRIME TV 💢 DE: FILME 24/7 💢 DE: VOD SCHAUSPiELER 💢 DE: ACTION/KRIMI SERIEN TV 💢 DE: COMEDY SERIEN TV 💢 DE: DRAMA/FAMILIE TV 💢 DE: SYFY/THRILLER TV 💢 DE: WESTERN /FILME TV 💢 DE: DOKU/REALITY/SERIEN TV 💢 DE: ANIMATION SERIENTV 💢 DE: KINDER SERIEN TV 💢 DE: HEVC 💢 DE: DOKUMENTAR TV 💢 DE: NACHRICHTEN TV 💢 DE: MUSIK TV 💢 DE: KINDER 💢 DE: REGIONAL 💢 DE: SKY BUNDESLIGA 💢 DE: SKY SPORT 💢 DE: SPORT ALLGEMEIN 💢 DE: DAZN 💢 DE: SKY SPORT F1 💢 DE: SKY SPORT AUSTRIA 💢 DE: SPORTDEUTSCHLAND TV 💢 DE: MAGENTA TV 💢 DE: DYN SPORT 💢 DE: RTL+ SPORT 💢 DE: AMAZON SPORT 💢 DE: WIMBLEDON TV 💢 DE: UFC EVENTS 💢 DE: NBA EVENTS 💢 DE: NETFLiX 7/24 💢 AT: AUSTRIA 💢 CH: SWITZERLAND 💢 DE: BLUE SPORTS 💢 DE: SD HANDBALL 💢 DE: SD BASKET 💢 DE: SD FREE 💢 DE: SD EFL 💢 DE: SD EISHOCKEY WM 💢 DE: SD GFL 💢 DE: SD CHL 💢 DE: SD DEL 2 💢 NL: NEDERLAND 💢 NL: FILMS 💢 NL: ZIGGO SPORTS 💢 NL: VIAPLAY SPORTS 💢 NL: DISCOVERY+SPORTS 💢 NL: SPORTS 💢 NL: DOCUMENTAIRE 💢 NL: KINDEREN 💢 FR: GENERAL FHD 💢 FR: GENERAL SD 💢 FR: NEWS FHD 💢 FR: NEWS SD 💢 FR: DIVERTISSEMENT HD 💢 FR: CINEMA HD 💢 FR: CINEMA EN DEMANDE 💢 FR: DOCUMENTAIRES FHD 💢 FR: ENFANTS HD 💢 FR: MUSIC HD 💢 FR: SPORTS FHD 💢 FR: MULTISPORTS HD 💢 FR: EUROSPORT 360 HD 💢 ES: SPAIN 💢 ES: SPORT 💢 PL: GENERAL 💢 PL: SPORTS 💢 PL: CINEMA 💢 PL: DOCUMENTARY 💢 PL: NEWS 💢 PL: KIDS 💢 PL: MUSIC 💢 GR: GREECE 💢 AL: ALBANIA 💢 AL: SPORTS 💢 AL: KIDS 💢 AL: ENTERTAINMENT 💢 AL: MOVIES 💢 AL: DOCUMENTARY 💢 AL: NEWS 💢 AL: MUSIC 💢 SR: SERBIA 💢 BO: BOSNIA 💢 MK: MACEDONIA ✷✷ 📺
+
+========================================

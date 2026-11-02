@@ -1,0 +1,561 @@
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://piraci.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://piraci.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 22 Eylül 2022 15:49
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 01 Kasım 2026 09:52
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ FWNUdkQX6n
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ UhkWnAic2j
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 01 Eylül 2026 - 00:32
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 6969 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 25779 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 264 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://piraci.gentv.to:8080/get.php?username=FWNUdkQX6n&password=UhkWnAic2j&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://piraci.gentv.to:8080/xmltv.php?username=FWNUdkQX6n&password=UhkWnAic2j&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Africa VIP 💢 Albania 💢 Albania Sport 💢 BOSNA-Bosnia 💢 Bulgaria 💢 ex-Yu 💢 For Adults 💢 France 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Iceland 💢 Italia 💢 Latin America 💢 Poland 💢 Spain 💢 Srbija-Serbia 💢 Switzerland 💢 Thailand 💢 Turkey 💢 UHD 4K 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 Fifa World Cup 2026 💢 World Cricket VIP ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://piraci.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://piraci.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 13 Kasım 2023 16:20
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 14 Kasım 2026 22:11
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ eliseunascimento
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ DJEazcFPRC
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 01 Eylül 2026 - 00:33
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2897 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 21511 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://piraci.gentv.to:8080/get.php?username=eliseunascimento&password=DJEazcFPRC&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://piraci.gentv.to:8080/xmltv.php?username=eliseunascimento&password=DJEazcFPRC&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Brazil 💢 For Adults 💢 France 💢 France HEVC 💢 Italia 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Spain ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://piraci.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://piraci.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 01 Mart 2024 09:38
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 05 Mart 2027 13:56
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ TE2hY8zZUd
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ eAsT2dNqGx
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ Sunucu IP Bulunamadı
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Sunucu Adı Bulunamadı
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 01 Eylül 2026 - 02:36
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8362 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 35452 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://piraci.gentv.to:8080/get.php?username=TE2hY8zZUd&password=eAsT2dNqGx&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://piraci.gentv.to:8080/xmltv.php?username=TE2hY8zZUd&password=eAsT2dNqGx&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Belgium 💢 Brazil 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Italia 💢 Latin America 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Spain 💢 Switzerland 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 Fifa World Cup 2026 💢 World Cricket VIP ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://piraci.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://piraci.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 13 Ocak 2023 16:03
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 13 Ekim 2026 15:03
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ tiagoframos95
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ a7te283ujz
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ Sunucu IP Bulunamadı
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Sunucu Adı Bulunamadı
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 01 Eylül 2026 - 02:55
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 904 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://piraci.gentv.to:8080/get.php?username=tiagoframos95&password=a7te283ujz&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://piraci.gentv.to:8080/xmltv.php?username=tiagoframos95&password=a7te283ujz&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://piraci.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://piraci.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 08 Ekim 2020 20:38
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 25 Ocak 2027 18:44
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ UWvFt3kR6c
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ iebMY2YOfD
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ Sunucu IP Bulunamadı
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Sunucu Adı Bulunamadı
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 01 Eylül 2026 - 03:18
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 4986 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 7273 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://piraci.gentv.to:8080/get.php?username=UWvFt3kR6c&password=iebMY2YOfD&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://piraci.gentv.to:8080/xmltv.php?username=UWvFt3kR6c&password=iebMY2YOfD&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢France 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Norway 💢 Switzerland 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 Fifa World Cup 2026 💢 World Cricket VIP ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://piraci.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://piraci.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 21 Ocak 2023 14:16
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 29 Ocak 2027 14:16
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ uaeL62ZY4x
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ Lj5UfZuNsM
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 01 Eylül 2026 - 03:44
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 4849 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://piraci.gentv.to:8080/get.php?username=uaeL62ZY4x&password=Lj5UfZuNsM&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://piraci.gentv.to:8080/xmltv.php?username=uaeL62ZY4x&password=Lj5UfZuNsM&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Austria 💢 For Adults 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Switzerland 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 Fifa World Cup 2026 💢 World Cricket VIP ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://piraci.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://piraci.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 20 Aralık 2022 21:34
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 28 Aralık 2026 21:34
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ fernandoteixeira
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 9cNnYV85df
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 01 Eylül 2026 - 04:26
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 4179 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 21757 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://piraci.gentv.to:8080/get.php?username=fernandoteixeira&password=9cNnYV85df&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://piraci.gentv.to:8080/xmltv.php?username=fernandoteixeira&password=9cNnYV85df&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Brazil 💢 For Adults 💢 France 💢 Germany 💢 24-7 Germany 💢 Italia 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Spain 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 Fifa World Cup 2026 💢 World Cricket VIP ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://piraci.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://piraci.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 02 Ocak 2021 17:40
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 13 Nisan 2027 21:24
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ diogo6143
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ oSFPRG3uQ6
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 01 Eylül 2026 - 05:06
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 15972 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 64920 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 440 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://piraci.gentv.to:8080/get.php?username=diogo6143&password=oSFPRG3uQ6&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://piraci.gentv.to:8080/xmltv.php?username=diogo6143&password=oSFPRG3uQ6&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Arab Countries VIP 💢 Afghanistan 💢 Africa 💢 Africa VIP 💢 Africa Canal+ 💢 Albania 💢 Albania Sport 💢 Arab Countries 💢 ARB Algeria 💢 ARB Bahrain 💢 ARB Egypt 💢 ARB Libya 💢 ARB Syria 💢 ARB Lebanon 💢 ARB Palestine 💢 ARB Rotana 💢 ARB Morocco 💢 ARB Jordan 💢 ARB Kuwait 💢 ARB UAE 💢 ARB Iraq 💢 ARB Tunisia 💢 ARB Saudi Arabia 💢 ARB Islam 💢 ARB News 💢 ARB MBC 💢 ARB Kids 💢 Armenia 💢 Australia 💢 Austria 💢 Azerbaijan 💢 Belgium 💢 BOSNA-Bosnia 💢 Brazil 💢 Bulgaria 💢 Canada 💢 China 💢 Crna Gora-Monte Negro 💢 Czech Republic 💢 Denmark 💢 Denmark VIP 💢 24-7 Denmark 💢 Estonia 💢 ex-Yu 💢 ex-Yu VIP 💢 Finland 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Hungary 💢 India 💢 India VIP 💢 Indonesia 💢 Iran 💢 Israel 💢 Italia 💢 Japan 💢 Korea 💢 Kurdish 💢 Latin America 💢 Lithuania 💢 Macedonia 💢 Malaysia 💢 Malta 💢 Netherlands 💢 Norway 💢 Norway VIP 💢 Pakistan 💢 Philippines 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Romania 💢 Russian 💢 Scandinavian 💢 Singapore 💢 Slovenia 💢 Spain 💢 Srbija-Serbia 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 Thailand 💢 Turkey 💢 UHD 4K 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 Viet Nam 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 Fifa World Cup 2026 💢 World Cricket VIP ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://piraci.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://piraci.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 23 Haziran 2022 12:10
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 05 Eylül 2026 00:27
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ EllevinkonaHebba
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ KTyr45R1WE
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ Sunucu IP Bulunamadı
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Sunucu Adı Bulunamadı
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 01 Eylül 2026 - 06:37
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 4291 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 19574 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 98 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://piraci.gentv.to:8080/get.php?username=EllevinkonaHebba&password=KTyr45R1WE&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://piraci.gentv.to:8080/xmltv.php?username=EllevinkonaHebba&password=KTyr45R1WE&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Denmark 💢 Denmark VIP 💢 Denmark Radio 💢 24-7 Denmark 💢 For Adults 💢 France 💢 Iceland 💢 Norway 💢 Norway VIP 💢 Spain 💢 Sweden 💢 Sweden VIP 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 Fifa World Cup 2026 💢 World Cricket VIP ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://piraci.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://piraci.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 03 Aralık 2023 17:03
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 05 Aralık 2026 19:53
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ sNxr98udmX
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ YUlP5xBH1a
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 2
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ Sunucu IP Bulunamadı
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Sunucu Adı Bulunamadı
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 01 Eylül 2026 - 06:39
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 3041 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 15257 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://piraci.gentv.to:8080/get.php?username=sNxr98udmX&password=YUlP5xBH1a&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://piraci.gentv.to:8080/xmltv.php?username=sNxr98udmX&password=YUlP5xBH1a&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢For Adults 💢 Poland 💢 Scandinavian 💢 Spain 💢 Sweden 💢 Sweden VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 Fifa World Cup 2026 💢 World Cricket VIP ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://piraci.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://piraci.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 24 Ağustos 2022 13:53
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 01 Kasım 2026 13:53
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ GRtBludbA4
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 3PjKfnitv5
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 01 Eylül 2026 - 06:42
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 1297 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 9844 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://piraci.gentv.to:8080/get.php?username=GRtBludbA4&password=3PjKfnitv5&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://piraci.gentv.to:8080/xmltv.php?username=GRtBludbA4&password=3PjKfnitv5&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Poland ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://piraci.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://piraci.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 07 Nisan 2022 20:12
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 17 Ekim 2026 19:50
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ FlorentAbdiu
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 4Ifvi5EKa8
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 01 Eylül 2026 - 06:48
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 14954 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 8352 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 162 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://piraci.gentv.to:8080/get.php?username=FlorentAbdiu&password=4Ifvi5EKa8&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://piraci.gentv.to:8080/xmltv.php?username=FlorentAbdiu&password=4Ifvi5EKa8&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Arab Countries VIP 💢 Albania 💢 Albania Sport 💢 Arab Countries 💢 beIN - Qatar ARB 💢 OSN - Qatar ARB 💢 ARB Algeria 💢 ARB Bahrain 💢 ARB Egypt 💢 ARB Libya 💢 ARB Syria 💢 ARB Lebanon 💢 ARB Palestine 💢 ARB Rotana 💢 ARB Morocco 💢 ARB Jordan 💢 ARB Kuwait 💢 ARB UAE 💢 ARB Iraq 💢 ARB Tunisia 💢 ARB Saudi Arabia 💢 ARB Islam 💢 ARB News 💢 ARB MBC 💢 ARB Kids 💢 Armenia 💢 Australia 💢 Austria 💢 Azerbaijan 💢 Belgium 💢 BOSNA-Bosnia 💢 Brazil 💢 Bulgaria 💢 Canada 💢 China 💢 Crna Gora-Monte Negro 💢 Czech Republic 💢 Denmark 💢 Denmark VIP 💢 Denmark Radio 💢 24-7 Denmark 💢 Estonia 💢 ex-Yu 💢 ex-Yu VIP 💢 Finland 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Hungary 💢 India 💢 India VIP 💢 Italia 💢 Kurdish 💢 Latin America 💢 Macedonia 💢 Netherlands 💢 Norway 💢 Norway VIP 💢 Pakistan 💢 Philippines 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Romania 💢 Russian 💢 Singapore 💢 Slovenia 💢 Spain 💢 Srbija-Serbia 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 Turkey 💢 Ukraine 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 Fifa World Cup 2026 💢 World Cricket VIP ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://piraci.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://piraci.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 01 Aralık 2022 21:16
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 15 Ocak 2027 19:16
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ uFAxIYB9TN
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 8NJBZcEA1d
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 01 Eylül 2026 - 07:09
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 16905 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 64920 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 440 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://piraci.gentv.to:8080/get.php?username=uFAxIYB9TN&password=8NJBZcEA1d&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://piraci.gentv.to:8080/xmltv.php?username=uFAxIYB9TN&password=8NJBZcEA1d&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Arab Countries VIP 💢 Afghanistan 💢 Africa 💢 Africa VIP 💢 Africa Canal+ 💢 Albania 💢 Albania Sport 💢 Arab Countries 💢 beIN - Qatar ARB 💢 OSN - Qatar ARB 💢 ARB Algeria 💢 ARB Bahrain 💢 ARB Egypt 💢 ARB Libya 💢 ARB Syria 💢 ARB Lebanon 💢 ARB Palestine 💢 ARB Rotana 💢 ARB Morocco 💢 ARB Jordan 💢 ARB Kuwait 💢 ARB UAE 💢 ARB Iraq 💢 ARB Tunisia 💢 ARB Saudi Arabia 💢 ARB Islam 💢 ARB News 💢 ARB MBC 💢 ARB Kids 💢 Armenia 💢 Australia 💢 Austria 💢 Azerbaijan 💢 Belgium 💢 BOSNA-Bosnia 💢 Brazil 💢 Bulgaria 💢 Canada 💢 China 💢 Crna Gora-Monte Negro 💢 Czech Republic 💢 Denmark 💢 Denmark VIP 💢 Denmark Radio 💢 24-7 Denmark 💢 Estonia 💢 ex-Yu 💢 ex-Yu VIP 💢 Finland 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Hungary 💢 Iceland 💢 India 💢 India VIP 💢 Indonesia 💢 Iran 💢 Israel 💢 Italia 💢 Japan 💢 Korea 💢 Kurdish 💢 Latin America 💢 Lithuania 💢 Macedonia 💢 Malaysia 💢 Malta 💢 Nepal 💢 Netherlands 💢 Norway 💢 Norway VIP 💢 Pakistan 💢 Philippines 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Romania 💢 Russian 💢 Scandinavian 💢 Singapore 💢 Slovenia 💢 Spain 💢 Srbija-Serbia 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 Thailand 💢 Turkey 💢 UHD 4K 💢 Ukraine 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 Viet Nam 💢 VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 Fifa World Cup 2026 💢 World Cricket VIP ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://piraci.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://piraci.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 08 Ağustos 2025 16:57
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 25 Ağustos 2027 18:23
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ T3cZfU4qSy
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ fiMxVTYUbQ
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ Sunucu IP Bulunamadı
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Sunucu Adı Bulunamadı
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 01 Eylül 2026 - 07:10
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 16905 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 64920 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 495 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://piraci.gentv.to:8080/get.php?username=T3cZfU4qSy&password=fiMxVTYUbQ&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://piraci.gentv.to:8080/xmltv.php?username=T3cZfU4qSy&password=fiMxVTYUbQ&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Arab Countries VIP 💢 Afghanistan 💢 Africa 💢 Africa VIP 💢 Africa Canal+ 💢 Albania 💢 Albania Sport 💢 Arab Countries 💢 beIN - Qatar ARB 💢 OSN - Qatar ARB 💢 ARB Algeria 💢 ARB Bahrain 💢 ARB Egypt 💢 ARB Libya 💢 ARB Syria 💢 ARB Lebanon 💢 ARB Palestine 💢 ARB Rotana 💢 ARB Morocco 💢 ARB Jordan 💢 ARB Kuwait 💢 ARB UAE 💢 ARB Iraq 💢 ARB Tunisia 💢 ARB Saudi Arabia 💢 ARB Islam 💢 ARB News 💢 ARB MBC 💢 ARB Kids 💢 Armenia 💢 Australia 💢 Austria 💢 Azerbaijan 💢 Belgium 💢 BOSNA-Bosnia 💢 Brazil 💢 Bulgaria 💢 Canada 💢 China 💢 Crna Gora-Monte Negro 💢 Czech Republic 💢 Denmark 💢 Denmark VIP 💢 Denmark Radio 💢 24-7 Denmark 💢 Estonia 💢 ex-Yu 💢 ex-Yu VIP 💢 Finland 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Hungary 💢 Iceland 💢 India 💢 India VIP 💢 Indonesia 💢 Iran 💢 Israel 💢 Italia 💢 Japan 💢 Korea 💢 Kurdish 💢 Latin America 💢 Lithuania 💢 Macedonia 💢 Malaysia 💢 Malta 💢 Nepal 💢 Netherlands 💢 Norway 💢 Norway VIP 💢 Pakistan 💢 Philippines 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Romania 💢 Russian 💢 Scandinavian 💢 Singapore 💢 Slovenia 💢 Spain 💢 Srbija-Serbia 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 Thailand 💢 Turkey 💢 UHD 4K 💢 Ukraine 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 Viet Nam 💢 VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 Fifa World Cup 2026 💢 World Cricket VIP ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://piraci.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://piraci.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 13 Nisan 2026 20:56
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 15 Nisan 2027 14:06
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ DxqLKelQMJ
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ rRG0Fnmw64
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ Sunucu IP Bulunamadı
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Sunucu Adı Bulunamadı
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 01 Eylül 2026 - 07:22
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 16925 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 64920 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 495 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://piraci.gentv.to:8080/get.php?username=DxqLKelQMJ&password=rRG0Fnmw64&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://piraci.gentv.to:8080/xmltv.php?username=DxqLKelQMJ&password=rRG0Fnmw64&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Arab Countries VIP 💢 Afghanistan 💢 Africa 💢 Africa VIP 💢 Africa Canal+ 💢 Albania 💢 Albania Sport 💢 Arab Countries 💢 beIN - Qatar ARB 💢 OSN - Qatar ARB 💢 ARB Algeria 💢 ARB Bahrain 💢 ARB Egypt 💢 ARB Libya 💢 ARB Syria 💢 ARB Lebanon 💢 ARB Palestine 💢 ARB Rotana 💢 ARB Morocco 💢 ARB Jordan 💢 ARB Kuwait 💢 ARB UAE 💢 ARB Iraq 💢 ARB Tunisia 💢 ARB Saudi Arabia 💢 ARB Islam 💢 ARB News 💢 ARB MBC 💢 ARB Kids 💢 Armenia 💢 Australia 💢 Austria 💢 Azerbaijan 💢 Belgium 💢 BOSNA-Bosnia 💢 Brazil 💢 Bulgaria 💢 Canada 💢 China 💢 Crna Gora-Monte Negro 💢 Czech Republic 💢 Denmark 💢 Denmark VIP 💢 Denmark Radio 💢 24-7 Denmark 💢 Estonia 💢 ex-Yu 💢 ex-Yu VIP 💢 Finland 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Hungary 💢 Iceland 💢 India 💢 India VIP 💢 Indonesia 💢 Iran 💢 Israel 💢 Italia 💢 Japan 💢 Korea 💢 Kurdish 💢 Latvia 💢 Latin America 💢 Lithuania 💢 Macedonia 💢 Malaysia 💢 Malta 💢 Nepal 💢 Netherlands 💢 Norway 💢 Norway VIP 💢 Pakistan 💢 Philippines 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Romania 💢 Russian 💢 Scandinavian 💢 Singapore 💢 Slovenia 💢 Spain 💢 Srbija-Serbia 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 Thailand 💢 Turkey 💢 UHD 4K 💢 Ukraine 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 Viet Nam 💢 VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 Fifa World Cup 2026 💢 World Cricket VIP ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://piraci.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://piraci.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 16 Aralık 2018 01:29
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 30 Ocak 2027 23:06
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ FastHirsch
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ ETgesXoxMV
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ Sunucu IP Bulunamadı
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Sunucu Adı Bulunamadı
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 01 Eylül 2026 - 07:37
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 16605 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 64920 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 440 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://piraci.gentv.to:8080/get.php?username=FastHirsch&password=ETgesXoxMV&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://piraci.gentv.to:8080/xmltv.php?username=FastHirsch&password=ETgesXoxMV&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Arab Countries VIP 💢 Afghanistan 💢 Africa 💢 Africa VIP 💢 Africa Canal+ 💢 Albania 💢 Albania Sport 💢 Arab Countries 💢 ARB Algeria 💢 ARB Bahrain 💢 ARB Egypt 💢 ARB Libya 💢 ARB Syria 💢 ARB Lebanon 💢 ARB Palestine 💢 ARB Rotana 💢 ARB Morocco 💢 ARB Jordan 💢 ARB Kuwait 💢 ARB UAE 💢 ARB Iraq 💢 ARB Tunisia 💢 ARB Saudi Arabia 💢 ARB Islam 💢 ARB News 💢 ARB MBC 💢 ARB Kids 💢 Armenia 💢 Australia 💢 Austria 💢 Belgium 💢 BOSNA-Bosnia 💢 Brazil 💢 Bulgaria 💢 Canada 💢 China 💢 Crna Gora-Monte Negro 💢 Czech Republic 💢 Denmark 💢 Denmark VIP 💢 Denmark Radio 💢 24-7 Denmark 💢 Estonia 💢 ex-Yu 💢 ex-Yu VIP 💢 Finland 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Hungary 💢 Iceland 💢 India 💢 India VIP 💢 Indonesia 💢 Iran 💢 Israel 💢 Italia 💢 Japan 💢 Korea 💢 Kurdish 💢 Latin America 💢 Lithuania 💢 Macedonia 💢 Malaysia 💢 Malta 💢 Netherlands 💢 Norway 💢 Norway VIP 💢 Pakistan 💢 Philippines 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Romania 💢 Russian 💢 Scandinavian 💢 Singapore 💢 Slovenia 💢 Spain 💢 Srbija-Serbia 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 Thailand 💢 Turkey 💢 UHD 4K 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 Viet Nam 💢 VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 Fifa World Cup 2026 💢 World Cricket VIP ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://piraci.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://piraci.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 06 Haziran 2021 17:54
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 17 Haziran 2027 21:47
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ GerardAnia
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 5eD2irkZqh
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ Sunucu IP Bulunamadı
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Sunucu Adı Bulunamadı
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 01 Eylül 2026 - 08:05
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 4043 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 9844 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 162 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://piraci.gentv.to:8080/get.php?username=GerardAnia&password=5eD2irkZqh&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://piraci.gentv.to:8080/xmltv.php?username=GerardAnia&password=5eD2irkZqh&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢France 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Poland 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 Fifa World Cup 2026 💢 World Cricket VIP ✷✷ 📺
+
+========================================

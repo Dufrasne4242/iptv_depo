@@ -1,0 +1,33 @@
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://schanel.org:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ott.kosnet.com:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 19 Aralık 2022 18:06
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ Unlimited
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ a1media
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ RGMzLQS3Ux
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 36
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 0
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇽🇰 Kosovo
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Belgrade
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ ARTI TV
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 185.190.38.38
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ KOSNET Telecommunications LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 03 Eylül 2026 - 15:38
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈 (404)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 223 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 1 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://schanel.org:8080/get.php?username=a1media&password=RGMzLQS3Ux&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://schanel.org:8080/xmltv.php?username=a1media&password=RGMzLQS3Ux&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Tv Channels 💢 HTTP ✷✷ 📺
+
+========================================

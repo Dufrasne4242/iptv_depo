@@ -1,0 +1,99 @@
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://testlaapp.zwin.ovh:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://testlaapp.zwin.ovh:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 20 Ekim 2022 17:43
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 26 Ekim 2026 14:40
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 60V92620J7710713E
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ JyeBrOh4Ky
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 2
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇨🇦 Canada
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/Toronto
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 104.21.22.23
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Cloudflare, Inc.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 14 Şubat 2026 - 07:14
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ VAR ✅ (200)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 706 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 21781 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 8111 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://testlaapp.zwin.ovh:8080/get.php?username=60V92620J7710713E&password=JyeBrOh4Ky&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://testlaapp.zwin.ovh:8080/xmltv.php?username=60V92620J7710713E&password=JyeBrOh4Ky&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢== NOVEDADES 💢 == ARABES 💢 == NOTICIAS 💢 == GENERALISTAS 💢 == Gran Hermano 💢 == MOVISTAR 💢 == A3Player 💢 == Mitele Plus 💢 == SERIES Y ENTRETENIMIENTO 💢 == CINE 💢 == LIFE STYLE 💢 == DEPORTES 💢 == Multi Deportes Movistar 💢 == Primera Division por Movistar 💢 == Primera Division por Dazn 💢 == Segunda Division 💢 == LIGACAMPEONES 💢 == DAZN ESPAÑOL 💢 == Liga Endesa 💢 == BALONCESTO  1º FEB 💢 == BALONCESTO  2º FEB 💢 == FORMULA 1: la cámara a bordo 💢 == Primera Federación 💢 == La liga+ 💢 == BALONMANO 💢 == Fútbol sala 💢 == FOOTBALLCLUB 💢 == BUNDESLIGA 💢 == PREMIER LEAGUE 💢 == SERIE A ITALIA 💢 == LIGA FEMENINA 💢 == Ligacampeones Femenina UEFA 💢 == DAZN INTERNACIONAL 💢 == ESPN SPORT Y FOX  SPORT 💢 == Sky Sports Español 💢 == FIFA+ 💢 == UEFA.TV 💢 == Eurosport 💢 == INFANTILES 💢 == DOCUMENTALES 💢 == MUSICA 💢 == AUTONOMICOS 💢 == NBA 💢 == NFL 💢 == UFC Y BOX ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://testlaapp.zwin.ovh:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://testlaapp.zwin.ovh:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 08 Kasım 2022 14:41
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 08 Kasım 2026 17:45
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 65574412G6706002C
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ nAKpRfsMbQ
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇨🇦 Canada
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/Toronto
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 104.21.22.23
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Cloudflare, Inc.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 14 Şubat 2026 - 07:39
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ VAR ✅ (200)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 706 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 21781 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 8111 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://testlaapp.zwin.ovh:8080/get.php?username=65574412G6706002C&password=nAKpRfsMbQ&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://testlaapp.zwin.ovh:8080/xmltv.php?username=65574412G6706002C&password=nAKpRfsMbQ&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢== NOVEDADES 💢 == ARABES 💢 == NOTICIAS 💢 == GENERALISTAS 💢 == Gran Hermano 💢 == MOVISTAR 💢 == A3Player 💢 == Mitele Plus 💢 == SERIES Y ENTRETENIMIENTO 💢 == CINE 💢 == LIFE STYLE 💢 == DEPORTES 💢 == Multi Deportes Movistar 💢 == Primera Division por Movistar 💢 == Primera Division por Dazn 💢 == Segunda Division 💢 == LIGACAMPEONES 💢 == DAZN ESPAÑOL 💢 == Liga Endesa 💢 == BALONCESTO  1º FEB 💢 == BALONCESTO  2º FEB 💢 == FORMULA 1: la cámara a bordo 💢 == Primera Federación 💢 == La liga+ 💢 == BALONMANO 💢 == Fútbol sala 💢 == FOOTBALLCLUB 💢 == BUNDESLIGA 💢 == PREMIER LEAGUE 💢 == SERIE A ITALIA 💢 == LIGA FEMENINA 💢 == Ligacampeones Femenina UEFA 💢 == DAZN INTERNACIONAL 💢 == ESPN SPORT Y FOX  SPORT 💢 == Sky Sports Español 💢 == FIFA+ 💢 == UEFA.TV 💢 == Eurosport 💢 == INFANTILES 💢 == DOCUMENTALES 💢 == MUSICA 💢 == AUTONOMICOS 💢 == NBA 💢 == NFL 💢 == UFC Y BOX ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://testlaapp.zwin.ovh:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://testlaapp.zwin.ovh:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 10 Mart 2021 23:01
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 22 Ocak 2027 23:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ fona00_22012021
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ etrf34rfee
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇨🇦 Canada
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/Toronto
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 104.21.22.23
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Cloudflare, Inc.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 14 Şubat 2026 - 07:46
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ VAR ✅ (200)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 706 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://testlaapp.zwin.ovh:8080/get.php?username=fona00_22012021&password=etrf34rfee&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://testlaapp.zwin.ovh:8080/xmltv.php?username=fona00_22012021&password=etrf34rfee&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢== NOVEDADES 💢 == ARABES 💢 == NOTICIAS 💢 == GENERALISTAS 💢 == Gran Hermano 💢 == MOVISTAR 💢 == A3Player 💢 == Mitele Plus 💢 == SERIES Y ENTRETENIMIENTO 💢 == CINE 💢 == LIFE STYLE 💢 == DEPORTES 💢 == Multi Deportes Movistar 💢 == Primera Division por Movistar 💢 == Primera Division por Dazn 💢 == Segunda Division 💢 == LIGACAMPEONES 💢 == DAZN ESPAÑOL 💢 == Liga Endesa 💢 == BALONCESTO  1º FEB 💢 == BALONCESTO  2º FEB 💢 == FORMULA 1: la cámara a bordo 💢 == Primera Federación 💢 == La liga+ 💢 == BALONMANO 💢 == Fútbol sala 💢 == FOOTBALLCLUB 💢 == BUNDESLIGA 💢 == PREMIER LEAGUE 💢 == SERIE A ITALIA 💢 == LIGA FEMENINA 💢 == Ligacampeones Femenina UEFA 💢 == DAZN INTERNACIONAL 💢 == ESPN SPORT Y FOX  SPORT 💢 == Sky Sports Español 💢 == FIFA+ 💢 == UEFA.TV 💢 == Eurosport 💢 == INFANTILES 💢 == DOCUMENTALES 💢 == MUSICA 💢 == AUTONOMICOS 💢 == NBA 💢 == NFL 💢 == UFC Y BOX ✷✷ 📺
+
+========================================

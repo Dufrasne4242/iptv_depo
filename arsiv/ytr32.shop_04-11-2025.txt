@@ -1,0 +1,66 @@
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ytr32.shop:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ytr32.shop:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 16 Eylül 2021 17:41
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 22 Eylül 2026 18:36
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ isagursoy
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ wz9ycQNPjKHG
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ Bilinmiyor
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Bilinmiyor
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ Sunucu IP Bulunamadı
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Sunucu Adı Bulunamadı
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 04 Kasım 2025 - 04:20
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ ⚠️ Yayın kontrolü başarısız: Akış alınamadı (HTTPConnectionPool(host='40-vz-d.blogdns.com', port=15001): Max retries exceeded with url: /live/isagursoy/wz9ycQNPjKHG/155073.ts?token=SxNaVUJdRF8WUwVaAQpVVwxcD1JTVg5UBwECVVkLVQcAU1EMCFZRAQJDShsXTEEDWQhnWQcXA1AABQJRCxQTRENUQGtYUURfFlBVCFMKC0QUR0xZDlAbWwQHBFQKCQgDBAMeFkFcAkcODxNVCBQRA0ARXUINVFU+UVVED1tdEwteRF5YHRcJC2sFA1QFVldEAkcJEk8XUBJFEghEU11IRFJEEBgTVw8RRgASXEYCXRNUCRQSAFpMD0FCS0QCGmVjEh0QUUlBAwtHCAlXRgIREktHFBIKRmYTUENGFF1ZXFRCEwgWARdKR1kAHmYHV10IXQZMWQxbSkMPEgNEFBpcXl5YRltDahYMUENcVxFUXxs= (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000002297DDD23D0>, 'Connection to 40-vz-d.blogdns.com timed out. (connect timeout=15)')))
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 6603 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 8184 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 1482 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ytr32.shop:8080/get.php?username=isagursoy&password=wz9ycQNPjKHG&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ytr32.shop:8080/xmltv.php?username=isagursoy&password=wz9ycQNPjKHG&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR: ULUSAL 💢 TR:BEIN SPORTS 💢 TR: EX-XEN SPOR 💢 TR: TABII SPOR 💢 TR: TIVIBU SPOR 💢 TR: S SPORT 💢 TR: D SMARTSPOR 💢 TR: SPORTS 💢 TR: HABERLER 💢 TR: CANLI BELGESEL 💢 TR: COCUK LIVE 💢 TR: MUZIK 💢 TR: DIZI FILM 7/24 💢 TR: SINEMA 💢 TR: OZEL SINEMA 💢 TR: YESILCAM SINEMA 💢 TR: YEREL 💢 TR: DINI 💢 TR: RADIO 💢 DE: NATIONAL 💢 DE: RAW 💢 DE: GERMANY HEVC 265 💢 DE: SPORTS 💢 DE: DAZN 💢 DE: MAGENTA 💢 DE: KINDER 💢 DE: CINEMA 💢 DE: 7/24 SERIES 💢 DE: MUSIC 💢 DE: KINO SERIEN 💢 DE: CINEMA SPECIAL 💢 DE: NEWS 💢 DE: DOCUMENTARY 💢 NL: NATIONAL 💢 NL: NEDERLAND HEVC 265 💢 NL: SPORTS 💢 NL: CINEMA 💢 NL: CHILD 💢 NL: DOCUMENTARY 💢 NL: MUSIC 💢 FR: NATIONAL 💢 FR: SPORTS 💢 FR: CINEMA 💢 FR: CHILD 💢 FR: DOCUMENTARY 💢 AT: AUSTURIA 💢 CH: SWITZERLAND 💢 IT: ITALY NATIONAL 💢 IT: ITALY SPORTS 💢 IT: ITALY CINEMA 💢 ITALY CHILD 💢 IT: ITALY DOCUMENTARY 💢 PL: POLAND 💢 BE: BELGIUM 💢 EX: EX-YU 💢 EX-YU SPORTS 💢 AL: ALBANIA 💢 BIH: BOSNIA AND HERZEGOVINA 💢 SR: SERBIA 💢 MK: MACEDONIA 💢 HR: CROATIA 💢 SL: SLOVENIA 💢 RU: RUSSIAN 💢 AZ: AZERBAIJAN 💢 GR: GREECE 💢 BG: BULGAR 💢 RO: ROMANIA 💢 PT: PORTAGUAL 💢 DK: DENMARK 💢 NO: NORVAY 💢 SE: SWEDEN 💢 FIN: FINLAND 💢 AR: ARABIA 💢 IR: IRANIAN 💢 US: USA 💢 ES: SPAIN 💢 HU: HUNGARY 💢 CZ: CZECH REPUBLIC 💢 KU: KURDISH 💢 WORLD SPORTS 💢 AF: AFGHANISTAN ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ytr32.shop:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ytr32.shop:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 16 Eylül 2021 20:01
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 04 Ekim 2026 15:36
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ erolpinarci
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ VN6KqXACFl
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇩🇪 Germany
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Berlin
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 94.23.161.197
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 04 Kasım 2025 - 05:06
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ ⚠️ Yayın kontrolü başarısız: Zaman aşımı
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 6603 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 8184 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 1482 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ytr32.shop:8080/get.php?username=erolpinarci&password=VN6KqXACFl&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ytr32.shop:8080/xmltv.php?username=erolpinarci&password=VN6KqXACFl&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Kategori Bulunamadı ✷✷ 📺
+
+========================================

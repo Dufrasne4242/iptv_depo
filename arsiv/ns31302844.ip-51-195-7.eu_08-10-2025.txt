@@ -1,0 +1,896 @@
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 14 Ocak 2022 19:13
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 14 Ocak 2026 21:30
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ mahizerbenli1401
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ YowZKacVHwoUKabY
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇩🇪 Germany
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Berlin
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome to Xtream Codes Reborn
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 51.195.7.192
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 08 Ekim 2025 - 09:46
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Tr Sahin1903
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2279 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 28143 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/get.php?username=mahizerbenli1401&password=YowZKacVHwoUKabY&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/xmltv.php?username=mahizerbenli1401&password=YowZKacVHwoUKabY&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢| TR - ULUSAL  ::|:: KALITEEX ::|:: 💢 | TR - SPOR 💢 | TR - HABER 💢 | TR - BELGESEL 💢 | TR - FILM & DIZI 💢 | TR - MUZİK 💢 | TR - COCUK 💢 | TR - TV PROGRAMLARI 💢 | TR - DINI KANALLAR 💢 | TR - YEREL & DİGER 💢 DE | DEUTSCHLAND 💢 DE | FILM UND SERIE 💢 DE | DOKUMENTAR 💢 DE | KINDER 💢 DE | MUSIK 💢 DE | SPORTS 💢 DE | SPORTS HIGHLIGHTS 💢 DE | DAZN Sports 💢 AT | SKY Sports AUSTRIA 💢 DE | SKY Sports 💢 DE | SKY Sports BUNDESLIGA 💢 DE | RTL Sports & MAGENTA & DYN 💢 POLONIA 💢 GREECE 💢 NETHERLANDS 💢 ITALIA 💢 EX-YU 💢 ALBANIA 💢 SWEDEN 💢 UNITED KING | AUSTRALIA 💢 ARABIC 💢 WORLD OF SPORTS 💢 RUSSIAN 💢 BELGIUM 💢 ROMANIA 💢 | TR- RADIO ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 07 Aralık 2019 22:04
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 12 Aralık 2025 14:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ asik0712asık
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 7GT11mHJxE
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇩🇪 Germany
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Berlin
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome to Xtream Codes Reborn
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 51.195.7.192
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 08 Ekim 2025 - 09:46
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Tr Sahin1903
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2279 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 28143 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/get.php?username=asik0712asık&password=7GT11mHJxE&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/xmltv.php?username=asik0712asık&password=7GT11mHJxE&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢| TR - ULUSAL  ::|:: KALITEEX ::|:: 💢 | TR - SPOR 💢 | TR - HABER 💢 | TR - BELGESEL 💢 | TR - FILM & DIZI 💢 | TR - MUZİK 💢 | TR - COCUK 💢 | TR - TV PROGRAMLARI 💢 | TR - DINI KANALLAR 💢 | TR - YEREL & DİGER 💢 DE | DEUTSCHLAND 💢 DE | FILM UND SERIE 💢 DE | DOKUMENTAR 💢 DE | KINDER 💢 DE | MUSIK 💢 DE | SPORTS 💢 DE | SPORTS HIGHLIGHTS 💢 DE | DAZN Sports 💢 AT | SKY Sports AUSTRIA 💢 DE | SKY Sports 💢 DE | SKY Sports BUNDESLIGA 💢 DE | RTL Sports & MAGENTA & DYN 💢 POLONIA 💢 GREECE 💢 NETHERLANDS 💢 ITALIA 💢 EX-YU 💢 ALBANIA 💢 SWEDEN 💢 UNITED KING | AUSTRALIA 💢 ARABIC 💢 WORLD OF SPORTS 💢 RUSSIAN 💢 BELGIUM 💢 ROMANIA 💢 | TR- RADIO ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 22 Ekim 2021 21:40
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 24 Ekim 2025 21:20
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ Mehmetamca
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ chiGSpQA0hPiJTzs
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇩🇪 Germany
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Berlin
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome to Xtream Codes Reborn
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 51.195.7.192
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 08 Ekim 2025 - 09:46
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Tr Sahin1903
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2279 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 28143 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/get.php?username=Mehmetamca&password=chiGSpQA0hPiJTzs&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/xmltv.php?username=Mehmetamca&password=chiGSpQA0hPiJTzs&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢| TR - ULUSAL  ::|:: KALITEEX ::|:: 💢 | TR - SPOR 💢 | TR - HABER 💢 | TR - BELGESEL 💢 | TR - FILM & DIZI 💢 | TR - MUZİK 💢 | TR - COCUK 💢 | TR - TV PROGRAMLARI 💢 | TR - DINI KANALLAR 💢 | TR - YEREL & DİGER 💢 DE | DEUTSCHLAND 💢 DE | FILM UND SERIE 💢 DE | DOKUMENTAR 💢 DE | KINDER 💢 DE | MUSIK 💢 DE | SPORTS 💢 DE | SPORTS HIGHLIGHTS 💢 DE | DAZN Sports 💢 AT | SKY Sports AUSTRIA 💢 DE | SKY Sports 💢 DE | SKY Sports BUNDESLIGA 💢 DE | RTL Sports & MAGENTA & DYN 💢 POLONIA 💢 GREECE 💢 NETHERLANDS 💢 ITALIA 💢 EX-YU 💢 ALBANIA 💢 SWEDEN 💢 UNITED KING | AUSTRALIA 💢 ARABIC 💢 WORLD OF SPORTS 💢 RUSSIAN 💢 BELGIUM 💢 ROMANIA 💢 | TR- RADIO ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 09 Şubat 2019 23:04
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 10 Şubat 2026 02:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ TImITrImmIs56T23
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ tooFVEOOzL
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇩🇪 Germany
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Berlin
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome to Xtream Codes Reborn
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 51.195.7.192
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 08 Ekim 2025 - 09:46
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Tr Sahin1903
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 1732 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 18852 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/get.php?username=TImITrImmIs56T23&password=tooFVEOOzL&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/xmltv.php?username=TImITrImmIs56T23&password=tooFVEOOzL&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢DE | DEUTSCHLAND 💢 DE | FILM UND SERIE 💢 DE | DOKUMENTAR 💢 DE | KINDER 💢 DE | MUSIK 💢 DE | SPORTS 💢 DE | SPORTS HIGHLIGHTS 💢 DE | DAZN Sports 💢 AT | SKY Sports AUSTRIA 💢 DE | SKY Sports 💢 DE | SKY Sports BUNDESLIGA 💢 DE | RTL Sports & MAGENTA & DYN 💢 POLONIA 💢 GREECE 💢 NETHERLANDS 💢 ITALIA 💢 EX-YU 💢 ALBANIA 💢 SWEDEN 💢 FOR ADULTS 💢 UNITED KING | AUSTRALIA 💢 ARABIC 💢 WORLD OF SPORTS 💢 RUSSIAN 💢 BELGIUM 💢 ROMANIA ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 25 Ocak 2021 13:12
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 26 Ocak 2026 15:31
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ Osman2501baysangur
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ UXdNuMIf9B7URsOL
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇩🇪 Germany
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Berlin
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome to Xtream Codes Reborn
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 51.195.7.192
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 08 Ekim 2025 - 09:46
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Tr Sahin1903
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2361 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 28143 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/get.php?username=Osman2501baysangur&password=UXdNuMIf9B7URsOL&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/xmltv.php?username=Osman2501baysangur&password=UXdNuMIf9B7URsOL&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢| TR - ULUSAL  ::|:: KALITEEX ::|:: 💢 | TR - SPOR 💢 | TR - HABER 💢 | TR - BELGESEL 💢 | TR - FILM & DIZI 💢 | TR - MUZİK 💢 | TR - COCUK 💢 | TR - TV PROGRAMLARI 💢 | TR - DINI KANALLAR 💢 | TR - YEREL & DİGER 💢 DE | DEUTSCHLAND 💢 DE | FILM UND SERIE 💢 DE | DOKUMENTAR 💢 DE | KINDER 💢 DE | MUSIK 💢 DE | SPORTS 💢 DE | SPORTS HIGHLIGHTS 💢 DE | DAZN Sports 💢 AT | SKY Sports AUSTRIA 💢 DE | SKY Sports 💢 DE | SKY Sports BUNDESLIGA 💢 DE | RTL Sports & MAGENTA & DYN 💢 POLONIA 💢 GREECE 💢 NETHERLANDS 💢 ITALIA 💢 EX-YU 💢 ALBANIA 💢 SWEDEN 💢 FOR ADULTS 💢 UNITED KING | AUSTRALIA 💢 ARABIC 💢 WORLD OF SPORTS 💢 RUSSIAN 💢 BELGIUM 💢 ROMANIA 💢 | TR- RADIO ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 24 Ekim 2020 18:36
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 25 Ekim 2025 21:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ Habibunal2410
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ R6K20Bo43YjSc57s
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇩🇪 Germany
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Berlin
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome to Xtream Codes Reborn
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 51.195.7.192
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 08 Ekim 2025 - 09:46
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Tr Sahin1903
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2279 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 28143 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/get.php?username=Habibunal2410&password=R6K20Bo43YjSc57s&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/xmltv.php?username=Habibunal2410&password=R6K20Bo43YjSc57s&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢| TR - ULUSAL  ::|:: KALITEEX ::|:: 💢 | TR - SPOR 💢 | TR - HABER 💢 | TR - BELGESEL 💢 | TR - FILM & DIZI 💢 | TR - MUZİK 💢 | TR - COCUK 💢 | TR - TV PROGRAMLARI 💢 | TR - DINI KANALLAR 💢 | TR - YEREL & DİGER 💢 DE | DEUTSCHLAND 💢 DE | FILM UND SERIE 💢 DE | DOKUMENTAR 💢 DE | KINDER 💢 DE | MUSIK 💢 DE | SPORTS 💢 DE | SPORTS HIGHLIGHTS 💢 DE | DAZN Sports 💢 AT | SKY Sports AUSTRIA 💢 DE | SKY Sports 💢 DE | SKY Sports BUNDESLIGA 💢 DE | RTL Sports & MAGENTA & DYN 💢 POLONIA 💢 GREECE 💢 NETHERLANDS 💢 ITALIA 💢 EX-YU 💢 ALBANIA 💢 SWEDEN 💢 UNITED KING | AUSTRALIA 💢 ARABIC 💢 WORLD OF SPORTS 💢 RUSSIAN 💢 BELGIUM 💢 ROMANIA 💢 | TR- RADIO ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 28 Eylül 2019 01:42
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 29 Eylül 2026 22:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ SerkanFischer2809
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ OT5VahUcuZ
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇩🇪 Germany
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Berlin
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome to Xtream Codes Reborn
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 51.195.7.192
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 08 Ekim 2025 - 09:46
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Tr Sahin1903
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2361 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 28143 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/get.php?username=SerkanFischer2809&password=OT5VahUcuZ&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/xmltv.php?username=SerkanFischer2809&password=OT5VahUcuZ&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢| TR - ULUSAL  ::|:: KALITEEX ::|:: 💢 | TR - SPOR 💢 | TR - HABER 💢 | TR - BELGESEL 💢 | TR - FILM & DIZI 💢 | TR - MUZİK 💢 | TR - COCUK 💢 | TR - TV PROGRAMLARI 💢 | TR - DINI KANALLAR 💢 | TR - YEREL & DİGER 💢 DE | DEUTSCHLAND 💢 DE | FILM UND SERIE 💢 DE | DOKUMENTAR 💢 DE | KINDER 💢 DE | MUSIK 💢 DE | SPORTS 💢 DE | SPORTS HIGHLIGHTS 💢 DE | DAZN Sports 💢 AT | SKY Sports AUSTRIA 💢 DE | SKY Sports 💢 DE | SKY Sports BUNDESLIGA 💢 DE | RTL Sports & MAGENTA & DYN 💢 POLONIA 💢 GREECE 💢 NETHERLANDS 💢 ITALIA 💢 EX-YU 💢 ALBANIA 💢 SWEDEN 💢 FOR ADULTS 💢 UNITED KING | AUSTRALIA 💢 ARABIC 💢 WORLD OF SPORTS 💢 RUSSIAN 💢 BELGIUM 💢 ROMANIA 💢 | TR- RADIO ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 27 Mayıs 2020 18:17
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 06 Haziran 2026 23:30
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ JxsXNWNSaKfkb0Ma
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ KSFzjpd6sruD74Mp
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇩🇪 Germany
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Berlin
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome to Xtream Codes Reborn
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 51.195.7.192
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 08 Ekim 2025 - 09:46
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Tr Sahin1903
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2279 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 28143 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/get.php?username=JxsXNWNSaKfkb0Ma&password=KSFzjpd6sruD74Mp&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/xmltv.php?username=JxsXNWNSaKfkb0Ma&password=KSFzjpd6sruD74Mp&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢| TR - ULUSAL  ::|:: KALITEEX ::|:: 💢 | TR - SPOR 💢 | TR - HABER 💢 | TR - BELGESEL 💢 | TR - FILM & DIZI 💢 | TR - MUZİK 💢 | TR - COCUK 💢 | TR - TV PROGRAMLARI 💢 | TR - DINI KANALLAR 💢 | TR - YEREL & DİGER 💢 DE | DEUTSCHLAND 💢 DE | FILM UND SERIE 💢 DE | DOKUMENTAR 💢 DE | KINDER 💢 DE | MUSIK 💢 DE | SPORTS 💢 DE | SPORTS HIGHLIGHTS 💢 DE | DAZN Sports 💢 AT | SKY Sports AUSTRIA 💢 DE | SKY Sports 💢 DE | SKY Sports BUNDESLIGA 💢 DE | RTL Sports & MAGENTA & DYN 💢 POLONIA 💢 GREECE 💢 NETHERLANDS 💢 ITALIA 💢 EX-YU 💢 ALBANIA 💢 SWEDEN 💢 UNITED KING | AUSTRALIA 💢 ARABIC 💢 WORLD OF SPORTS 💢 RUSSIAN 💢 BELGIUM 💢 ROMANIA 💢 | TR- RADIO ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 20 Kasım 2022 21:24
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 21 Kasım 2025 23:28
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ ilhamiSahinGevle
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ QDmlWGcJuHnmevBj
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇩🇪 Germany
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Berlin
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome to Xtream Codes Reborn
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 51.195.7.192
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 08 Ekim 2025 - 09:46
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Tr Sahin1903
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2534 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 28777 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/get.php?username=ilhamiSahinGevle&password=QDmlWGcJuHnmevBj&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/xmltv.php?username=ilhamiSahinGevle&password=QDmlWGcJuHnmevBj&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢| TR - ULUSAL  ::|:: KALITEEX ::|:: 💢 | TR - SPOR 💢 | TR - HABER 💢 | TR - BELGESEL 💢 | TR - FILM & DIZI 💢 | TR - MUZİK 💢 | TR - COCUK 💢 | TR - TV PROGRAMLARI 💢 | TR - DINI KANALLAR 💢 | TR - YEREL & DİGER 💢 DE | DEUTSCHLAND 💢 DE | FILM UND SERIE 💢 DE | DOKUMENTAR 💢 DE | KINDER 💢 DE | MUSIK 💢 DE | SPORTS 💢 DE | SPORTS HIGHLIGHTS 💢 DE | DAZN Sports 💢 AT | SKY Sports AUSTRIA 💢 DE | SKY Sports 💢 DE | SKY Sports BUNDESLIGA 💢 DE | RTL Sports & MAGENTA & DYN 💢 BULGARIA 💢 POLONIA 💢 GREECE 💢 NETHERLANDS 💢 ITALIA 💢 EX-YU 💢 ALBANIA 💢 SWEDEN 💢 UNITED KING | AUSTRALIA 💢 ARABIC 💢 WORLD OF SPORTS 💢 RUSSIAN 💢 BELGIUM 💢 ROMANIA 💢 | TR- RADIO ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 16 Temmuz 2022 19:59
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 12 Ağustos 2026 14:24
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ TunaySurayArkadasi
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ sRFm08mGVhbUnhGX
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇩🇪 Germany
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Berlin
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome to Xtream Codes Reborn
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 51.195.7.192
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 08 Ekim 2025 - 09:46
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Tr Sahin1903
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2616 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 28777 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/get.php?username=TunaySurayArkadasi&password=sRFm08mGVhbUnhGX&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/xmltv.php?username=TunaySurayArkadasi&password=sRFm08mGVhbUnhGX&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢| TR - ULUSAL  ::|:: KALITEEX ::|:: 💢 | TR - SPOR 💢 | TR - HABER 💢 | TR - BELGESEL 💢 | TR - FILM & DIZI 💢 | TR - MUZİK 💢 | TR - COCUK 💢 | TR - TV PROGRAMLARI 💢 | TR - DINI KANALLAR 💢 | TR - YEREL & DİGER 💢 DE | DEUTSCHLAND 💢 DE | FILM UND SERIE 💢 DE | DOKUMENTAR 💢 DE | KINDER 💢 DE | MUSIK 💢 DE | SPORTS 💢 DE | SPORTS HIGHLIGHTS 💢 DE | DAZN Sports 💢 AT | SKY Sports AUSTRIA 💢 DE | SKY Sports 💢 DE | SKY Sports BUNDESLIGA 💢 DE | RTL Sports & MAGENTA & DYN 💢 BULGARIA 💢 POLONIA 💢 GREECE 💢 NETHERLANDS 💢 ITALIA 💢 EX-YU 💢 ALBANIA 💢 SWEDEN 💢 FOR ADULTS 💢 UNITED KING | AUSTRALIA 💢 ARABIC 💢 WORLD OF SPORTS 💢 RUSSIAN 💢 BELGIUM 💢 ROMANIA 💢 | TR- RADIO ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 29 Ocak 2021 17:52
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ Unlimited
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ almanaad8adda
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ TZsrwDwcafO9eYU9
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 80
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇩🇪 Germany
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Berlin
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome to Xtream Codes Reborn
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 51.195.7.192
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 08 Ekim 2025 - 09:46
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Tr Sahin1903
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2411 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 545 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/get.php?username=almanaad8adda&password=TZsrwDwcafO9eYU9&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/xmltv.php?username=almanaad8adda&password=TZsrwDwcafO9eYU9&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢| TR - ULUSAL  ::|:: KALITEEX ::|:: 💢 | TR - SPOR 💢 | TR - HABER 💢 | TR - BELGESEL 💢 | TR - FILM & DIZI 💢 | TR - MUZİK 💢 | TR - COCUK 💢 | TR - TV PROGRAMLARI 💢 | TR - DINI KANALLAR 💢 | TR - YEREL & DİGER 💢 DE | DEUTSCHLAND 💢 DE | FILM UND SERIE 💢 DE | DOKUMENTAR 💢 DE | KINDER 💢 DE | MUSIK 💢 DE | SPORTS 💢 DE | SPORTS HIGHLIGHTS 💢 DE | DAZN Sports 💢 AT | SKY Sports AUSTRIA 💢 DE | SKY Sports 💢 DE | SKY Sports BUNDESLIGA 💢 DE | RTL Sports & MAGENTA & DYN 💢 BULGARIA 💢 POLONIA 💢 NETHERLANDS 💢 ITALIA 💢 EX-YU 💢 ALBANIA 💢 SWEDEN 💢 FOR ADULTS 💢 UNITED KING | AUSTRALIA 💢 ARABIC 💢 WORLD OF SPORTS 💢 RUSSIAN 💢 BELGIUM 💢 ROMANIA ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 16 Aralık 2022 18:49
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 18 Aralık 2025 00:08
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ ElaLutkemeIer20221216
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ UHYF12k36b1DBQWw
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇩🇪 Germany
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Berlin
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome to Xtream Codes Reborn
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 51.195.7.192
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 08 Ekim 2025 - 09:50
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Tr Sahin1903
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 1732 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 18852 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/get.php?username=ElaLutkemeIer20221216&password=UHYF12k36b1DBQWw&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/xmltv.php?username=ElaLutkemeIer20221216&password=UHYF12k36b1DBQWw&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢DE | DEUTSCHLAND 💢 DE | FILM UND SERIE 💢 DE | DOKUMENTAR 💢 DE | KINDER 💢 DE | MUSIK 💢 DE | SPORTS 💢 DE | SPORTS HIGHLIGHTS 💢 DE | DAZN Sports 💢 AT | SKY Sports AUSTRIA 💢 DE | SKY Sports 💢 DE | SKY Sports BUNDESLIGA 💢 DE | RTL Sports & MAGENTA & DYN 💢 POLONIA 💢 GREECE 💢 NETHERLANDS 💢 ITALIA 💢 EX-YU 💢 ALBANIA 💢 SWEDEN 💢 FOR ADULTS 💢 UNITED KING | AUSTRALIA 💢 ARABIC 💢 WORLD OF SPORTS 💢 RUSSIAN 💢 BELGIUM 💢 ROMANIA ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 26 Haziran 2017 19:36
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 26 Haziran 2026 19:30
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ TekinErenmunchen
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ VWKMIwopL7
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇩🇪 Germany
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Berlin
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome to Xtream Codes Reborn
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 51.195.7.192
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 08 Ekim 2025 - 09:50
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Tr Sahin1903
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2279 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 28143 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/get.php?username=TekinErenmunchen&password=VWKMIwopL7&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/xmltv.php?username=TekinErenmunchen&password=VWKMIwopL7&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢| TR - ULUSAL  ::|:: KALITEEX ::|:: 💢 | TR - SPOR 💢 | TR - HABER 💢 | TR - BELGESEL 💢 | TR - FILM & DIZI 💢 | TR - MUZİK 💢 | TR - COCUK 💢 | TR - TV PROGRAMLARI 💢 | TR - DINI KANALLAR 💢 | TR - YEREL & DİGER 💢 DE | DEUTSCHLAND 💢 DE | FILM UND SERIE 💢 DE | DOKUMENTAR 💢 DE | KINDER 💢 DE | MUSIK 💢 DE | SPORTS 💢 DE | SPORTS HIGHLIGHTS 💢 DE | DAZN Sports 💢 AT | SKY Sports AUSTRIA 💢 DE | SKY Sports 💢 DE | SKY Sports BUNDESLIGA 💢 DE | RTL Sports & MAGENTA & DYN 💢 POLONIA 💢 GREECE 💢 NETHERLANDS 💢 ITALIA 💢 EX-YU 💢 ALBANIA 💢 SWEDEN 💢 UNITED KING | AUSTRALIA 💢 ARABIC 💢 WORLD OF SPORTS 💢 RUSSIAN 💢 BELGIUM 💢 ROMANIA 💢 | TR- RADIO ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 01 Mart 2025 14:42
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 03 Mart 2026 14:30
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ mehmeteminozturk0103
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ pgWuBueFYTBMjGdb
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇩🇪 Germany
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Berlin
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome to Xtream Codes Reborn
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 51.195.7.192
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 08 Ekim 2025 - 09:50
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Tr Sahin1903
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2279 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 28143 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/get.php?username=mehmeteminozturk0103&password=pgWuBueFYTBMjGdb&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/xmltv.php?username=mehmeteminozturk0103&password=pgWuBueFYTBMjGdb&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢| TR - ULUSAL  ::|:: KALITEEX ::|:: 💢 | TR - SPOR 💢 | TR - HABER 💢 | TR - BELGESEL 💢 | TR - FILM & DIZI 💢 | TR - MUZİK 💢 | TR - COCUK 💢 | TR - TV PROGRAMLARI 💢 | TR - DINI KANALLAR 💢 | TR - YEREL & DİGER 💢 DE | DEUTSCHLAND 💢 DE | FILM UND SERIE 💢 DE | DOKUMENTAR 💢 DE | KINDER 💢 DE | MUSIK 💢 DE | SPORTS 💢 DE | SPORTS HIGHLIGHTS 💢 DE | DAZN Sports 💢 AT | SKY Sports AUSTRIA 💢 DE | SKY Sports 💢 DE | SKY Sports BUNDESLIGA 💢 DE | RTL Sports & MAGENTA & DYN 💢 POLONIA 💢 GREECE 💢 NETHERLANDS 💢 ITALIA 💢 EX-YU 💢 ALBANIA 💢 SWEDEN 💢 UNITED KING | AUSTRALIA 💢 ARABIC 💢 WORLD OF SPORTS 💢 RUSSIAN 💢 BELGIUM 💢 ROMANIA 💢 | TR- RADIO ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 12 Aralık 2020 18:20
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 11 Aralık 2025 20:30
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ suatwulfrat1212
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ WZkZYIFyCyvREzQA
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇩🇪 Germany
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Berlin
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome to Xtream Codes Reborn
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 51.195.7.192
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 08 Ekim 2025 - 09:50
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Tr Sahin1903
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2279 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 28143 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/get.php?username=suatwulfrat1212&password=WZkZYIFyCyvREzQA&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/xmltv.php?username=suatwulfrat1212&password=WZkZYIFyCyvREzQA&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢| TR - ULUSAL  ::|:: KALITEEX ::|:: 💢 | TR - SPOR 💢 | TR - HABER 💢 | TR - BELGESEL 💢 | TR - FILM & DIZI 💢 | TR - MUZİK 💢 | TR - COCUK 💢 | TR - TV PROGRAMLARI 💢 | TR - DINI KANALLAR 💢 | TR - YEREL & DİGER 💢 DE | DEUTSCHLAND 💢 DE | FILM UND SERIE 💢 DE | DOKUMENTAR 💢 DE | KINDER 💢 DE | MUSIK 💢 DE | SPORTS 💢 DE | SPORTS HIGHLIGHTS 💢 DE | DAZN Sports 💢 AT | SKY Sports AUSTRIA 💢 DE | SKY Sports 💢 DE | SKY Sports BUNDESLIGA 💢 DE | RTL Sports & MAGENTA & DYN 💢 POLONIA 💢 GREECE 💢 NETHERLANDS 💢 ITALIA 💢 EX-YU 💢 ALBANIA 💢 SWEDEN 💢 UNITED KING | AUSTRALIA 💢 ARABIC 💢 WORLD OF SPORTS 💢 RUSSIAN 💢 BELGIUM 💢 ROMANIA 💢 | TR- RADIO ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 26 Eylül 2023 13:10
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 26 Eylül 2026 22:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ gunevi2609
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 56FZgzAeXzNn8yHr
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇩🇪 Germany
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Berlin
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome to Xtream Codes Reborn
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 51.195.7.192
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 08 Ekim 2025 - 09:50
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Tr Sahin1903
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2279 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 28143 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/get.php?username=gunevi2609&password=56FZgzAeXzNn8yHr&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/xmltv.php?username=gunevi2609&password=56FZgzAeXzNn8yHr&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢| TR - ULUSAL  ::|:: KALITEEX ::|:: 💢 | TR - SPOR 💢 | TR - HABER 💢 | TR - BELGESEL 💢 | TR - FILM & DIZI 💢 | TR - MUZİK 💢 | TR - COCUK 💢 | TR - TV PROGRAMLARI 💢 | TR - DINI KANALLAR 💢 | TR - YEREL & DİGER 💢 DE | DEUTSCHLAND 💢 DE | FILM UND SERIE 💢 DE | DOKUMENTAR 💢 DE | KINDER 💢 DE | MUSIK 💢 DE | SPORTS 💢 DE | SPORTS HIGHLIGHTS 💢 DE | DAZN Sports 💢 AT | SKY Sports AUSTRIA 💢 DE | SKY Sports 💢 DE | SKY Sports BUNDESLIGA 💢 DE | RTL Sports & MAGENTA & DYN 💢 POLONIA 💢 GREECE 💢 NETHERLANDS 💢 ITALIA 💢 EX-YU 💢 ALBANIA 💢 SWEDEN 💢 UNITED KING | AUSTRALIA 💢 ARABIC 💢 WORLD OF SPORTS 💢 RUSSIAN 💢 BELGIUM 💢 ROMANIA 💢 | TR- RADIO ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 25 Ocak 2020 22:05
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 27 Ocak 2026 00:30
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ ibrahimcelik2501
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ UAHyO3tgyxVrlc3x
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇩🇪 Germany
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Berlin
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome to Xtream Codes Reborn
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 51.195.7.192
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 08 Ekim 2025 - 09:50
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Tr Sahin1903
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2279 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 28143 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/get.php?username=ibrahimcelik2501&password=UAHyO3tgyxVrlc3x&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/xmltv.php?username=ibrahimcelik2501&password=UAHyO3tgyxVrlc3x&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢| TR - ULUSAL  ::|:: KALITEEX ::|:: 💢 | TR - SPOR 💢 | TR - HABER 💢 | TR - BELGESEL 💢 | TR - FILM & DIZI 💢 | TR - MUZİK 💢 | TR - COCUK 💢 | TR - TV PROGRAMLARI 💢 | TR - DINI KANALLAR 💢 | TR - YEREL & DİGER 💢 DE | DEUTSCHLAND 💢 DE | FILM UND SERIE 💢 DE | DOKUMENTAR 💢 DE | KINDER 💢 DE | MUSIK 💢 DE | SPORTS 💢 DE | SPORTS HIGHLIGHTS 💢 DE | DAZN Sports 💢 AT | SKY Sports AUSTRIA 💢 DE | SKY Sports 💢 DE | SKY Sports BUNDESLIGA 💢 DE | RTL Sports & MAGENTA & DYN 💢 POLONIA 💢 GREECE 💢 NETHERLANDS 💢 ITALIA 💢 EX-YU 💢 ALBANIA 💢 SWEDEN 💢 UNITED KING | AUSTRALIA 💢 ARABIC 💢 WORLD OF SPORTS 💢 RUSSIAN 💢 BELGIUM 💢 ROMANIA 💢 | TR- RADIO ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 28 Ocak 2020 23:29
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 31 Ocak 2026 20:30
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ harungumus2801
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ desMjZUaNGozDmnm
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇩🇪 Germany
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Berlin
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome to Xtream Codes Reborn
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 51.195.7.192
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 08 Ekim 2025 - 09:50
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Tr Sahin1903
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 1149 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 28143 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/get.php?username=harungumus2801&password=desMjZUaNGozDmnm&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/xmltv.php?username=harungumus2801&password=desMjZUaNGozDmnm&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢| TR - ULUSAL  ::|:: KALITEEX ::|:: 💢 | TR - SPOR 💢 | TR - HABER 💢 | TR - BELGESEL 💢 | TR - FILM & DIZI 💢 | TR - MUZİK 💢 | TR - COCUK 💢 | TR - TV PROGRAMLARI 💢 | TR - DINI KANALLAR 💢 | TR - YEREL & DİGER 💢 DE | DEUTSCHLAND 💢 DE | FILM UND SERIE 💢 DE | DOKUMENTAR 💢 DE | KINDER 💢 DE | MUSIK 💢 DE | SPORTS 💢 DE | SPORTS HIGHLIGHTS 💢 DE | DAZN Sports 💢 AT | SKY Sports AUSTRIA 💢 DE | SKY Sports 💢 DE | SKY Sports BUNDESLIGA 💢 DE | RTL Sports & MAGENTA & DYN 💢 | TR- RADIO ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 16 Kasım 2024 22:19
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 17 Kasım 2025 22:19
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ nazik3838
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ izo38nazik
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇩🇪 Germany
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Berlin
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome to Xtream Codes Reborn
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 51.195.7.192
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 08 Ekim 2025 - 09:50
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Tr Sahin1903
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2279 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 28143 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/get.php?username=nazik3838&password=izo38nazik&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/xmltv.php?username=nazik3838&password=izo38nazik&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢| TR - ULUSAL  ::|:: KALITEEX ::|:: 💢 | TR - SPOR 💢 | TR - HABER 💢 | TR - BELGESEL 💢 | TR - FILM & DIZI 💢 | TR - MUZİK 💢 | TR - COCUK 💢 | TR - TV PROGRAMLARI 💢 | TR - DINI KANALLAR 💢 | TR - YEREL & DİGER 💢 DE | DEUTSCHLAND 💢 DE | FILM UND SERIE 💢 DE | DOKUMENTAR 💢 DE | KINDER 💢 DE | MUSIK 💢 DE | SPORTS 💢 DE | SPORTS HIGHLIGHTS 💢 DE | DAZN Sports 💢 AT | SKY Sports AUSTRIA 💢 DE | SKY Sports 💢 DE | SKY Sports BUNDESLIGA 💢 DE | RTL Sports & MAGENTA & DYN 💢 POLONIA 💢 GREECE 💢 NETHERLANDS 💢 ITALIA 💢 EX-YU 💢 ALBANIA 💢 SWEDEN 💢 UNITED KING | AUSTRALIA 💢 ARABIC 💢 WORLD OF SPORTS 💢 RUSSIAN 💢 BELGIUM 💢 ROMANIA 💢 | TR- RADIO ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 24 Ekim 2022 21:12
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 26 Ekim 2025 21:17
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ ChonoPetrovAsparuhYankovSNSNS
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ lmdxRWKb5T5XTZYr
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇩🇪 Germany
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Berlin
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome to Xtream Codes Reborn
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 51.195.7.192
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 08 Ekim 2025 - 09:50
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Tr Sahin1903
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2616 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 28777 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/get.php?username=ChonoPetrovAsparuhYankovSNSNS&password=lmdxRWKb5T5XTZYr&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/xmltv.php?username=ChonoPetrovAsparuhYankovSNSNS&password=lmdxRWKb5T5XTZYr&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢| TR - ULUSAL  ::|:: KALITEEX ::|:: 💢 | TR - SPOR 💢 | TR - HABER 💢 | TR - BELGESEL 💢 | TR - FILM & DIZI 💢 | TR - MUZİK 💢 | TR - COCUK 💢 | TR - TV PROGRAMLARI 💢 | TR - DINI KANALLAR 💢 | TR - YEREL & DİGER 💢 DE | DEUTSCHLAND 💢 DE | FILM UND SERIE 💢 DE | DOKUMENTAR 💢 DE | KINDER 💢 DE | MUSIK 💢 DE | SPORTS 💢 DE | SPORTS HIGHLIGHTS 💢 DE | DAZN Sports 💢 AT | SKY Sports AUSTRIA 💢 DE | SKY Sports 💢 DE | SKY Sports BUNDESLIGA 💢 DE | RTL Sports & MAGENTA & DYN 💢 BULGARIA 💢 POLONIA 💢 GREECE 💢 NETHERLANDS 💢 ITALIA 💢 EX-YU 💢 ALBANIA 💢 SWEDEN 💢 FOR ADULTS 💢 UNITED KING | AUSTRALIA 💢 ARABIC 💢 WORLD OF SPORTS 💢 RUSSIAN 💢 BELGIUM 💢 ROMANIA 💢 | TR- RADIO ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 31 Ekim 2024 21:53
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 01 Kasım 2025 21:53
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ Reisaksu20241101
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ MveI1VIJBIh645fH
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇩🇪 Germany
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Berlin
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome to Xtream Codes Reborn
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 51.195.7.192
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 08 Ekim 2025 - 09:50
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Tr Sahin1903
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2279 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 28143 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/get.php?username=Reisaksu20241101&password=MveI1VIJBIh645fH&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/xmltv.php?username=Reisaksu20241101&password=MveI1VIJBIh645fH&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢| TR - ULUSAL  ::|:: KALITEEX ::|:: 💢 | TR - SPOR 💢 | TR - HABER 💢 | TR - BELGESEL 💢 | TR - FILM & DIZI 💢 | TR - MUZİK 💢 | TR - COCUK 💢 | TR - TV PROGRAMLARI 💢 | TR - DINI KANALLAR 💢 | TR - YEREL & DİGER 💢 DE | DEUTSCHLAND 💢 DE | FILM UND SERIE 💢 DE | DOKUMENTAR 💢 DE | KINDER 💢 DE | MUSIK 💢 DE | SPORTS 💢 DE | SPORTS HIGHLIGHTS 💢 DE | DAZN Sports 💢 AT | SKY Sports AUSTRIA 💢 DE | SKY Sports 💢 DE | SKY Sports BUNDESLIGA 💢 DE | RTL Sports & MAGENTA & DYN 💢 POLONIA 💢 GREECE 💢 NETHERLANDS 💢 ITALIA 💢 EX-YU 💢 ALBANIA 💢 SWEDEN 💢 UNITED KING | AUSTRALIA 💢 ARABIC 💢 WORLD OF SPORTS 💢 RUSSIAN 💢 BELGIUM 💢 ROMANIA 💢 | TR- RADIO ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 23 Ekim 2021 23:19
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 09 Kasım 2025 13:23
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ Ismailonkel
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 9FoS5gidAx0OIVas
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇩🇪 Germany
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Berlin
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome to Xtream Codes Reborn
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 51.195.7.192
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 08 Ekim 2025 - 09:50
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Tr Sahin1903
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2279 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 28143 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/get.php?username=Ismailonkel&password=9FoS5gidAx0OIVas&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/xmltv.php?username=Ismailonkel&password=9FoS5gidAx0OIVas&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢| TR - ULUSAL  ::|:: KALITEEX ::|:: 💢 | TR - SPOR 💢 | TR - HABER 💢 | TR - BELGESEL 💢 | TR - FILM & DIZI 💢 | TR - MUZİK 💢 | TR - COCUK 💢 | TR - TV PROGRAMLARI 💢 | TR - DINI KANALLAR 💢 | TR - YEREL & DİGER 💢 DE | DEUTSCHLAND 💢 DE | FILM UND SERIE 💢 DE | DOKUMENTAR 💢 DE | KINDER 💢 DE | MUSIK 💢 DE | SPORTS 💢 DE | SPORTS HIGHLIGHTS 💢 DE | DAZN Sports 💢 AT | SKY Sports AUSTRIA 💢 DE | SKY Sports 💢 DE | SKY Sports BUNDESLIGA 💢 DE | RTL Sports & MAGENTA & DYN 💢 POLONIA 💢 GREECE 💢 NETHERLANDS 💢 ITALIA 💢 EX-YU 💢 ALBANIA 💢 SWEDEN 💢 UNITED KING | AUSTRALIA 💢 ARABIC 💢 WORLD OF SPORTS 💢 RUSSIAN 💢 BELGIUM 💢 ROMANIA 💢 | TR- RADIO ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 14 Kasım 2021 20:08
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 15 Kasım 2025 20:08
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ Kenancetiner1511
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ h0jDuJ2eolk7Oy4z
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇩🇪 Germany
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Berlin
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome to Xtream Codes Reborn
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 51.195.7.192
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 08 Ekim 2025 - 09:50
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Tr Sahin1903
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 1188 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 28143 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/get.php?username=Kenancetiner1511&password=h0jDuJ2eolk7Oy4z&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/xmltv.php?username=Kenancetiner1511&password=h0jDuJ2eolk7Oy4z&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢| TR - ULUSAL  ::|:: KALITEEX ::|:: 💢 | TR - SPOR 💢 | TR - HABER 💢 | TR - BELGESEL 💢 | TR - FILM & DIZI 💢 | TR - MUZİK 💢 | TR - COCUK 💢 | TR - TV PROGRAMLARI 💢 | TR - DINI KANALLAR 💢 | TR - YEREL & DİGER 💢 DE | DEUTSCHLAND 💢 DE | FILM UND SERIE 💢 DE | DOKUMENTAR 💢 DE | KINDER 💢 DE | MUSIK 💢 DE | SPORTS 💢 DE | SPORTS HIGHLIGHTS 💢 DE | DAZN Sports 💢 AT | SKY Sports AUSTRIA 💢 DE | SKY Sports 💢 DE | SKY Sports BUNDESLIGA 💢 DE | RTL Sports & MAGENTA & DYN 💢 WORLD OF SPORTS 💢 | TR- RADIO ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 31 Mart 2020 23:17
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 01 Nisan 2026 23:30
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ Maunsurbochum0142020
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ omKsXvmBudqCCyLw
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇩🇪 Germany
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Berlin
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome to Xtream Codes Reborn
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 51.195.7.192
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 08 Ekim 2025 - 09:50
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Tr Sahin1903
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2361 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 28143 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/get.php?username=Maunsurbochum0142020&password=omKsXvmBudqCCyLw&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/xmltv.php?username=Maunsurbochum0142020&password=omKsXvmBudqCCyLw&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢| TR - ULUSAL  ::|:: KALITEEX ::|:: 💢 | TR - SPOR 💢 | TR - HABER 💢 | TR - BELGESEL 💢 | TR - FILM & DIZI 💢 | TR - MUZİK 💢 | TR - COCUK 💢 | TR - TV PROGRAMLARI 💢 | TR - DINI KANALLAR 💢 | TR - YEREL & DİGER 💢 DE | DEUTSCHLAND 💢 DE | FILM UND SERIE 💢 DE | DOKUMENTAR 💢 DE | KINDER 💢 DE | MUSIK 💢 DE | SPORTS 💢 DE | SPORTS HIGHLIGHTS 💢 DE | DAZN Sports 💢 AT | SKY Sports AUSTRIA 💢 DE | SKY Sports 💢 DE | SKY Sports BUNDESLIGA 💢 DE | RTL Sports & MAGENTA & DYN 💢 POLONIA 💢 GREECE 💢 NETHERLANDS 💢 ITALIA 💢 EX-YU 💢 ALBANIA 💢 SWEDEN 💢 FOR ADULTS 💢 UNITED KING | AUSTRALIA 💢 ARABIC 💢 WORLD OF SPORTS 💢 RUSSIAN 💢 BELGIUM 💢 ROMANIA 💢 | TR- RADIO ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 22 Mayıs 2021 13:33
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 24 Kasım 2025 17:30
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ Simonemehmedmehmedovdbdbdbd
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ Dvdbdbdbdbdbd
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇩🇪 Germany
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Berlin
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome to Xtream Codes Reborn
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 51.195.7.192
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 08 Ekim 2025 - 09:50
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Tr Sahin1903
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2534 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 28777 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/get.php?username=Simonemehmedmehmedovdbdbdbd&password=Dvdbdbdbdbdbd&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/xmltv.php?username=Simonemehmedmehmedovdbdbdbd&password=Dvdbdbdbdbdbd&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢| TR - ULUSAL  ::|:: KALITEEX ::|:: 💢 | TR - SPOR 💢 | TR - HABER 💢 | TR - BELGESEL 💢 | TR - FILM & DIZI 💢 | TR - MUZİK 💢 | TR - COCUK 💢 | TR - TV PROGRAMLARI 💢 | TR - DINI KANALLAR 💢 | TR - YEREL & DİGER 💢 DE | DEUTSCHLAND 💢 DE | FILM UND SERIE 💢 DE | DOKUMENTAR 💢 DE | KINDER 💢 DE | MUSIK 💢 DE | SPORTS 💢 DE | SPORTS HIGHLIGHTS 💢 DE | DAZN Sports 💢 AT | SKY Sports AUSTRIA 💢 DE | SKY Sports 💢 DE | SKY Sports BUNDESLIGA 💢 DE | RTL Sports & MAGENTA & DYN 💢 BULGARIA 💢 POLONIA 💢 GREECE 💢 NETHERLANDS 💢 ITALIA 💢 EX-YU 💢 ALBANIA 💢 SWEDEN 💢 UNITED KING | AUSTRALIA 💢 ARABIC 💢 WORLD OF SPORTS 💢 RUSSIAN 💢 BELGIUM 💢 ROMANIA 💢 | TR- RADIO ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 25 Ocak 2020 22:02
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 24 Ocak 2026 23:30
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ coskunessen2401cs
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ wWG4CUVJ1ctaQr5T
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇩🇪 Germany
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Berlin
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome to Xtream Codes Reborn
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 51.195.7.192
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 08 Ekim 2025 - 09:51
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Tr Sahin1903
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2361 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 28143 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/get.php?username=coskunessen2401cs&password=wWG4CUVJ1ctaQr5T&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/xmltv.php?username=coskunessen2401cs&password=wWG4CUVJ1ctaQr5T&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢| TR - ULUSAL  ::|:: KALITEEX ::|:: 💢 | TR - SPOR 💢 | TR - HABER 💢 | TR - BELGESEL 💢 | TR - FILM & DIZI 💢 | TR - MUZİK 💢 | TR - COCUK 💢 | TR - TV PROGRAMLARI 💢 | TR - DINI KANALLAR 💢 | TR - YEREL & DİGER 💢 DE | DEUTSCHLAND 💢 DE | FILM UND SERIE 💢 DE | DOKUMENTAR 💢 DE | KINDER 💢 DE | MUSIK 💢 DE | SPORTS 💢 DE | SPORTS HIGHLIGHTS 💢 DE | DAZN Sports 💢 AT | SKY Sports AUSTRIA 💢 DE | SKY Sports 💢 DE | SKY Sports BUNDESLIGA 💢 DE | RTL Sports & MAGENTA & DYN 💢 POLONIA 💢 GREECE 💢 NETHERLANDS 💢 ITALIA 💢 EX-YU 💢 ALBANIA 💢 SWEDEN 💢 FOR ADULTS 💢 UNITED KING | AUSTRALIA 💢 ARABIC 💢 WORLD OF SPORTS 💢 RUSSIAN 💢 BELGIUM 💢 ROMANIA 💢 | TR- RADIO ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 07 Ekim 2023 14:50
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 09 Ekim 2025 17:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ ceyhanakyazi
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 18ERxDGYZx6P8isn
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇩🇪 Germany
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Berlin
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome to Xtream Codes Reborn
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 51.195.7.192
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 08 Ekim 2025 - 09:51
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Tr Sahin1903
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2279 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 28143 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/get.php?username=ceyhanakyazi&password=18ERxDGYZx6P8isn&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/xmltv.php?username=ceyhanakyazi&password=18ERxDGYZx6P8isn&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢| TR - ULUSAL  ::|:: KALITEEX ::|:: 💢 | TR - SPOR 💢 | TR - HABER 💢 | TR - BELGESEL 💢 | TR - FILM & DIZI 💢 | TR - MUZİK 💢 | TR - COCUK 💢 | TR - TV PROGRAMLARI 💢 | TR - DINI KANALLAR 💢 | TR - YEREL & DİGER 💢 DE | DEUTSCHLAND 💢 DE | FILM UND SERIE 💢 DE | DOKUMENTAR 💢 DE | KINDER 💢 DE | MUSIK 💢 DE | SPORTS 💢 DE | SPORTS HIGHLIGHTS 💢 DE | DAZN Sports 💢 AT | SKY Sports AUSTRIA 💢 DE | SKY Sports 💢 DE | SKY Sports BUNDESLIGA 💢 DE | RTL Sports & MAGENTA & DYN 💢 POLONIA 💢 GREECE 💢 NETHERLANDS 💢 ITALIA 💢 EX-YU 💢 ALBANIA 💢 SWEDEN 💢 UNITED KING | AUSTRALIA 💢 ARABIC 💢 WORLD OF SPORTS 💢 RUSSIAN 💢 BELGIUM 💢 ROMANIA 💢 | TR- RADIO ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ns31302844.ip-51-195-7.eu:8000
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 18 Ekim 2020 16:43
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 19 Ekim 2025 10:30
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ cengizkayinco1810cng
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ gjjWjaOsVKysTVeM
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇩🇪 Germany
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Berlin
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome to Xtream Codes Reborn
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 51.195.7.192
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 08 Ekim 2025 - 09:51
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Tr Sahin1903
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2361 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 28143 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/get.php?username=cengizkayinco1810cng&password=gjjWjaOsVKysTVeM&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ns31302844.ip-51-195-7.eu:8000/xmltv.php?username=cengizkayinco1810cng&password=gjjWjaOsVKysTVeM&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢| TR - ULUSAL  ::|:: KALITEEX ::|:: 💢 | TR - SPOR 💢 | TR - HABER 💢 | TR - BELGESEL 💢 | TR - FILM & DIZI 💢 | TR - MUZİK 💢 | TR - COCUK 💢 | TR - TV PROGRAMLARI 💢 | TR - DINI KANALLAR 💢 | TR - YEREL & DİGER 💢 DE | DEUTSCHLAND 💢 DE | FILM UND SERIE 💢 DE | DOKUMENTAR 💢 DE | KINDER 💢 DE | MUSIK 💢 DE | SPORTS 💢 DE | SPORTS HIGHLIGHTS 💢 DE | DAZN Sports 💢 AT | SKY Sports AUSTRIA 💢 DE | SKY Sports 💢 DE | SKY Sports BUNDESLIGA 💢 DE | RTL Sports & MAGENTA & DYN 💢 POLONIA 💢 GREECE 💢 NETHERLANDS 💢 ITALIA 💢 EX-YU 💢 ALBANIA 💢 SWEDEN 💢 FOR ADULTS 💢 UNITED KING | AUSTRALIA 💢 ARABIC 💢 WORLD OF SPORTS 💢 RUSSIAN 💢 BELGIUM 💢 ROMANIA 💢 | TR- RADIO ✷✷ 📺
+
+========================================

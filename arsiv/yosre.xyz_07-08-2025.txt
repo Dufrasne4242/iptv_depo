@@ -1,0 +1,128 @@
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://yosre.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://yosre.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 05 Eylül 2020 09:29
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 05 Eylül 2025 09:29
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ alicakir
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 03092018rds
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇫🇷 France
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Paris
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 5.196.184.21
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 07 Ağustos 2025 - 01:26
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Mustafa 58 M
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 6063 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 7802 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 1359 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://yosre.xyz:8080/get.php?username=alicakir&password=03092018rds&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://yosre.xyz:8080/xmltv.php?username=alicakir&password=03092018rds&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR: ULUSAL 💢 TR:BEIN SPORTS 💢 TR: EX-XEN SPOR 💢 TR: TABII SPOR 💢 TR: TIVIBU SPOR 💢 TR: S SPORT 💢 TR: D SMARTSPOR 💢 TR: SPORTS 💢 TR: HABERLER 💢 TR: CANLI BELGESEL 💢 TR: COCUK LIVE 💢 TR: MUZIK 💢 TR: DIZI FILM 7/24 💢 TR: SINEMA 💢 TR: OZEL SINEMA 💢 TR: YESILCAM SINEMA 💢 TR: YEREL 💢 TR: DINI 💢 TR: RADIO 💢 DE: NATIONAL 💢 DE: RAW 💢 DE: GERMANY HEVC 265 💢 DE: SPORTS 💢 DE: DAZN 💢 DE: MAGENTA 💢 DE: KINDER 💢 DE: CINEMA 💢 DE: 7/24 SERIES 💢 DE: MUSIC 💢 DE: KINO SERIEN 💢 DE: CINEMA SPECIAL 💢 DE: NEWS 💢 DE: DOCUMENTARY 💢 NL: NATIONAL 💢 NL: NEDERLAND HEVC 265 💢 NL: SPORTS 💢 NL: CINEMA 💢 NL: CHILD 💢 NL: DOCUMENTARY 💢 NL: MUSIC 💢 FR: NATIONAL 💢 FR: SPORTS 💢 FR: CINEMA 💢 FR: CHILD 💢 FR: DOCUMENTARY 💢 AT: AUSTURIA 💢 CH: SWITZERLAND 💢 IT: ITALY NATIONAL 💢 IT: ITALY SPORTS 💢 IT: ITALY CINEMA 💢 ITALY CHILD 💢 IT: ITALY DOCUMENTARY 💢 PL: POLAND 💢 BE: BELGIUM 💢 EX: EX-YU 💢 EX-YU SPORTS 💢 AL: ALBANIA 💢 BIH: BOSNIA AND HERZEGOVINA 💢 SR: SERBIA 💢 MK: MACEDONIA 💢 HR: CROATIA 💢 SL: SLOVENIA 💢 RU: RUSSIAN 💢 AZ: AZERBAIJAN 💢 UA: UKRAINE 💢 GR: GREECE 💢 BG: BULGAR 💢 RO: ROMANIA 💢 PT: PORTAGUAL 💢 DK: DENMARK 💢 NO: NORVAY 💢 SE: SWEDEN 💢 FIN: FINLAND 💢 AR: ARABIA 💢 IR: IRANIAN 💢 US: USA 💢 ES: SPAIN 💢 HU: HUNGARY 💢 CZ: CZECH REPUBLIC 💢 KU: KURDISH 💢 IN: INDIA 💢 AF: AFGHANISTAN 💢 AFR: AFRICA ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://yosre.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://yosre.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 10 Aralık 2020 22:03
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 11 Aralık 2025 19:33
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ enverergen
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 07122018ee
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇫🇷 France
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Paris
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 5.196.184.21
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 07 Ağustos 2025 - 01:26
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Mustafa 58 M
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 6063 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 7802 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 1359 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://yosre.xyz:8080/get.php?username=enverergen&password=07122018ee&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://yosre.xyz:8080/xmltv.php?username=enverergen&password=07122018ee&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR: ULUSAL 💢 TR:BEIN SPORTS 💢 TR: EX-XEN SPOR 💢 TR: TABII SPOR 💢 TR: TIVIBU SPOR 💢 TR: S SPORT 💢 TR: D SMARTSPOR 💢 TR: SPORTS 💢 TR: HABERLER 💢 TR: CANLI BELGESEL 💢 TR: COCUK LIVE 💢 TR: MUZIK 💢 TR: DIZI FILM 7/24 💢 TR: SINEMA 💢 TR: OZEL SINEMA 💢 TR: YESILCAM SINEMA 💢 TR: YEREL 💢 TR: DINI 💢 TR: RADIO 💢 DE: NATIONAL 💢 DE: RAW 💢 DE: GERMANY HEVC 265 💢 DE: SPORTS 💢 DE: DAZN 💢 DE: MAGENTA 💢 DE: KINDER 💢 DE: CINEMA 💢 DE: 7/24 SERIES 💢 DE: MUSIC 💢 DE: KINO SERIEN 💢 DE: CINEMA SPECIAL 💢 DE: NEWS 💢 DE: DOCUMENTARY 💢 NL: NATIONAL 💢 NL: NEDERLAND HEVC 265 💢 NL: SPORTS 💢 NL: CINEMA 💢 NL: CHILD 💢 NL: DOCUMENTARY 💢 NL: MUSIC 💢 FR: NATIONAL 💢 FR: SPORTS 💢 FR: CINEMA 💢 FR: CHILD 💢 FR: DOCUMENTARY 💢 AT: AUSTURIA 💢 CH: SWITZERLAND 💢 IT: ITALY NATIONAL 💢 IT: ITALY SPORTS 💢 IT: ITALY CINEMA 💢 ITALY CHILD 💢 IT: ITALY DOCUMENTARY 💢 PL: POLAND 💢 BE: BELGIUM 💢 EX: EX-YU 💢 EX-YU SPORTS 💢 AL: ALBANIA 💢 BIH: BOSNIA AND HERZEGOVINA 💢 SR: SERBIA 💢 MK: MACEDONIA 💢 HR: CROATIA 💢 SL: SLOVENIA 💢 RU: RUSSIAN 💢 AZ: AZERBAIJAN 💢 UA: UKRAINE 💢 GR: GREECE 💢 BG: BULGAR 💢 RO: ROMANIA 💢 PT: PORTAGUAL 💢 DK: DENMARK 💢 NO: NORVAY 💢 SE: SWEDEN 💢 FIN: FINLAND 💢 AR: ARABIA 💢 IR: IRANIAN 💢 US: USA 💢 ES: SPAIN 💢 HU: HUNGARY 💢 CZ: CZECH REPUBLIC 💢 KU: KURDISH 💢 IN: INDIA 💢 AF: AFGHANISTAN 💢 AFR: AFRICA ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://yosre.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://yosre.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 26 Eylül 2020 20:27
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 08 Ekim 2025 20:25
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ fikretates
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 26092019fa
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇫🇷 France
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Paris
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 5.196.184.21
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 07 Ağustos 2025 - 01:26
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Mustafa 58 M
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 6063 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 7802 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 1359 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://yosre.xyz:8080/get.php?username=fikretates&password=26092019fa&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://yosre.xyz:8080/xmltv.php?username=fikretates&password=26092019fa&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR: ULUSAL 💢 TR:BEIN SPORTS 💢 TR: EX-XEN SPOR 💢 TR: TABII SPOR 💢 TR: TIVIBU SPOR 💢 TR: S SPORT 💢 TR: D SMARTSPOR 💢 TR: SPORTS 💢 TR: HABERLER 💢 TR: CANLI BELGESEL 💢 TR: COCUK LIVE 💢 TR: MUZIK 💢 TR: DIZI FILM 7/24 💢 TR: SINEMA 💢 TR: OZEL SINEMA 💢 TR: YESILCAM SINEMA 💢 TR: YEREL 💢 TR: DINI 💢 TR: RADIO 💢 DE: NATIONAL 💢 DE: RAW 💢 DE: GERMANY HEVC 265 💢 DE: SPORTS 💢 DE: DAZN 💢 DE: MAGENTA 💢 DE: KINDER 💢 DE: CINEMA 💢 DE: 7/24 SERIES 💢 DE: MUSIC 💢 DE: KINO SERIEN 💢 DE: CINEMA SPECIAL 💢 DE: NEWS 💢 DE: DOCUMENTARY 💢 NL: NATIONAL 💢 NL: NEDERLAND HEVC 265 💢 NL: SPORTS 💢 NL: CINEMA 💢 NL: CHILD 💢 NL: DOCUMENTARY 💢 NL: MUSIC 💢 FR: NATIONAL 💢 FR: SPORTS 💢 FR: CINEMA 💢 FR: CHILD 💢 FR: DOCUMENTARY 💢 AT: AUSTURIA 💢 CH: SWITZERLAND 💢 IT: ITALY NATIONAL 💢 IT: ITALY SPORTS 💢 IT: ITALY CINEMA 💢 ITALY CHILD 💢 IT: ITALY DOCUMENTARY 💢 PL: POLAND 💢 BE: BELGIUM 💢 EX: EX-YU 💢 EX-YU SPORTS 💢 AL: ALBANIA 💢 BIH: BOSNIA AND HERZEGOVINA 💢 SR: SERBIA 💢 MK: MACEDONIA 💢 HR: CROATIA 💢 SL: SLOVENIA 💢 RU: RUSSIAN 💢 AZ: AZERBAIJAN 💢 UA: UKRAINE 💢 GR: GREECE 💢 BG: BULGAR 💢 RO: ROMANIA 💢 PT: PORTAGUAL 💢 DK: DENMARK 💢 NO: NORVAY 💢 SE: SWEDEN 💢 FIN: FINLAND 💢 AR: ARABIA 💢 IR: IRANIAN 💢 US: USA 💢 ES: SPAIN 💢 HU: HUNGARY 💢 CZ: CZECH REPUBLIC 💢 KU: KURDISH 💢 IN: INDIA 💢 AF: AFGHANISTAN 💢 AFR: AFRICA ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://yosre.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://yosre.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 14 Eylül 2020 15:34
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 29 Eylül 2025 08:49
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ erdalyesil
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 3A3GDcm4zs
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇫🇷 France
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Paris
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 5.196.184.21
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 07 Ağustos 2025 - 01:26
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Mustafa 58 M
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 6063 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 7802 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 1359 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://yosre.xyz:8080/get.php?username=erdalyesil&password=3A3GDcm4zs&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://yosre.xyz:8080/xmltv.php?username=erdalyesil&password=3A3GDcm4zs&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR: ULUSAL 💢 TR:BEIN SPORTS 💢 TR: EX-XEN SPOR 💢 TR: TABII SPOR 💢 TR: TIVIBU SPOR 💢 TR: S SPORT 💢 TR: D SMARTSPOR 💢 TR: SPORTS 💢 TR: HABERLER 💢 TR: CANLI BELGESEL 💢 TR: COCUK LIVE 💢 TR: MUZIK 💢 TR: DIZI FILM 7/24 💢 TR: SINEMA 💢 TR: OZEL SINEMA 💢 TR: YESILCAM SINEMA 💢 TR: YEREL 💢 TR: DINI 💢 TR: RADIO 💢 DE: NATIONAL 💢 DE: RAW 💢 DE: GERMANY HEVC 265 💢 DE: SPORTS 💢 DE: DAZN 💢 DE: MAGENTA 💢 DE: KINDER 💢 DE: CINEMA 💢 DE: 7/24 SERIES 💢 DE: MUSIC 💢 DE: KINO SERIEN 💢 DE: CINEMA SPECIAL 💢 DE: NEWS 💢 DE: DOCUMENTARY 💢 NL: NATIONAL 💢 NL: NEDERLAND HEVC 265 💢 NL: SPORTS 💢 NL: CINEMA 💢 NL: CHILD 💢 NL: DOCUMENTARY 💢 NL: MUSIC 💢 FR: NATIONAL 💢 FR: SPORTS 💢 FR: CINEMA 💢 FR: CHILD 💢 FR: DOCUMENTARY 💢 AT: AUSTURIA 💢 CH: SWITZERLAND 💢 IT: ITALY NATIONAL 💢 IT: ITALY SPORTS 💢 IT: ITALY CINEMA 💢 ITALY CHILD 💢 IT: ITALY DOCUMENTARY 💢 PL: POLAND 💢 BE: BELGIUM 💢 EX: EX-YU 💢 EX-YU SPORTS 💢 AL: ALBANIA 💢 BIH: BOSNIA AND HERZEGOVINA 💢 SR: SERBIA 💢 MK: MACEDONIA 💢 HR: CROATIA 💢 SL: SLOVENIA 💢 RU: RUSSIAN 💢 AZ: AZERBAIJAN 💢 UA: UKRAINE 💢 GR: GREECE 💢 BG: BULGAR 💢 RO: ROMANIA 💢 PT: PORTAGUAL 💢 DK: DENMARK 💢 NO: NORVAY 💢 SE: SWEDEN 💢 FIN: FINLAND 💢 AR: ARABIA 💢 IR: IRANIAN 💢 US: USA 💢 ES: SPAIN 💢 HU: HUNGARY 💢 CZ: CZECH REPUBLIC 💢 KU: KURDISH 💢 IN: INDIA 💢 AF: AFGHANISTAN 💢 AFR: AFRICA ✷✷ 📺
+
+========================================

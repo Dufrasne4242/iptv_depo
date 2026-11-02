@@ -1,0 +1,416 @@
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://firsteu.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://104.238.31.254:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 03 Aralık 2021 16:07
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 09 Aralık 2025 19:07
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ ErenSchwiegereltern007
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ AwzRPjcpF2QW
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇨🇦 Canada
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/Toronto
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ FIRST IPTV HD
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 104.21.64.1
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ CLOUDFLARENET
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 02 Ağustos 2025 - 16:00
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Mustafa 58 M
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 1268 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 4357 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 868 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://firsteu.xyz:8080/get.php?username=ErenSchwiegereltern007&password=AwzRPjcpF2QW&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://firsteu.xyz:8080/xmltv.php?username=ErenSchwiegereltern007&password=AwzRPjcpF2QW&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR - SPOR TV 💢 TR - b-SPORTS 💢 TR - TABII SPORTS 💢 TR - S SPORT 💢 TR - D-SMART - TIVIBU 💢 TR - EXXEN SPORTS 💢 TR - ULUSAL 💢 TR - HABER 💢 TR - BELGESEL 💢 TR - SINEMA 💢 TR - COCUK 💢 TR - YEREL 💢 TR - DINI 💢 TR - MUZiK 💢 DE - ALLGEMEiN 💢 DE - SPORT TV 💢 DE - SKY SPORT 💢 DE - SKY BUNDESLIGA 💢 DE - DAZN EVENTS 💢 DE - DAZN NFL 💢 DE - RTL+ SPORT 💢 DE - DYN SPORT 💢 DE - TELEKOM SPORT 💢 DE - DOKU 💢 DE - KiNO 💢 DE - KiNDER ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://firsteu.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://104.238.31.254:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 27 Mayıs 2023 17:52
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 09 Eylül 2025 21:55
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 3a75iptv01
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ xEhyLZrxEWZ4
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇨🇦 Canada
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/Toronto
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ FIRST IPTV HD
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 104.21.80.1
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ CLOUDFLARENET
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 02 Ağustos 2025 - 16:00
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Mustafa 58 M
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 1268 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 4357 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 868 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://firsteu.xyz:8080/get.php?username=3a75iptv01&password=xEhyLZrxEWZ4&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://firsteu.xyz:8080/xmltv.php?username=3a75iptv01&password=xEhyLZrxEWZ4&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR - SPOR TV 💢 TR - b-SPORTS 💢 TR - TABII SPORTS 💢 TR - S SPORT 💢 TR - D-SMART - TIVIBU 💢 TR - EXXEN SPORTS 💢 TR - ULUSAL 💢 TR - HABER 💢 TR - BELGESEL 💢 TR - SINEMA 💢 TR - COCUK 💢 TR - YEREL 💢 TR - DINI 💢 TR - MUZiK 💢 DE - ALLGEMEiN 💢 DE - SPORT TV 💢 DE - SKY SPORT 💢 DE - SKY BUNDESLIGA 💢 DE - DAZN EVENTS 💢 DE - DAZN NFL 💢 DE - RTL+ SPORT 💢 DE - DYN SPORT 💢 DE - TELEKOM SPORT 💢 DE - DOKU 💢 DE - KiNO 💢 DE - KiNDER ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://firsteu.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://104.238.31.254:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 11 Mayıs 2021 17:31
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 29 Ağustos 2025 06:51
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ fahri0505
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 05amasya05
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇨🇦 Canada
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/Toronto
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ FIRST IPTV HD
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 104.21.48.1
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ CLOUDFLARENET
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 02 Ağustos 2025 - 16:00
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Mustafa 58 M
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8145 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 4656 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 868 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://firsteu.xyz:8080/get.php?username=fahri0505&password=05amasya05&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://firsteu.xyz:8080/xmltv.php?username=fahri0505&password=05amasya05&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR - SPOR TV 💢 TR - b-SPORTS 💢 TR - TABII SPORTS 💢 TR - S SPORT 💢 TR - D-SMART - TIVIBU 💢 TR - EXXEN SPORTS 💢 TR - ULUSAL 💢 TR - HABER 💢 TR - BELGESEL 💢 TR - SINEMA 💢 TR - COCUK 💢 TR - YEREL 💢 TR - DINI 💢 TR - MUZiK 💢 DE - ALLGEMEiN 💢 DE - SPORT TV 💢 DE - SKY SPORT 💢 DE - SKY BUNDESLIGA 💢 DE - DAZN EVENTS 💢 DE - DAZN NFL 💢 DE - RTL+ SPORT 💢 DE - DYN SPORT 💢 DE - TELEKOM SPORT 💢 DE - DOKU 💢 DE - KiNO 💢 DE - KiNDER 💢 AT - AUSTRIA 💢 FR - GENERAL 💢 FR - INFORMATION 💢 FR - DIVERTISSEMENT 💢 FR - CINEMA 💢 FR - SPORTS 💢 FR - ENFANTS 💢 FR - DOCUMENTARY 💢 FR - MUSIC 💢 DK - DENMARK 💢 CH - SWiTZERLAND 💢 SW - SWEDEN 💢 BE - BELGiUM 💢 NL - NETHERLANDS 💢 GR - GREECE 💢 BG - BULGARiA 💢 AR - ARABiAN 💢 IR - IRAN 💢 AL - ALBANiA 💢 EX - EXYU 💢 RU - RUSSiA 💢 UKR - UKRAYNA 💢 AZ - AZERBAYCAN 💢 IT - iTALY 💢 RO - ROMANiA 💢 US - USA 💢 UK - U.KiNGDOM 💢 PL - POLAND 💢 SP - SPAiN 💢 MK - MAKEDONiA 💢 HU - HUNGARY 💢 PT - PORTUGAL 💢 FI - FiNLAND 💢 NO - NORWEGiA 💢 CZ - CHECH 💢 AFR - AFRiCA 💢 WORLD SPORT 💢 FOR ADULTS ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://firsteu.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://104.238.31.254:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 29 Eylül 2020 20:59
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 29 Eylül 2025 22:01
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 61Tirgil61
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ f6POx30JPq
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇨🇦 Canada
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/Toronto
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ FIRST IPTV HD
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 104.21.32.1
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ CLOUDFLARENET
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 02 Ağustos 2025 - 19:10
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Mustafa 58 M
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 1371 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 4357 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 868 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://firsteu.xyz:8080/get.php?username=61Tirgil61&password=f6POx30JPq&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://firsteu.xyz:8080/xmltv.php?username=61Tirgil61&password=f6POx30JPq&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR - SPOR TV 💢 TR - b-SPORTS 💢 TR - TABII SPORTS 💢 TR - S SPORT 💢 TR - D-SMART - TIVIBU 💢 TR - EXXEN SPORTS 💢 TR - ULUSAL 💢 TR - HABER 💢 TR - BELGESEL 💢 TR - SINEMA 💢 TR - COCUK 💢 TR - YEREL 💢 TR - DINI 💢 TR - MUZiK 💢 DE - ALLGEMEiN 💢 DE - SPORT TV 💢 DE - SKY SPORT 💢 DE - SKY BUNDESLIGA 💢 DE - DAZN EVENTS 💢 DE - DAZN NFL 💢 DE - RTL+ SPORT 💢 DE - DYN SPORT 💢 DE - TELEKOM SPORT 💢 DE - DOKU 💢 DE - KiNO 💢 DE - KiNDER 💢 WORLD SPORT ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://firsteu.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://104.238.31.254:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 02 Ekim 2022 20:05
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 03 Ekim 2025 00:13
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ iptvhd358
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ wtRjw55Yd6ek
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇨🇦 Canada
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/Toronto
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ FIRST IPTV HD
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 104.21.32.1
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ CLOUDFLARENET
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 02 Ağustos 2025 - 19:10
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Mustafa 58 M
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8135 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 4656 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 868 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://firsteu.xyz:8080/get.php?username=iptvhd358&password=wtRjw55Yd6ek&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://firsteu.xyz:8080/xmltv.php?username=iptvhd358&password=wtRjw55Yd6ek&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR - SPOR TV 💢 TR - b-SPORTS 💢 TR - TABII SPORTS 💢 TR - S SPORT 💢 TR - D-SMART - TIVIBU 💢 TR - EXXEN SPORTS 💢 TR - ULUSAL 💢 TR - HABER 💢 TR - BELGESEL 💢 TR - SINEMA 💢 TR - COCUK 💢 TR - YEREL 💢 TR - DINI 💢 TR - MUZiK 💢 DE - ALLGEMEiN 💢 DE - SPORT TV 💢 DE - SKY SPORT 💢 DE - SKY BUNDESLIGA 💢 DE - DAZN EVENTS 💢 DE - DAZN NFL 💢 DE - RTL+ SPORT 💢 DE - DYN SPORT 💢 DE - TELEKOM SPORT 💢 DE - DOKU 💢 DE - KiNO 💢 DE - KiNDER 💢 AT - AUSTRIA 💢 FR - GENERAL 💢 FR - INFORMATION 💢 FR - DIVERTISSEMENT 💢 FR - CINEMA 💢 FR - SPORTS 💢 FR - ENFANTS 💢 FR - DOCUMENTARY 💢 FR - MUSIC 💢 DK - DENMARK 💢 CH - SWiTZERLAND 💢 SW - SWEDEN 💢 BE - BELGiUM 💢 NL - NETHERLANDS 💢 GR - GREECE 💢 BG - BULGARiA 💢 AR - ARABiAN 💢 IR - IRAN 💢 AL - ALBANiA 💢 EX - EXYU 💢 RU - RUSSiA 💢 UKR - UKRAYNA 💢 AZ - AZERBAYCAN 💢 IT - iTALY 💢 RO - ROMANiA 💢 US - USA 💢 UK - U.KiNGDOM 💢 PL - POLAND 💢 SP - SPAiN 💢 MK - MAKEDONiA 💢 HU - HUNGARY 💢 PT - PORTUGAL 💢 FI - FiNLAND 💢 NO - NORWEGiA 💢 CZ - CHECH 💢 KU - KURD 💢 AFR - AFRiCA 💢 FOR ADULTS ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://firsteu.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://104.238.31.254:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 09 Nisan 2022 14:26
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 30 Nisan 2026 15:45
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ sait58x
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ CEJtwk6LsWf6
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇨🇦 Canada
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/Toronto
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ FIRST IPTV HD
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 104.21.112.1
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ CLOUDFLARENET
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 02 Ağustos 2025 - 19:14
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Mustafa 58 M
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8135 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 4656 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 868 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://firsteu.xyz:8080/get.php?username=sait58x&password=CEJtwk6LsWf6&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://firsteu.xyz:8080/xmltv.php?username=sait58x&password=CEJtwk6LsWf6&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR - SPOR TV 💢 TR - b-SPORTS 💢 TR - TABII SPORTS 💢 TR - S SPORT 💢 TR - D-SMART - TIVIBU 💢 TR - EXXEN SPORTS 💢 TR - ULUSAL 💢 TR - HABER 💢 TR - BELGESEL 💢 TR - SINEMA 💢 TR - COCUK 💢 TR - YEREL 💢 TR - DINI 💢 TR - MUZiK 💢 DE - ALLGEMEiN 💢 DE - SPORT TV 💢 DE - SKY SPORT 💢 DE - SKY BUNDESLIGA 💢 DE - DAZN EVENTS 💢 DE - DAZN NFL 💢 DE - RTL+ SPORT 💢 DE - DYN SPORT 💢 DE - TELEKOM SPORT 💢 DE - DOKU 💢 DE - KiNO 💢 DE - KiNDER 💢 AT - AUSTRIA 💢 FR - GENERAL 💢 FR - INFORMATION 💢 FR - DIVERTISSEMENT 💢 FR - CINEMA 💢 FR - SPORTS 💢 FR - ENFANTS 💢 FR - DOCUMENTARY 💢 FR - MUSIC 💢 DK - DENMARK 💢 CH - SWiTZERLAND 💢 SW - SWEDEN 💢 BE - BELGiUM 💢 NL - NETHERLANDS 💢 GR - GREECE 💢 BG - BULGARiA 💢 AR - ARABiAN 💢 IR - IRAN 💢 AL - ALBANiA 💢 EX - EXYU 💢 RU - RUSSiA 💢 UKR - UKRAYNA 💢 AZ - AZERBAYCAN 💢 IT - iTALY 💢 RO - ROMANiA 💢 US - USA 💢 UK - U.KiNGDOM 💢 PL - POLAND 💢 SP - SPAiN 💢 MK - MAKEDONiA 💢 HU - HUNGARY 💢 PT - PORTUGAL 💢 FI - FiNLAND 💢 NO - NORWEGiA 💢 CZ - CHECH 💢 KU - KURD 💢 AFR - AFRiCA 💢 FOR ADULTS ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://firsteu.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://104.238.31.254:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 09 Aralık 2022 00:34
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 10 Aralık 2025 00:34
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ bdFbLwKWuxyz
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 7XwftxBHFxnQ
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇨🇦 Canada
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/Toronto
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ FIRST IPTV HD
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 104.21.32.1
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ CLOUDFLARENET
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 02 Ağustos 2025 - 19:14
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Mustafa 58 M
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 1294 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 4357 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 868 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://firsteu.xyz:8080/get.php?username=bdFbLwKWuxyz&password=7XwftxBHFxnQ&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://firsteu.xyz:8080/xmltv.php?username=bdFbLwKWuxyz&password=7XwftxBHFxnQ&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR - SPOR TV 💢 TR - b-SPORTS 💢 TR - TABII SPORTS 💢 TR - S SPORT 💢 TR - D-SMART - TIVIBU 💢 TR - EXXEN SPORTS 💢 TR - ULUSAL 💢 TR - HABER 💢 TR - BELGESEL 💢 TR - SINEMA 💢 TR - COCUK 💢 TR - YEREL 💢 TR - DINI 💢 TR - MUZiK 💢 DE - ALLGEMEiN 💢 DE - SPORT TV 💢 DE - SKY SPORT 💢 DE - SKY BUNDESLIGA 💢 DE - DAZN EVENTS 💢 DE - DAZN NFL 💢 DE - RTL+ SPORT 💢 DE - DYN SPORT 💢 DE - TELEKOM SPORT 💢 DE - DOKU 💢 DE - KiNO 💢 DE - KiNDER 💢 AT - AUSTRIA ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://firsteu.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://104.238.31.254:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 04 Aralık 2021 19:35
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 07 Aralık 2025 19:41
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ Tolgaabla
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ CWKgLkDg32Fn
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇨🇦 Canada
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/Toronto
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ FIRST IPTV HD
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 104.21.80.1
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ CLOUDFLARENET
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 02 Ağustos 2025 - 19:14
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Mustafa 58 M
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 1268 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 4357 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 868 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://firsteu.xyz:8080/get.php?username=Tolgaabla&password=CWKgLkDg32Fn&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://firsteu.xyz:8080/xmltv.php?username=Tolgaabla&password=CWKgLkDg32Fn&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR - SPOR TV 💢 TR - b-SPORTS 💢 TR - TABII SPORTS 💢 TR - S SPORT 💢 TR - D-SMART - TIVIBU 💢 TR - EXXEN SPORTS 💢 TR - ULUSAL 💢 TR - HABER 💢 TR - BELGESEL 💢 TR - SINEMA 💢 TR - COCUK 💢 TR - YEREL 💢 TR - DINI 💢 TR - MUZiK 💢 DE - ALLGEMEiN 💢 DE - SPORT TV 💢 DE - SKY SPORT 💢 DE - SKY BUNDESLIGA 💢 DE - DAZN EVENTS 💢 DE - DAZN NFL 💢 DE - RTL+ SPORT 💢 DE - DYN SPORT 💢 DE - TELEKOM SPORT 💢 DE - DOKU 💢 DE - KiNO 💢 DE - KiNDER ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://firsteu.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://104.238.31.254:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 22 Ağustos 2021 23:39
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 23 Ağustos 2025 15:10
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ ensmcknhmumut
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ KutGwuPfSfsr
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇨🇦 Canada
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/Toronto
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ FIRST IPTV HD
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 104.21.64.1
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ CLOUDFLARENET
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 02 Ağustos 2025 - 19:14
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Mustafa 58 M
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 1268 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 4357 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 868 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://firsteu.xyz:8080/get.php?username=ensmcknhmumut&password=KutGwuPfSfsr&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://firsteu.xyz:8080/xmltv.php?username=ensmcknhmumut&password=KutGwuPfSfsr&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR - SPOR TV 💢 TR - b-SPORTS 💢 TR - TABII SPORTS 💢 TR - S SPORT 💢 TR - D-SMART - TIVIBU 💢 TR - EXXEN SPORTS 💢 TR - ULUSAL 💢 TR - HABER 💢 TR - BELGESEL 💢 TR - SINEMA 💢 TR - COCUK 💢 TR - YEREL 💢 TR - DINI 💢 TR - MUZiK 💢 DE - ALLGEMEiN 💢 DE - SPORT TV 💢 DE - SKY SPORT 💢 DE - SKY BUNDESLIGA 💢 DE - DAZN EVENTS 💢 DE - DAZN NFL 💢 DE - RTL+ SPORT 💢 DE - DYN SPORT 💢 DE - TELEKOM SPORT 💢 DE - DOKU 💢 DE - KiNO 💢 DE - KiNDER ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://firsteu.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://104.238.31.254:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 08 Mayıs 2023 14:34
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 15 Mayıs 2026 21:28
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ iptvlive002
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 8R5PzQ68qkGF
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇨🇦 Canada
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/Toronto
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ FIRST IPTV HD
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 104.21.16.1
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ CLOUDFLARENET
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 02 Ağustos 2025 - 19:14
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Mustafa 58 M
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 3772 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 4357 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 868 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://firsteu.xyz:8080/get.php?username=iptvlive002&password=8R5PzQ68qkGF&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://firsteu.xyz:8080/xmltv.php?username=iptvlive002&password=8R5PzQ68qkGF&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR - SPOR TV 💢 TR - b-SPORTS 💢 TR - TABII SPORTS 💢 TR - S SPORT 💢 TR - D-SMART - TIVIBU 💢 TR - EXXEN SPORTS 💢 TR - ULUSAL 💢 TR - HABER 💢 TR - BELGESEL 💢 TR - SINEMA 💢 TR - COCUK 💢 TR - YEREL 💢 TR - DINI 💢 TR - MUZiK 💢 DE - ALLGEMEiN 💢 DE - SPORT TV 💢 DE - SKY SPORT 💢 DE - SKY BUNDESLIGA 💢 DE - DAZN EVENTS 💢 DE - DAZN NFL 💢 DE - RTL+ SPORT 💢 DE - DYN SPORT 💢 DE - TELEKOM SPORT 💢 DE - DOKU 💢 DE - KiNO 💢 DE - KiNDER 💢 AT - AUSTRIA 💢 FR - GENERAL 💢 FR - INFORMATION 💢 FR - DIVERTISSEMENT 💢 FR - CINEMA 💢 FR - SPORTS 💢 FR - ENFANTS 💢 FR - DOCUMENTARY 💢 FR - MUSIC 💢 DK - DENMARK 💢 CH - SWiTZERLAND 💢 BE - BELGiUM 💢 NL - NETHERLANDS 💢 GR - GREECE 💢 AL - ALBANiA 💢 EX - EXYU 💢 UKR - UKRAYNA 💢 FI - FiNLAND 💢 CZ - CHECH 💢 KU - KURD ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://firsteu.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://104.238.31.254:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 11 Eylül 2023 19:39
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 11 Eylül 2025 22:44
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ Serkanbilgici
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ wpM9Hhqb2W2w
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇨🇦 Canada
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/Toronto
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ FIRST IPTV HD
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 104.21.16.1
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ CLOUDFLARENET
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 02 Ağustos 2025 - 19:14
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Mustafa 58 M
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 1268 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 4357 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 868 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://firsteu.xyz:8080/get.php?username=Serkanbilgici&password=wpM9Hhqb2W2w&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://firsteu.xyz:8080/xmltv.php?username=Serkanbilgici&password=wpM9Hhqb2W2w&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR - SPOR TV 💢 TR - b-SPORTS 💢 TR - TABII SPORTS 💢 TR - S SPORT 💢 TR - D-SMART - TIVIBU 💢 TR - EXXEN SPORTS 💢 TR - ULUSAL 💢 TR - HABER 💢 TR - BELGESEL 💢 TR - SINEMA 💢 TR - COCUK 💢 TR - YEREL 💢 TR - DINI 💢 TR - MUZiK 💢 DE - ALLGEMEiN 💢 DE - SPORT TV 💢 DE - SKY SPORT 💢 DE - SKY BUNDESLIGA 💢 DE - DAZN EVENTS 💢 DE - DAZN NFL 💢 DE - RTL+ SPORT 💢 DE - DYN SPORT 💢 DE - TELEKOM SPORT 💢 DE - DOKU 💢 DE - KiNO 💢 DE - KiNDER ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://firsteu.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://104.238.31.254:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 05 Mayıs 2021 12:21
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 06 Mayıs 2026 01:36
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ iptvde5000
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 7sFdQ7Sl8b
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇨🇦 Canada
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/Toronto
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ FIRST IPTV HD
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 104.21.96.1
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ CLOUDFLARENET
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 02 Ağustos 2025 - 19:14
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Mustafa 58 M
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 1361 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 4357 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 868 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://firsteu.xyz:8080/get.php?username=iptvde5000&password=7sFdQ7Sl8b&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://firsteu.xyz:8080/xmltv.php?username=iptvde5000&password=7sFdQ7Sl8b&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR - SPOR TV 💢 TR - b-SPORTS 💢 TR - TABII SPORTS 💢 TR - S SPORT 💢 TR - D-SMART - TIVIBU 💢 TR - EXXEN SPORTS 💢 TR - ULUSAL 💢 TR - HABER 💢 TR - BELGESEL 💢 TR - SINEMA 💢 TR - COCUK 💢 TR - YEREL 💢 TR - DINI 💢 TR - MUZiK 💢 DE - ALLGEMEiN 💢 DE - SPORT TV 💢 DE - SKY SPORT 💢 DE - SKY BUNDESLIGA 💢 DE - DAZN EVENTS 💢 DE - DAZN NFL 💢 DE - RTL+ SPORT 💢 DE - DYN SPORT 💢 DE - TELEKOM SPORT 💢 DE - DOKU 💢 DE - KiNO 💢 DE - KiNDER 💢 KU - KURD ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://firsteu.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://104.238.31.254:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 05 Temmuz 2023 16:11
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 10 Temmuz 2026 20:40
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ iptvhdlive092
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ MCKxUEMTn6YW
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇨🇦 Canada
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/Toronto
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ FIRST IPTV HD
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 104.21.32.1
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ CLOUDFLARENET
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 02 Ağustos 2025 - 19:14
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Mustafa 58 M
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 6906 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 4357 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 868 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://firsteu.xyz:8080/get.php?username=iptvhdlive092&password=MCKxUEMTn6YW&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://firsteu.xyz:8080/xmltv.php?username=iptvhdlive092&password=MCKxUEMTn6YW&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR - SPOR TV 💢 TR - b-SPORTS 💢 TR - TABII SPORTS 💢 TR - S SPORT 💢 TR - D-SMART - TIVIBU 💢 TR - EXXEN SPORTS 💢 TR - ULUSAL 💢 TR - HABER 💢 TR - BELGESEL 💢 TR - SINEMA 💢 TR - COCUK 💢 TR - YEREL 💢 TR - DINI 💢 TR - MUZiK 💢 DE - ALLGEMEiN 💢 DE - SPORT TV 💢 DE - SKY SPORT 💢 DE - SKY BUNDESLIGA 💢 DE - DAZN EVENTS 💢 DE - DAZN NFL 💢 DE - RTL+ SPORT 💢 DE - DYN SPORT 💢 DE - TELEKOM SPORT 💢 DE - DOKU 💢 DE - KiNO 💢 DE - KiNDER 💢 AT - AUSTRIA 💢 FR - GENERAL 💢 FR - INFORMATION 💢 FR - DIVERTISSEMENT 💢 FR - CINEMA 💢 FR - SPORTS 💢 FR - ENFANTS 💢 FR - DOCUMENTARY 💢 FR - MUSIC 💢 DK - DENMARK 💢 CH - SWiTZERLAND 💢 SW - SWEDEN 💢 BE - BELGiUM 💢 NL - NETHERLANDS 💢 GR - GREECE 💢 BG - BULGARiA 💢 AR - ARABiAN 💢 IR - IRAN 💢 AL - ALBANiA 💢 EX - EXYU 💢 RU - RUSSiA 💢 UKR - UKRAYNA 💢 AZ - AZERBAYCAN 💢 IT - iTALY 💢 RO - ROMANiA 💢 UK - U.KiNGDOM 💢 PL - POLAND 💢 SP - SPAiN 💢 MK - MAKEDONiA 💢 HU - HUNGARY 💢 PT - PORTUGAL 💢 FI - FiNLAND 💢 NO - NORWEGiA 💢 CZ - CHECH 💢 KU - KURD ✷✷ 📺
+
+========================================

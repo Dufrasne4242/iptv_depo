@@ -1,0 +1,726 @@
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://krm90.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://krm90.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 12 Aralık 2021 22:57
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 13 Aralık 2025 00:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ lutfitunc3401
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ arAjziTV97
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇵🇱 Poland
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Warsaw
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 94.23.147.170
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 28 Ekim 2025 - 02:08
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 VPN KULLAN 🔒 (401)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 6905 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 8140 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 1462 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/get.php?username=lutfitunc3401&password=arAjziTV97&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/xmltv.php?username=lutfitunc3401&password=arAjziTV97&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR: ULUSAL 💢 TR:BEIN SPORTS 💢 TR: EX-XEN SPOR 💢 TR: TABII SPOR 💢 TR: TIVIBU SPOR 💢 TR: S SPORT 💢 TR: D SMARTSPOR 💢 TR: SPORTS 💢 TR: HABERLER 💢 TR: CANLI BELGESEL 💢 TR: COCUK LIVE 💢 TR: MUZIK 💢 TR: DIZI FILM 7/24 💢 TR: SINEMA 💢 TR: OZEL SINEMA 💢 TR: YESILCAM SINEMA 💢 TR: YEREL 💢 TR: DINI 💢 TR: RADIO 💢 DE: NATIONAL 💢 DE: RAW 💢 DE: GERMANY HEVC 265 💢 DE: SPORTS 💢 DE: DAZN 💢 DE: MAGENTA 💢 DE: KINDER 💢 DE: CINEMA 💢 DE: 7/24 SERIES 💢 DE: MUSIC 💢 DE: KINO SERIEN 💢 DE: CINEMA SPECIAL 💢 DE: NEWS 💢 DE: DOCUMENTARY 💢 NL: NATIONAL 💢 NL: NEDERLAND HEVC 265 💢 NL: SPORTS 💢 NL: CINEMA 💢 NL: CHILD 💢 NL: DOCUMENTARY 💢 NL: MUSIC 💢 FR: NATIONAL 💢 FR: SPORTS 💢 FR: CINEMA 💢 FR: CHILD 💢 FR: DOCUMENTARY 💢 AT: AUSTURIA 💢 CH: SWITZERLAND 💢 IT: ITALY NATIONAL 💢 IT: ITALY SPORTS 💢 IT: ITALY CINEMA 💢 ITALY CHILD 💢 IT: ITALY DOCUMENTARY 💢 PL: POLAND 💢 BE: BELGIUM 💢 EX: EX-YU 💢 EX-YU SPORTS 💢 AL: ALBANIA 💢 BIH: BOSNIA AND HERZEGOVINA 💢 SR: SERBIA 💢 MK: MACEDONIA 💢 HR: CROATIA 💢 SL: SLOVENIA 💢 RU: RUSSIAN 💢 AZ: AZERBAIJAN 💢 GR: GREECE 💢 BG: BULGAR 💢 RO: ROMANIA 💢 PT: PORTAGUAL 💢 DK: DENMARK 💢 NO: NORVAY 💢 SE: SWEDEN 💢 FIN: FINLAND 💢 AR: ARABIA 💢 IR: IRANIAN 💢 US: USA 💢 ES: SPAIN 💢 HU: HUNGARY 💢 CZ: CZECH REPUBLIC 💢 WORLD SPORTS 💢 IN: INDIA 💢 AF: AFGHANISTAN 💢 AFR: AFRICA ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://krm90.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://krm90.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 11 Aralık 2021 17:40
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 12 Aralık 2025 23:23
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ alaykursun
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 9fnqdQ9rWs
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇵🇱 Poland
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Warsaw
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 94.23.147.170
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 28 Ekim 2025 - 02:12
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 VPN KULLAN 🔒 (401)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 6977 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 8140 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 1462 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/get.php?username=alaykursun&password=9fnqdQ9rWs&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/xmltv.php?username=alaykursun&password=9fnqdQ9rWs&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR: ULUSAL 💢 TR:BEIN SPORTS 💢 TR: EX-XEN SPOR 💢 TR: TABII SPOR 💢 TR: TIVIBU SPOR 💢 TR: S SPORT 💢 TR: D SMARTSPOR 💢 TR: SPORTS 💢 TR: HABERLER 💢 TR: CANLI BELGESEL 💢 TR: COCUK LIVE 💢 TR: MUZIK 💢 TR: DIZI FILM 7/24 💢 TR: SINEMA 💢 TR: OZEL SINEMA 💢 TR: YESILCAM SINEMA 💢 TR: YEREL 💢 TR: DINI 💢 TR: RADIO 💢 DE: NATIONAL 💢 DE: RAW 💢 DE: GERMANY HEVC 265 💢 DE: SPORTS 💢 DE: DAZN 💢 DE: MAGENTA 💢 DE: KINDER 💢 DE: CINEMA 💢 DE: 7/24 SERIES 💢 DE: MUSIC 💢 DE: KINO SERIEN 💢 DE: CINEMA SPECIAL 💢 DE: NEWS 💢 DE: DOCUMENTARY 💢 NL: NATIONAL 💢 NL: NEDERLAND HEVC 265 💢 NL: SPORTS 💢 NL: CINEMA 💢 NL: CHILD 💢 NL: DOCUMENTARY 💢 NL: MUSIC 💢 FR: NATIONAL 💢 FR: SPORTS 💢 FR: CINEMA 💢 FR: CHILD 💢 FR: DOCUMENTARY 💢 AT: AUSTURIA 💢 CH: SWITZERLAND 💢 IT: ITALY NATIONAL 💢 IT: ITALY SPORTS 💢 IT: ITALY CINEMA 💢 ITALY CHILD 💢 IT: ITALY DOCUMENTARY 💢 PL: POLAND 💢 BE: BELGIUM 💢 EX: EX-YU 💢 EX-YU SPORTS 💢 AL: ALBANIA 💢 BIH: BOSNIA AND HERZEGOVINA 💢 SR: SERBIA 💢 MK: MACEDONIA 💢 HR: CROATIA 💢 SL: SLOVENIA 💢 RU: RUSSIAN 💢 AZ: AZERBAIJAN 💢 GR: GREECE 💢 BG: BULGAR 💢 RO: ROMANIA 💢 PT: PORTAGUAL 💢 DK: DENMARK 💢 NO: NORVAY 💢 SE: SWEDEN 💢 FIN: FINLAND 💢 AR: ARABIA 💢 IR: IRANIAN 💢 US: USA 💢 ES: SPAIN 💢 HU: HUNGARY 💢 CZ: CZECH REPUBLIC 💢 KU: KURDISH 💢 WORLD SPORTS 💢 IN: INDIA 💢 AF: AFGHANISTAN 💢 AFR: AFRICA ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://krm90.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://krm90.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 17 Şubat 2021 20:49
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 17 Şubat 2026 00:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ SadikGecit
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 3mamfhsWG7
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇵🇱 Poland
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Warsaw
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 94.23.147.170
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 28 Ekim 2025 - 02:14
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 VPN KULLAN 🔒 (401)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 6462 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 8885 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 1462 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/get.php?username=SadikGecit&password=3mamfhsWG7&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/xmltv.php?username=SadikGecit&password=3mamfhsWG7&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR: ULUSAL 💢 TR:BEIN SPORTS 💢 TR: EX-XEN SPOR 💢 TR: TABII SPOR 💢 TR: TIVIBU SPOR 💢 TR: S SPORT 💢 TR: D SMARTSPOR 💢 TR: SPORTS 💢 TR: HABERLER 💢 TR: CANLI BELGESEL 💢 TR: COCUK LIVE 💢 TR: MUZIK 💢 TR: DIZI FILM 7/24 💢 TR: SINEMA 💢 TR: OZEL SINEMA 💢 TR: YESILCAM SINEMA 💢 TR: YEREL 💢 TR: DINI 💢 TR: RADIO 💢 DE: NATIONAL 💢 DE: RAW 💢 DE: GERMANY HEVC 265 💢 DE: SPORTS 💢 DE: DAZN 💢 DE: MAGENTA 💢 DE: KINDER 💢 DE: CINEMA 💢 DE: 7/24 SERIES 💢 DE: MUSIC 💢 DE: KINO SERIEN 💢 DE: CINEMA SPECIAL 💢 DE: NEWS 💢 DE: DOCUMENTARY 💢 NL: NATIONAL 💢 NL: NEDERLAND HEVC 265 💢 NL: SPORTS 💢 NL: CINEMA 💢 NL: CHILD 💢 NL: DOCUMENTARY 💢 NL: MUSIC 💢 FR: NATIONAL 💢 FR: SPORTS 💢 FR: CINEMA 💢 FR: CHILD 💢 FR: DOCUMENTARY 💢 AT: AUSTURIA 💢 CH: SWITZERLAND 💢 IT: ITALY NATIONAL 💢 IT: ITALY SPORTS 💢 IT: ITALY CINEMA 💢 ITALY CHILD 💢 IT: ITALY DOCUMENTARY 💢 PL: POLAND 💢 BE: BELGIUM 💢 AL: ALBANIA 💢 BIH: BOSNIA AND HERZEGOVINA 💢 SR: SERBIA 💢 MK: MACEDONIA 💢 HR: CROATIA 💢 RU: RUSSIAN 💢 AZ: AZERBAIJAN 💢 GR: GREECE 💢 BG: BULGAR 💢 RO: ROMANIA 💢 PT: PORTAGUAL 💢 DK: DENMARK 💢 NO: NORVAY 💢 SE: SWEDEN 💢 FIN: FINLAND 💢 AR: ARABIA 💢 IR: IRANIAN 💢 US: USA 💢 ES: SPAIN 💢 CZ: CZECH REPUBLIC 💢 KU: KURDISH 💢 XXX FOR ADULTS +18 ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://krm90.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://krm90.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 25 Ekim 2022 13:26
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 28 Ekim 2025 15:41
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ cansucitciNL1
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ fEcSY8WjLBY0
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇵🇱 Poland
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Warsaw
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 94.23.147.170
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 28 Ekim 2025 - 02:47
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 VPN KULLAN 🔒 (401)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 1694 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 4605 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 1066 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/get.php?username=cansucitciNL1&password=fEcSY8WjLBY0&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/xmltv.php?username=cansucitciNL1&password=fEcSY8WjLBY0&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR: ULUSAL 💢 TR:BEIN SPORTS 💢 TR: EX-XEN SPOR 💢 TR: TABII SPOR 💢 TR: TIVIBU SPOR 💢 TR: S SPORT 💢 TR: D SMARTSPOR 💢 TR: SPORTS 💢 TR: HABERLER 💢 TR: CANLI BELGESEL 💢 TR: COCUK LIVE 💢 TR: MUZIK 💢 TR: DIZI FILM 7/24 💢 TR: SINEMA 💢 TR: OZEL SINEMA 💢 TR: YESILCAM SINEMA 💢 TR: YEREL 💢 TR: DINI 💢 TR: RADIO 💢 NL: NATIONAL 💢 NL: NEDERLAND HEVC 265 💢 NL: SPORTS 💢 NL: CINEMA 💢 NL: CHILD 💢 NL: DOCUMENTARY 💢 NL: MUSIC 💢 WORLD SPORTS ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://krm90.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://krm90.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 25 Aralık 2020 21:12
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 25 Aralık 2025 21:12
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ muratbayir
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ yC0JNqBIk2
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇵🇱 Poland
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Warsaw
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 94.23.147.170
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 28 Ekim 2025 - 02:49
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 VPN KULLAN 🔒 (401)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 6977 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 8140 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 1462 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/get.php?username=muratbayir&password=yC0JNqBIk2&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/xmltv.php?username=muratbayir&password=yC0JNqBIk2&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR: ULUSAL 💢 TR:BEIN SPORTS 💢 TR: EX-XEN SPOR 💢 TR: TABII SPOR 💢 TR: TIVIBU SPOR 💢 TR: S SPORT 💢 TR: D SMARTSPOR 💢 TR: SPORTS 💢 TR: HABERLER 💢 TR: CANLI BELGESEL 💢 TR: COCUK LIVE 💢 TR: MUZIK 💢 TR: DIZI FILM 7/24 💢 TR: SINEMA 💢 TR: OZEL SINEMA 💢 TR: YESILCAM SINEMA 💢 TR: YEREL 💢 TR: DINI 💢 TR: RADIO 💢 DE: NATIONAL 💢 DE: RAW 💢 DE: GERMANY HEVC 265 💢 DE: SPORTS 💢 DE: DAZN 💢 DE: MAGENTA 💢 DE: KINDER 💢 DE: CINEMA 💢 DE: 7/24 SERIES 💢 DE: MUSIC 💢 DE: KINO SERIEN 💢 DE: CINEMA SPECIAL 💢 DE: NEWS 💢 DE: DOCUMENTARY 💢 NL: NATIONAL 💢 NL: NEDERLAND HEVC 265 💢 NL: SPORTS 💢 NL: CINEMA 💢 NL: CHILD 💢 NL: DOCUMENTARY 💢 NL: MUSIC 💢 FR: NATIONAL 💢 FR: SPORTS 💢 FR: CINEMA 💢 FR: CHILD 💢 FR: DOCUMENTARY 💢 AT: AUSTURIA 💢 CH: SWITZERLAND 💢 IT: ITALY NATIONAL 💢 IT: ITALY SPORTS 💢 IT: ITALY CINEMA 💢 ITALY CHILD 💢 IT: ITALY DOCUMENTARY 💢 PL: POLAND 💢 BE: BELGIUM 💢 EX: EX-YU 💢 EX-YU SPORTS 💢 AL: ALBANIA 💢 BIH: BOSNIA AND HERZEGOVINA 💢 SR: SERBIA 💢 MK: MACEDONIA 💢 HR: CROATIA 💢 SL: SLOVENIA 💢 RU: RUSSIAN 💢 AZ: AZERBAIJAN 💢 GR: GREECE 💢 BG: BULGAR 💢 RO: ROMANIA 💢 PT: PORTAGUAL 💢 DK: DENMARK 💢 NO: NORVAY 💢 SE: SWEDEN 💢 FIN: FINLAND 💢 AR: ARABIA 💢 IR: IRANIAN 💢 US: USA 💢 ES: SPAIN 💢 HU: HUNGARY 💢 CZ: CZECH REPUBLIC 💢 KU: KURDISH 💢 WORLD SPORTS 💢 IN: INDIA 💢 AF: AFGHANISTAN 💢 AFR: AFRICA ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://krm90.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://krm90.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 22 Mart 2021 23:49
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 18 Aralık 2025 23:07
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ Davutannedanimark3401
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ u3POgEVtk9
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇵🇱 Poland
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Warsaw
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 94.23.147.170
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 28 Ekim 2025 - 02:52
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 VPN KULLAN 🔒 (401)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 6977 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 8140 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 1462 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/get.php?username=Davutannedanimark3401&password=u3POgEVtk9&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/xmltv.php?username=Davutannedanimark3401&password=u3POgEVtk9&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR: ULUSAL 💢 TR:BEIN SPORTS 💢 TR: EX-XEN SPOR 💢 TR: TABII SPOR 💢 TR: TIVIBU SPOR 💢 TR: S SPORT 💢 TR: D SMARTSPOR 💢 TR: SPORTS 💢 TR: HABERLER 💢 TR: CANLI BELGESEL 💢 TR: COCUK LIVE 💢 TR: MUZIK 💢 TR: DIZI FILM 7/24 💢 TR: SINEMA 💢 TR: OZEL SINEMA 💢 TR: YESILCAM SINEMA 💢 TR: YEREL 💢 TR: DINI 💢 TR: RADIO 💢 DE: NATIONAL 💢 DE: RAW 💢 DE: GERMANY HEVC 265 💢 DE: SPORTS 💢 DE: DAZN 💢 DE: MAGENTA 💢 DE: KINDER 💢 DE: CINEMA 💢 DE: 7/24 SERIES 💢 DE: MUSIC 💢 DE: KINO SERIEN 💢 DE: CINEMA SPECIAL 💢 DE: NEWS 💢 DE: DOCUMENTARY 💢 NL: NATIONAL 💢 NL: NEDERLAND HEVC 265 💢 NL: SPORTS 💢 NL: CINEMA 💢 NL: CHILD 💢 NL: DOCUMENTARY 💢 NL: MUSIC 💢 FR: NATIONAL 💢 FR: SPORTS 💢 FR: CINEMA 💢 FR: CHILD 💢 FR: DOCUMENTARY 💢 AT: AUSTURIA 💢 CH: SWITZERLAND 💢 IT: ITALY NATIONAL 💢 IT: ITALY SPORTS 💢 IT: ITALY CINEMA 💢 ITALY CHILD 💢 IT: ITALY DOCUMENTARY 💢 PL: POLAND 💢 BE: BELGIUM 💢 EX: EX-YU 💢 EX-YU SPORTS 💢 AL: ALBANIA 💢 BIH: BOSNIA AND HERZEGOVINA 💢 SR: SERBIA 💢 MK: MACEDONIA 💢 HR: CROATIA 💢 SL: SLOVENIA 💢 RU: RUSSIAN 💢 AZ: AZERBAIJAN 💢 GR: GREECE 💢 BG: BULGAR 💢 RO: ROMANIA 💢 PT: PORTAGUAL 💢 DK: DENMARK 💢 NO: NORVAY 💢 SE: SWEDEN 💢 FIN: FINLAND 💢 AR: ARABIA 💢 IR: IRANIAN 💢 US: USA 💢 ES: SPAIN 💢 HU: HUNGARY 💢 CZ: CZECH REPUBLIC 💢 KU: KURDISH 💢 WORLD SPORTS 💢 IN: INDIA 💢 AF: AFGHANISTAN 💢 AFR: AFRICA ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://krm90.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://krm90.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 22 Şubat 2022 16:27
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 26 Mayıs 2026 13:44
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ Fatihsalepci
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ FK5ix90P6B
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇵🇱 Poland
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Warsaw
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 94.23.147.170
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 28 Ekim 2025 - 03:03
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ VAR ✅ (200)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 7221 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 8885 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 1462 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/get.php?username=Fatihsalepci&password=FK5ix90P6B&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/xmltv.php?username=Fatihsalepci&password=FK5ix90P6B&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR: ULUSAL 💢 TR:BEIN SPORTS 💢 TR: EX-XEN SPOR 💢 TR: TABII SPOR 💢 TR: TIVIBU SPOR 💢 TR: S SPORT 💢 TR: D SMARTSPOR 💢 TR: SPORTS 💢 TR: HABERLER 💢 TR: CANLI BELGESEL 💢 TR: COCUK LIVE 💢 TR: MUZIK 💢 TR: DIZI FILM 7/24 💢 TR: SINEMA 💢 TR: OZEL SINEMA 💢 TR: YESILCAM SINEMA 💢 TR: YEREL 💢 TR: DINI 💢 TR: RADIO 💢 DE: NATIONAL 💢 DE: RAW 💢 DE: GERMANY HEVC 265 💢 DE: SPORTS 💢 DE: DAZN 💢 DE: MAGENTA 💢 DE: KINDER 💢 DE: CINEMA 💢 DE: 7/24 SERIES 💢 DE: MUSIC 💢 DE: KINO SERIEN 💢 DE: CINEMA SPECIAL 💢 DE: NEWS 💢 DE: DOCUMENTARY 💢 NL: NATIONAL 💢 NL: NEDERLAND HEVC 265 💢 NL: SPORTS 💢 NL: CINEMA 💢 NL: CHILD 💢 NL: DOCUMENTARY 💢 NL: MUSIC 💢 FR: NATIONAL 💢 FR: SPORTS 💢 FR: CINEMA 💢 FR: CHILD 💢 FR: DOCUMENTARY 💢 AT: AUSTURIA 💢 CH: SWITZERLAND 💢 IT: ITALY NATIONAL 💢 IT: ITALY SPORTS 💢 IT: ITALY CINEMA 💢 ITALY CHILD 💢 IT: ITALY DOCUMENTARY 💢 PL: POLAND 💢 BE: BELGIUM 💢 EX: EX-YU 💢 EX-YU SPORTS 💢 AL: ALBANIA 💢 BIH: BOSNIA AND HERZEGOVINA 💢 SR: SERBIA 💢 MK: MACEDONIA 💢 HR: CROATIA 💢 SL: SLOVENIA 💢 RU: RUSSIAN 💢 AZ: AZERBAIJAN 💢 GR: GREECE 💢 BG: BULGAR 💢 RO: ROMANIA 💢 PT: PORTAGUAL 💢 DK: DENMARK 💢 NO: NORVAY 💢 SE: SWEDEN 💢 FIN: FINLAND 💢 AR: ARABIA 💢 IR: IRANIAN 💢 US: USA 💢 ES: SPAIN 💢 HU: HUNGARY 💢 CZ: CZECH REPUBLIC 💢 KU: KURDISH 💢 WORLD SPORTS 💢 IN: INDIA 💢 AF: AFGHANISTAN 💢 AFR: AFRICA 💢 XXX FOR ADULTS +18 ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://krm90.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://krm90.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 22 Ekim 2021 21:47
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 23 Ekim 2026 21:47
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ guvengursoy
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ iFAUCEE580
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇵🇱 Poland
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Warsaw
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 94.23.147.170
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 28 Ekim 2025 - 03:21
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 VPN KULLAN 🔒 (401)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 6977 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 8140 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 1462 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/get.php?username=guvengursoy&password=iFAUCEE580&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/xmltv.php?username=guvengursoy&password=iFAUCEE580&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR: ULUSAL 💢 TR:BEIN SPORTS 💢 TR: EX-XEN SPOR 💢 TR: TABII SPOR 💢 TR: TIVIBU SPOR 💢 TR: S SPORT 💢 TR: D SMARTSPOR 💢 TR: SPORTS 💢 TR: HABERLER 💢 TR: CANLI BELGESEL 💢 TR: COCUK LIVE 💢 TR: MUZIK 💢 TR: DIZI FILM 7/24 💢 TR: SINEMA 💢 TR: OZEL SINEMA 💢 TR: YESILCAM SINEMA 💢 TR: YEREL 💢 TR: DINI 💢 TR: RADIO 💢 DE: NATIONAL 💢 DE: RAW 💢 DE: GERMANY HEVC 265 💢 DE: SPORTS 💢 DE: DAZN 💢 DE: MAGENTA 💢 DE: KINDER 💢 DE: CINEMA 💢 DE: 7/24 SERIES 💢 DE: MUSIC 💢 DE: KINO SERIEN 💢 DE: CINEMA SPECIAL 💢 DE: NEWS 💢 DE: DOCUMENTARY 💢 NL: NATIONAL 💢 NL: NEDERLAND HEVC 265 💢 NL: SPORTS 💢 NL: CINEMA 💢 NL: CHILD 💢 NL: DOCUMENTARY 💢 NL: MUSIC 💢 FR: NATIONAL 💢 FR: SPORTS 💢 FR: CINEMA 💢 FR: CHILD 💢 FR: DOCUMENTARY 💢 AT: AUSTURIA 💢 CH: SWITZERLAND 💢 IT: ITALY NATIONAL 💢 IT: ITALY SPORTS 💢 IT: ITALY CINEMA 💢 ITALY CHILD 💢 IT: ITALY DOCUMENTARY 💢 PL: POLAND 💢 BE: BELGIUM 💢 EX: EX-YU 💢 EX-YU SPORTS 💢 AL: ALBANIA 💢 BIH: BOSNIA AND HERZEGOVINA 💢 SR: SERBIA 💢 MK: MACEDONIA 💢 HR: CROATIA 💢 SL: SLOVENIA 💢 RU: RUSSIAN 💢 AZ: AZERBAIJAN 💢 GR: GREECE 💢 BG: BULGAR 💢 RO: ROMANIA 💢 PT: PORTAGUAL 💢 DK: DENMARK 💢 NO: NORVAY 💢 SE: SWEDEN 💢 FIN: FINLAND 💢 AR: ARABIA 💢 IR: IRANIAN 💢 US: USA 💢 ES: SPAIN 💢 HU: HUNGARY 💢 CZ: CZECH REPUBLIC 💢 KU: KURDISH 💢 WORLD SPORTS 💢 IN: INDIA 💢 AF: AFGHANISTAN 💢 AFR: AFRICA ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://krm90.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://krm90.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 12 Haziran 2023 00:20
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 13 Haziran 2026 18:34
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ mevlutsahin
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ APouMm2BWt
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇵🇱 Poland
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Warsaw
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 94.23.147.170
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 28 Ekim 2025 - 03:25
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 VPN KULLAN 🔒 (401)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 7221 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 8885 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 1462 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/get.php?username=mevlutsahin&password=APouMm2BWt&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/xmltv.php?username=mevlutsahin&password=APouMm2BWt&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR: ULUSAL 💢 TR:BEIN SPORTS 💢 TR: EX-XEN SPOR 💢 TR: TABII SPOR 💢 TR: TIVIBU SPOR 💢 TR: S SPORT 💢 TR: D SMARTSPOR 💢 TR: SPORTS 💢 TR: HABERLER 💢 TR: CANLI BELGESEL 💢 TR: COCUK LIVE 💢 TR: MUZIK 💢 TR: DIZI FILM 7/24 💢 TR: SINEMA 💢 TR: OZEL SINEMA 💢 TR: YESILCAM SINEMA 💢 TR: YEREL 💢 TR: DINI 💢 TR: RADIO 💢 DE: NATIONAL 💢 DE: RAW 💢 DE: GERMANY HEVC 265 💢 DE: SPORTS 💢 DE: DAZN 💢 DE: MAGENTA 💢 DE: KINDER 💢 DE: CINEMA 💢 DE: 7/24 SERIES 💢 DE: MUSIC 💢 DE: KINO SERIEN 💢 DE: CINEMA SPECIAL 💢 DE: NEWS 💢 DE: DOCUMENTARY 💢 NL: NATIONAL 💢 NL: NEDERLAND HEVC 265 💢 NL: SPORTS 💢 NL: CINEMA 💢 NL: CHILD 💢 NL: DOCUMENTARY 💢 NL: MUSIC 💢 FR: NATIONAL 💢 FR: SPORTS 💢 FR: CINEMA 💢 FR: CHILD 💢 FR: DOCUMENTARY 💢 AT: AUSTURIA 💢 CH: SWITZERLAND 💢 IT: ITALY NATIONAL 💢 IT: ITALY SPORTS 💢 IT: ITALY CINEMA 💢 ITALY CHILD 💢 IT: ITALY DOCUMENTARY 💢 PL: POLAND 💢 BE: BELGIUM 💢 EX: EX-YU 💢 EX-YU SPORTS 💢 AL: ALBANIA 💢 BIH: BOSNIA AND HERZEGOVINA 💢 SR: SERBIA 💢 MK: MACEDONIA 💢 HR: CROATIA 💢 SL: SLOVENIA 💢 RU: RUSSIAN 💢 AZ: AZERBAIJAN 💢 GR: GREECE 💢 BG: BULGAR 💢 RO: ROMANIA 💢 PT: PORTAGUAL 💢 DK: DENMARK 💢 NO: NORVAY 💢 SE: SWEDEN 💢 FIN: FINLAND 💢 AR: ARABIA 💢 IR: IRANIAN 💢 US: USA 💢 ES: SPAIN 💢 HU: HUNGARY 💢 CZ: CZECH REPUBLIC 💢 KU: KURDISH 💢 WORLD SPORTS 💢 IN: INDIA 💢 AF: AFGHANISTAN 💢 AFR: AFRICA 💢 XXX FOR ADULTS +18 ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://krm90.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://krm90.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 05 Ağustos 2020 14:30
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 08 Ağustos 2026 18:32
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ sahinyuksel2
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ vz1w9x8z98V1
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇵🇱 Poland
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Warsaw
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 94.23.147.170
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 28 Ekim 2025 - 03:26
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 VPN KULLAN 🔒 (401)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 6977 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 8140 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 1462 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/get.php?username=sahinyuksel2&password=vz1w9x8z98V1&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/xmltv.php?username=sahinyuksel2&password=vz1w9x8z98V1&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR: ULUSAL 💢 TR:BEIN SPORTS 💢 TR: EX-XEN SPOR 💢 TR: TABII SPOR 💢 TR: TIVIBU SPOR 💢 TR: S SPORT 💢 TR: D SMARTSPOR 💢 TR: SPORTS 💢 TR: HABERLER 💢 TR: CANLI BELGESEL 💢 TR: COCUK LIVE 💢 TR: MUZIK 💢 TR: DIZI FILM 7/24 💢 TR: SINEMA 💢 TR: OZEL SINEMA 💢 TR: YESILCAM SINEMA 💢 TR: YEREL 💢 TR: DINI 💢 TR: RADIO 💢 DE: NATIONAL 💢 DE: RAW 💢 DE: GERMANY HEVC 265 💢 DE: SPORTS 💢 DE: DAZN 💢 DE: MAGENTA 💢 DE: KINDER 💢 DE: CINEMA 💢 DE: 7/24 SERIES 💢 DE: MUSIC 💢 DE: KINO SERIEN 💢 DE: CINEMA SPECIAL 💢 DE: NEWS 💢 DE: DOCUMENTARY 💢 NL: NATIONAL 💢 NL: NEDERLAND HEVC 265 💢 NL: SPORTS 💢 NL: CINEMA 💢 NL: CHILD 💢 NL: DOCUMENTARY 💢 NL: MUSIC 💢 FR: NATIONAL 💢 FR: SPORTS 💢 FR: CINEMA 💢 FR: CHILD 💢 FR: DOCUMENTARY 💢 AT: AUSTURIA 💢 CH: SWITZERLAND 💢 IT: ITALY NATIONAL 💢 IT: ITALY SPORTS 💢 IT: ITALY CINEMA 💢 ITALY CHILD 💢 IT: ITALY DOCUMENTARY 💢 PL: POLAND 💢 BE: BELGIUM 💢 EX: EX-YU 💢 EX-YU SPORTS 💢 AL: ALBANIA 💢 BIH: BOSNIA AND HERZEGOVINA 💢 SR: SERBIA 💢 MK: MACEDONIA 💢 HR: CROATIA 💢 SL: SLOVENIA 💢 RU: RUSSIAN 💢 AZ: AZERBAIJAN 💢 GR: GREECE 💢 BG: BULGAR 💢 RO: ROMANIA 💢 PT: PORTAGUAL 💢 DK: DENMARK 💢 NO: NORVAY 💢 SE: SWEDEN 💢 FIN: FINLAND 💢 AR: ARABIA 💢 IR: IRANIAN 💢 US: USA 💢 ES: SPAIN 💢 HU: HUNGARY 💢 CZ: CZECH REPUBLIC 💢 KU: KURDISH 💢 WORLD SPORTS 💢 IN: INDIA 💢 AF: AFGHANISTAN 💢 AFR: AFRICA ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://krm90.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://krm90.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 03 Ağustos 2022 23:59
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 17 Ağustos 2026 19:09
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ emirasultan
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ W0cjaWwB9b
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇵🇱 Poland
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Warsaw
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 94.23.147.170
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 28 Ekim 2025 - 03:29
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ VAR ✅ (200)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 7221 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 8885 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 1462 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/get.php?username=emirasultan&password=W0cjaWwB9b&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/xmltv.php?username=emirasultan&password=W0cjaWwB9b&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR: ULUSAL 💢 TR:BEIN SPORTS 💢 TR: EX-XEN SPOR 💢 TR: TABII SPOR 💢 TR: TIVIBU SPOR 💢 TR: S SPORT 💢 TR: D SMARTSPOR 💢 TR: SPORTS 💢 TR: HABERLER 💢 TR: CANLI BELGESEL 💢 TR: COCUK LIVE 💢 TR: MUZIK 💢 TR: DIZI FILM 7/24 💢 TR: SINEMA 💢 TR: OZEL SINEMA 💢 TR: YESILCAM SINEMA 💢 TR: YEREL 💢 TR: DINI 💢 TR: RADIO 💢 DE: NATIONAL 💢 DE: RAW 💢 DE: GERMANY HEVC 265 💢 DE: SPORTS 💢 DE: DAZN 💢 DE: MAGENTA 💢 DE: KINDER 💢 DE: CINEMA 💢 DE: 7/24 SERIES 💢 DE: MUSIC 💢 DE: KINO SERIEN 💢 DE: CINEMA SPECIAL 💢 DE: NEWS 💢 DE: DOCUMENTARY 💢 NL: NATIONAL 💢 NL: NEDERLAND HEVC 265 💢 NL: SPORTS 💢 NL: CINEMA 💢 NL: CHILD 💢 NL: DOCUMENTARY 💢 NL: MUSIC 💢 FR: NATIONAL 💢 FR: SPORTS 💢 FR: CINEMA 💢 FR: CHILD 💢 FR: DOCUMENTARY 💢 AT: AUSTURIA 💢 CH: SWITZERLAND 💢 IT: ITALY NATIONAL 💢 IT: ITALY SPORTS 💢 IT: ITALY CINEMA 💢 ITALY CHILD 💢 IT: ITALY DOCUMENTARY 💢 PL: POLAND 💢 BE: BELGIUM 💢 EX: EX-YU 💢 EX-YU SPORTS 💢 AL: ALBANIA 💢 BIH: BOSNIA AND HERZEGOVINA 💢 SR: SERBIA 💢 MK: MACEDONIA 💢 HR: CROATIA 💢 SL: SLOVENIA 💢 RU: RUSSIAN 💢 AZ: AZERBAIJAN 💢 GR: GREECE 💢 BG: BULGAR 💢 RO: ROMANIA 💢 PT: PORTAGUAL 💢 DK: DENMARK 💢 NO: NORVAY 💢 SE: SWEDEN 💢 FIN: FINLAND 💢 AR: ARABIA 💢 IR: IRANIAN 💢 US: USA 💢 ES: SPAIN 💢 HU: HUNGARY 💢 CZ: CZECH REPUBLIC 💢 KU: KURDISH 💢 WORLD SPORTS 💢 IN: INDIA 💢 AF: AFGHANISTAN 💢 AFR: AFRICA 💢 XXX FOR ADULTS +18 ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://krm90.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://krm90.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 13 Eylül 2020 19:01
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 14 Eylül 2026 20:38
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ arslanunal13092020
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ Qw9IvhheJG
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇵🇱 Poland
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Warsaw
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 94.23.147.170
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 28 Ekim 2025 - 03:42
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 VPN KULLAN 🔒 (401)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 6977 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 8140 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 1462 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/get.php?username=arslanunal13092020&password=Qw9IvhheJG&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/xmltv.php?username=arslanunal13092020&password=Qw9IvhheJG&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR: ULUSAL 💢 TR:BEIN SPORTS 💢 TR: EX-XEN SPOR 💢 TR: TABII SPOR 💢 TR: TIVIBU SPOR 💢 TR: S SPORT 💢 TR: D SMARTSPOR 💢 TR: SPORTS 💢 TR: HABERLER 💢 TR: CANLI BELGESEL 💢 TR: COCUK LIVE 💢 TR: MUZIK 💢 TR: DIZI FILM 7/24 💢 TR: SINEMA 💢 TR: OZEL SINEMA 💢 TR: YESILCAM SINEMA 💢 TR: YEREL 💢 TR: DINI 💢 TR: RADIO 💢 DE: NATIONAL 💢 DE: RAW 💢 DE: GERMANY HEVC 265 💢 DE: SPORTS 💢 DE: DAZN 💢 DE: MAGENTA 💢 DE: KINDER 💢 DE: CINEMA 💢 DE: 7/24 SERIES 💢 DE: MUSIC 💢 DE: KINO SERIEN 💢 DE: CINEMA SPECIAL 💢 DE: NEWS 💢 DE: DOCUMENTARY 💢 NL: NATIONAL 💢 NL: NEDERLAND HEVC 265 💢 NL: SPORTS 💢 NL: CINEMA 💢 NL: CHILD 💢 NL: DOCUMENTARY 💢 NL: MUSIC 💢 FR: NATIONAL 💢 FR: SPORTS 💢 FR: CINEMA 💢 FR: CHILD 💢 FR: DOCUMENTARY 💢 AT: AUSTURIA 💢 CH: SWITZERLAND 💢 IT: ITALY NATIONAL 💢 IT: ITALY SPORTS 💢 IT: ITALY CINEMA 💢 ITALY CHILD 💢 IT: ITALY DOCUMENTARY 💢 PL: POLAND 💢 BE: BELGIUM 💢 EX: EX-YU 💢 EX-YU SPORTS 💢 AL: ALBANIA 💢 BIH: BOSNIA AND HERZEGOVINA 💢 SR: SERBIA 💢 MK: MACEDONIA 💢 HR: CROATIA 💢 SL: SLOVENIA 💢 RU: RUSSIAN 💢 AZ: AZERBAIJAN 💢 GR: GREECE 💢 BG: BULGAR 💢 RO: ROMANIA 💢 PT: PORTAGUAL 💢 DK: DENMARK 💢 NO: NORVAY 💢 SE: SWEDEN 💢 FIN: FINLAND 💢 AR: ARABIA 💢 IR: IRANIAN 💢 US: USA 💢 ES: SPAIN 💢 HU: HUNGARY 💢 CZ: CZECH REPUBLIC 💢 KU: KURDISH 💢 WORLD SPORTS 💢 IN: INDIA 💢 AF: AFGHANISTAN 💢 AFR: AFRICA ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://krm90.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://krm90.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 30 Eylül 2020 23:22
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 03 Ekim 2026 00:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ KamilKaplan
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ HBINB5uJGhawq
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇵🇱 Poland
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Warsaw
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 94.23.147.170
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 28 Ekim 2025 - 04:49
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 VPN KULLAN 🔒 (401)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2330 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 8140 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 1462 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/get.php?username=KamilKaplan&password=HBINB5uJGhawq&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/xmltv.php?username=KamilKaplan&password=HBINB5uJGhawq&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR: ULUSAL 💢 TR:BEIN SPORTS 💢 TR: EX-XEN SPOR 💢 TR: TABII SPOR 💢 TR: TIVIBU SPOR 💢 TR: S SPORT 💢 TR: D SMARTSPOR 💢 TR: SPORTS 💢 TR: HABERLER 💢 TR: CANLI BELGESEL 💢 TR: COCUK LIVE 💢 TR: MUZIK 💢 TR: DIZI FILM 7/24 💢 TR: SINEMA 💢 TR: OZEL SINEMA 💢 TR: YESILCAM SINEMA 💢 TR: YEREL 💢 TR: DINI 💢 TR: RADIO 💢 DE: NATIONAL 💢 DE: RAW 💢 DE: GERMANY HEVC 265 💢 DE: SPORTS 💢 DE: DAZN 💢 DE: MAGENTA 💢 DE: KINDER 💢 DE: CINEMA 💢 DE: 7/24 SERIES 💢 DE: MUSIC 💢 DE: KINO SERIEN 💢 DE: CINEMA SPECIAL 💢 DE: NEWS 💢 DE: DOCUMENTARY ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://krm90.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://krm90.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 10 Ekim 2021 14:58
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 12 Ekim 2026 21:24
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ resulozkilic
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ Fxp5H8H0cb
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇵🇱 Poland
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Warsaw
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 94.23.147.170
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 28 Ekim 2025 - 05:11
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 VPN KULLAN 🔒 (401)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 6977 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 8140 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 1462 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/get.php?username=resulozkilic&password=Fxp5H8H0cb&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/xmltv.php?username=resulozkilic&password=Fxp5H8H0cb&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR: ULUSAL 💢 TR:BEIN SPORTS 💢 TR: EX-XEN SPOR 💢 TR: TABII SPOR 💢 TR: TIVIBU SPOR 💢 TR: S SPORT 💢 TR: D SMARTSPOR 💢 TR: SPORTS 💢 TR: HABERLER 💢 TR: CANLI BELGESEL 💢 TR: COCUK LIVE 💢 TR: MUZIK 💢 TR: DIZI FILM 7/24 💢 TR: SINEMA 💢 TR: OZEL SINEMA 💢 TR: YESILCAM SINEMA 💢 TR: YEREL 💢 TR: DINI 💢 TR: RADIO 💢 DE: NATIONAL 💢 DE: RAW 💢 DE: GERMANY HEVC 265 💢 DE: SPORTS 💢 DE: DAZN 💢 DE: MAGENTA 💢 DE: KINDER 💢 DE: CINEMA 💢 DE: 7/24 SERIES 💢 DE: MUSIC 💢 DE: KINO SERIEN 💢 DE: CINEMA SPECIAL 💢 DE: NEWS 💢 DE: DOCUMENTARY 💢 NL: NATIONAL 💢 NL: NEDERLAND HEVC 265 💢 NL: SPORTS 💢 NL: CINEMA 💢 NL: CHILD 💢 NL: DOCUMENTARY 💢 NL: MUSIC 💢 FR: NATIONAL 💢 FR: SPORTS 💢 FR: CINEMA 💢 FR: CHILD 💢 FR: DOCUMENTARY 💢 AT: AUSTURIA 💢 CH: SWITZERLAND 💢 IT: ITALY NATIONAL 💢 IT: ITALY SPORTS 💢 IT: ITALY CINEMA 💢 ITALY CHILD 💢 IT: ITALY DOCUMENTARY 💢 PL: POLAND 💢 BE: BELGIUM 💢 EX: EX-YU 💢 EX-YU SPORTS 💢 AL: ALBANIA 💢 BIH: BOSNIA AND HERZEGOVINA 💢 SR: SERBIA 💢 MK: MACEDONIA 💢 HR: CROATIA 💢 SL: SLOVENIA 💢 RU: RUSSIAN 💢 AZ: AZERBAIJAN 💢 GR: GREECE 💢 BG: BULGAR 💢 RO: ROMANIA 💢 PT: PORTAGUAL 💢 DK: DENMARK 💢 NO: NORVAY 💢 SE: SWEDEN 💢 FIN: FINLAND 💢 AR: ARABIA 💢 IR: IRANIAN 💢 US: USA 💢 ES: SPAIN 💢 HU: HUNGARY 💢 CZ: CZECH REPUBLIC 💢 KU: KURDISH 💢 WORLD SPORTS 💢 IN: INDIA 💢 AF: AFGHANISTAN 💢 AFR: AFRICA ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://krm90.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://krm90.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 03 Nisan 2023 17:38
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 13 Nisan 2026 18:30
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ musademirtas
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ SZAZr8CB6X
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇵🇱 Poland
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Warsaw
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 94.23.147.170
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 28 Ekim 2025 - 10:05
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 VPN KULLAN 🔒 (401)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 6977 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 8140 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 1462 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/get.php?username=musademirtas&password=SZAZr8CB6X&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/xmltv.php?username=musademirtas&password=SZAZr8CB6X&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR: ULUSAL 💢 TR:BEIN SPORTS 💢 TR: EX-XEN SPOR 💢 TR: TABII SPOR 💢 TR: TIVIBU SPOR 💢 TR: S SPORT 💢 TR: D SMARTSPOR 💢 TR: SPORTS 💢 TR: HABERLER 💢 TR: CANLI BELGESEL 💢 TR: COCUK LIVE 💢 TR: MUZIK 💢 TR: DIZI FILM 7/24 💢 TR: SINEMA 💢 TR: OZEL SINEMA 💢 TR: YESILCAM SINEMA 💢 TR: YEREL 💢 TR: DINI 💢 TR: RADIO 💢 DE: NATIONAL 💢 DE: RAW 💢 DE: GERMANY HEVC 265 💢 DE: SPORTS 💢 DE: DAZN 💢 DE: MAGENTA 💢 DE: KINDER 💢 DE: CINEMA 💢 DE: 7/24 SERIES 💢 DE: MUSIC 💢 DE: KINO SERIEN 💢 DE: CINEMA SPECIAL 💢 DE: NEWS 💢 DE: DOCUMENTARY 💢 NL: NATIONAL 💢 NL: NEDERLAND HEVC 265 💢 NL: SPORTS 💢 NL: CINEMA 💢 NL: CHILD 💢 NL: DOCUMENTARY 💢 NL: MUSIC 💢 FR: NATIONAL 💢 FR: SPORTS 💢 FR: CINEMA 💢 FR: CHILD 💢 FR: DOCUMENTARY 💢 AT: AUSTURIA 💢 CH: SWITZERLAND 💢 IT: ITALY NATIONAL 💢 IT: ITALY SPORTS 💢 IT: ITALY CINEMA 💢 ITALY CHILD 💢 IT: ITALY DOCUMENTARY 💢 PL: POLAND 💢 BE: BELGIUM 💢 EX: EX-YU 💢 EX-YU SPORTS 💢 AL: ALBANIA 💢 BIH: BOSNIA AND HERZEGOVINA 💢 SR: SERBIA 💢 MK: MACEDONIA 💢 HR: CROATIA 💢 SL: SLOVENIA 💢 RU: RUSSIAN 💢 AZ: AZERBAIJAN 💢 GR: GREECE 💢 BG: BULGAR 💢 RO: ROMANIA 💢 PT: PORTAGUAL 💢 DK: DENMARK 💢 NO: NORVAY 💢 SE: SWEDEN 💢 FIN: FINLAND 💢 AR: ARABIA 💢 IR: IRANIAN 💢 US: USA 💢 ES: SPAIN 💢 HU: HUNGARY 💢 CZ: CZECH REPUBLIC 💢 KU: KURDISH 💢 WORLD SPORTS 💢 IN: INDIA 💢 AF: AFGHANISTAN 💢 AFR: AFRICA ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://krm90.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://krm90.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 05 Eylül 2020 09:29
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 07 Eylül 2026 20:17
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ alicakir
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 03092018rds
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇵🇱 Poland
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Warsaw
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 94.23.147.170
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 28 Ekim 2025 - 10:08
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 VPN KULLAN 🔒 (401)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 3345 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 8885 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 1462 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/get.php?username=alicakir&password=03092018rds&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/xmltv.php?username=alicakir&password=03092018rds&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR: ULUSAL 💢 TR:BEIN SPORTS 💢 TR: EX-XEN SPOR 💢 TR: TABII SPOR 💢 TR: TIVIBU SPOR 💢 TR: S SPORT 💢 TR: D SMARTSPOR 💢 TR: SPORTS 💢 TR: HABERLER 💢 TR: CANLI BELGESEL 💢 TR: COCUK LIVE 💢 TR: MUZIK 💢 TR: DIZI FILM 7/24 💢 TR: SINEMA 💢 TR: OZEL SINEMA 💢 TR: YESILCAM SINEMA 💢 TR: YEREL 💢 TR: DINI 💢 TR: RADIO 💢 DE: NATIONAL 💢 DE: RAW 💢 DE: GERMANY HEVC 265 💢 DE: SPORTS 💢 DE: DAZN 💢 DE: MAGENTA 💢 DE: KINDER 💢 DE: CINEMA 💢 DE: 7/24 SERIES 💢 DE: MUSIC 💢 DE: KINO SERIEN 💢 DE: CINEMA SPECIAL 💢 DE: NEWS 💢 DE: DOCUMENTARY 💢 NL: NATIONAL 💢 NL: NEDERLAND HEVC 265 💢 NL: SPORTS 💢 NL: CINEMA 💢 NL: CHILD 💢 NL: DOCUMENTARY 💢 NL: MUSIC 💢 FR: NATIONAL 💢 FR: SPORTS 💢 FR: CINEMA 💢 FR: CHILD 💢 FR: DOCUMENTARY 💢 IT: ITALY NATIONAL 💢 IT: ITALY SPORTS 💢 IT: ITALY CINEMA 💢 ITALY CHILD 💢 IT: ITALY DOCUMENTARY 💢 BE: BELGIUM 💢 AZ: AZERBAIJAN 💢 WORLD SPORTS 💢 XXX FOR ADULTS +18 ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://krm90.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://krm90.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 25 Ekim 2022 19:10
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 27 Ekim 2026 20:26
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ Alidigrak
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 2osPXZrjLe
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇵🇱 Poland
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Warsaw
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 94.23.147.170
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 28 Ekim 2025 - 10:42
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ VAR ✅ (200)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 7221 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 8885 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 1462 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/get.php?username=Alidigrak&password=2osPXZrjLe&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/xmltv.php?username=Alidigrak&password=2osPXZrjLe&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR: ULUSAL 💢 TR:BEIN SPORTS 💢 TR: EX-XEN SPOR 💢 TR: TABII SPOR 💢 TR: TIVIBU SPOR 💢 TR: S SPORT 💢 TR: D SMARTSPOR 💢 TR: SPORTS 💢 TR: HABERLER 💢 TR: CANLI BELGESEL 💢 TR: COCUK LIVE 💢 TR: MUZIK 💢 TR: DIZI FILM 7/24 💢 TR: SINEMA 💢 TR: OZEL SINEMA 💢 TR: YESILCAM SINEMA 💢 TR: YEREL 💢 TR: DINI 💢 TR: RADIO 💢 DE: NATIONAL 💢 DE: RAW 💢 DE: GERMANY HEVC 265 💢 DE: SPORTS 💢 DE: DAZN 💢 DE: MAGENTA 💢 DE: KINDER 💢 DE: CINEMA 💢 DE: 7/24 SERIES 💢 DE: MUSIC 💢 DE: KINO SERIEN 💢 DE: CINEMA SPECIAL 💢 DE: NEWS 💢 DE: DOCUMENTARY 💢 NL: NATIONAL 💢 NL: NEDERLAND HEVC 265 💢 NL: SPORTS 💢 NL: CINEMA 💢 NL: CHILD 💢 NL: DOCUMENTARY 💢 NL: MUSIC 💢 FR: NATIONAL 💢 FR: SPORTS 💢 FR: CINEMA 💢 FR: CHILD 💢 FR: DOCUMENTARY 💢 AT: AUSTURIA 💢 CH: SWITZERLAND 💢 IT: ITALY NATIONAL 💢 IT: ITALY SPORTS 💢 IT: ITALY CINEMA 💢 ITALY CHILD 💢 IT: ITALY DOCUMENTARY 💢 PL: POLAND 💢 BE: BELGIUM 💢 EX: EX-YU 💢 EX-YU SPORTS 💢 AL: ALBANIA 💢 BIH: BOSNIA AND HERZEGOVINA 💢 SR: SERBIA 💢 MK: MACEDONIA 💢 HR: CROATIA 💢 SL: SLOVENIA 💢 RU: RUSSIAN 💢 AZ: AZERBAIJAN 💢 GR: GREECE 💢 BG: BULGAR 💢 RO: ROMANIA 💢 PT: PORTAGUAL 💢 DK: DENMARK 💢 NO: NORVAY 💢 SE: SWEDEN 💢 FIN: FINLAND 💢 AR: ARABIA 💢 IR: IRANIAN 💢 US: USA 💢 ES: SPAIN 💢 HU: HUNGARY 💢 CZ: CZECH REPUBLIC 💢 KU: KURDISH 💢 WORLD SPORTS 💢 IN: INDIA 💢 AF: AFGHANISTAN 💢 AFR: AFRICA 💢 XXX FOR ADULTS +18 ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://krm90.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://krm90.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 05 Şubat 2021 19:52
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 24 Şubat 2026 14:41
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ veyselaktepe
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 16022019vaxx123
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇵🇱 Poland
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Warsaw
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 94.23.147.170
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 28 Ekim 2025 - 12:27
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 VPN KULLAN 🔒 (401)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2575 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 4605 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 1066 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/get.php?username=veyselaktepe&password=16022019vaxx123&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/xmltv.php?username=veyselaktepe&password=16022019vaxx123&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR: ULUSAL 💢 TR:BEIN SPORTS 💢 TR: EX-XEN SPOR 💢 TR: TABII SPOR 💢 TR: TIVIBU SPOR 💢 TR: S SPORT 💢 TR: D SMARTSPOR 💢 TR: SPORTS 💢 TR: HABERLER 💢 TR: CANLI BELGESEL 💢 TR: COCUK LIVE 💢 TR: MUZIK 💢 TR: DIZI FILM 7/24 💢 TR: SINEMA 💢 TR: OZEL SINEMA 💢 TR: YESILCAM SINEMA 💢 TR: YEREL 💢 TR: DINI 💢 TR: RADIO 💢 DE: NATIONAL 💢 DE: RAW 💢 DE: GERMANY HEVC 265 💢 DE: SPORTS 💢 DE: DAZN 💢 DE: MAGENTA 💢 DE: KINDER 💢 DE: CINEMA 💢 DE: 7/24 SERIES 💢 DE: MUSIC 💢 DE: KINO SERIEN 💢 DE: CINEMA SPECIAL 💢 DE: NEWS 💢 DE: DOCUMENTARY 💢 FR: NATIONAL 💢 FR: SPORTS 💢 FR: CINEMA 💢 FR: CHILD 💢 FR: DOCUMENTARY ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://krm90.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://krm90.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 08 Mayıs 2022 20:55
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 24 Mayıs 2026 14:05
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ Hasanugur
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 4MUCxj8CFK
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇵🇱 Poland
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Warsaw
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 94.23.147.170
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 28 Ekim 2025 - 12:30
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 VPN KULLAN 🔒 (401)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 6977 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 8140 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 1462 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/get.php?username=Hasanugur&password=4MUCxj8CFK&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/xmltv.php?username=Hasanugur&password=4MUCxj8CFK&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR: ULUSAL 💢 TR:BEIN SPORTS 💢 TR: EX-XEN SPOR 💢 TR: TABII SPOR 💢 TR: TIVIBU SPOR 💢 TR: S SPORT 💢 TR: D SMARTSPOR 💢 TR: SPORTS 💢 TR: HABERLER 💢 TR: CANLI BELGESEL 💢 TR: COCUK LIVE 💢 TR: MUZIK 💢 TR: DIZI FILM 7/24 💢 TR: SINEMA 💢 TR: OZEL SINEMA 💢 TR: YESILCAM SINEMA 💢 TR: YEREL 💢 TR: DINI 💢 TR: RADIO 💢 DE: NATIONAL 💢 DE: RAW 💢 DE: GERMANY HEVC 265 💢 DE: SPORTS 💢 DE: DAZN 💢 DE: MAGENTA 💢 DE: KINDER 💢 DE: CINEMA 💢 DE: 7/24 SERIES 💢 DE: MUSIC 💢 DE: KINO SERIEN 💢 DE: CINEMA SPECIAL 💢 DE: NEWS 💢 DE: DOCUMENTARY 💢 NL: NATIONAL 💢 NL: NEDERLAND HEVC 265 💢 NL: SPORTS 💢 NL: CINEMA 💢 NL: CHILD 💢 NL: DOCUMENTARY 💢 NL: MUSIC 💢 FR: NATIONAL 💢 FR: SPORTS 💢 FR: CINEMA 💢 FR: CHILD 💢 FR: DOCUMENTARY 💢 AT: AUSTURIA 💢 CH: SWITZERLAND 💢 IT: ITALY NATIONAL 💢 IT: ITALY SPORTS 💢 IT: ITALY CINEMA 💢 ITALY CHILD 💢 IT: ITALY DOCUMENTARY 💢 PL: POLAND 💢 BE: BELGIUM 💢 EX: EX-YU 💢 EX-YU SPORTS 💢 AL: ALBANIA 💢 BIH: BOSNIA AND HERZEGOVINA 💢 SR: SERBIA 💢 MK: MACEDONIA 💢 HR: CROATIA 💢 SL: SLOVENIA 💢 RU: RUSSIAN 💢 AZ: AZERBAIJAN 💢 GR: GREECE 💢 BG: BULGAR 💢 RO: ROMANIA 💢 PT: PORTAGUAL 💢 DK: DENMARK 💢 NO: NORVAY 💢 SE: SWEDEN 💢 FIN: FINLAND 💢 AR: ARABIA 💢 IR: IRANIAN 💢 US: USA 💢 ES: SPAIN 💢 HU: HUNGARY 💢 CZ: CZECH REPUBLIC 💢 KU: KURDISH 💢 WORLD SPORTS 💢 IN: INDIA 💢 AF: AFGHANISTAN 💢 AFR: AFRICA ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://krm90.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://krm90.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 21 Eylül 2021 22:23
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 29 Eylül 2026 19:24
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ NecatiGul
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ CAb58dN0TC
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇵🇱 Poland
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Warsaw
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 94.23.147.170
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 28 Ekim 2025 - 13:38
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 VPN KULLAN 🔒 (401)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 6977 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 8140 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 1465 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/get.php?username=NecatiGul&password=CAb58dN0TC&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/xmltv.php?username=NecatiGul&password=CAb58dN0TC&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR: ULUSAL 💢 TR:BEIN SPORTS 💢 TR: EX-XEN SPOR 💢 TR: TABII SPOR 💢 TR: TIVIBU SPOR 💢 TR: S SPORT 💢 TR: D SMARTSPOR 💢 TR: SPORTS 💢 TR: HABERLER 💢 TR: CANLI BELGESEL 💢 TR: COCUK LIVE 💢 TR: MUZIK 💢 TR: DIZI FILM 7/24 💢 TR: SINEMA 💢 TR: OZEL SINEMA 💢 TR: YESILCAM SINEMA 💢 TR: YEREL 💢 TR: DINI 💢 TR: RADIO 💢 DE: NATIONAL 💢 DE: RAW 💢 DE: GERMANY HEVC 265 💢 DE: SPORTS 💢 DE: DAZN 💢 DE: MAGENTA 💢 DE: KINDER 💢 DE: CINEMA 💢 DE: 7/24 SERIES 💢 DE: MUSIC 💢 DE: KINO SERIEN 💢 DE: CINEMA SPECIAL 💢 DE: NEWS 💢 DE: DOCUMENTARY 💢 NL: NATIONAL 💢 NL: NEDERLAND HEVC 265 💢 NL: SPORTS 💢 NL: CINEMA 💢 NL: CHILD 💢 NL: DOCUMENTARY 💢 NL: MUSIC 💢 FR: NATIONAL 💢 FR: SPORTS 💢 FR: CINEMA 💢 FR: CHILD 💢 FR: DOCUMENTARY 💢 AT: AUSTURIA 💢 CH: SWITZERLAND 💢 IT: ITALY NATIONAL 💢 IT: ITALY SPORTS 💢 IT: ITALY CINEMA 💢 ITALY CHILD 💢 IT: ITALY DOCUMENTARY 💢 PL: POLAND 💢 BE: BELGIUM 💢 EX: EX-YU 💢 EX-YU SPORTS 💢 AL: ALBANIA 💢 BIH: BOSNIA AND HERZEGOVINA 💢 SR: SERBIA 💢 MK: MACEDONIA 💢 HR: CROATIA 💢 SL: SLOVENIA 💢 RU: RUSSIAN 💢 AZ: AZERBAIJAN 💢 GR: GREECE 💢 BG: BULGAR 💢 RO: ROMANIA 💢 PT: PORTAGUAL 💢 DK: DENMARK 💢 NO: NORVAY 💢 SE: SWEDEN 💢 FIN: FINLAND 💢 AR: ARABIA 💢 IR: IRANIAN 💢 US: USA 💢 ES: SPAIN 💢 HU: HUNGARY 💢 CZ: CZECH REPUBLIC 💢 KU: KURDISH 💢 WORLD SPORTS 💢 IN: INDIA 💢 AF: AFGHANISTAN 💢 AFR: AFRICA ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://krm90.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://krm90.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 29 Şubat 2024 12:55
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 01 Mart 2026 12:55
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ meltemkoray
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 9gm8CaAvCxonWx
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇵🇱 Poland
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Warsaw
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 94.23.147.170
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 28 Ekim 2025 - 13:46
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ VAR ✅ (200)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 7221 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 8885 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 1465 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/get.php?username=meltemkoray&password=9gm8CaAvCxonWx&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/xmltv.php?username=meltemkoray&password=9gm8CaAvCxonWx&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR: ULUSAL 💢 TR:BEIN SPORTS 💢 TR: EX-XEN SPOR 💢 TR: TABII SPOR 💢 TR: TIVIBU SPOR 💢 TR: S SPORT 💢 TR: D SMARTSPOR 💢 TR: SPORTS 💢 TR: HABERLER 💢 TR: CANLI BELGESEL 💢 TR: COCUK LIVE 💢 TR: MUZIK 💢 TR: DIZI FILM 7/24 💢 TR: SINEMA 💢 TR: OZEL SINEMA 💢 TR: YESILCAM SINEMA 💢 TR: YEREL 💢 TR: DINI 💢 TR: RADIO 💢 DE: NATIONAL 💢 DE: RAW 💢 DE: GERMANY HEVC 265 💢 DE: SPORTS 💢 DE: DAZN 💢 DE: MAGENTA 💢 DE: KINDER 💢 DE: CINEMA 💢 DE: 7/24 SERIES 💢 DE: MUSIC 💢 DE: KINO SERIEN 💢 DE: CINEMA SPECIAL 💢 DE: NEWS 💢 DE: DOCUMENTARY 💢 NL: NATIONAL 💢 NL: NEDERLAND HEVC 265 💢 NL: SPORTS 💢 NL: CINEMA 💢 NL: CHILD 💢 NL: DOCUMENTARY 💢 NL: MUSIC 💢 FR: NATIONAL 💢 FR: SPORTS 💢 FR: CINEMA 💢 FR: CHILD 💢 FR: DOCUMENTARY 💢 AT: AUSTURIA 💢 CH: SWITZERLAND 💢 IT: ITALY NATIONAL 💢 IT: ITALY SPORTS 💢 IT: ITALY CINEMA 💢 ITALY CHILD 💢 IT: ITALY DOCUMENTARY 💢 PL: POLAND 💢 BE: BELGIUM 💢 EX: EX-YU 💢 EX-YU SPORTS 💢 AL: ALBANIA 💢 BIH: BOSNIA AND HERZEGOVINA 💢 SR: SERBIA 💢 MK: MACEDONIA 💢 HR: CROATIA 💢 SL: SLOVENIA 💢 RU: RUSSIAN 💢 AZ: AZERBAIJAN 💢 GR: GREECE 💢 BG: BULGAR 💢 RO: ROMANIA 💢 PT: PORTAGUAL 💢 DK: DENMARK 💢 NO: NORVAY 💢 SE: SWEDEN 💢 FIN: FINLAND 💢 AR: ARABIA 💢 IR: IRANIAN 💢 US: USA 💢 ES: SPAIN 💢 HU: HUNGARY 💢 CZ: CZECH REPUBLIC 💢 KU: KURDISH 💢 WORLD SPORTS 💢 IN: INDIA 💢 AF: AFGHANISTAN 💢 AFR: AFRICA 💢 XXX FOR ADULTS +18 ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://krm90.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://krm90.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 23 Kasım 2022 00:14
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 23 Kasım 2025 00:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ SamiAticiKendi
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ a0mlolg1dN
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇵🇱 Poland
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Warsaw
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Welcome
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 94.23.147.170
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 28 Ekim 2025 - 13:51
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 VPN KULLAN 🔒 (401)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2330 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 8140 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 1465 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/get.php?username=SamiAticiKendi&password=a0mlolg1dN&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://krm90.xyz:8080/xmltv.php?username=SamiAticiKendi&password=a0mlolg1dN&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR: ULUSAL 💢 TR:BEIN SPORTS 💢 TR: EX-XEN SPOR 💢 TR: TABII SPOR 💢 TR: TIVIBU SPOR 💢 TR: S SPORT 💢 TR: D SMARTSPOR 💢 TR: SPORTS 💢 TR: HABERLER 💢 TR: CANLI BELGESEL 💢 TR: COCUK LIVE 💢 TR: MUZIK 💢 TR: DIZI FILM 7/24 💢 TR: SINEMA 💢 TR: OZEL SINEMA 💢 TR: YESILCAM SINEMA 💢 TR: YEREL 💢 TR: DINI 💢 TR: RADIO 💢 DE: NATIONAL 💢 DE: RAW 💢 DE: GERMANY HEVC 265 💢 DE: SPORTS 💢 DE: DAZN 💢 DE: MAGENTA 💢 DE: KINDER 💢 DE: CINEMA 💢 DE: 7/24 SERIES 💢 DE: MUSIC 💢 DE: KINO SERIEN 💢 DE: CINEMA SPECIAL 💢 DE: NEWS 💢 DE: DOCUMENTARY ✷✷ 📺
+
+========================================

@@ -1,0 +1,396 @@
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 02 Nisan 2023 18:50
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 10 Mayıs 2027 21:23
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ CjFqB6iSyX
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ luNsgPzQTY
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇦🇿 Azerbaijan
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Asia/Baku
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 192.142.57.167
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Hostpalace Datacenters Ltd
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 25 Eylül 2026 - 14:19
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 13079 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 22680 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080/get.php?username=CjFqB6iSyX&password=luNsgPzQTY&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080/xmltv.php?username=CjFqB6iSyX&password=luNsgPzQTY&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Africa VIP 💢 Albania 💢 Albania Sport 💢 beIN - Qatar ARB 💢 OSN - Qatar ARB 💢 Austria 💢 Belgium 💢 BOSNA-Bosnia 💢 Brazil 💢 Bulgaria 💢 Crna Gora-Monte Negro 💢 Czech Republic 💢 Denmark 💢 Denmark VIP 💢 Denmark Radio 💢 24-7 Denmark 💢 ex-Yu 💢 ex-Yu VIP 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Hungary 💢 Iceland 💢 Italia 💢 Latin America 💢 Macedonia 💢 Netherlands 💢 Norway 💢 Norway VIP 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Romania 💢 Russian 💢 Scandinavian 💢 Slovenia 💢 Spain 💢 Srbija-Serbia 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 Thailand 💢 Turkey 💢 UHD 4K 💢 Ukraine 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 Viet Nam 💢 VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 NFL VIP Sports 💢 World Cricket VIP 💢 Fifa World Cup 2026 ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 22 Eylül 2020 10:56
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 29 Kasım 2026 10:56
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 3mTatd6fjJ
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ wQdaERqkSC
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇦🇿 Azerbaijan
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Asia/Baku
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 192.142.57.167
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Hostpalace Datacenters Ltd
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 25 Eylül 2026 - 14:20
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 15822 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 65105 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 442 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080/get.php?username=3mTatd6fjJ&password=wQdaERqkSC&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080/xmltv.php?username=3mTatd6fjJ&password=wQdaERqkSC&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Arab Countries VIP 💢 Afghanistan 💢 Africa 💢 Africa VIP 💢 Africa Canal+ 💢 Albania 💢 Albania Sport 💢 Arab Countries 💢 ARB Algeria 💢 ARB Bahrain 💢 ARB Egypt 💢 ARB Libya 💢 ARB Syria 💢 ARB Lebanon 💢 ARB Palestine 💢 ARB Rotana 💢 ARB Morocco 💢 ARB Jordan 💢 ARB Kuwait 💢 ARB UAE 💢 ARB Iraq 💢 ARB Tunisia 💢 ARB Saudi Arabia 💢 ARB Islam 💢 ARB News 💢 ARB MBC 💢 ARB Kids 💢 Armenia 💢 Australia 💢 Austria 💢 Azerbaijan 💢 Belgium 💢 BOSNA-Bosnia 💢 Brazil 💢 Bulgaria 💢 Canada 💢 Crna Gora-Monte Negro 💢 Czech Republic 💢 Denmark 💢 Denmark VIP 💢 Denmark Radio 💢 24-7 Denmark 💢 Estonia 💢 ex-Yu 💢 ex-Yu VIP 💢 Finland 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Hungary 💢 Iceland 💢 India 💢 India VIP 💢 Israel 💢 Italia 💢 Kurdish 💢 Latin America 💢 Lithuania 💢 Macedonia 💢 Malta 💢 Netherlands 💢 Norway 💢 Norway VIP 💢 Pakistan 💢 Philippines 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Romania 💢 Russian 💢 Scandinavian 💢 Slovenia 💢 Spain 💢 Srbija-Serbia 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 Thailand 💢 Turkey 💢 UHD 4K 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 Viet Nam 💢 VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 NFL VIP Sports 💢 World Cricket VIP 💢 Fifa World Cup 2026 ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 01 Temmuz 2021 19:28
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 09 Temmuz 2027 19:28
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ Bf2Tqo4UQe
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ xzUjvFcY8J
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇦🇿 Azerbaijan
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Asia/Baku
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 192.142.57.167
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Hostpalace Datacenters Ltd
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 25 Eylül 2026 - 14:22
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 16811 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 65105 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 442 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080/get.php?username=Bf2Tqo4UQe&password=xzUjvFcY8J&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080/xmltv.php?username=Bf2Tqo4UQe&password=xzUjvFcY8J&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Arab Countries VIP 💢 Afghanistan 💢 Africa 💢 Africa VIP 💢 Africa Canal+ 💢 Albania 💢 Albania Sport 💢 Arab Countries 💢 beIN - Qatar ARB 💢 OSN - Qatar ARB 💢 ARB Algeria 💢 ARB Bahrain 💢 ARB Egypt 💢 ARB Libya 💢 ARB Syria 💢 ARB Lebanon 💢 ARB Palestine 💢 ARB Rotana 💢 ARB Morocco 💢 ARB Jordan 💢 ARB Kuwait 💢 ARB UAE 💢 ARB Iraq 💢 ARB Tunisia 💢 ARB Saudi Arabia 💢 ARB Islam 💢 ARB News 💢 ARB MBC 💢 ARB Kids 💢 Armenia 💢 Australia 💢 Austria 💢 Azerbaijan 💢 Belgium 💢 BOSNA-Bosnia 💢 Brazil 💢 Bulgaria 💢 Canada 💢 China 💢 Crna Gora-Monte Negro 💢 Czech Republic 💢 Denmark 💢 Denmark VIP 💢 Denmark Radio 💢 24-7 Denmark 💢 Estonia 💢 ex-Yu 💢 ex-Yu VIP 💢 Finland 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Hungary 💢 Iceland 💢 India 💢 India VIP 💢 Indonesia 💢 Iran 💢 Israel 💢 Italia 💢 Japan 💢 Korea 💢 Kurdish 💢 Latin America 💢 Lithuania 💢 Macedonia 💢 Malaysia 💢 Malta 💢 Netherlands 💢 Norway 💢 Norway VIP 💢 Pakistan 💢 Philippines 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Romania 💢 Russian 💢 Scandinavian 💢 Singapore 💢 Slovenia 💢 Spain 💢 Srbija-Serbia 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 Thailand 💢 Turkey 💢 UHD 4K 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 Viet Nam 💢 VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 NFL VIP Sports 💢 World Cricket VIP 💢 Fifa World Cup 2026 ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 07 Kasım 2024 19:37
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 10 Kasım 2026 13:53
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ ogrodnik010
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ DrHFygAmbd
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇦🇿 Azerbaijan
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Asia/Baku
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 192.142.57.167
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Hostpalace Datacenters Ltd
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 25 Eylül 2026 - 14:22
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2927 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 16315 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 162 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080/get.php?username=ogrodnik010&password=DrHFygAmbd&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080/xmltv.php?username=ogrodnik010&password=DrHFygAmbd&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢For Adults 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Poland 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 NFL VIP Sports 💢 World Cricket VIP 💢 Fifa World Cup 2026 ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 12 Mart 2019 20:33
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 24 Mart 2027 20:54
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ DariuszMeyka
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ nQFz1hM4Ao
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇦🇿 Azerbaijan
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Asia/Baku
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 192.142.57.167
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Hostpalace Datacenters Ltd
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 25 Eylül 2026 - 14:23
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 6435 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 21553 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080/get.php?username=DariuszMeyka&password=nQFz1hM4Ao&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080/xmltv.php?username=DariuszMeyka&password=nQFz1hM4Ao&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢For Adults 💢 France 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Italia 💢 Poland 💢 Spain 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 NFL VIP Sports 💢 World Cricket VIP 💢 Fifa World Cup 2026 ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 25 Şubat 2024 16:06
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 01 Mart 2027 14:29
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ RotaruRomania
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ nXgQFCbUlm
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇦🇿 Azerbaijan
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Asia/Baku
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 192.142.57.167
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Hostpalace Datacenters Ltd
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 25 Eylül 2026 - 14:24
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 1705 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 1086 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080/get.php?username=RotaruRomania&password=nXgQFCbUlm&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080/xmltv.php?username=RotaruRomania&password=nXgQFCbUlm&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 BOSNA-Bosnia 💢 Bulgaria 💢 Crna Gora-Monte Negro 💢 ex-Yu 💢 ex-Yu VIP 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 HRVATSKA-Croatia 💢 Macedonia 💢 Romania 💢 Srbija-Serbia ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 31 Mart 2023 15:32
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 30 Eylül 2026 15:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ sameirinho1949
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ T7B3tCSRUz
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇦🇿 Azerbaijan
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Asia/Baku
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 192.142.57.167
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Hostpalace Datacenters Ltd
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 25 Eylül 2026 - 14:24
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 16676 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 9853 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080/get.php?username=sameirinho1949&password=T7B3tCSRUz&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080/xmltv.php?username=sameirinho1949&password=T7B3tCSRUz&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Arab Countries VIP 💢 Afghanistan 💢 Africa 💢 Africa VIP 💢 Africa Canal+ 💢 Albania 💢 Albania Sport 💢 Arab Countries 💢 beIN - Qatar ARB 💢 OSN - Qatar ARB 💢 ARB Algeria 💢 ARB Bahrain 💢 ARB Egypt 💢 ARB Libya 💢 ARB Syria 💢 ARB Lebanon 💢 ARB Palestine 💢 ARB Rotana 💢 ARB Morocco 💢 ARB Jordan 💢 ARB Kuwait 💢 ARB UAE 💢 ARB Iraq 💢 ARB Tunisia 💢 ARB Saudi Arabia 💢 ARB Islam 💢 ARB News 💢 ARB MBC 💢 ARB Kids 💢 Armenia 💢 Australia 💢 Austria 💢 Azerbaijan 💢 Belgium 💢 BOSNA-Bosnia 💢 Brazil 💢 Bulgaria 💢 Canada 💢 China 💢 Crna Gora-Monte Negro 💢 Czech Republic 💢 Denmark 💢 Denmark VIP 💢 Denmark Radio 💢 24-7 Denmark 💢 Estonia 💢 ex-Yu 💢 ex-Yu VIP 💢 Finland 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Hungary 💢 India 💢 India VIP 💢 Indonesia 💢 Iran 💢 Israel 💢 Italia 💢 Japan 💢 Korea 💢 Kurdish 💢 Latin America 💢 Lithuania 💢 Macedonia 💢 Malaysia 💢 Malta 💢 Nepal 💢 Netherlands 💢 Norway 💢 Norway VIP 💢 Pakistan 💢 Philippines 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Romania 💢 Russian 💢 Scandinavian 💢 Singapore 💢 Slovenia 💢 Spain 💢 Srbija-Serbia 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 Thailand 💢 Turkey 💢 UHD 4K 💢 Ukraine 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 Viet Nam 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 NFL VIP Sports 💢 World Cricket VIP 💢 Fifa World Cup 2026 ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 01 Mart 2024 09:38
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 05 Mart 2027 13:56
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ TE2hY8zZUd
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ eAsT2dNqGx
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇦🇿 Azerbaijan
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Asia/Baku
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 192.142.57.167
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Hostpalace Datacenters Ltd
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 25 Eylül 2026 - 14:25
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8382 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 35452 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080/get.php?username=TE2hY8zZUd&password=eAsT2dNqGx&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080/xmltv.php?username=TE2hY8zZUd&password=eAsT2dNqGx&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Belgium 💢 Brazil 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Italia 💢 Latin America 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Spain 💢 Switzerland 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 NFL VIP Sports 💢 World Cricket VIP 💢 Fifa World Cup 2026 ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 23 Aralık 2023 23:15
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 26 Aralık 2026 12:33
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ isTRPdxYEK
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 8JoUcHNGK4
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇦🇿 Azerbaijan
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Asia/Baku
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 192.142.57.167
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Hostpalace Datacenters Ltd
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 25 Eylül 2026 - 14:25
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 16909 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 65105 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 442 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080/get.php?username=isTRPdxYEK&password=8JoUcHNGK4&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080/xmltv.php?username=isTRPdxYEK&password=8JoUcHNGK4&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Arab Countries VIP 💢 Afghanistan 💢 Africa 💢 Africa VIP 💢 Africa Canal+ 💢 Albania 💢 Albania Sport 💢 Arab Countries 💢 beIN - Qatar ARB 💢 OSN - Qatar ARB 💢 ARB Algeria 💢 ARB Bahrain 💢 ARB Egypt 💢 ARB Libya 💢 ARB Syria 💢 ARB Lebanon 💢 ARB Palestine 💢 ARB Rotana 💢 ARB Morocco 💢 ARB Jordan 💢 ARB Kuwait 💢 ARB UAE 💢 ARB Iraq 💢 ARB Tunisia 💢 ARB Saudi Arabia 💢 ARB Islam 💢 ARB News 💢 ARB MBC 💢 ARB Kids 💢 Armenia 💢 Australia 💢 Austria 💢 Azerbaijan 💢 Belgium 💢 BOSNA-Bosnia 💢 Brazil 💢 Bulgaria 💢 Canada 💢 China 💢 Crna Gora-Monte Negro 💢 Czech Republic 💢 Denmark 💢 Denmark VIP 💢 Denmark Radio 💢 24-7 Denmark 💢 Estonia 💢 ex-Yu 💢 ex-Yu VIP 💢 Finland 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Hungary 💢 Iceland 💢 India 💢 India VIP 💢 Indonesia 💢 Iran 💢 Israel 💢 Italia 💢 Japan 💢 Korea 💢 Kurdish 💢 Latin America 💢 Lithuania 💢 Macedonia 💢 Malaysia 💢 Malta 💢 Nepal 💢 Netherlands 💢 Norway 💢 Norway VIP 💢 Pakistan 💢 Philippines 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Romania 💢 Russian 💢 Scandinavian 💢 Singapore 💢 Slovenia 💢 Spain 💢 Srbija-Serbia 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 Thailand 💢 Turkey 💢 UHD 4K 💢 Ukraine 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 Viet Nam 💢 VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 NFL VIP Sports 💢 World Cricket VIP 💢 Fifa World Cup 2026 ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 28 Eylül 2019 20:33
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 25 Ocak 2027 19:11
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ hmmresende
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ EmAu5G4zJM
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇦🇿 Azerbaijan
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Asia/Baku
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 192.142.57.167
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Hostpalace Datacenters Ltd
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 25 Eylül 2026 - 14:26
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 904 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080/get.php?username=hmmresende&password=EmAu5G4zJM&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080/xmltv.php?username=hmmresende&password=EmAu5G4zJM&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 23 Aralık 2023 19:47
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 26 Aralık 2026 19:43
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ ajA72trobH
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ x8oK6dpJNP
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 3
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 3
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇦🇿 Azerbaijan
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Asia/Baku
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 192.142.57.167
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Hostpalace Datacenters Ltd
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 25 Eylül 2026 - 14:27
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 16893 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 16324 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080/get.php?username=ajA72trobH&password=x8oK6dpJNP&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080/xmltv.php?username=ajA72trobH&password=x8oK6dpJNP&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Arab Countries VIP 💢 Afghanistan 💢 Africa 💢 Africa VIP 💢 Africa Canal+ 💢 Albania 💢 Albania Sport 💢 Arab Countries 💢 beIN - Qatar ARB 💢 OSN - Qatar ARB 💢 ARB Algeria 💢 ARB Bahrain 💢 ARB Egypt 💢 ARB Libya 💢 ARB Syria 💢 ARB Lebanon 💢 ARB Palestine 💢 ARB Rotana 💢 ARB Morocco 💢 ARB Jordan 💢 ARB Kuwait 💢 ARB UAE 💢 ARB Iraq 💢 ARB Tunisia 💢 ARB Saudi Arabia 💢 ARB Islam 💢 ARB News 💢 ARB MBC 💢 ARB Kids 💢 Armenia 💢 Australia 💢 Austria 💢 Azerbaijan 💢 Belgium 💢 BOSNA-Bosnia 💢 Brazil 💢 Bulgaria 💢 Canada 💢 China 💢 Crna Gora-Monte Negro 💢 Czech Republic 💢 Denmark 💢 Denmark VIP 💢 Denmark Radio 💢 24-7 Denmark 💢 Estonia 💢 ex-Yu 💢 ex-Yu VIP 💢 Finland 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Hungary 💢 Iceland 💢 India 💢 India VIP 💢 Indonesia 💢 Iran 💢 Israel 💢 Italia 💢 Japan 💢 Korea 💢 Kurdish 💢 Latin America 💢 Lithuania 💢 Macedonia 💢 Malaysia 💢 Malta 💢 Nepal 💢 Netherlands 💢 Norway 💢 Norway VIP 💢 Pakistan 💢 Philippines 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Romania 💢 Russian 💢 Scandinavian 💢 Singapore 💢 Slovenia 💢 Spain 💢 Srbija-Serbia 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 Thailand 💢 Turkey 💢 UHD 4K 💢 Ukraine 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 Viet Nam 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 NFL VIP Sports 💢 World Cricket VIP 💢 Fifa World Cup 2026 ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 21 Eylül 2022 11:28
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 29 Aralık 2026 12:28
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ piotrekmichalskitesc99
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ hxXMHmStn5
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇦🇿 Azerbaijan
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Asia/Baku
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 192.142.57.167
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Hostpalace Datacenters Ltd
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 25 Eylül 2026 - 14:27
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 1582 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 2571 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 99 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080/get.php?username=piotrekmichalskitesc99&password=hxXMHmStn5&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ne.znate.kruha.jesti.stoko.grdna.smecari.gentv.to:8080/xmltv.php?username=piotrekmichalskitesc99&password=hxXMHmStn5&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Poland 💢 Spain ✷✷ 📺
+
+========================================

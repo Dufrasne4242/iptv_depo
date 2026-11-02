@@ -1,0 +1,462 @@
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://kstv.us:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://kstv.us:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 17 Nisan 2021 10:00
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ Unlimited
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ hYYg9YNtb7
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 2836719495
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇸 United States
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/New_York
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 206.212.242.21
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Pulsar Networks Inc
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 03 Mayıs 2026 - 02:57
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2567 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://kstv.us:8080/get.php?username=hYYg9YNtb7&password=2836719495&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://kstv.us:8080/xmltv.php?username=hYYg9YNtb7&password=2836719495&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Main Events / PPV 💢 US - Entertainment 💢 US - Movies 💢 US - Sports 💢 US - Locals 💢 Bally Sports 💢 FanDuel Sports 💢 NBC Sports 💢 US - News 💢 US - Kids 💢 US - Music 💢 UK - Entertainment 💢 UK - Documentaries 💢 UK - Movies 💢 UK - Sports 💢 UK - Kids 💢 Adult 💢 SuperSports 💢 Bein Sports 💢 MLB 💢 MLB.2 💢 NCAA Baseball 💢 NBA 💢 NBA.2 💢 NBA.3 💢 WNBA 💢 WNBA.2 💢 NFL 💢 NFL.2 💢 NFL.3 💢 NCAAF 💢 NHL 💢 NHL.2 💢 Latino 💢 Deportes 💢 Brazil 💢 Canada 💢 Portugal ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://kstv.us:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://kstv.us:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 22 Haziran 2024 10:00
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ Unlimited
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ MegaCedo
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 4141860971
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 5
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 5
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇸 United States
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/New_York
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 206.212.242.21
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Pulsar Networks Inc
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 03 Mayıs 2026 - 04:25
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2567 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://kstv.us:8080/get.php?username=MegaCedo&password=4141860971&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://kstv.us:8080/xmltv.php?username=MegaCedo&password=4141860971&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Main Events / PPV 💢 US - Entertainment 💢 US - Movies 💢 US - Sports 💢 US - Locals 💢 Bally Sports 💢 FanDuel Sports 💢 NBC Sports 💢 US - News 💢 US - Kids 💢 US - Music 💢 UK - Entertainment 💢 UK - Documentaries 💢 UK - Movies 💢 UK - Sports 💢 UK - Kids 💢 Adult 💢 SuperSports 💢 Bein Sports 💢 MLB 💢 MLB.2 💢 NCAA Baseball 💢 NBA 💢 NBA.2 💢 NBA.3 💢 WNBA 💢 WNBA.2 💢 NFL 💢 NFL.2 💢 NFL.3 💢 NCAAF 💢 NHL 💢 NHL.2 💢 Latino 💢 Deportes 💢 Brazil 💢 Canada 💢 Portugal ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://kstv.us:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://kstv.us:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 26 Haziran 2020 07:00
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ Unlimited
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ VV4pewmcVT
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 7292819271
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 2
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 3
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇸 United States
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/New_York
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 206.212.242.21
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Pulsar Networks Inc
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 03 Mayıs 2026 - 04:33
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2421 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://kstv.us:8080/get.php?username=VV4pewmcVT&password=7292819271&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://kstv.us:8080/xmltv.php?username=VV4pewmcVT&password=7292819271&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Main Events / PPV 💢 US - Entertainment 💢 US - Movies 💢 US - Sports 💢 US - Locals 💢 Bally Sports 💢 FanDuel Sports 💢 NBC Sports 💢 US - News 💢 US - Kids 💢 US - Music 💢 UK - Entertainment 💢 UK - Documentaries 💢 UK - Movies 💢 UK - Sports 💢 UK - Kids 💢 SuperSports 💢 Bein Sports 💢 MLB 💢 MLB.2 💢 NCAA Baseball 💢 NBA 💢 NBA.2 💢 NBA.3 💢 WNBA 💢 WNBA.2 💢 NFL 💢 NFL.2 💢 NFL.3 💢 NCAAF 💢 NHL 💢 NHL.2 💢 Latino 💢 Deportes 💢 Brazil 💢 Canada 💢 Portugal ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://kstv.us:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://kstv.us:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 29 Temmuz 2018 03:00
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ Unlimited
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ Turneradt
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 7962015639
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 4
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 4
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇸 United States
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/New_York
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 206.212.242.21
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Pulsar Networks Inc
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 03 Mayıs 2026 - 04:39
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2567 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://kstv.us:8080/get.php?username=Turneradt&password=7962015639&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://kstv.us:8080/xmltv.php?username=Turneradt&password=7962015639&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Main Events / PPV 💢 US - Entertainment 💢 US - Movies 💢 US - Sports 💢 US - Locals 💢 Bally Sports 💢 FanDuel Sports 💢 NBC Sports 💢 US - News 💢 US - Kids 💢 US - Music 💢 UK - Entertainment 💢 UK - Documentaries 💢 UK - Movies 💢 UK - Sports 💢 UK - Kids 💢 Adult 💢 SuperSports 💢 Bein Sports 💢 MLB 💢 MLB.2 💢 NCAA Baseball 💢 NBA 💢 NBA.2 💢 NBA.3 💢 WNBA 💢 WNBA.2 💢 NFL 💢 NFL.2 💢 NFL.3 💢 NCAAF 💢 NHL 💢 NHL.2 💢 Latino 💢 Deportes 💢 Brazil 💢 Canada 💢 Portugal ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://kstv.us:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://kstv.us:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 29 Ağustos 2020 07:00
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ Unlimited
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ qSkRZ4xSuV
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 1031036311
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇸 United States
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/New_York
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 206.212.242.21
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Pulsar Networks Inc
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 03 Mayıs 2026 - 05:17
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2567 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://kstv.us:8080/get.php?username=qSkRZ4xSuV&password=1031036311&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://kstv.us:8080/xmltv.php?username=qSkRZ4xSuV&password=1031036311&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Main Events / PPV 💢 US - Entertainment 💢 US - Movies 💢 US - Sports 💢 US - Locals 💢 Bally Sports 💢 FanDuel Sports 💢 NBC Sports 💢 US - News 💢 US - Kids 💢 US - Music 💢 UK - Entertainment 💢 UK - Documentaries 💢 UK - Movies 💢 UK - Sports 💢 UK - Kids 💢 Adult 💢 SuperSports 💢 Bein Sports 💢 MLB 💢 MLB.2 💢 NCAA Baseball 💢 NBA 💢 NBA.2 💢 NBA.3 💢 WNBA 💢 WNBA.2 💢 NFL 💢 NFL.2 💢 NFL.3 💢 NCAAF 💢 NHL 💢 NHL.2 💢 Latino 💢 Deportes 💢 Brazil 💢 Canada 💢 Portugal ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://kstv.us:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://kstv.us:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 28 Temmuz 2020 07:00
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ Unlimited
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 7YRhKJqhE8
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ Sap10
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 3
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇸 United States
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/New_York
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 206.212.242.21
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Pulsar Networks Inc
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 03 Mayıs 2026 - 05:51
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2567 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://kstv.us:8080/get.php?username=7YRhKJqhE8&password=Sap10&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://kstv.us:8080/xmltv.php?username=7YRhKJqhE8&password=Sap10&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Main Events / PPV 💢 US - Entertainment 💢 US - Movies 💢 US - Sports 💢 US - Locals 💢 Bally Sports 💢 FanDuel Sports 💢 NBC Sports 💢 US - News 💢 US - Kids 💢 US - Music 💢 UK - Entertainment 💢 UK - Documentaries 💢 UK - Movies 💢 UK - Sports 💢 UK - Kids 💢 Adult 💢 SuperSports 💢 Bein Sports 💢 MLB 💢 MLB.2 💢 NCAA Baseball 💢 NBA 💢 NBA.2 💢 NBA.3 💢 WNBA 💢 WNBA.2 💢 NFL 💢 NFL.2 💢 NFL.3 💢 NCAAF 💢 NHL 💢 NHL.2 💢 Latino 💢 Deportes 💢 Brazil 💢 Canada 💢 Portugal ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://kstv.us:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://kstv.us:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 23 Temmuz 2021 10:00
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ Unlimited
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ e9duM7QEUG
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 4479326732
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 5
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇸 United States
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/New_York
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 206.212.242.21
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Pulsar Networks Inc
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 03 Mayıs 2026 - 08:28
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2567 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://kstv.us:8080/get.php?username=e9duM7QEUG&password=4479326732&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://kstv.us:8080/xmltv.php?username=e9duM7QEUG&password=4479326732&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Main Events / PPV 💢 US - Entertainment 💢 US - Movies 💢 US - Sports 💢 US - Locals 💢 Bally Sports 💢 FanDuel Sports 💢 NBC Sports 💢 US - News 💢 US - Kids 💢 US - Music 💢 UK - Entertainment 💢 UK - Documentaries 💢 UK - Movies 💢 UK - Sports 💢 UK - Kids 💢 Adult 💢 SuperSports 💢 Bein Sports 💢 MLB 💢 MLB.2 💢 NCAA Baseball 💢 NBA 💢 NBA.2 💢 NBA.3 💢 WNBA 💢 WNBA.2 💢 NFL 💢 NFL.2 💢 NFL.3 💢 NCAAF 💢 NHL 💢 NHL.2 💢 Latino 💢 Deportes 💢 Brazil 💢 Canada 💢 Portugal ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://kstv.us:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://kstv.us:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 10 Mayıs 2023 10:00
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ Unlimited
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ Rmfisher45
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 7746974115
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 5
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇸 United States
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/New_York
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 206.212.242.21
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Pulsar Networks Inc
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 03 Mayıs 2026 - 10:19
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2567 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://kstv.us:8080/get.php?username=Rmfisher45&password=7746974115&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://kstv.us:8080/xmltv.php?username=Rmfisher45&password=7746974115&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Main Events / PPV 💢 US - Entertainment 💢 US - Movies 💢 US - Sports 💢 US - Locals 💢 Bally Sports 💢 FanDuel Sports 💢 NBC Sports 💢 US - News 💢 US - Kids 💢 US - Music 💢 UK - Entertainment 💢 UK - Documentaries 💢 UK - Movies 💢 UK - Sports 💢 UK - Kids 💢 Adult 💢 SuperSports 💢 Bein Sports 💢 MLB 💢 MLB.2 💢 NCAA Baseball 💢 NBA 💢 NBA.2 💢 NBA.3 💢 WNBA 💢 WNBA.2 💢 NFL 💢 NFL.2 💢 NFL.3 💢 NCAAF 💢 NHL 💢 NHL.2 💢 Latino 💢 Deportes 💢 Brazil 💢 Canada 💢 Portugal ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://kstv.us:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://kstv.us:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 29 Ağustos 2024 10:00
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ Unlimited
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ vWP08xG4HJ
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 99445352316
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 5
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇸 United States
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/New_York
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 206.212.242.21
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Pulsar Networks Inc
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 03 Mayıs 2026 - 14:37
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2567 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://kstv.us:8080/get.php?username=vWP08xG4HJ&password=99445352316&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://kstv.us:8080/xmltv.php?username=vWP08xG4HJ&password=99445352316&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Main Events / PPV 💢 US - Entertainment 💢 US - Movies 💢 US - Sports 💢 US - Locals 💢 Bally Sports 💢 FanDuel Sports 💢 NBC Sports 💢 US - News 💢 US - Kids 💢 US - Music 💢 UK - Entertainment 💢 UK - Documentaries 💢 UK - Movies 💢 UK - Sports 💢 UK - Kids 💢 Adult 💢 SuperSports 💢 Bein Sports 💢 MLB 💢 MLB.2 💢 NCAA Baseball 💢 NBA 💢 NBA.2 💢 NBA.3 💢 WNBA 💢 WNBA.2 💢 NFL 💢 NFL.2 💢 NFL.3 💢 NCAAF 💢 NHL 💢 NHL.2 💢 Latino 💢 Deportes 💢 Brazil 💢 Canada 💢 Portugal ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://kstv.us:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://kstv.us:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 02 Mart 2020 08:00
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ Unlimited
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 1C6TEfP25t
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 1460409831
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 5
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇸 United States
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/New_York
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 206.212.242.21
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Pulsar Networks Inc
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 03 Mayıs 2026 - 15:18
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2567 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://kstv.us:8080/get.php?username=1C6TEfP25t&password=1460409831&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://kstv.us:8080/xmltv.php?username=1C6TEfP25t&password=1460409831&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Main Events / PPV 💢 US - Entertainment 💢 US - Movies 💢 US - Sports 💢 US - Locals 💢 Bally Sports 💢 FanDuel Sports 💢 NBC Sports 💢 US - News 💢 US - Kids 💢 US - Music 💢 UK - Entertainment 💢 UK - Documentaries 💢 UK - Movies 💢 UK - Sports 💢 UK - Kids 💢 Adult 💢 SuperSports 💢 Bein Sports 💢 MLB 💢 MLB.2 💢 NCAA Baseball 💢 NBA 💢 NBA.2 💢 NBA.3 💢 WNBA 💢 WNBA.2 💢 NFL 💢 NFL.2 💢 NFL.3 💢 NCAAF 💢 NHL 💢 NHL.2 💢 Latino 💢 Deportes 💢 Brazil 💢 Canada 💢 Portugal ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://kstv.us:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://kstv.us:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 20 Haziran 2019 07:00
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ Unlimited
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ wE0QhuX7DJ
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 3466067609
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Pasif 🔴
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 5
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇸 United States
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/New_York
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 206.212.242.21
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Pulsar Networks Inc
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 03 Mayıs 2026 - 15:27
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://kstv.us:8080/get.php?username=wE0QhuX7DJ&password=3466067609&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://kstv.us:8080/xmltv.php?username=wE0QhuX7DJ&password=3466067609&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢ ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://kstv.us:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://kstv.us:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 03 Ağustos 2020 07:00
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ Unlimited
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ gaT5kcT2AG
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 5879423066
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 4
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 5
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇸 United States
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/New_York
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 206.212.242.21
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Pulsar Networks Inc
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 03 Mayıs 2026 - 15:45
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2567 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://kstv.us:8080/get.php?username=gaT5kcT2AG&password=5879423066&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://kstv.us:8080/xmltv.php?username=gaT5kcT2AG&password=5879423066&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Main Events / PPV 💢 US - Entertainment 💢 US - Movies 💢 US - Sports 💢 US - Locals 💢 Bally Sports 💢 FanDuel Sports 💢 NBC Sports 💢 US - News 💢 US - Kids 💢 US - Music 💢 UK - Entertainment 💢 UK - Documentaries 💢 UK - Movies 💢 UK - Sports 💢 UK - Kids 💢 Adult 💢 SuperSports 💢 Bein Sports 💢 MLB 💢 MLB.2 💢 NCAA Baseball 💢 NBA 💢 NBA.2 💢 NBA.3 💢 WNBA 💢 WNBA.2 💢 NFL 💢 NFL.2 💢 NFL.3 💢 NCAAF 💢 NHL 💢 NHL.2 💢 Latino 💢 Deportes 💢 Brazil 💢 Canada 💢 Portugal ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://kstv.us:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://kstv.us:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 09 Temmuz 2024 10:00
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ Unlimited
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ QX90g3Gk68
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 11123892408
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 5
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇸 United States
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/New_York
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 206.212.242.21
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Pulsar Networks Inc
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 03 Mayıs 2026 - 17:46
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2421 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://kstv.us:8080/get.php?username=QX90g3Gk68&password=11123892408&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://kstv.us:8080/xmltv.php?username=QX90g3Gk68&password=11123892408&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Main Events / PPV 💢 US - Entertainment 💢 US - Movies 💢 US - Sports 💢 US - Locals 💢 Bally Sports 💢 FanDuel Sports 💢 NBC Sports 💢 US - News 💢 US - Kids 💢 US - Music 💢 UK - Entertainment 💢 UK - Documentaries 💢 UK - Movies 💢 UK - Sports 💢 UK - Kids 💢 SuperSports 💢 Bein Sports 💢 MLB 💢 MLB.2 💢 NCAA Baseball 💢 NBA 💢 NBA.2 💢 NBA.3 💢 WNBA 💢 WNBA.2 💢 NFL 💢 NFL.2 💢 NFL.3 💢 NCAAF 💢 NHL 💢 NHL.2 💢 Latino 💢 Deportes 💢 Brazil 💢 Canada 💢 Portugal ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://kstv.us:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://kstv.us:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 29 Haziran 2021 10:00
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ Unlimited
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ w1yBNTXEb2
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 0862594724
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 5
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇸 United States
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/New_York
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 206.212.242.21
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Pulsar Networks Inc
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 03 Mayıs 2026 - 19:35
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2567 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://kstv.us:8080/get.php?username=w1yBNTXEb2&password=0862594724&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://kstv.us:8080/xmltv.php?username=w1yBNTXEb2&password=0862594724&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Main Events / PPV 💢 US - Entertainment 💢 US - Movies 💢 US - Sports 💢 US - Locals 💢 Bally Sports 💢 FanDuel Sports 💢 NBC Sports 💢 US - News 💢 US - Kids 💢 US - Music 💢 UK - Entertainment 💢 UK - Documentaries 💢 UK - Movies 💢 UK - Sports 💢 UK - Kids 💢 Adult 💢 SuperSports 💢 Bein Sports 💢 MLB 💢 MLB.2 💢 NCAA Baseball 💢 NBA 💢 NBA.2 💢 NBA.3 💢 WNBA 💢 WNBA.2 💢 NFL 💢 NFL.2 💢 NFL.3 💢 NCAAF 💢 NHL 💢 NHL.2 💢 Latino 💢 Deportes 💢 Brazil 💢 Canada 💢 Portugal ✷✷ 📺
+
+========================================

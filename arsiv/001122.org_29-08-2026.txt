@@ -1,0 +1,759 @@
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://001122.org:2095
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://001122.org:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 19 Ekim 2025 17:48
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 19 Ekim 2026 17:48
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ a4:30:7a:a0:b7:70483938
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ a4:30:7a:a0:b7:70483937
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 45.139.122.99
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Amarutu Technology Ltd
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 02:08
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2800 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 24460 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 9075 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://001122.org:2095/get.php?username=a4:30:7a:a0:b7:70483938&password=a4:30:7a:a0:b7:70483937&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://001122.org:2095/xmltv.php?username=a4:30:7a:a0:b7:70483938&password=a4:30:7a:a0:b7:70483937&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Ligue 1 💢 French-HD 💢 French Sports 💢 French-FHD 💢 French-SD 💢 Canal + Africa 💢 Belgique 💢 beIN HD 💢 beIN SD 💢 beIN FHD 💢 Bein Channels 💢 Tunisia 💢 Algeria 💢 Morocco 💢 Libya 💢 Multi Channels 💢 SHAHID 💢 MBC HD 💢 MBC FHD 💢 MBC SD 💢 OSN 💢 OSN-FHD 💢 Egyptian 💢 Lebanon 💢 Qatar 💢 Kuwait 💢 Emarat 💢 Syrian 💢 Iraq 💢 Arabic 💢 Quran 💢 Saudi 💢 Germany 💢 Scandinavia 💢 UK 💢 USA 💢 Canada 💢 Italy 💢 Spain 💢 Turkey 💢 Netherland 💢 Portugal 💢 INDIAN 💢 Radio Tunisie 💢 Radio FR 💢 Adult ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://001122.org:2095
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://001122.org:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 22 Mart 2026 19:29
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 24 Mart 2027 02:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ a0:d7:f3:ff:23:24
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 1234567890123
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 45.139.122.99
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Amarutu Technology Ltd
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 02:28
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2670 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 24460 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 9075 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://001122.org:2095/get.php?username=a0:d7:f3:ff:23:24&password=1234567890123&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://001122.org:2095/xmltv.php?username=a0:d7:f3:ff:23:24&password=1234567890123&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Ligue 1 💢 French-HD 💢 French Sports 💢 French-FHD 💢 French-SD 💢 Canal + Africa 💢 Belgique 💢 beIN HD 💢 beIN SD 💢 beIN FHD 💢 Bein Channels 💢 Diwan Sport 💢 Tunisia 💢 Algeria 💢 Morocco 💢 Libya 💢 Multi Channels 💢 SHAHID 💢 MBC HD 💢 MBC FHD 💢 MBC SD 💢 OSN 💢 OSN-FHD 💢 Egyptian 💢 Lebanon 💢 Qatar 💢 Kuwait 💢 Emarat 💢 Syrian 💢 Iraq 💢 Arabic 💢 Quran 💢 Saudi 💢 Germany 💢 Scandinavia 💢 UK 💢 USA 💢 Canada 💢 Italy 💢 Spain 💢 Turkey 💢 Netherland 💢 Portugal 💢 INDIAN 💢 Radio Tunisie 💢 Radio FR ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://001122.org:2095
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://001122.org:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 24 Şubat 2026 21:56
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 24 Şubat 2027 21:56
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 65:1c:b0:51:81:68poii
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 65:1c:b0:51:81:68yyy
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 45.139.122.99
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Amarutu Technology Ltd
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 02:30
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2800 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 24460 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 9075 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://001122.org:2095/get.php?username=65:1c:b0:51:81:68poii&password=65:1c:b0:51:81:68yyy&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://001122.org:2095/xmltv.php?username=65:1c:b0:51:81:68poii&password=65:1c:b0:51:81:68yyy&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Ligue 1 💢 French-HD 💢 French Sports 💢 French-FHD 💢 French-SD 💢 Canal + Africa 💢 Belgique 💢 beIN HD 💢 beIN SD 💢 beIN FHD 💢 Bein Channels 💢 Tunisia 💢 Algeria 💢 Morocco 💢 Libya 💢 Multi Channels 💢 SHAHID 💢 MBC HD 💢 MBC FHD 💢 MBC SD 💢 OSN 💢 OSN-FHD 💢 Egyptian 💢 Lebanon 💢 Qatar 💢 Kuwait 💢 Emarat 💢 Syrian 💢 Iraq 💢 Arabic 💢 Quran 💢 Saudi 💢 Germany 💢 Scandinavia 💢 UK 💢 USA 💢 Canada 💢 Italy 💢 Spain 💢 Turkey 💢 Netherland 💢 Portugal 💢 INDIAN 💢 Radio Tunisie 💢 Radio FR 💢 Adult ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://001122.org:2095
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://001122.org:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 02 Aralık 2025 17:26
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 02 Aralık 2026 17:26
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ nabilchrih1234
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ nabilchrih1234567
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 45.139.122.99
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Amarutu Technology Ltd
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 02:39
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2670 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 24460 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 9075 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://001122.org:2095/get.php?username=nabilchrih1234&password=nabilchrih1234567&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://001122.org:2095/xmltv.php?username=nabilchrih1234&password=nabilchrih1234567&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Ligue 1 💢 French-HD 💢 French Sports 💢 French-FHD 💢 French-SD 💢 Canal + Africa 💢 Belgique 💢 beIN HD 💢 beIN SD 💢 beIN FHD 💢 Bein Channels 💢 Diwan Sport 💢 Tunisia 💢 Algeria 💢 Morocco 💢 Libya 💢 Multi Channels 💢 SHAHID 💢 MBC HD 💢 MBC FHD 💢 MBC SD 💢 OSN 💢 OSN-FHD 💢 Egyptian 💢 Lebanon 💢 Qatar 💢 Kuwait 💢 Emarat 💢 Syrian 💢 Iraq 💢 Arabic 💢 Quran 💢 Saudi 💢 Germany 💢 Scandinavia 💢 UK 💢 USA 💢 Canada 💢 Italy 💢 Spain 💢 Turkey 💢 Netherland 💢 Portugal 💢 INDIAN 💢 Radio Tunisie 💢 Radio FR ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://001122.org:2095
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://001122.org:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 11 Mart 2026 01:16
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 11 Mart 2027 02:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ c8cdfcb5fd49
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 0ff1012c9f75
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 45.139.122.99
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Amarutu Technology Ltd
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 02:44
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2670 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 24460 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 9075 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://001122.org:2095/get.php?username=c8cdfcb5fd49&password=0ff1012c9f75&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://001122.org:2095/xmltv.php?username=c8cdfcb5fd49&password=0ff1012c9f75&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Ligue 1 💢 French-HD 💢 French Sports 💢 French-FHD 💢 French-SD 💢 Canal + Africa 💢 Belgique 💢 beIN HD 💢 beIN SD 💢 beIN FHD 💢 Bein Channels 💢 Diwan Sport 💢 Tunisia 💢 Algeria 💢 Morocco 💢 Libya 💢 Multi Channels 💢 SHAHID 💢 MBC HD 💢 MBC FHD 💢 MBC SD 💢 OSN 💢 OSN-FHD 💢 Egyptian 💢 Lebanon 💢 Qatar 💢 Kuwait 💢 Emarat 💢 Syrian 💢 Iraq 💢 Arabic 💢 Quran 💢 Saudi 💢 Germany 💢 Scandinavia 💢 UK 💢 USA 💢 Canada 💢 Italy 💢 Spain 💢 Turkey 💢 Netherland 💢 Portugal 💢 INDIAN 💢 Radio Tunisie 💢 Radio FR ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://001122.org:2095
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://001122.org:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 10 Mart 2026 19:37
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 10 Mart 2027 19:37
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ wissem01202501
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 012024010101
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 45.139.122.99
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Amarutu Technology Ltd
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 02:46
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2670 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 24460 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 9075 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://001122.org:2095/get.php?username=wissem01202501&password=012024010101&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://001122.org:2095/xmltv.php?username=wissem01202501&password=012024010101&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Ligue 1 💢 French-HD 💢 French Sports 💢 French-FHD 💢 French-SD 💢 Canal + Africa 💢 Belgique 💢 beIN HD 💢 beIN SD 💢 beIN FHD 💢 Bein Channels 💢 Diwan Sport 💢 Tunisia 💢 Algeria 💢 Morocco 💢 Libya 💢 Multi Channels 💢 SHAHID 💢 MBC HD 💢 MBC FHD 💢 MBC SD 💢 OSN 💢 OSN-FHD 💢 Egyptian 💢 Lebanon 💢 Qatar 💢 Kuwait 💢 Emarat 💢 Syrian 💢 Iraq 💢 Arabic 💢 Quran 💢 Saudi 💢 Germany 💢 Scandinavia 💢 UK 💢 USA 💢 Canada 💢 Italy 💢 Spain 💢 Turkey 💢 Netherland 💢 Portugal 💢 INDIAN 💢 Radio Tunisie 💢 Radio FR ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://001122.org:2095
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://001122.org:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 05 Aralık 2025 22:00
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 05 Aralık 2026 22:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ naceurtv22023
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 181120232024
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 45.139.122.99
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Amarutu Technology Ltd
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 02:57
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2670 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 24460 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 9075 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://001122.org:2095/get.php?username=naceurtv22023&password=181120232024&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://001122.org:2095/xmltv.php?username=naceurtv22023&password=181120232024&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Ligue 1 💢 French-HD 💢 French Sports 💢 French-FHD 💢 French-SD 💢 Canal + Africa 💢 Belgique 💢 beIN HD 💢 beIN SD 💢 beIN FHD 💢 Bein Channels 💢 Diwan Sport 💢 Tunisia 💢 Algeria 💢 Morocco 💢 Libya 💢 Multi Channels 💢 SHAHID 💢 MBC HD 💢 MBC FHD 💢 MBC SD 💢 OSN 💢 OSN-FHD 💢 Egyptian 💢 Lebanon 💢 Qatar 💢 Kuwait 💢 Emarat 💢 Syrian 💢 Iraq 💢 Arabic 💢 Quran 💢 Saudi 💢 Germany 💢 Scandinavia 💢 UK 💢 USA 💢 Canada 💢 Italy 💢 Spain 💢 Turkey 💢 Netherland 💢 Portugal 💢 INDIAN 💢 Radio Tunisie 💢 Radio FR ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://001122.org:2095
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://001122.org:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 10 Mayıs 2026 21:49
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 10 Mayıs 2027 21:49
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ chahin1122334455
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ chahin5544332211
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 45.139.122.99
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Amarutu Technology Ltd
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 03:32
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2519 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 24460 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 9077 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://001122.org:2095/get.php?username=chahin1122334455&password=chahin5544332211&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://001122.org:2095/xmltv.php?username=chahin1122334455&password=chahin5544332211&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Ligue 1 💢 French-HD 💢 French Sports 💢 French-FHD 💢 French-SD 💢 Canal + Africa 💢 Belgique 💢 beIN HD 💢 beIN SD 💢 beIN FHD 💢 Bein Channels 💢 Diwan Sport 💢 Tunisia 💢 Algeria 💢 Morocco 💢 Libya 💢 Multi Channels 💢 SHAHID 💢 MBC HD 💢 MBC FHD 💢 MBC SD 💢 OSN 💢 OSN-FHD 💢 Egyptian 💢 Lebanon 💢 Qatar 💢 Kuwait 💢 Emarat 💢 Syrian 💢 Iraq 💢 Arabic 💢 Quran 💢 Saudi 💢 Germany 💢 UK 💢 USA 💢 Canada 💢 Italy 💢 Spain 💢 Turkey 💢 Portugal 💢 Radio Tunisie 💢 Radio FR ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://001122.org:2095
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://001122.org:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 20 Ağustos 2026 21:05
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 20 Ağustos 2027 21:05
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ aurellie16082024
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ qsdfghjk160824
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 45.139.122.99
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Amarutu Technology Ltd
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 03:41
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2800 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 24460 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 9077 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://001122.org:2095/get.php?username=aurellie16082024&password=qsdfghjk160824&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://001122.org:2095/xmltv.php?username=aurellie16082024&password=qsdfghjk160824&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Ligue 1 💢 French-HD 💢 French Sports 💢 French-FHD 💢 French-SD 💢 Canal + Africa 💢 Belgique 💢 beIN HD 💢 beIN SD 💢 beIN FHD 💢 Bein Channels 💢 Tunisia 💢 Algeria 💢 Morocco 💢 Libya 💢 Multi Channels 💢 SHAHID 💢 MBC HD 💢 MBC FHD 💢 MBC SD 💢 OSN 💢 OSN-FHD 💢 Egyptian 💢 Lebanon 💢 Qatar 💢 Kuwait 💢 Emarat 💢 Syrian 💢 Iraq 💢 Arabic 💢 Quran 💢 Saudi 💢 Germany 💢 Scandinavia 💢 UK 💢 USA 💢 Canada 💢 Italy 💢 Spain 💢 Turkey 💢 Netherland 💢 Portugal 💢 INDIAN 💢 Radio Tunisie 💢 Radio FR 💢 Adult ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://001122.org:2095
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://001122.org:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 23 Haziran 2026 23:47
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 26 Ağustos 2027 01:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ tissghomrassen
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ tissghomrassen1234
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 45.139.122.99
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Amarutu Technology Ltd
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 04:59
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2670 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 24460 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 9077 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://001122.org:2095/get.php?username=tissghomrassen&password=tissghomrassen1234&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://001122.org:2095/xmltv.php?username=tissghomrassen&password=tissghomrassen1234&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Ligue 1 💢 French-HD 💢 French Sports 💢 French-FHD 💢 French-SD 💢 Canal + Africa 💢 Belgique 💢 beIN HD 💢 beIN SD 💢 beIN FHD 💢 Bein Channels 💢 Diwan Sport 💢 Tunisia 💢 Algeria 💢 Morocco 💢 Libya 💢 Multi Channels 💢 SHAHID 💢 MBC HD 💢 MBC FHD 💢 MBC SD 💢 OSN 💢 OSN-FHD 💢 Egyptian 💢 Lebanon 💢 Qatar 💢 Kuwait 💢 Emarat 💢 Syrian 💢 Iraq 💢 Arabic 💢 Quran 💢 Saudi 💢 Germany 💢 Scandinavia 💢 UK 💢 USA 💢 Canada 💢 Italy 💢 Spain 💢 Turkey 💢 Netherland 💢 Portugal 💢 INDIAN 💢 Radio Tunisie 💢 Radio FR ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://001122.org:2095
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://001122.org:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 24 Haziran 2026 22:37
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 24 Haziran 2027 22:37
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 80:8a:bd:ad:83:53
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 112233445566
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 45.139.122.99
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Amarutu Technology Ltd
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 05:10
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2670 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 24460 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 9077 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://001122.org:2095/get.php?username=80:8a:bd:ad:83:53&password=112233445566&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://001122.org:2095/xmltv.php?username=80:8a:bd:ad:83:53&password=112233445566&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Ligue 1 💢 French-HD 💢 French Sports 💢 French-FHD 💢 French-SD 💢 Canal + Africa 💢 Belgique 💢 beIN HD 💢 beIN SD 💢 beIN FHD 💢 Bein Channels 💢 Diwan Sport 💢 Tunisia 💢 Algeria 💢 Morocco 💢 Libya 💢 Multi Channels 💢 SHAHID 💢 MBC HD 💢 MBC FHD 💢 MBC SD 💢 OSN 💢 OSN-FHD 💢 Egyptian 💢 Lebanon 💢 Qatar 💢 Kuwait 💢 Emarat 💢 Syrian 💢 Iraq 💢 Arabic 💢 Quran 💢 Saudi 💢 Germany 💢 Scandinavia 💢 UK 💢 USA 💢 Canada 💢 Italy 💢 Spain 💢 Turkey 💢 Netherland 💢 Portugal 💢 INDIAN 💢 Radio Tunisie 💢 Radio FR ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://001122.org:2095
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://001122.org:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 10 Aralık 2025 22:05
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 10 Aralık 2026 22:05
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ boxboxbox060606
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 0976boxboxkok
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 45.139.122.99
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Amarutu Technology Ltd
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 05:18
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2627 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 24460 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 9077 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://001122.org:2095/get.php?username=boxboxbox060606&password=0976boxboxkok&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://001122.org:2095/xmltv.php?username=boxboxbox060606&password=0976boxboxkok&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Ligue 1 💢 French-HD 💢 French Sports 💢 French-FHD 💢 French-SD 💢 Canal + Africa 💢 Belgique 💢 beIN HD 💢 beIN SD 💢 beIN FHD 💢 Bein Channels 💢 Tunisia 💢 Algeria 💢 Morocco 💢 Libya 💢 Multi Channels 💢 SHAHID 💢 MBC HD 💢 MBC FHD 💢 MBC SD 💢 OSN 💢 OSN-FHD 💢 Egyptian 💢 Lebanon 💢 Qatar 💢 Kuwait 💢 Emarat 💢 Syrian 💢 Iraq 💢 Arabic 💢 Quran 💢 Saudi 💢 Germany 💢 Scandinavia 💢 UK 💢 USA 💢 Canada 💢 Italy 💢 Spain 💢 Turkey 💢 Netherland 💢 Portugal 💢 INDIAN 💢 Radio Tunisie 💢 Radio FR ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://001122.org:2095
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://001122.org:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 23 Mart 2026 20:18
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 25 Mart 2027 02:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ mourad.123456
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ bousabat.654321
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 45.139.122.99
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Amarutu Technology Ltd
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 06:14
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2670 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 24460 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 9077 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://001122.org:2095/get.php?username=mourad.123456&password=bousabat.654321&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://001122.org:2095/xmltv.php?username=mourad.123456&password=bousabat.654321&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Ligue 1 💢 French-HD 💢 French Sports 💢 French-FHD 💢 French-SD 💢 Canal + Africa 💢 Belgique 💢 beIN HD 💢 beIN SD 💢 beIN FHD 💢 Bein Channels 💢 Diwan Sport 💢 Tunisia 💢 Algeria 💢 Morocco 💢 Libya 💢 Multi Channels 💢 SHAHID 💢 MBC HD 💢 MBC FHD 💢 MBC SD 💢 OSN 💢 OSN-FHD 💢 Egyptian 💢 Lebanon 💢 Qatar 💢 Kuwait 💢 Emarat 💢 Syrian 💢 Iraq 💢 Arabic 💢 Quran 💢 Saudi 💢 Germany 💢 Scandinavia 💢 UK 💢 USA 💢 Canada 💢 Italy 💢 Spain 💢 Turkey 💢 Netherland 💢 Portugal 💢 INDIAN 💢 Radio Tunisie 💢 Radio FR ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://001122.org:2095
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://001122.org:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 24 Haziran 2026 22:37
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 24 Haziran 2027 22:37
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 80:8a:bd:ad:83:53
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 112233445566
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 45.139.122.99
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Amarutu Technology Ltd
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 08:30
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2670 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 24460 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 9077 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://001122.org:2095/get.php?username=80:8a:bd:ad:83:53&password=112233445566&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://001122.org:2095/xmltv.php?username=80:8a:bd:ad:83:53&password=112233445566&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Ligue 1 💢 French-HD 💢 French Sports 💢 French-FHD 💢 French-SD 💢 Canal + Africa 💢 Belgique 💢 beIN HD 💢 beIN SD 💢 beIN FHD 💢 Bein Channels 💢 Diwan Sport 💢 Tunisia 💢 Algeria 💢 Morocco 💢 Libya 💢 Multi Channels 💢 SHAHID 💢 MBC HD 💢 MBC FHD 💢 MBC SD 💢 OSN 💢 OSN-FHD 💢 Egyptian 💢 Lebanon 💢 Qatar 💢 Kuwait 💢 Emarat 💢 Syrian 💢 Iraq 💢 Arabic 💢 Quran 💢 Saudi 💢 Germany 💢 Scandinavia 💢 UK 💢 USA 💢 Canada 💢 Italy 💢 Spain 💢 Turkey 💢 Netherland 💢 Portugal 💢 INDIAN 💢 Radio Tunisie 💢 Radio FR ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://001122.org:2095
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://001122.org:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 22 Mart 2026 19:29
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 24 Mart 2027 02:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ a0:d7:f3:ff:23:24
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 1234567890123
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 45.139.122.99
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Amarutu Technology Ltd
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 08:32
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2670 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 24460 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 9077 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://001122.org:2095/get.php?username=a0:d7:f3:ff:23:24&password=1234567890123&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://001122.org:2095/xmltv.php?username=a0:d7:f3:ff:23:24&password=1234567890123&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Ligue 1 💢 French-HD 💢 French Sports 💢 French-FHD 💢 French-SD 💢 Canal + Africa 💢 Belgique 💢 beIN HD 💢 beIN SD 💢 beIN FHD 💢 Bein Channels 💢 Diwan Sport 💢 Tunisia 💢 Algeria 💢 Morocco 💢 Libya 💢 Multi Channels 💢 SHAHID 💢 MBC HD 💢 MBC FHD 💢 MBC SD 💢 OSN 💢 OSN-FHD 💢 Egyptian 💢 Lebanon 💢 Qatar 💢 Kuwait 💢 Emarat 💢 Syrian 💢 Iraq 💢 Arabic 💢 Quran 💢 Saudi 💢 Germany 💢 Scandinavia 💢 UK 💢 USA 💢 Canada 💢 Italy 💢 Spain 💢 Turkey 💢 Netherland 💢 Portugal 💢 INDIAN 💢 Radio Tunisie 💢 Radio FR ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://001122.org:2095
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://001122.org:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 24 Şubat 2026 21:56
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 24 Şubat 2027 21:56
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 65:1c:b0:51:81:68poii
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 65:1c:b0:51:81:68yyy
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 45.139.122.99
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Amarutu Technology Ltd
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 08:33
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2800 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 24460 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 9077 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://001122.org:2095/get.php?username=65:1c:b0:51:81:68poii&password=65:1c:b0:51:81:68yyy&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://001122.org:2095/xmltv.php?username=65:1c:b0:51:81:68poii&password=65:1c:b0:51:81:68yyy&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Ligue 1 💢 French-HD 💢 French Sports 💢 French-FHD 💢 French-SD 💢 Canal + Africa 💢 Belgique 💢 beIN HD 💢 beIN SD 💢 beIN FHD 💢 Bein Channels 💢 Tunisia 💢 Algeria 💢 Morocco 💢 Libya 💢 Multi Channels 💢 SHAHID 💢 MBC HD 💢 MBC FHD 💢 MBC SD 💢 OSN 💢 OSN-FHD 💢 Egyptian 💢 Lebanon 💢 Qatar 💢 Kuwait 💢 Emarat 💢 Syrian 💢 Iraq 💢 Arabic 💢 Quran 💢 Saudi 💢 Germany 💢 Scandinavia 💢 UK 💢 USA 💢 Canada 💢 Italy 💢 Spain 💢 Turkey 💢 Netherland 💢 Portugal 💢 INDIAN 💢 Radio Tunisie 💢 Radio FR 💢 Adult ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://001122.org:2095
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://001122.org:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 03 Mayıs 2026 16:51
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 03 Mayıs 2027 16:51
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 8253ab49cba8
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ aa48a4b2c715
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 45.139.122.99
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Amarutu Technology Ltd
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 08:57
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2670 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 24460 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 9077 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://001122.org:2095/get.php?username=8253ab49cba8&password=aa48a4b2c715&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://001122.org:2095/xmltv.php?username=8253ab49cba8&password=aa48a4b2c715&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Ligue 1 💢 French-HD 💢 French Sports 💢 French-FHD 💢 French-SD 💢 Canal + Africa 💢 Belgique 💢 beIN HD 💢 beIN SD 💢 beIN FHD 💢 Bein Channels 💢 Diwan Sport 💢 Tunisia 💢 Algeria 💢 Morocco 💢 Libya 💢 Multi Channels 💢 SHAHID 💢 MBC HD 💢 MBC FHD 💢 MBC SD 💢 OSN 💢 OSN-FHD 💢 Egyptian 💢 Lebanon 💢 Qatar 💢 Kuwait 💢 Emarat 💢 Syrian 💢 Iraq 💢 Arabic 💢 Quran 💢 Saudi 💢 Germany 💢 Scandinavia 💢 UK 💢 USA 💢 Canada 💢 Italy 💢 Spain 💢 Turkey 💢 Netherland 💢 Portugal 💢 INDIAN 💢 Radio Tunisie 💢 Radio FR ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://001122.org:2095
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://001122.org:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 03 Temmuz 2026 17:22
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 03 Temmuz 2027 17:22
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ mmeraja16062025
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ raja16062026
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 45.139.122.99
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Amarutu Technology Ltd
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 09:40
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2670 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 24460 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 9077 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://001122.org:2095/get.php?username=mmeraja16062025&password=raja16062026&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://001122.org:2095/xmltv.php?username=mmeraja16062025&password=raja16062026&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Ligue 1 💢 French-HD 💢 French Sports 💢 French-FHD 💢 French-SD 💢 Canal + Africa 💢 Belgique 💢 beIN HD 💢 beIN SD 💢 beIN FHD 💢 Bein Channels 💢 Diwan Sport 💢 Tunisia 💢 Algeria 💢 Morocco 💢 Libya 💢 Multi Channels 💢 SHAHID 💢 MBC HD 💢 MBC FHD 💢 MBC SD 💢 OSN 💢 OSN-FHD 💢 Egyptian 💢 Lebanon 💢 Qatar 💢 Kuwait 💢 Emarat 💢 Syrian 💢 Iraq 💢 Arabic 💢 Quran 💢 Saudi 💢 Germany 💢 Scandinavia 💢 UK 💢 USA 💢 Canada 💢 Italy 💢 Spain 💢 Turkey 💢 Netherland 💢 Portugal 💢 INDIAN 💢 Radio Tunisie 💢 Radio FR ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://001122.org:2095
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://001122.org:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 27 Şubat 2026 00:27
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 28 Şubat 2027 02:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 9cc63b1b4a37
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 8876c2358bb6
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 45.139.122.99
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Amarutu Technology Ltd
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 09:54
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2670 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 24460 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 9077 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://001122.org:2095/get.php?username=9cc63b1b4a37&password=8876c2358bb6&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://001122.org:2095/xmltv.php?username=9cc63b1b4a37&password=8876c2358bb6&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Ligue 1 💢 French-HD 💢 French Sports 💢 French-FHD 💢 French-SD 💢 Canal + Africa 💢 Belgique 💢 beIN HD 💢 beIN SD 💢 beIN FHD 💢 Bein Channels 💢 Diwan Sport 💢 Tunisia 💢 Algeria 💢 Morocco 💢 Libya 💢 Multi Channels 💢 SHAHID 💢 MBC HD 💢 MBC FHD 💢 MBC SD 💢 OSN 💢 OSN-FHD 💢 Egyptian 💢 Lebanon 💢 Qatar 💢 Kuwait 💢 Emarat 💢 Syrian 💢 Iraq 💢 Arabic 💢 Quran 💢 Saudi 💢 Germany 💢 Scandinavia 💢 UK 💢 USA 💢 Canada 💢 Italy 💢 Spain 💢 Turkey 💢 Netherland 💢 Portugal 💢 INDIAN 💢 Radio Tunisie 💢 Radio FR ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://001122.org:2095
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://001122.org:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 01 Şubat 2026 15:01
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 01 Şubat 2027 15:01
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ d0:03:df:0e:09:2d6777
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ d0:03:df:0e:09:2d6775
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 45.139.122.99
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Amarutu Technology Ltd
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 10:26
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2800 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 24460 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 9077 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://001122.org:2095/get.php?username=d0:03:df:0e:09:2d6777&password=d0:03:df:0e:09:2d6775&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://001122.org:2095/xmltv.php?username=d0:03:df:0e:09:2d6777&password=d0:03:df:0e:09:2d6775&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Ligue 1 💢 French-HD 💢 French Sports 💢 French-FHD 💢 French-SD 💢 Canal + Africa 💢 Belgique 💢 beIN HD 💢 beIN SD 💢 beIN FHD 💢 Bein Channels 💢 Tunisia 💢 Algeria 💢 Morocco 💢 Libya 💢 Multi Channels 💢 SHAHID 💢 MBC HD 💢 MBC FHD 💢 MBC SD 💢 OSN 💢 OSN-FHD 💢 Egyptian 💢 Lebanon 💢 Qatar 💢 Kuwait 💢 Emarat 💢 Syrian 💢 Iraq 💢 Arabic 💢 Quran 💢 Saudi 💢 Germany 💢 Scandinavia 💢 UK 💢 USA 💢 Canada 💢 Italy 💢 Spain 💢 Turkey 💢 Netherland 💢 Portugal 💢 INDIAN 💢 Radio Tunisie 💢 Radio FR 💢 Adult ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://001122.org:2095
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://001122.org:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 26 Nisan 2026 13:17
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 26 Nisan 2027 13:17
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ lucaslucaslucas
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ lucas0606060606
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 45.139.122.99
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Amarutu Technology Ltd
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 10:34
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2800 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 24460 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 9077 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://001122.org:2095/get.php?username=lucaslucaslucas&password=lucas0606060606&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://001122.org:2095/xmltv.php?username=lucaslucaslucas&password=lucas0606060606&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Ligue 1 💢 French-HD 💢 French Sports 💢 French-FHD 💢 French-SD 💢 Canal + Africa 💢 Belgique 💢 beIN HD 💢 beIN SD 💢 beIN FHD 💢 Bein Channels 💢 Tunisia 💢 Algeria 💢 Morocco 💢 Libya 💢 Multi Channels 💢 SHAHID 💢 MBC HD 💢 MBC FHD 💢 MBC SD 💢 OSN 💢 OSN-FHD 💢 Egyptian 💢 Lebanon 💢 Qatar 💢 Kuwait 💢 Emarat 💢 Syrian 💢 Iraq 💢 Arabic 💢 Quran 💢 Saudi 💢 Germany 💢 Scandinavia 💢 UK 💢 USA 💢 Canada 💢 Italy 💢 Spain 💢 Turkey 💢 Netherland 💢 Portugal 💢 INDIAN 💢 Radio Tunisie 💢 Radio FR 💢 Adult ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://001122.org:2095
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://001122.org:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 03 Şubat 2026 01:25
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 04 Şubat 2027 02:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ brahimbouaoun123456
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ brahimbouaoun12345678
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 45.139.122.99
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Amarutu Technology Ltd
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 11:44
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2670 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 24460 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 9077 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://001122.org:2095/get.php?username=brahimbouaoun123456&password=brahimbouaoun12345678&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://001122.org:2095/xmltv.php?username=brahimbouaoun123456&password=brahimbouaoun12345678&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Ligue 1 💢 French-HD 💢 French Sports 💢 French-FHD 💢 French-SD 💢 Canal + Africa 💢 Belgique 💢 beIN HD 💢 beIN SD 💢 beIN FHD 💢 Bein Channels 💢 Diwan Sport 💢 Tunisia 💢 Algeria 💢 Morocco 💢 Libya 💢 Multi Channels 💢 SHAHID 💢 MBC HD 💢 MBC FHD 💢 MBC SD 💢 OSN 💢 OSN-FHD 💢 Egyptian 💢 Lebanon 💢 Qatar 💢 Kuwait 💢 Emarat 💢 Syrian 💢 Iraq 💢 Arabic 💢 Quran 💢 Saudi 💢 Germany 💢 Scandinavia 💢 UK 💢 USA 💢 Canada 💢 Italy 💢 Spain 💢 Turkey 💢 Netherland 💢 Portugal 💢 INDIAN 💢 Radio Tunisie 💢 Radio FR ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://001122.org:2095
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://001122.org:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 01 Şubat 2026 15:01
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 01 Şubat 2027 15:01
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ d0:03:df:0e:09:2d6777
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ d0:03:df:0e:09:2d6775
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 45.139.122.99
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Amarutu Technology Ltd
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 14:34
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2800 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 24460 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 9077 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://001122.org:2095/get.php?username=d0:03:df:0e:09:2d6777&password=d0:03:df:0e:09:2d6775&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://001122.org:2095/xmltv.php?username=d0:03:df:0e:09:2d6777&password=d0:03:df:0e:09:2d6775&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Ligue 1 💢 French-HD 💢 French Sports 💢 French-FHD 💢 French-SD 💢 Canal + Africa 💢 Belgique 💢 beIN HD 💢 beIN SD 💢 beIN FHD 💢 Bein Channels 💢 Tunisia 💢 Algeria 💢 Morocco 💢 Libya 💢 Multi Channels 💢 SHAHID 💢 MBC HD 💢 MBC FHD 💢 MBC SD 💢 OSN 💢 OSN-FHD 💢 Egyptian 💢 Lebanon 💢 Qatar 💢 Kuwait 💢 Emarat 💢 Syrian 💢 Iraq 💢 Arabic 💢 Quran 💢 Saudi 💢 Germany 💢 Scandinavia 💢 UK 💢 USA 💢 Canada 💢 Italy 💢 Spain 💢 Turkey 💢 Netherland 💢 Portugal 💢 INDIAN 💢 Radio Tunisie 💢 Radio FR 💢 Adult ✷✷ 📺
+
+========================================

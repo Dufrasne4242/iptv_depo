@@ -1,0 +1,528 @@
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://bsiptv.123tv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://bsiptv.123tv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 02 Şubat 2023 20:26
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 09 Ağustos 2026 19:26
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ FilipeRibeiro_2
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 2cdSAUfqlG
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kiev
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.214.235.18
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 02 Mayıs 2026 - 01:40
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8819 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 20840 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 132 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://bsiptv.123tv.to:8080/get.php?username=FilipeRibeiro_2&password=2cdSAUfqlG&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://bsiptv.123tv.to:8080/xmltv.php?username=FilipeRibeiro_2&password=2cdSAUfqlG&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Africa VIP 💢 Albania 💢 Albania Sport 💢 beIN - Qatar ARB 💢 BOSNA-Bosnia 💢 Brazil 💢 Bulgaria 💢 ex-Yu 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Iceland 💢 Italia 💢 Latin America 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Spain 💢 Srbija-Serbia 💢 Switzerland 💢 Thailand 💢 UHD 4K 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://bsiptv.123tv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://bsiptv.123tv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 03 Eylül 2022 17:33
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 10 Aralık 2026 19:20
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ BcTaEXj4Qd
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ pRwBuxWjsX
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kiev
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.214.235.18
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 02 Mayıs 2026 - 02:10
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 9079 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 31550 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 248 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://bsiptv.123tv.to:8080/get.php?username=BcTaEXj4Qd&password=pRwBuxWjsX&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://bsiptv.123tv.to:8080/xmltv.php?username=BcTaEXj4Qd&password=pRwBuxWjsX&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Africa VIP 💢 Albania 💢 Albania Sport 💢 Belgium 💢 BOSNA-Bosnia 💢 Brazil 💢 Bulgaria 💢 Canada 💢 ex-Yu 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Iceland 💢 Italia 💢 Latin America 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Spain 💢 Srbija-Serbia 💢 Switzerland 💢 Thailand 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://bsiptv.123tv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://bsiptv.123tv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 03 Mayıs 2023 11:39
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 12 Mayıs 2026 10:39
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ Georrgegov
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ zTjKE76BRe
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kiev
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.214.235.18
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 02 Mayıs 2026 - 04:12
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 1823 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://bsiptv.123tv.to:8080/get.php?username=Georrgegov&password=zTjKE76BRe&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://bsiptv.123tv.to:8080/xmltv.php?username=Georrgegov&password=zTjKE76BRe&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Romania 💢 VIP Sports 💢 Events 💢 PPV VIP Sports ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://bsiptv.123tv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://bsiptv.123tv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 04 Ekim 2024 12:23
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 05 Ekim 2026 12:23
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ Wolfgang
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 5he6ERunyN
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kiev
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.214.235.18
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 02 Mayıs 2026 - 04:58
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 4007 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 21230 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://bsiptv.123tv.to:8080/get.php?username=Wolfgang&password=5he6ERunyN&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://bsiptv.123tv.to:8080/xmltv.php?username=Wolfgang&password=5he6ERunyN&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Austria 💢 For Adults 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Switzerland 💢 UHD 4K 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 VIP Sports 💢 Events 💢 PPV VIP Sports ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://bsiptv.123tv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://bsiptv.123tv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 30 Ekim 2022 14:57
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 07 Şubat 2027 15:37
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ DREqjeHFvh
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ gUiDp9RnTw
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kiev
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.214.235.18
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 02 Mayıs 2026 - 08:34
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2563 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 21086 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://bsiptv.123tv.to:8080/get.php?username=DREqjeHFvh&password=gUiDp9RnTw&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://bsiptv.123tv.to:8080/xmltv.php?username=DREqjeHFvh&password=gUiDp9RnTw&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Brazil 💢 For Adults 💢 France 💢 Germany 💢 24-7 Germany 💢 Italia 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Spain ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://bsiptv.123tv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://bsiptv.123tv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 31 Mayıs 2022 01:15
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 01 Eylül 2026 15:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ jpvmartinho
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ YBTQHkef1Z
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 2
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kiev
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.214.235.18
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 02 Mayıs 2026 - 08:38
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 14396 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 16087 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://bsiptv.123tv.to:8080/get.php?username=jpvmartinho&password=YBTQHkef1Z&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://bsiptv.123tv.to:8080/xmltv.php?username=jpvmartinho&password=YBTQHkef1Z&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Arab Countries VIP 💢 Afghanistan 💢 Africa 💢 Africa VIP 💢 Africa Canal+ 💢 Arab Countries 💢 beIN - Qatar ARB 💢 OSN - Qatar ARB 💢 ARB Algeria 💢 ARB Bahrain 💢 ARB Egypt 💢 ARB Libya 💢 ARB Syria 💢 ARB Lebanon 💢 ARB Palestine 💢 ARB Rotana 💢 ARB Morocco 💢 ARB Jordan 💢 ARB Kuwait 💢 ARB UAE 💢 ARB Iraq 💢 ARB Tunisia 💢 ARB Saudi Arabia 💢 ARB Islam 💢 ARB News 💢 ARB MBC 💢 ARB Kids 💢 Australia 💢 Austria 💢 Belgium 💢 Brazil 💢 Bulgaria 💢 Canada 💢 China 💢 Czech Republic 💢 Denmark 💢 Denmark VIP 💢 Denmark Radio 💢 Estonia 💢 Finland 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 Hungary 💢 India 💢 India VIP 💢 Indonesia 💢 Italia 💢 Latin America 💢 Lithuania 💢 Macedonia 💢 Malaysia 💢 Malta 💢 Netherland 💢 Norway 💢 Norway VIP 💢 Philippines 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Romania 💢 Russian 💢 Scandinavian 💢 Spain 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 UHD 4K 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://bsiptv.123tv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://bsiptv.123tv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 31 Mart 2023 15:32
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 30 Haziran 2026 14:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ sameirinho1949
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ T7B3tCSRUz
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kiev
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.214.235.18
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 02 Mayıs 2026 - 08:45
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 16687 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 9616 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://bsiptv.123tv.to:8080/get.php?username=sameirinho1949&password=T7B3tCSRUz&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://bsiptv.123tv.to:8080/xmltv.php?username=sameirinho1949&password=T7B3tCSRUz&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Arab Countries VIP 💢 Afghanistan 💢 Africa 💢 Africa VIP 💢 Africa Canal+ 💢 Albania 💢 Albania Sport 💢 Arab Countries 💢 beIN - Qatar ARB 💢 OSN - Qatar ARB 💢 ARB Algeria 💢 ARB Bahrain 💢 ARB Egypt 💢 ARB Libya 💢 ARB Syria 💢 ARB Lebanon 💢 ARB Palestine 💢 ARB Rotana 💢 ARB Morocco 💢 ARB Jordan 💢 ARB Kuwait 💢 ARB UAE 💢 ARB Iraq 💢 ARB Tunisia 💢 ARB Saudi Arabia 💢 ARB Islam 💢 ARB News 💢 ARB MBC 💢 ARB Kids 💢 Armenia 💢 Australia 💢 Austria 💢 Azerbaijan 💢 Belgium 💢 BOSNA-Bosnia 💢 Brazil 💢 Bulgaria 💢 Canada 💢 China 💢 Crna Gora-Monte Negro 💢 Czech Republic 💢 Denmark 💢 Denmark VIP 💢 Denmark Radio 💢 Estonia 💢 ex-Yu 💢 ex-Yu VIP 💢 Finland 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Hungary 💢 India 💢 India VIP 💢 Indonesia 💢 Iran 💢 Israel 💢 Italia 💢 Japan 💢 Korea 💢 Kurdish 💢 Latin America 💢 Lithuania 💢 Macedonia 💢 Malaysia 💢 Malta 💢 Nepal 💢 Netherland 💢 Norway 💢 Norway VIP 💢 Pakistan 💢 Philippines 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Romania 💢 Russian 💢 Scandinavian 💢 Singapore 💢 Slovenia 💢 Spain 💢 Srbija-Serbia 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 Thailand 💢 Turkey 💢 UHD 4K 💢 Ukraine 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 Viet Nam 💢 VIP Sports 💢 Events 💢 PPV VIP Sports ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://bsiptv.123tv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://bsiptv.123tv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 26 Aralık 2025 20:52
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 27 Haziran 2026 19:52
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ josecastro2
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ upbrHyaCwe
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kiev
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.214.235.18
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 02 Mayıs 2026 - 09:35
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 3293 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 16087 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://bsiptv.123tv.to:8080/get.php?username=josecastro2&password=upbrHyaCwe&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://bsiptv.123tv.to:8080/xmltv.php?username=josecastro2&password=upbrHyaCwe&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Brazil 💢 For Adults 💢 France 💢 France HEVC 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Spain 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://bsiptv.123tv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://bsiptv.123tv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 13 Aralık 2020 21:46
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 15 Şubat 2027 14:26
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ Shoiabpaiman
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ CYvPTBhN5q
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kiev
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.214.235.18
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 02 Mayıs 2026 - 15:16
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 5454 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 11095 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://bsiptv.123tv.to:8080/get.php?username=Shoiabpaiman&password=CYvPTBhN5q&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://bsiptv.123tv.to:8080/xmltv.php?username=Shoiabpaiman&password=CYvPTBhN5q&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Afghanistan 💢 Denmark 💢 Denmark VIP 💢 Denmark Radio 💢 India 💢 India VIP 💢 Iran 💢 Pakistan 💢 Scandinavian 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://bsiptv.123tv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://bsiptv.123tv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 26 Ağustos 2020 00:17
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 11 Eylül 2026 00:11
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ DrozYl8L1K
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ A6jqf5Biwp
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 2
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kiev
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.214.235.18
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 02 Mayıs 2026 - 15:32
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 16924 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 63358 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 396 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://bsiptv.123tv.to:8080/get.php?username=DrozYl8L1K&password=A6jqf5Biwp&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://bsiptv.123tv.to:8080/xmltv.php?username=DrozYl8L1K&password=A6jqf5Biwp&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Arab Countries VIP 💢 Afghanistan 💢 Africa 💢 Africa VIP 💢 Africa Canal+ 💢 Albania 💢 Albania Sport 💢 Arab Countries 💢 beIN - Qatar ARB 💢 OSN - Qatar ARB 💢 ARB Algeria 💢 ARB Bahrain 💢 ARB Egypt 💢 ARB Libya 💢 ARB Syria 💢 ARB Lebanon 💢 ARB Palestine 💢 ARB Rotana 💢 ARB Morocco 💢 ARB Jordan 💢 ARB Kuwait 💢 ARB UAE 💢 ARB Iraq 💢 ARB Tunisia 💢 ARB Saudi Arabia 💢 ARB Islam 💢 ARB News 💢 ARB MBC 💢 ARB Kids 💢 Armenia 💢 Australia 💢 Austria 💢 Azerbaijan 💢 Belgium 💢 BOSNA-Bosnia 💢 Brazil 💢 Bulgaria 💢 Canada 💢 China 💢 Crna Gora-Monte Negro 💢 Czech Republic 💢 Denmark 💢 Denmark VIP 💢 Denmark Radio 💢 Estonia 💢 ex-Yu 💢 ex-Yu VIP 💢 Finland 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Hungary 💢 Iceland 💢 India 💢 India VIP 💢 Indonesia 💢 Iran 💢 Israel 💢 Italia 💢 Japan 💢 Korea 💢 Kurdish 💢 Latin America 💢 Lithuania 💢 Macedonia 💢 Malaysia 💢 Malta 💢 Nepal 💢 Netherland 💢 Norway 💢 Norway VIP 💢 Pakistan 💢 Philippines 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Romania 💢 Russian 💢 Scandinavian 💢 Singapore 💢 Slovenia 💢 Spain 💢 Srbija-Serbia 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 Thailand 💢 Turkey 💢 UHD 4K 💢 Ukraine 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 Viet Nam 💢 VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://bsiptv.123tv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://bsiptv.123tv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 08 Ekim 2020 20:38
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 25 Ocak 2027 18:44
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ UWvFt3kR6c
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ iebMY2YOfD
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kiev
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.214.235.18
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 02 Mayıs 2026 - 16:11
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 5007 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 6942 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://bsiptv.123tv.to:8080/get.php?username=UWvFt3kR6c&password=iebMY2YOfD&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://bsiptv.123tv.to:8080/xmltv.php?username=UWvFt3kR6c&password=iebMY2YOfD&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Norway 💢 Switzerland 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://bsiptv.123tv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://bsiptv.123tv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 02 Mart 2019 22:06
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 01 Nisan 2027 15:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ filipesoeiro83
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ vi9sWg8ARS
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kiev
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.214.235.18
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 02 Mayıs 2026 - 16:12
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 15784 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 63179 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 81 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://bsiptv.123tv.to:8080/get.php?username=filipesoeiro83&password=vi9sWg8ARS&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://bsiptv.123tv.to:8080/xmltv.php?username=filipesoeiro83&password=vi9sWg8ARS&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Arab Countries VIP 💢 Afghanistan 💢 Africa 💢 Africa VIP 💢 Africa Canal+ 💢 Albania 💢 Albania Sport 💢 Arab Countries 💢 ARB Algeria 💢 ARB Bahrain 💢 ARB Egypt 💢 ARB Libya 💢 ARB Syria 💢 ARB Lebanon 💢 ARB Palestine 💢 ARB Rotana 💢 ARB Morocco 💢 ARB Jordan 💢 ARB Kuwait 💢 ARB UAE 💢 ARB Iraq 💢 ARB Tunisia 💢 ARB Saudi Arabia 💢 ARB Islam 💢 ARB News 💢 ARB MBC 💢 ARB Kids 💢 Australia 💢 Austria 💢 Belgium 💢 BOSNA-Bosnia 💢 Brazil 💢 Bulgaria 💢 Canada 💢 China 💢 Crna Gora-Monte Negro 💢 Czech Republic 💢 Denmark 💢 Denmark VIP 💢 Denmark Radio 💢 Estonia 💢 ex-Yu 💢 ex-Yu VIP 💢 Finland 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Hungary 💢 Iceland 💢 India 💢 India VIP 💢 Indonesia 💢 Iran 💢 Israel 💢 Italia 💢 Japan 💢 Korea 💢 Kurdish 💢 Latin America 💢 Lithuania 💢 Macedonia 💢 Malaysia 💢 Malta 💢 Netherland 💢 Norway 💢 Norway VIP 💢 Pakistan 💢 Philippines 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Romania 💢 Russian 💢 Singapore 💢 Slovenia 💢 Spain 💢 Srbija-Serbia 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 Thailand 💢 Turkey 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 Viet Nam 💢 VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://bsiptv.123tv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://bsiptv.123tv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 17 Temmuz 2023 23:17
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 18 Mayıs 2026 20:45
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ vitordionisio
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ wS8qWVk3pL
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kiev
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.214.235.18
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 02 Mayıs 2026 - 16:23
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 3729 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 20840 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://bsiptv.123tv.to:8080/get.php?username=vitordionisio&password=wS8qWVk3pL&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://bsiptv.123tv.to:8080/xmltv.php?username=vitordionisio&password=wS8qWVk3pL&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Brazil 💢 For Adults 💢 France 💢 Italia 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Spain 💢 VIP Sports 💢 Events 💢 PPV VIP Sports ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://bsiptv.123tv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://bsiptv.123tv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 23 Ağustos 2021 18:39
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 03 Eylül 2026 22:01
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ IpdafRUkSN
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ XSFfLYcjr6
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kiev
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.214.235.18
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 02 Mayıs 2026 - 16:52
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2544 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 3056 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://bsiptv.123tv.to:8080/get.php?username=IpdafRUkSN&password=XSFfLYcjr6&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://bsiptv.123tv.to:8080/xmltv.php?username=IpdafRUkSN&password=XSFfLYcjr6&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Poland 💢 Scandinavian 💢 Sweden 💢 Sweden VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://bsiptv.123tv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://bsiptv.123tv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 10 Nisan 2022 17:27
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 04 Mayıs 2026 22:15
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ Puhariciptv
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 5rcYWHxBwk
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kiev
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.214.235.18
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 02 Mayıs 2026 - 17:25
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 11075 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 30628 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 364 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://bsiptv.123tv.to:8080/get.php?username=Puhariciptv&password=5rcYWHxBwk&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://bsiptv.123tv.to:8080/xmltv.php?username=Puhariciptv&password=5rcYWHxBwk&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Africa VIP 💢 Albania 💢 Albania Sport 💢 Austria 💢 BOSNA-Bosnia 💢 Bulgaria 💢 Crna Gora-Monte Negro 💢 Czech Republic 💢 Denmark 💢 Denmark VIP 💢 ex-Yu 💢 ex-Yu VIP 💢 Finland 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Hungary 💢 Iceland 💢 Italia 💢 Latin America 💢 Macedonia 💢 Netherland 💢 Norway 💢 Norway VIP 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Romania 💢 Russian 💢 Scandinavian 💢 Slovenia 💢 Spain 💢 Srbija-Serbia 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 Thailand 💢 UHD 4K 💢 Ukraine 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://bsiptv.123tv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://bsiptv.123tv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 26 Kasım 2021 20:57
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 28 Kasım 2026 15:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ carloseloyguerreiro02
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ LGtev3TsrR
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 2
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kiev
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.214.235.18
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 02 Mayıs 2026 - 21:46
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 12669 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 16087 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://bsiptv.123tv.to:8080/get.php?username=carloseloyguerreiro02&password=LGtev3TsrR&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://bsiptv.123tv.to:8080/xmltv.php?username=carloseloyguerreiro02&password=LGtev3TsrR&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Africa 💢 Africa VIP 💢 Africa Canal+ 💢 beIN - Qatar ARB 💢 OSN - Qatar ARB 💢 Australia 💢 Austria 💢 Belgium 💢 Brazil 💢 Canada 💢 China 💢 Czech Republic 💢 Denmark 💢 Denmark VIP 💢 Denmark Radio 💢 Estonia 💢 Finland 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 India 💢 India VIP 💢 Italia 💢 Japan 💢 Latin America 💢 Lithuania 💢 Netherland 💢 Norway 💢 Norway VIP 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Romania 💢 Scandinavian 💢 Spain 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 UHD 4K 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports ✷✷ 📺
+
+========================================

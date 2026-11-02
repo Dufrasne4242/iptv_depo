@@ -1,0 +1,792 @@
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://hamza.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://hamza.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 02 Şubat 2023 20:26
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 09 Şubat 2027 20:26
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ FilipeRibeiro_2
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 2cdSAUfqlG
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 01:08
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8826 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 21511 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 145 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/get.php?username=FilipeRibeiro_2&password=2cdSAUfqlG&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/xmltv.php?username=FilipeRibeiro_2&password=2cdSAUfqlG&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Africa VIP 💢 Albania 💢 Albania Sport 💢 beIN - Qatar ARB 💢 BOSNA-Bosnia 💢 Brazil 💢 Bulgaria 💢 ex-Yu 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Iceland 💢 Italia 💢 Latin America 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Spain 💢 Srbija-Serbia 💢 Switzerland 💢 Thailand 💢 UHD 4K 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 Fifa World Cup 2026 💢 World Cricket VIP ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://hamza.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://hamza.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 14 Ocak 2026 22:25
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 15 Nisan 2027 21:25
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ m9obuq7gAU
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ gxH8Xv2unZ
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 03:43
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8579 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 26016 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 359 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/get.php?username=m9obuq7gAU&password=gxH8Xv2unZ&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/xmltv.php?username=m9obuq7gAU&password=gxH8Xv2unZ&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Albania 💢 Albania Sport 💢 Austria 💢 BOSNA-Bosnia 💢 Crna Gora-Monte Negro 💢 ex-Yu 💢 ex-Yu VIP 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 HRVATSKA-Croatia 💢 Italia 💢 Macedonia 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Srbija-Serbia 💢 Switzerland 💢 Turkey 💢 UHD 4K 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 Fifa World Cup 2026 💢 World Cricket VIP ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://hamza.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://hamza.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 23 Mayıs 2023 00:12
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 03 Eylül 2026 19:40
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ vitorcosta
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 3aPVKezTRN
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 04:13
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 3756 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 21511 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/get.php?username=vitorcosta&password=3aPVKezTRN&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/xmltv.php?username=vitorcosta&password=3aPVKezTRN&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Brazil 💢 For Adults 💢 France 💢 Italia 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Spain 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 Fifa World Cup 2026 💢 World Cricket VIP ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://hamza.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://hamza.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 19 Şubat 2021 15:13
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 07 Mart 2027 13:45
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 8Um1e7qjJo
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ jyAz2eYPuk
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 05:00
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 16806 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 64919 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 440 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/get.php?username=8Um1e7qjJo&password=jyAz2eYPuk&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/xmltv.php?username=8Um1e7qjJo&password=jyAz2eYPuk&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Arab Countries VIP 💢 Afghanistan 💢 Africa 💢 Africa VIP 💢 Africa Canal+ 💢 Albania 💢 Albania Sport 💢 Arab Countries 💢 beIN - Qatar ARB 💢 OSN - Qatar ARB 💢 ARB Algeria 💢 ARB Bahrain 💢 ARB Egypt 💢 ARB Libya 💢 ARB Syria 💢 ARB Lebanon 💢 ARB Palestine 💢 ARB Rotana 💢 ARB Morocco 💢 ARB Jordan 💢 ARB Kuwait 💢 ARB UAE 💢 ARB Iraq 💢 ARB Tunisia 💢 ARB Saudi Arabia 💢 ARB Islam 💢 ARB News 💢 ARB MBC 💢 ARB Kids 💢 Armenia 💢 Australia 💢 Austria 💢 Azerbaijan 💢 Belgium 💢 BOSNA-Bosnia 💢 Brazil 💢 Bulgaria 💢 Canada 💢 China 💢 Crna Gora-Monte Negro 💢 Czech Republic 💢 Denmark 💢 Denmark VIP 💢 Denmark Radio 💢 24-7 Denmark 💢 Estonia 💢 ex-Yu 💢 ex-Yu VIP 💢 Finland 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Hungary 💢 Iceland 💢 India 💢 India VIP 💢 Indonesia 💢 Iran 💢 Israel 💢 Italia 💢 Japan 💢 Korea 💢 Kurdish 💢 Latin America 💢 Lithuania 💢 Macedonia 💢 Malaysia 💢 Malta 💢 Netherlands 💢 Norway 💢 Norway VIP 💢 Pakistan 💢 Philippines 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Romania 💢 Russian 💢 Scandinavian 💢 Singapore 💢 Slovenia 💢 Spain 💢 Srbija-Serbia 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 Thailand 💢 Turkey 💢 UHD 4K 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 Viet Nam 💢 VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 Fifa World Cup 2026 💢 World Cricket VIP ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://hamza.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://hamza.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 18 Eylül 2023 18:17
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 26 Kasım 2026 19:17
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ uEwUfl5H7a
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ wuYHfd8sjV
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 05:11
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 1726 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 17042 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/get.php?username=uEwUfl5H7a&password=wuYHfd8sjV&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/xmltv.php?username=uEwUfl5H7a&password=wuYHfd8sjV&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 For Adults 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://hamza.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://hamza.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 04 Ekim 2024 12:23
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 05 Ekim 2026 12:23
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ Wolfgang
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 5he6ERunyN
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 05:19
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 3986 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 21660 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/get.php?username=Wolfgang&password=5he6ERunyN&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/xmltv.php?username=Wolfgang&password=5he6ERunyN&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Austria 💢 For Adults 💢 France 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Switzerland 💢 UHD 4K 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 Fifa World Cup 2026 💢 World Cricket VIP ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://hamza.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://hamza.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 28 Kasım 2024 20:34
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 28 Kasım 2026 20:34
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ xtraiptv7027
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ d3pHBRJSac
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 05:28
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 16905 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 64919 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 440 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/get.php?username=xtraiptv7027&password=d3pHBRJSac&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/xmltv.php?username=xtraiptv7027&password=d3pHBRJSac&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Arab Countries VIP 💢 Afghanistan 💢 Africa 💢 Africa VIP 💢 Africa Canal+ 💢 Albania 💢 Albania Sport 💢 Arab Countries 💢 beIN - Qatar ARB 💢 OSN - Qatar ARB 💢 ARB Algeria 💢 ARB Bahrain 💢 ARB Egypt 💢 ARB Libya 💢 ARB Syria 💢 ARB Lebanon 💢 ARB Palestine 💢 ARB Rotana 💢 ARB Morocco 💢 ARB Jordan 💢 ARB Kuwait 💢 ARB UAE 💢 ARB Iraq 💢 ARB Tunisia 💢 ARB Saudi Arabia 💢 ARB Islam 💢 ARB News 💢 ARB MBC 💢 ARB Kids 💢 Armenia 💢 Australia 💢 Austria 💢 Azerbaijan 💢 Belgium 💢 BOSNA-Bosnia 💢 Brazil 💢 Bulgaria 💢 Canada 💢 China 💢 Crna Gora-Monte Negro 💢 Czech Republic 💢 Denmark 💢 Denmark VIP 💢 Denmark Radio 💢 24-7 Denmark 💢 Estonia 💢 ex-Yu 💢 ex-Yu VIP 💢 Finland 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Hungary 💢 Iceland 💢 India 💢 India VIP 💢 Indonesia 💢 Iran 💢 Israel 💢 Italia 💢 Japan 💢 Korea 💢 Kurdish 💢 Latin America 💢 Lithuania 💢 Macedonia 💢 Malaysia 💢 Malta 💢 Nepal 💢 Netherlands 💢 Norway 💢 Norway VIP 💢 Pakistan 💢 Philippines 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Romania 💢 Russian 💢 Scandinavian 💢 Singapore 💢 Slovenia 💢 Spain 💢 Srbija-Serbia 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 Thailand 💢 Turkey 💢 UHD 4K 💢 Ukraine 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 Viet Nam 💢 VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 Fifa World Cup 2026 💢 World Cricket VIP ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://hamza.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://hamza.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 13 Mart 2020 14:37
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 20 Eylül 2026 22:17
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ n7DqNP4bJX
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ Ssk8HemxTF
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 05:39
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 16621 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 64919 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 440 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/get.php?username=n7DqNP4bJX&password=Ssk8HemxTF&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/xmltv.php?username=n7DqNP4bJX&password=Ssk8HemxTF&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Arab Countries VIP 💢 Afghanistan 💢 Africa 💢 Africa VIP 💢 Africa Canal+ 💢 Albania 💢 Albania Sport 💢 Arab Countries 💢 ARB Algeria 💢 ARB Bahrain 💢 ARB Egypt 💢 ARB Libya 💢 ARB Syria 💢 ARB Lebanon 💢 ARB Palestine 💢 ARB Rotana 💢 ARB Morocco 💢 ARB Jordan 💢 ARB Kuwait 💢 ARB UAE 💢 ARB Iraq 💢 ARB Tunisia 💢 ARB Saudi Arabia 💢 ARB Islam 💢 ARB News 💢 ARB MBC 💢 ARB Kids 💢 Armenia 💢 Australia 💢 Austria 💢 Azerbaijan 💢 Belgium 💢 BOSNA-Bosnia 💢 Brazil 💢 Bulgaria 💢 Canada 💢 China 💢 Crna Gora-Monte Negro 💢 Czech Republic 💢 Denmark 💢 Denmark VIP 💢 Denmark Radio 💢 24-7 Denmark 💢 Estonia 💢 ex-Yu 💢 ex-Yu VIP 💢 Finland 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Hungary 💢 Iceland 💢 India 💢 India VIP 💢 Indonesia 💢 Iran 💢 Israel 💢 Italia 💢 Japan 💢 Korea 💢 Kurdish 💢 Latin America 💢 Lithuania 💢 Macedonia 💢 Malaysia 💢 Malta 💢 Netherlands 💢 Norway 💢 Norway VIP 💢 Pakistan 💢 Philippines 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Romania 💢 Russian 💢 Scandinavian 💢 Singapore 💢 Slovenia 💢 Spain 💢 Srbija-Serbia 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 Thailand 💢 Turkey 💢 UHD 4K 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 Viet Nam 💢 VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 Fifa World Cup 2026 💢 World Cricket VIP ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://hamza.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://hamza.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 06 Aralık 2023 23:19
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 08 Aralık 2026 04:54
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ carlospinheiro
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ KcfN1JwsXG
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 06:12
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2897 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 21511 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/get.php?username=carlospinheiro&password=KcfN1JwsXG&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/xmltv.php?username=carlospinheiro&password=KcfN1JwsXG&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Brazil 💢 For Adults 💢 France 💢 France HEVC 💢 Italia 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Spain ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://hamza.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://hamza.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 10 Ocak 2023 01:40
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 25 Nisan 2027 14:44
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ KasiaKaczmarekTesciowa
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ vJMYTaoXeD
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 06:27
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2934 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 9844 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/get.php?username=KasiaKaczmarekTesciowa&password=vJMYTaoXeD&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/xmltv.php?username=KasiaKaczmarekTesciowa&password=vJMYTaoXeD&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Poland 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 Fifa World Cup 2026 💢 World Cricket VIP ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://hamza.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://hamza.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 23 Ağustos 2021 18:39
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 03 Eylül 2026 22:01
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ IpdafRUkSN
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ XSFfLYcjr6
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 07:08
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2577 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 3133 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/get.php?username=IpdafRUkSN&password=XSFfLYcjr6&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/xmltv.php?username=IpdafRUkSN&password=XSFfLYcjr6&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Poland 💢 Scandinavian 💢 Sweden 💢 Sweden VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 Fifa World Cup 2026 💢 World Cricket VIP ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://hamza.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://hamza.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 25 Kasım 2020 22:09
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 09 Aralık 2026 20:20
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ ArianTairi
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ JexIujaTrf
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 07:30
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 16621 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 64919 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 440 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/get.php?username=ArianTairi&password=JexIujaTrf&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/xmltv.php?username=ArianTairi&password=JexIujaTrf&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Arab Countries VIP 💢 Afghanistan 💢 Africa 💢 Africa VIP 💢 Africa Canal+ 💢 Albania 💢 Albania Sport 💢 Arab Countries 💢 ARB Algeria 💢 ARB Bahrain 💢 ARB Egypt 💢 ARB Libya 💢 ARB Syria 💢 ARB Lebanon 💢 ARB Palestine 💢 ARB Rotana 💢 ARB Morocco 💢 ARB Jordan 💢 ARB Kuwait 💢 ARB UAE 💢 ARB Iraq 💢 ARB Tunisia 💢 ARB Saudi Arabia 💢 ARB Islam 💢 ARB News 💢 ARB MBC 💢 ARB Kids 💢 Armenia 💢 Australia 💢 Austria 💢 Azerbaijan 💢 Belgium 💢 BOSNA-Bosnia 💢 Brazil 💢 Bulgaria 💢 Canada 💢 China 💢 Crna Gora-Monte Negro 💢 Czech Republic 💢 Denmark 💢 Denmark VIP 💢 Denmark Radio 💢 24-7 Denmark 💢 Estonia 💢 ex-Yu 💢 ex-Yu VIP 💢 Finland 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Hungary 💢 Iceland 💢 India 💢 India VIP 💢 Indonesia 💢 Iran 💢 Israel 💢 Italia 💢 Japan 💢 Korea 💢 Kurdish 💢 Latin America 💢 Lithuania 💢 Macedonia 💢 Malaysia 💢 Malta 💢 Netherlands 💢 Norway 💢 Norway VIP 💢 Pakistan 💢 Philippines 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Romania 💢 Russian 💢 Scandinavian 💢 Singapore 💢 Slovenia 💢 Spain 💢 Srbija-Serbia 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 Thailand 💢 Turkey 💢 UHD 4K 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 Viet Nam 💢 VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 Fifa World Cup 2026 💢 World Cricket VIP ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://hamza.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://hamza.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 21 Şubat 2021 02:52
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 30 Mayıs 2027 03:52
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ michaelwulff
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ uX1AoTzE3Q
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 07:37
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 16440 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 58448 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 440 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/get.php?username=michaelwulff&password=uX1AoTzE3Q&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/xmltv.php?username=michaelwulff&password=uX1AoTzE3Q&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Arab Countries VIP 💢 Afghanistan 💢 Africa 💢 Africa VIP 💢 Africa Canal+ 💢 Albania 💢 Albania Sport 💢 Arab Countries 💢 ARB Algeria 💢 ARB Bahrain 💢 ARB Egypt 💢 ARB Libya 💢 ARB Syria 💢 ARB Lebanon 💢 ARB Palestine 💢 ARB Rotana 💢 ARB Morocco 💢 ARB Jordan 💢 ARB Kuwait 💢 ARB UAE 💢 ARB Iraq 💢 ARB Tunisia 💢 ARB Saudi Arabia 💢 ARB Islam 💢 ARB News 💢 ARB MBC 💢 ARB Kids 💢 Armenia 💢 Australia 💢 Austria 💢 Azerbaijan 💢 Belgium 💢 BOSNA-Bosnia 💢 Brazil 💢 Bulgaria 💢 Canada 💢 China 💢 Crna Gora-Monte Negro 💢 Czech Republic 💢 Denmark 💢 Denmark VIP 💢 Denmark Radio 💢 24-7 Denmark 💢 Estonia 💢 ex-Yu 💢 ex-Yu VIP 💢 Finland 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Hungary 💢 Iceland 💢 India 💢 India VIP 💢 Indonesia 💢 Iran 💢 Israel 💢 Italia 💢 Japan 💢 Korea 💢 Kurdish 💢 Latin America 💢 Lithuania 💢 Macedonia 💢 Malaysia 💢 Malta 💢 Netherlands 💢 Norway 💢 Norway VIP 💢 Pakistan 💢 Philippines 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Romania 💢 Russian 💢 Scandinavian 💢 Singapore 💢 Slovenia 💢 Spain 💢 Srbija-Serbia 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 Thailand 💢 Turkey 💢 UHD 4K 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 Viet Nam 💢 VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 Fifa World Cup 2026 💢 World Cricket VIP ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://hamza.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://hamza.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 03 Haziran 2020 22:19
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 18 Ocak 2027 23:13
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ ArmandoAugusto
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ GgF8sWXBk7
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 07:48
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8644 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 37704 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 291 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/get.php?username=ArmandoAugusto&password=GgF8sWXBk7&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/xmltv.php?username=ArmandoAugusto&password=GgF8sWXBk7&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Belgium 💢 Brazil 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Italia 💢 Latin America 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Spain 💢 UHD 4K 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 Fifa World Cup 2026 💢 World Cricket VIP ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://hamza.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://hamza.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 29 Kasım 2022 22:54
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 20 Aralık 2026 22:31
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ L9IrwRQdPV
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ gP9Gr573Eh
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 07:50
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8402 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 24607 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/get.php?username=L9IrwRQdPV&password=gP9Gr573Eh&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/xmltv.php?username=L9IrwRQdPV&password=gP9Gr573Eh&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Arab Countries VIP 💢 Africa VIP 💢 Albania 💢 Albania Sport 💢 Arab Countries 💢 OSN - Qatar ARB 💢 ARB Algeria 💢 ARB Bahrain 💢 ARB Egypt 💢 ARB Libya 💢 ARB Syria 💢 ARB Lebanon 💢 ARB Palestine 💢 ARB Rotana 💢 ARB Morocco 💢 ARB Jordan 💢 ARB Kuwait 💢 ARB UAE 💢 ARB Iraq 💢 ARB Tunisia 💢 ARB Saudi Arabia 💢 ARB Islam 💢 ARB News 💢 ARB MBC 💢 ARB Kids 💢 BOSNA-Bosnia 💢 Bulgaria 💢 Crna Gora-Monte Negro 💢 ex-Yu 💢 ex-Yu VIP 💢 France 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Iceland 💢 Italia 💢 Latin America 💢 Macedonia 💢 Poland 💢 Scandinavian 💢 Spain 💢 Srbija-Serbia 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 Thailand 💢 Turkey 💢 UHD 4K 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 Fifa World Cup 2026 💢 World Cricket VIP ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://hamza.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://hamza.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 04 Nisan 2025 21:47
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 23 Kasım 2026 14:36
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 2eJXMjkIwi
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ SJ1FUHeUPj
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 10:11
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 428 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/get.php?username=2eJXMjkIwi&password=SJ1FUHeUPj&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/xmltv.php?username=2eJXMjkIwi&password=SJ1FUHeUPj&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Belgium 💢 France ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://hamza.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://hamza.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 04 Aralık 2023 18:09
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 05 Aralık 2026 18:09
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 1Iyn8ZVzkt
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 9Bq4WKaqOO
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 10:24
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 3306 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 21660 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 162 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/get.php?username=1Iyn8ZVzkt&password=9Bq4WKaqOO&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/xmltv.php?username=1Iyn8ZVzkt&password=9Bq4WKaqOO&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢For Adults 💢 France 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://hamza.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://hamza.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 29 Aralık 2022 20:41
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 08 Ocak 2028 23:26
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ ToEp6HgRkD
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ Dj3Zok7RKJ
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 10:25
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 12934 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 23503 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 162 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/get.php?username=ToEp6HgRkD&password=Dj3Zok7RKJ&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/xmltv.php?username=ToEp6HgRkD&password=Dj3Zok7RKJ&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Arab Countries VIP 💢 Africa VIP 💢 Albania 💢 Albania Sport 💢 Arab Countries 💢 beIN - Qatar ARB 💢 OSN - Qatar ARB 💢 ARB Algeria 💢 ARB Bahrain 💢 ARB Egypt 💢 ARB Libya 💢 ARB Syria 💢 ARB Lebanon 💢 ARB Palestine 💢 ARB Rotana 💢 ARB Morocco 💢 ARB Jordan 💢 ARB Kuwait 💢 ARB UAE 💢 ARB Iraq 💢 ARB Tunisia 💢 ARB Saudi Arabia 💢 ARB Islam 💢 ARB News 💢 ARB MBC 💢 ARB Kids 💢 Austria 💢 Belgium 💢 BOSNA-Bosnia 💢 Bulgaria 💢 Crna Gora-Monte Negro 💢 Denmark 💢 Denmark VIP 💢 Denmark Radio 💢 24-7 Denmark 💢 ex-Yu 💢 ex-Yu VIP 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Iceland 💢 Italia 💢 Latin America 💢 Macedonia 💢 Netherlands 💢 Norway 💢 Norway VIP 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Romania 💢 Russian 💢 Scandinavian 💢 Slovenia 💢 Spain 💢 Srbija-Serbia 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 Thailand 💢 Turkey 💢 UHD 4K 💢 Ukraine 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 Fifa World Cup 2026 💢 World Cricket VIP ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://hamza.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://hamza.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 21 Nisan 2026 00:38
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 21 Eylül 2026 00:38
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ m5zYBRH31g
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ e9dlc1DQ0p
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 10:41
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 16925 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 64919 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 495 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/get.php?username=m5zYBRH31g&password=e9dlc1DQ0p&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/xmltv.php?username=m5zYBRH31g&password=e9dlc1DQ0p&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Arab Countries VIP 💢 Afghanistan 💢 Africa 💢 Africa VIP 💢 Africa Canal+ 💢 Albania 💢 Albania Sport 💢 Arab Countries 💢 beIN - Qatar ARB 💢 OSN - Qatar ARB 💢 ARB Algeria 💢 ARB Bahrain 💢 ARB Egypt 💢 ARB Libya 💢 ARB Syria 💢 ARB Lebanon 💢 ARB Palestine 💢 ARB Rotana 💢 ARB Morocco 💢 ARB Jordan 💢 ARB Kuwait 💢 ARB UAE 💢 ARB Iraq 💢 ARB Tunisia 💢 ARB Saudi Arabia 💢 ARB Islam 💢 ARB News 💢 ARB MBC 💢 ARB Kids 💢 Armenia 💢 Australia 💢 Austria 💢 Azerbaijan 💢 Belgium 💢 BOSNA-Bosnia 💢 Brazil 💢 Bulgaria 💢 Canada 💢 China 💢 Crna Gora-Monte Negro 💢 Czech Republic 💢 Denmark 💢 Denmark VIP 💢 Denmark Radio 💢 24-7 Denmark 💢 Estonia 💢 ex-Yu 💢 ex-Yu VIP 💢 Finland 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Hungary 💢 Iceland 💢 India 💢 India VIP 💢 Indonesia 💢 Iran 💢 Israel 💢 Italia 💢 Japan 💢 Korea 💢 Kurdish 💢 Latvia 💢 Latin America 💢 Lithuania 💢 Macedonia 💢 Malaysia 💢 Malta 💢 Nepal 💢 Netherlands 💢 Norway 💢 Norway VIP 💢 Pakistan 💢 Philippines 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Romania 💢 Russian 💢 Scandinavian 💢 Singapore 💢 Slovenia 💢 Spain 💢 Srbija-Serbia 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 Thailand 💢 Turkey 💢 UHD 4K 💢 Ukraine 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 Viet Nam 💢 VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 Fifa World Cup 2026 💢 World Cricket VIP ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://hamza.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://hamza.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 22 Eylül 2022 15:49
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 01 Kasım 2026 09:52
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ FWNUdkQX6n
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ UhkWnAic2j
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 10:41
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 6969 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 25779 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 264 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/get.php?username=FWNUdkQX6n&password=UhkWnAic2j&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/xmltv.php?username=FWNUdkQX6n&password=UhkWnAic2j&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Africa VIP 💢 Albania 💢 Albania Sport 💢 BOSNA-Bosnia 💢 Bulgaria 💢 ex-Yu 💢 For Adults 💢 France 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Iceland 💢 Italia 💢 Latin America 💢 Poland 💢 Spain 💢 Srbija-Serbia 💢 Switzerland 💢 Thailand 💢 Turkey 💢 UHD 4K 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 Fifa World Cup 2026 💢 World Cricket VIP ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://hamza.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://hamza.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 16 Kasım 2022 22:59
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 24 Kasım 2026 23:50
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ besipopoc
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ t6eP5vHM2B
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 10:42
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 6809 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 21083 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 261 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/get.php?username=besipopoc&password=t6eP5vHM2B&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/xmltv.php?username=besipopoc&password=t6eP5vHM2B&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Africa VIP 💢 Albania 💢 Albania Sport 💢 Austria 💢 Belgium 💢 BOSNA-Bosnia 💢 Bulgaria 💢 China 💢 Czech Republic 💢 Denmark 💢 Denmark VIP 💢 Denmark Radio 💢 24-7 Denmark 💢 ex-Yu 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Iceland 💢 Italia 💢 Latin America 💢 Macedonia 💢 Norway 💢 Norway VIP 💢 Poland 💢 Slovenia 💢 Spain 💢 Srbija-Serbia 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 Thailand 💢 United Kingdom VIP 💢 United States VIP 💢 VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 Fifa World Cup 2026 💢 World Cricket VIP ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://hamza.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://hamza.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 27 Nisan 2020 08:19
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 04 Mayıs 2027 08:21
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ dsNGBCtE9d
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ xfTDr5KXaL
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 11:32
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 16605 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 64919 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 440 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/get.php?username=dsNGBCtE9d&password=xfTDr5KXaL&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/xmltv.php?username=dsNGBCtE9d&password=xfTDr5KXaL&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Arab Countries VIP 💢 Afghanistan 💢 Africa 💢 Africa VIP 💢 Africa Canal+ 💢 Albania 💢 Albania Sport 💢 Arab Countries 💢 ARB Algeria 💢 ARB Bahrain 💢 ARB Egypt 💢 ARB Libya 💢 ARB Syria 💢 ARB Lebanon 💢 ARB Palestine 💢 ARB Rotana 💢 ARB Morocco 💢 ARB Jordan 💢 ARB Kuwait 💢 ARB UAE 💢 ARB Iraq 💢 ARB Tunisia 💢 ARB Saudi Arabia 💢 ARB Islam 💢 ARB News 💢 ARB MBC 💢 ARB Kids 💢 Armenia 💢 Australia 💢 Austria 💢 Belgium 💢 BOSNA-Bosnia 💢 Brazil 💢 Bulgaria 💢 Canada 💢 China 💢 Crna Gora-Monte Negro 💢 Czech Republic 💢 Denmark 💢 Denmark VIP 💢 Denmark Radio 💢 24-7 Denmark 💢 Estonia 💢 ex-Yu 💢 ex-Yu VIP 💢 Finland 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Hungary 💢 Iceland 💢 India 💢 India VIP 💢 Indonesia 💢 Iran 💢 Israel 💢 Italia 💢 Japan 💢 Korea 💢 Kurdish 💢 Latin America 💢 Lithuania 💢 Macedonia 💢 Malaysia 💢 Malta 💢 Netherlands 💢 Norway 💢 Norway VIP 💢 Pakistan 💢 Philippines 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Romania 💢 Russian 💢 Scandinavian 💢 Singapore 💢 Slovenia 💢 Spain 💢 Srbija-Serbia 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 Thailand 💢 Turkey 💢 UHD 4K 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 Viet Nam 💢 VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 Fifa World Cup 2026 💢 World Cricket VIP ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://hamza.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://hamza.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 21 Ağustos 2022 15:22
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 30 Ağustos 2026 15:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ santoscurva
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ TnNsEd4LKS
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 11:34
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 904 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/get.php?username=santoscurva&password=TnNsEd4LKS&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/xmltv.php?username=santoscurva&password=TnNsEd4LKS&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://hamza.gentv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://hamza.gentv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 17 Ekim 2022 14:48
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 25 Ekim 2026 21:55
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 59VfxbNtyD
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ fCpVGtLUFh
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ağustos 2026 - 11:41
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2542 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 21757 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/get.php?username=59VfxbNtyD&password=fCpVGtLUFh&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://hamza.gentv.to:8080/xmltv.php?username=59VfxbNtyD&password=fCpVGtLUFh&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Brazil 💢 For Adults 💢 France 💢 Germany 💢 24-7 Germany 💢 Italia 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Spain ✷✷ 📺
+
+========================================

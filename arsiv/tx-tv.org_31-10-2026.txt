@@ -1,0 +1,33 @@
+
+♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://tx-tv.org:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://tx-tv.org:80
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 14 Aralık 2025 01:38
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 14 Aralık 2026 01:38
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ IvoIP
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 12345
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kyiv
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 212.86.116.24
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 31 Ekim 2026 - 03:18
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (0/8 stream • HTTP 404)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 4378 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 3258 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 315 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://tx-tv.org:8080/get.php?username=IvoIP&password=12345&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://tx-tv.org:8080/xmltv.php?username=IvoIP&password=12345&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Bosna i Hercegovina 💢 Hrvatska 💢 Srbija 💢 Pink Media 💢 Muzicki 💢 Djeciji 💢 Reality 💢 Dokumentarni 💢 Filmsko-zabavni 💢 Sportski 💢 Albania 💢 Montenegro 💢 Macedonia 💢 Slovenia 💢 Netherland 💢 HD+ Deutschland 💢 Sky DE 💢 Sky DE Sport 💢 ARAB SPORT PACK 💢 Austria 💢 Swiss 💢 Czech 💢 Turkey 💢 Bulgaria 💢 Norway 💢 Sweden 💢 Denmark 💢 Finland 💢 USA 💢 USA ON-DEMAND MOVIES 💢 USA [SPORT] 💢 Ukraine 💢 Russia 💢 ARABIC (+OSN+BEIN) 💢 Backup programi 💢 Orion ✷✷ 📺
+
+========================================

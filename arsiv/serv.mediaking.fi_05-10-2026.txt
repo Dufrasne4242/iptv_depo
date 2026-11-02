@@ -1,0 +1,627 @@
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://serv.mediaking.fi:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://serv2.mediaking.fi:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 14 Kasım 2018 20:15
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 25 Aralık 2026 03:02
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ milanivan1309@gmail.com
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 1309
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 0
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ EXYU.tv
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.211.198.30
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ LeaseWeb Netherlands B.V.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 05 Ekim 2026 - 00:03
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (Bağlantı Kurulamadı)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 378 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 803 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 284 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://serv.mediaking.fi:8080/get.php?username=milanivan1309@gmail.com&password=1309&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://serv.mediaking.fi:8080/xmltv.php?username=milanivan1309@gmail.com&password=1309&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢EXYU TV 💢 KANALI U SD KVALITETU 💢 BOSNA I HERCEGOVINA 💢 HRVATSKA 💢 SRBIJA 💢 MAKEDONIJA 💢 CRNA GORA 💢 SPORTSKI 💢 PINK PAKET 💢 DECIJI 💢 DOKUMENTARNI 💢 FILMSKI 💢 MUZIČKI 💢 SWEDEN 💢 DENMARK 💢 NORWAY ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://serv.mediaking.fi:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://serv2.mediaking.fi:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 29 Ocak 2023 18:40
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 02 Mayıs 2027 02:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ zoran.tasic@berchtold.eu
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ B0romir
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 0
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ EXYU.tv
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.211.198.30
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ LeaseWeb Netherlands B.V.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 05 Ekim 2026 - 00:03
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (Bağlantı Kurulamadı)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 386 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 803 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 284 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://serv.mediaking.fi:8080/get.php?username=zoran.tasic@berchtold.eu&password=B0romir&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://serv.mediaking.fi:8080/xmltv.php?username=zoran.tasic@berchtold.eu&password=B0romir&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢EXYU TV 💢 KANALI U SD KVALITETU 💢 BOSNA I HERCEGOVINA 💢 HRVATSKA 💢 SRBIJA 💢 MAKEDONIJA 💢 CRNA GORA 💢 SPORTSKI 💢 PINK PAKET 💢 DECIJI 💢 DOKUMENTARNI 💢 FILMSKI 💢 MUZIČKI 💢 GERMANY ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://serv.mediaking.fi:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://serv2.mediaking.fi:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 19 Ocak 2023 18:55
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 20 Nisan 2027 01:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ damnjanovic@live.dk
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ goran321
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 0
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ EXYU.tv
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.211.198.30
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ LeaseWeb Netherlands B.V.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 05 Ekim 2026 - 00:08
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (Bağlantı Kurulamadı)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 387 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 803 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 284 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://serv.mediaking.fi:8080/get.php?username=damnjanovic@live.dk&password=goran321&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://serv.mediaking.fi:8080/xmltv.php?username=damnjanovic@live.dk&password=goran321&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢EXYU TV 💢 KANALI U SD KVALITETU 💢 BOSNA I HERCEGOVINA 💢 HRVATSKA 💢 SRBIJA 💢 MAKEDONIJA 💢 CRNA GORA 💢 SPORTSKI 💢 PINK PAKET 💢 DECIJI 💢 DOKUMENTARNI 💢 FILMSKI 💢 MUZIČKI 💢 SWEDEN 💢 DENMARK 💢 NORWAY 💢 X X X ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://serv.mediaking.fi:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://serv2.mediaking.fi:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 14 Eylül 2022 19:38
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 01 Haziran 2027 01:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ petra20@hotmail.fr
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ Ivan123
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 0
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ EXYU.tv
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.211.198.30
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ LeaseWeb Netherlands B.V.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 05 Ekim 2026 - 00:10
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (Bağlantı Kurulamadı)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 361 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 803 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 284 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://serv.mediaking.fi:8080/get.php?username=petra20@hotmail.fr&password=Ivan123&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://serv.mediaking.fi:8080/xmltv.php?username=petra20@hotmail.fr&password=Ivan123&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢EXYU TV 💢 KANALI U SD KVALITETU 💢 BOSNA I HERCEGOVINA 💢 HRVATSKA 💢 SRBIJA 💢 MAKEDONIJA 💢 CRNA GORA 💢 SPORTSKI 💢 PINK PAKET 💢 DECIJI 💢 DOKUMENTARNI 💢 FILMSKI 💢 MUZIČKI ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://serv.mediaking.fi:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://serv2.mediaking.fi:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 13 Mayıs 2020 21:32
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 28 Mayıs 2027 01:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ aldinerko@gmail.com
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ edinamna55
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 0
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ EXYU.tv
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.211.198.30
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ LeaseWeb Netherlands B.V.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 05 Ekim 2026 - 00:17
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (Bağlantı Kurulamadı)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 294 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 802 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 282 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://serv.mediaking.fi:8080/get.php?username=aldinerko@gmail.com&password=edinamna55&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://serv.mediaking.fi:8080/xmltv.php?username=aldinerko@gmail.com&password=edinamna55&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢EXYU TV 💢 KANALI U SD KVALITETU 💢 BOSNA I HERCEGOVINA 💢 HRVATSKA 💢 SRBIJA 💢 MAKEDONIJA 💢 CRNA GORA 💢 SPORTSKI 💢 PINK PAKET 💢 DECIJI 💢 DOKUMENTARNI 💢 FILMSKI 💢 MUZIČKI ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://serv.mediaking.fi:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://serv2.mediaking.fi:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 28 Ocak 2019 21:15
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 25 Haziran 2027 01:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ mirsadsahuric@hotmail.com
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ elisko
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 5
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 0
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ EXYU.tv
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.211.198.30
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ LeaseWeb Netherlands B.V.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 05 Ekim 2026 - 00:27
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (Bağlantı Kurulamadı)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 378 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 803 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 284 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://serv.mediaking.fi:8080/get.php?username=mirsadsahuric@hotmail.com&password=elisko&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://serv.mediaking.fi:8080/xmltv.php?username=mirsadsahuric@hotmail.com&password=elisko&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢EXYU TV 💢 KANALI U SD KVALITETU 💢 BOSNA I HERCEGOVINA 💢 HRVATSKA 💢 SRBIJA 💢 MAKEDONIJA 💢 CRNA GORA 💢 SPORTSKI 💢 PINK PAKET 💢 DECIJI 💢 DOKUMENTARNI 💢 FILMSKI 💢 MUZIČKI 💢 SWEDEN 💢 DENMARK 💢 NORWAY ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://serv.mediaking.fi:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://serv2.mediaking.fi:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 04 Haziran 2023 19:44
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 26 Aralık 2026 01:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ alvin-alma@hotmail.com
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ Alvin12345678
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 0
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ EXYU.tv
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.211.198.30
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ LeaseWeb Netherlands B.V.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 05 Ekim 2026 - 00:30
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (Bağlantı Kurulamadı)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 361 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 803 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 284 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://serv.mediaking.fi:8080/get.php?username=alvin-alma@hotmail.com&password=Alvin12345678&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://serv.mediaking.fi:8080/xmltv.php?username=alvin-alma@hotmail.com&password=Alvin12345678&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢EXYU TV 💢 KANALI U SD KVALITETU 💢 BOSNA I HERCEGOVINA 💢 HRVATSKA 💢 SRBIJA 💢 MAKEDONIJA 💢 CRNA GORA 💢 SPORTSKI 💢 PINK PAKET 💢 DECIJI 💢 DOKUMENTARNI 💢 FILMSKI 💢 MUZIČKI ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://serv.mediaking.fi:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://serv2.mediaking.fi:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 04 Aralık 2021 03:54
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 23 Ocak 2028 02:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ Izetj@hotmail.com
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ Manchester
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 0
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ EXYU.tv
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.211.198.30
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ LeaseWeb Netherlands B.V.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 05 Ekim 2026 - 00:51
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (Bağlantı Kurulamadı)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 361 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 802 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 282 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://serv.mediaking.fi:8080/get.php?username=Izetj@hotmail.com&password=Manchester&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://serv.mediaking.fi:8080/xmltv.php?username=Izetj@hotmail.com&password=Manchester&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢EXYU TV 💢 KANALI U SD KVALITETU 💢 BOSNA I HERCEGOVINA 💢 HRVATSKA 💢 SRBIJA 💢 MAKEDONIJA 💢 CRNA GORA 💢 SPORTSKI 💢 PINK PAKET 💢 DECIJI 💢 DOKUMENTARNI 💢 FILMSKI 💢 MUZIČKI ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://serv.mediaking.fi:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://serv2.mediaking.fi:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 28 Ağustos 2021 16:24
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 09 Şubat 2027 02:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ zoran.e.f.f@gmail.com
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ stefan2013
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 0
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ EXYU.tv
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.211.198.30
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ LeaseWeb Netherlands B.V.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 05 Ekim 2026 - 00:59
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (Bağlantı Kurulamadı)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 378 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 803 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 284 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://serv.mediaking.fi:8080/get.php?username=zoran.e.f.f@gmail.com&password=stefan2013&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://serv.mediaking.fi:8080/xmltv.php?username=zoran.e.f.f@gmail.com&password=stefan2013&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢EXYU TV 💢 KANALI U SD KVALITETU 💢 BOSNA I HERCEGOVINA 💢 HRVATSKA 💢 SRBIJA 💢 MAKEDONIJA 💢 CRNA GORA 💢 SPORTSKI 💢 PINK PAKET 💢 DECIJI 💢 DOKUMENTARNI 💢 FILMSKI 💢 MUZIČKI 💢 SWEDEN 💢 DENMARK 💢 NORWAY ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://serv.mediaking.fi:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://serv2.mediaking.fi:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 19 Şubat 2021 13:42
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 29 Ocak 2028 02:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ milerotcov@yahoo.com
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ Partizan1
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 0
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ EXYU.tv
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.211.198.30
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ LeaseWeb Netherlands B.V.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 05 Ekim 2026 - 01:12
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (Bağlantı Kurulamadı)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 361 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 803 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 284 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://serv.mediaking.fi:8080/get.php?username=milerotcov@yahoo.com&password=Partizan1&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://serv.mediaking.fi:8080/xmltv.php?username=milerotcov@yahoo.com&password=Partizan1&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢EXYU TV 💢 KANALI U SD KVALITETU 💢 BOSNA I HERCEGOVINA 💢 HRVATSKA 💢 SRBIJA 💢 MAKEDONIJA 💢 CRNA GORA 💢 SPORTSKI 💢 PINK PAKET 💢 DECIJI 💢 DOKUMENTARNI 💢 FILMSKI 💢 MUZIČKI ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://serv.mediaking.fi:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://serv2.mediaking.fi:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 05 Şubat 2022 21:13
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 06 Mart 2027 02:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ Esmina_Hodzic
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ hesmina33
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 0
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ EXYU.tv
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.211.198.30
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ LeaseWeb Netherlands B.V.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 05 Ekim 2026 - 01:16
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (Bağlantı Kurulamadı)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 378 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 803 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 284 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://serv.mediaking.fi:8080/get.php?username=Esmina_Hodzic&password=hesmina33&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://serv.mediaking.fi:8080/xmltv.php?username=Esmina_Hodzic&password=hesmina33&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢EXYU TV 💢 KANALI U SD KVALITETU 💢 BOSNA I HERCEGOVINA 💢 HRVATSKA 💢 SRBIJA 💢 MAKEDONIJA 💢 CRNA GORA 💢 SPORTSKI 💢 PINK PAKET 💢 DECIJI 💢 DOKUMENTARNI 💢 FILMSKI 💢 MUZIČKI 💢 SWEDEN 💢 DENMARK 💢 NORWAY ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://serv.mediaking.fi:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://serv2.mediaking.fi:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 27 Kasım 2021 18:06
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 19 Mart 2028 02:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ mitar73@gmail.com
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ Kucevo73
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 5
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ EXYU.tv
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.211.198.30
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ LeaseWeb Netherlands B.V.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 05 Ekim 2026 - 02:14
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (Bağlantı Kurulamadı)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 361 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 803 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 284 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://serv.mediaking.fi:8080/get.php?username=mitar73@gmail.com&password=Kucevo73&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://serv.mediaking.fi:8080/xmltv.php?username=mitar73@gmail.com&password=Kucevo73&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢EXYU TV 💢 KANALI U SD KVALITETU 💢 BOSNA I HERCEGOVINA 💢 HRVATSKA 💢 SRBIJA 💢 MAKEDONIJA 💢 CRNA GORA 💢 SPORTSKI 💢 PINK PAKET 💢 DECIJI 💢 DOKUMENTARNI 💢 FILMSKI 💢 MUZIČKI ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://serv.mediaking.fi:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://serv2.mediaking.fi:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 22 Kasım 2022 19:52
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 22 Şubat 2027 02:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ danicaadzic48@gmail.com
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ bOlbRdGzD4
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 0
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ EXYU.tv
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.211.198.30
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ LeaseWeb Netherlands B.V.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 05 Ekim 2026 - 02:16
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (Bağlantı Kurulamadı)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 378 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 803 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 284 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://serv.mediaking.fi:8080/get.php?username=danicaadzic48@gmail.com&password=bOlbRdGzD4&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://serv.mediaking.fi:8080/xmltv.php?username=danicaadzic48@gmail.com&password=bOlbRdGzD4&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢EXYU TV 💢 KANALI U SD KVALITETU 💢 BOSNA I HERCEGOVINA 💢 HRVATSKA 💢 SRBIJA 💢 MAKEDONIJA 💢 CRNA GORA 💢 SPORTSKI 💢 PINK PAKET 💢 DECIJI 💢 DOKUMENTARNI 💢 FILMSKI 💢 MUZIČKI 💢 SWEDEN 💢 DENMARK 💢 NORWAY ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://serv.mediaking.fi:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://serv2.mediaking.fi:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 08 Ekim 2020 14:45
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 05 Mart 2028 02:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ gordana_svraka
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ gordana123
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 0
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ EXYU.tv
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.211.198.30
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ LeaseWeb Netherlands B.V.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 05 Ekim 2026 - 02:33
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (Bağlantı Kurulamadı)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 378 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 803 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 284 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://serv.mediaking.fi:8080/get.php?username=gordana_svraka&password=gordana123&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://serv.mediaking.fi:8080/xmltv.php?username=gordana_svraka&password=gordana123&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢EXYU TV 💢 KANALI U SD KVALITETU 💢 BOSNA I HERCEGOVINA 💢 HRVATSKA 💢 SRBIJA 💢 MAKEDONIJA 💢 CRNA GORA 💢 SPORTSKI 💢 PINK PAKET 💢 DECIJI 💢 DOKUMENTARNI 💢 FILMSKI 💢 MUZIČKI 💢 SWEDEN 💢 DENMARK 💢 NORWAY ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://serv.mediaking.fi:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://serv2.mediaking.fi:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 04 Eylül 2022 02:06
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 07 Aralık 2026 21:09
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ biljanaudiljak@me.com
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ poNbed-5fahpy-gebvoq
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 0
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ EXYU.tv
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.211.198.30
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ LeaseWeb Netherlands B.V.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 05 Ekim 2026 - 02:44
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (Bağlantı Kurulamadı)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 361 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 803 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 284 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://serv.mediaking.fi:8080/get.php?username=biljanaudiljak@me.com&password=poNbed-5fahpy-gebvoq&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://serv.mediaking.fi:8080/xmltv.php?username=biljanaudiljak@me.com&password=poNbed-5fahpy-gebvoq&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢EXYU TV 💢 KANALI U SD KVALITETU 💢 BOSNA I HERCEGOVINA 💢 HRVATSKA 💢 SRBIJA 💢 MAKEDONIJA 💢 CRNA GORA 💢 SPORTSKI 💢 PINK PAKET 💢 DECIJI 💢 DOKUMENTARNI 💢 FILMSKI 💢 MUZIČKI ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://serv.mediaking.fi:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://serv2.mediaking.fi:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 01 Ocak 2020 18:34
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 11 Mayıs 2027 07:23
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ musicnasiha93@gmail.com
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ Sarajevo1108
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 0
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ EXYU.tv
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.211.198.30
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ LeaseWeb Netherlands B.V.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 05 Ekim 2026 - 02:48
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (Bağlantı Kurulamadı)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 370 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 803 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 284 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://serv.mediaking.fi:8080/get.php?username=musicnasiha93@gmail.com&password=Sarajevo1108&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://serv.mediaking.fi:8080/xmltv.php?username=musicnasiha93@gmail.com&password=Sarajevo1108&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢EXYU TV 💢 KANALI U SD KVALITETU 💢 BOSNA I HERCEGOVINA 💢 HRVATSKA 💢 SRBIJA 💢 MAKEDONIJA 💢 CRNA GORA 💢 SPORTSKI 💢 PINK PAKET 💢 DECIJI 💢 DOKUMENTARNI 💢 FILMSKI 💢 MUZIČKI 💢 SWITZERLAND ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://serv.mediaking.fi:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://serv2.mediaking.fi:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 18 Şubat 2023 23:13
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 28 Ağustos 2027 19:23
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ Stefanberonja1997@gmail.com
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ Stefan2306
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 0
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ EXYU.tv
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.211.198.30
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ LeaseWeb Netherlands B.V.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 05 Ekim 2026 - 02:50
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (Bağlantı Kurulamadı)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 350 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 802 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 282 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://serv.mediaking.fi:8080/get.php?username=Stefanberonja1997@gmail.com&password=Stefan2306&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://serv.mediaking.fi:8080/xmltv.php?username=Stefanberonja1997@gmail.com&password=Stefan2306&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢EXYU TV 💢 KANALI U SD KVALITETU 💢 BOSNA I HERCEGOVINA 💢 HRVATSKA 💢 SRBIJA 💢 MAKEDONIJA 💢 CRNA GORA 💢 SPORTSKI 💢 PINK PAKET 💢 DECIJI 💢 DOKUMENTARNI 💢 FILMSKI 💢 MUZIČKI ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://serv.mediaking.fi:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://serv2.mediaking.fi:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 13 Eylül 2021 22:24
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 14 Ocak 2027 02:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ hatidza.karahasan@live.no
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ Hatidza1955
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 0
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ EXYU.tv
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.211.198.30
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ LeaseWeb Netherlands B.V.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 05 Ekim 2026 - 03:07
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (Bağlantı Kurulamadı)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 378 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 803 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 284 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://serv.mediaking.fi:8080/get.php?username=hatidza.karahasan@live.no&password=Hatidza1955&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://serv.mediaking.fi:8080/xmltv.php?username=hatidza.karahasan@live.no&password=Hatidza1955&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢EXYU TV 💢 KANALI U SD KVALITETU 💢 BOSNA I HERCEGOVINA 💢 HRVATSKA 💢 SRBIJA 💢 MAKEDONIJA 💢 CRNA GORA 💢 SPORTSKI 💢 PINK PAKET 💢 DECIJI 💢 DOKUMENTARNI 💢 FILMSKI 💢 MUZIČKI 💢 SWEDEN 💢 DENMARK 💢 NORWAY ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://serv.mediaking.fi:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://serv2.mediaking.fi:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 30 Nisan 2021 23:49
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 06 Ekim 2027 01:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ d_runjaic@hotmail.com
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ petrinja44250
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 2
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 0
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ EXYU.tv
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.211.198.30
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ LeaseWeb Netherlands B.V.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 05 Ekim 2026 - 04:24
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (Bağlantı Kurulamadı)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 361 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 803 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 284 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://serv.mediaking.fi:8080/get.php?username=d_runjaic@hotmail.com&password=petrinja44250&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://serv.mediaking.fi:8080/xmltv.php?username=d_runjaic@hotmail.com&password=petrinja44250&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢EXYU TV 💢 KANALI U SD KVALITETU 💢 BOSNA I HERCEGOVINA 💢 HRVATSKA 💢 SRBIJA 💢 MAKEDONIJA 💢 CRNA GORA 💢 SPORTSKI 💢 PINK PAKET 💢 DECIJI 💢 DOKUMENTARNI 💢 FILMSKI 💢 MUZIČKI ✷✷ 📺
+
+========================================

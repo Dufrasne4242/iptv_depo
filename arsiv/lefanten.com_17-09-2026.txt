@@ -1,0 +1,726 @@
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://lefanten.com:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://lefanten.com:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 10 Aralık 2025 15:20
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 10 Aralık 2026 15:20
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ tf5pKSFx
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ m2zGMwXNC5zM
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇫🇷 France
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Paris
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ API Message
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 5.196.40.73
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 17 Eylül 2026 - 02:26
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 13174 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 58082 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 12113 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/get.php?username=tf5pKSFx&password=m2zGMwXNC5zM&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/xmltv.php?username=tf5pKSFx&password=m2zGMwXNC5zM&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✪ ULUSAL 💢 TR ✪ HEVC 💢 TR ✪ RAW 💢 TR ✪ QHD 💢 TR ✪ HABER 💢 TR ✪ BELGESEL 💢 TR ✪ COCUK 💢 TR ✪ COCUK 7/24 💢 TR ✪ MUZIK 💢 TR ✪ MUZIK 7/24 💢 TR ✪ DINI / YEREL 💢 TR ✪ SPOR 💢 TR ✪ BEIN SPORTS+ 💢 TR ✪ BEIN SPORTS 💢 TR ✪ S-SPORT 💢 TR ✪ TABII / EXXEN SPOR 💢 TR ✪ DIZI SON BOLUMLER 💢 TR ✪ BEIN & D-SMART 💢 TR ✪ SINEMA MIX 💢 TR ✪ NETFLIX / BLUTV 7/24 💢 TR ✪ CINEMAXIMUM 7/24 💢 TR ✪ FILM 7/24 💢 TR ✪ YESILCAM 💢 TR ✪ YERLI FILM 7/24 💢 TR ✪ YERLI DIZI 7/24 💢 TR ✪ RADYO 💢 DE ✪ DEUTSCHLAND 💢 DE ✪ HEVC 💢 DE ✪ RAW 💢 DE ✪ UHD - QHD 💢 DE ✪ REGIONAL 💢 DE ✪ NEWS 💢 DE ✪ DOKU 💢 DE ✪ RTL+ SENDER 💢 DE ✪ SKY CINEMA 💢 DE ✪ SKY SELECT 💢 DE ✪ KINDER & 24/7 💢 DE ✪ TV ACTOR 24/7 💢 DE ✪ TV SERIEN 24/7  💢 DE ✪ TV CINEMA 24/7 💢 DE ✪ TOP SERIEN 24/7 💢 DE ✪ KINO LOUNGE 2026 💢 DE ✪ NETFLIX TOP10 💢 DE ✪ SKY BUNDESLIGA 💢 DE ✪ DAZN SENDER 💢 DE ✪ DAZN FUSSBALL LIGA 💢 DE ✪ DAZN EVENT 💢 DE ✪ UEFA CHAMPIONS LEAGUE 💢 DE ✪ SKY SPORT 💢 DE ✪ SKY SPORT F1 EVENT 💢 DE ✪ SPORT  💢 DE ✪ RTL+ EVENT 💢 DE ✪ MYTEAM MAGENTA 💢 DE ✪ LEAGUES TEAM 💢 DE ✪ LEAGUES EVENT 💢 DE ✪ DYN EVENT 💢 DE ✪ DYN SPORTARTEN 💢 DE ✪ DEL.2 EVENT 💢 DE ✪ DEL.2 TEAM 💢 DE ✪ SPORTEUROPE TV 💢 DE ✪ MUSIK 💢 DE ✪ RADIO 💢 VIP ✪ SPORTS EU/MIX  💢 VIP ✪ SPORTS BALKAN  💢 VIP ✪ F1.TV 💢 VIP ✪ PPV GLORY KICKBOXING 💢 VIP ✪ GOLF SPORTS 💢 AT ✪ AUSTRIA 💢 AT ✪ AUSTRIA SPORT 💢 CH ✪ SWISS 💢 CH ✪ BLUE SPORT DE 💢 CH ✪ MYSPORT EVENT 💢 NL ✪ UHD 💢 NL ✪ RAW 💢 NL ✪ GENERAL 💢 NL ✪ REGIO 💢 NL ✪ SPORT  💢 NL ✪ VIAPLAY 💢 NL ✪ DOCUMENTAIRE 💢 NL ✪ CINEMA 💢 NL ✪ KINDEREN 💢 NL ✪ MUZIEK 💢 NL ✪ RADIO 💢 PL ✪ POLSKA HEVC 💢 PL ✪ POLSKA 💢 PL ✪ SPORT 💢 PL ✪ MUSIC 💢 PL ✪ DOKU  💢 PL ✪ CINEMA  💢 PL ✪ KIDS  💢 ALB ✪ NATIONAL 💢 ALB ✪ DOKUMENTERA 💢 ALB ✪ PER FEMIJE 💢 ALB ✪ CINEMA 💢 ALB ✪ SPORT  💢 ALB ✪ MUSIC 💢 EXYU ✪ SERBIEN 💢 EXYU ✪ PINK 💢 EXYU ✪ DOCU 💢 EXYU ✪ KIDS 24/7 💢 EXYU ✪ 24/7 💢 EXYU ✪ CINEMA 💢 EXYU ✪ MUSIC 💢 CRO ✪ CROATIA 💢 BIH ✪ BOSNIA  💢 MK ✪ MACEDONIA 💢 GR ✪ Ελλάδα | GREECE 💢 GR ✪ Αθλητικά | SPORTS  💢 GR ✪ Κινηματογράφος | CINEMA 💢 GR ✪ Ντοκιμαντέρ | DOCUMENTARY 💢 GR ✪ Παιδικά | KIDS 💢 BE ✪ BELGIUM 💢 BE ✪ BELGIUM SPORT 💢 FR ✪ FRANCE 💢 FR ✪ SPORT 💢 FR ✪ LIGUE+1 💢 FR ✪ CANAL+ 💢 FR ✪ CINEMA 💢 FR ✪ DECOUVERTE 💢 FR ✪ ENFANTS 💢 FR ✪ MUSIC 💢 PT ✪ HEVC 💢 PT ✪ PORTUGAL 💢 PT ✪ SPORT 💢 PT ✪ CINEMA 💢 PT ✪ DOKU 💢 PT ✪ KIDS 💢 PT ✪ MUSIC 💢 BG ✪ BULGARIA 💢 BG ✪ SPORT 💢 BG ✪ DOKU 💢 BG ✪ CINEMA 💢 BG ✪ KIDS 💢 BG ✪ MUSIC 💢 RO ✪ ROMANIA 💢 RO ✪ CINEMA 💢 RO ✪ DOKU 💢 RO ✪ SPORT  💢 RO ✪ KIDS/COPII 💢 RO ✪ MUSIC 💢 UK ✪ ENGLAND 💢 UK ✪ SPORT  💢 UK ✪ DOKU 💢 UK ✪ SKY SPORT 💢 UK ✪ TNT SPORT 💢 UK ✪ CINEMA 💢 UK ✪ MUSIC 💢 UK ✪ KIDS 💢 IT ✪ ITALIA HEVC 💢 IT ✪ ITALIA 💢 IT ✪ CINEMA 💢 IT ✪ 24/7 ACTOR 💢 IT ✪ CULTURA 💢 IT ✪ BAMBINI 💢 IT ✪ MUSICA 💢 IT ✪ SPORT  💢 IT ✪ DAZN 💢 ES ✪ SPAIN 💢 ES ✪ DEPORTES 💢 ES ✪ DOCUMENTALES 💢 ES ✪ CINEMA 💢 RU ✪ Россия | RUSSIA 💢 RU ✪ Спорт | SPORT  💢 RU ✪  Кино | CINEMA 💢 RU ✪ Познавательные | NATURE 💢 RU ✪ Новостные | NEWS 💢 RU ✪ Детские | KIDS 💢 RU ✪ Развлекательные | REST 💢 RU ✪ Музыкальные | MUSIC 💢 UA ✪ UKRAIN 💢 HU ✪ HUNGARY 💢 AZ ✪ AZERBAYCAN 💢 DK ✪ DENMARK 💢 SE ✪ SWEDEN 💢 NO ✪ NORWAY 💢 FI ✪ FINLAND 💢 SL ✪ SLOVENIA 💢 SL ✪ SLOVAKIA 💢 CZ ✪ CZECH 💢 CZ ✪ NEWS 💢 CZ ✪ DOKU 💢 CZ ✪ SPORT 💢 CZ ✪ MOVIE 💢 CZ ✪ CHILDREN 💢 CZ ✪ MUSIC 💢 CZ ✪ OTHER 💢 US ✪ ENTERTAINMENT 💢 US ✪ NEWS 💢 US ✪ DOCUMENTARY 💢 US ✪ SPORT  💢 US ✪ KIDS 💢 US ✪ MOVIES - CINEMA 💢 US ✪ MLS (EVENT) 💢 US ✪ NBA (EVENT) 💢 US ✪ NFL (EVENT) 💢 CA ✪ CANADA 💢 CA ✪ SPORT 💢 AU ✪ AUSTRALIA 💢 BR ✪ BRAZIL 💢 COL ✪ COLOMBIA 💢 PE ✪ PERU 💢 AR ✪ QURAN 💢 AR ✪ BEIN SPORT 💢 AR ✪ BEIN ENTERTAINMENT 💢 AR ✪ SPORTS 💢 AR ✪ STARZPLAY 💢 AR ✪ NEWS 💢 AR ✪ OSN 💢 AR ✪ NETFLIX 💢 AR ✪ SHAHID 💢 AR ✪ ISLAM 💢 AR ✪ KIDS 💢 AR ✪ MBC 💢 AR ✪ ROTANA 💢 AR ✪ AL MAJD 💢 AR ✪ MAROCCO 💢 AR ✪ ALGERIA 💢 AR ✪ SAUDI ARABIA 💢 AR ✪ LEBANON 💢 AR ✪ TUNISIE 💢 AR ✪ KUWAIT 💢 AR ✪ SUDAN 💢 AR ✪ EGYPT 💢 AR ✪ PALASTINE 💢 AR ✪ UAE 💢 AR ✪ BAHRAIN 💢 AR ✪ IRAQ 💢 AR ✪ JORDAN 💢 AR ✪ QATAR 💢 AR ✪ SYRIA 💢 KU ✪ KURDISH 💢 SU ✪ SURYOYO 💢 IR ✪ IRAN 💢 IN ✪ INDIA 💢 IN ✪ INDIA REGIONAL 💢 IN ✪ INDIA KANNADA TV 💢 IN ✪ MOVIES 💢 ARM ✪ ARMENIAN 💢 PK ✪ PAKISTAN 💢 AFG ✪ AFGHANISTAN 💢 AF ✪ AFRICA 💢  AF ✪ SOUTH AFRICA 💢 DSTV ✪ ENTERTAINMENT 💢 DSTV ✪ SPORT 💢 DSTV ✪ NEWS 💢 DSTV ✪ DOKUMENTARY 💢 DSTV ✪ MOVIES 💢 DSTV ✪ KIDS 💢 DSTV ✪ MUSIC 💢 TH ✪ THAILAND ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://lefanten.com:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://lefanten.com:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 23 Nisan 2026 16:35
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 23 Nisan 2027 16:35
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 2ygC8M9x
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 8Oc79Aw2
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇫🇷 France
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Paris
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ API Message
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 5.196.40.73
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 17 Eylül 2026 - 02:35
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 12429 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 66737 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 7586 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/get.php?username=2ygC8M9x&password=8Oc79Aw2&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/xmltv.php?username=2ygC8M9x&password=8Oc79Aw2&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢DE ✪ DEUTSCHLAND 💢 DE ✪ HEVC 💢 DE ✪ RAW 💢 DE ✪ UHD - QHD 💢 DE ✪ REGIONAL 💢 DE ✪ NEWS 💢 DE ✪ DOKU 💢 DE ✪ RTL+ SENDER 💢 DE ✪ SKY CINEMA 💢 DE ✪ SKY SELECT 💢 DE ✪ KINDER & 24/7 💢 DE ✪ TV ACTOR 24/7 💢 DE ✪ TV SERIEN 24/7  💢 DE ✪ TV CINEMA 24/7 💢 DE ✪ TOP SERIEN 24/7 💢 DE ✪ KINO LOUNGE 2026 💢 DE ✪ NETFLIX TOP10 💢 DE ✪ SKY BUNDESLIGA 💢 DE ✪ DAZN SENDER 💢 DE ✪ DAZN FUSSBALL LIGA 💢 DE ✪ DAZN EVENT 💢 DE ✪ UEFA CHAMPIONS LEAGUE 💢 DE ✪ SKY SPORT 💢 DE ✪ SKY SPORT F1 EVENT 💢 DE ✪ SPORT  💢 DE ✪ RTL+ EVENT 💢 DE ✪ MYTEAM MAGENTA 💢 DE ✪ LEAGUES TEAM 💢 DE ✪ LEAGUES EVENT 💢 DE ✪ DYN EVENT 💢 DE ✪ DYN SPORTARTEN 💢 DE ✪ DEL.2 EVENT 💢 DE ✪ DEL.2 TEAM 💢 DE ✪ SPORTEUROPE TV 💢 DE ✪ MUSIK 💢 DE ✪ RADIO 💢 VIP ✪ SPORTS EU/MIX  💢 VIP ✪ SPORTS BALKAN  💢 VIP ✪ F1.TV 💢 VIP ✪ PPV GLORY KICKBOXING 💢 VIP ✪ GOLF SPORTS 💢 AT ✪ AUSTRIA 💢 AT ✪ AUSTRIA SPORT 💢 CH ✪ SWISS 💢 CH ✪ BLUE SPORT DE 💢 CH ✪ MYSPORT EVENT 💢 NL ✪ UHD 💢 NL ✪ RAW 💢 NL ✪ GENERAL 💢 NL ✪ REGIO 💢 NL ✪ SPORT  💢 NL ✪ VIAPLAY 💢 NL ✪ DOCUMENTAIRE 💢 NL ✪ CINEMA 💢 NL ✪ KINDEREN 💢 NL ✪ MUZIEK 💢 NL ✪ RADIO 💢 PL ✪ POLSKA HEVC 💢 PL ✪ POLSKA 💢 PL ✪ SPORT 💢 PL ✪ MUSIC 💢 PL ✪ DOKU  💢 PL ✪ CINEMA  💢 PL ✪ KIDS  💢 ALB ✪ NATIONAL 💢 ALB ✪ DOKUMENTERA 💢 ALB ✪ PER FEMIJE 💢 ALB ✪ CINEMA 💢 ALB ✪ SPORT  💢 ALB ✪ MUSIC 💢 EXYU ✪ SERBIEN 💢 EXYU ✪ PINK 💢 EXYU ✪ DOCU 💢 EXYU ✪ KIDS 24/7 💢 EXYU ✪ 24/7 💢 EXYU ✪ CINEMA 💢 EXYU ✪ MUSIC 💢 CRO ✪ CROATIA 💢 BIH ✪ BOSNIA  💢 MK ✪ MACEDONIA 💢 GR ✪ Ελλάδα | GREECE 💢 GR ✪ Αθλητικά | SPORTS  💢 GR ✪ Κινηματογράφος | CINEMA 💢 GR ✪ Ντοκιμαντέρ | DOCUMENTARY 💢 GR ✪ Παιδικά | KIDS 💢 BE ✪ BELGIUM 💢 BE ✪ BELGIUM SPORT 💢 FR ✪ FRANCE 💢 FR ✪ SPORT 💢 FR ✪ LIGUE+1 💢 FR ✪ CANAL+ 💢 FR ✪ CINEMA 💢 FR ✪ DECOUVERTE 💢 FR ✪ ENFANTS 💢 FR ✪ MUSIC 💢 PT ✪ HEVC 💢 PT ✪ PORTUGAL 💢 PT ✪ SPORT 💢 PT ✪ CINEMA 💢 PT ✪ DOKU 💢 PT ✪ KIDS 💢 PT ✪ MUSIC 💢 BG ✪ BULGARIA 💢 BG ✪ SPORT 💢 BG ✪ DOKU 💢 BG ✪ CINEMA 💢 BG ✪ KIDS 💢 BG ✪ MUSIC 💢 RO ✪ ROMANIA 💢 RO ✪ CINEMA 💢 RO ✪ DOKU 💢 RO ✪ SPORT  💢 RO ✪ KIDS/COPII 💢 RO ✪ MUSIC 💢 UK ✪ ENGLAND 💢 UK ✪ SPORT  💢 UK ✪ DOKU 💢 UK ✪ SKY SPORT 💢 UK ✪ TNT SPORT 💢 UK ✪ CINEMA 💢 UK ✪ MUSIC 💢 UK ✪ KIDS 💢 IT ✪ ITALIA HEVC 💢 IT ✪ ITALIA 💢 IT ✪ CINEMA 💢 IT ✪ 24/7 ACTOR 💢 IT ✪ CULTURA 💢 IT ✪ BAMBINI 💢 IT ✪ MUSICA 💢 IT ✪ SPORT  💢 IT ✪ DAZN 💢 ES ✪ SPAIN 💢 ES ✪ DEPORTES 💢 ES ✪ DOCUMENTALES 💢 ES ✪ CINEMA 💢 RU ✪ Россия | RUSSIA 💢 RU ✪ Спорт | SPORT  💢 RU ✪  Кино | CINEMA 💢 RU ✪ Познавательные | NATURE 💢 RU ✪ Новостные | NEWS 💢 RU ✪ Детские | KIDS 💢 RU ✪ Развлекательные | REST 💢 RU ✪ Музыкальные | MUSIC 💢 UA ✪ UKRAIN 💢 HU ✪ HUNGARY 💢 AZ ✪ AZERBAYCAN 💢 DK ✪ DENMARK 💢 SE ✪ SWEDEN 💢 NO ✪ NORWAY 💢 FI ✪ FINLAND 💢 SL ✪ SLOVENIA 💢 SL ✪ SLOVAKIA 💢 CZ ✪ CZECH 💢 CZ ✪ NEWS 💢 CZ ✪ DOKU 💢 CZ ✪ SPORT 💢 CZ ✪ MOVIE 💢 CZ ✪ CHILDREN 💢 CZ ✪ MUSIC 💢 CZ ✪ OTHER 💢 US ✪ ENTERTAINMENT 💢 US ✪ NEWS 💢 US ✪ DOCUMENTARY 💢 US ✪ SPORT  💢 US ✪ KIDS 💢 US ✪ MOVIES - CINEMA 💢 US ✪ MLS (EVENT) 💢 US ✪ NBA (EVENT) 💢 US ✪ NFL (EVENT) 💢 CA ✪ CANADA 💢 CA ✪ SPORT 💢 AU ✪ AUSTRALIA 💢 BR ✪ BRAZIL 💢 COL ✪ COLOMBIA 💢 PE ✪ PERU 💢 AR ✪ QURAN 💢 AR ✪ BEIN SPORT 💢 AR ✪ BEIN ENTERTAINMENT 💢 AR ✪ SPORTS 💢 AR ✪ STARZPLAY 💢 AR ✪ NEWS 💢 AR ✪ OSN 💢 AR ✪ NETFLIX 💢 AR ✪ SHAHID 💢 AR ✪ ISLAM 💢 AR ✪ KIDS 💢 AR ✪ MBC 💢 AR ✪ ROTANA 💢 AR ✪ AL MAJD 💢 AR ✪ MAROCCO 💢 AR ✪ ALGERIA 💢 AR ✪ SAUDI ARABIA 💢 AR ✪ LEBANON 💢 AR ✪ TUNISIE 💢 AR ✪ KUWAIT 💢 AR ✪ SUDAN 💢 AR ✪ EGYPT 💢 AR ✪ PALASTINE 💢 AR ✪ UAE 💢 AR ✪ BAHRAIN 💢 AR ✪ IRAQ 💢 AR ✪ JORDAN 💢 AR ✪ QATAR 💢 AR ✪ SYRIA 💢 KU ✪ KURDISH 💢 SU ✪ SURYOYO 💢 IR ✪ IRAN 💢 IN ✪ INDIA 💢 IN ✪ INDIA REGIONAL 💢 IN ✪ INDIA KANNADA TV 💢 IN ✪ MOVIES 💢 ARM ✪ ARMENIAN 💢 PK ✪ PAKISTAN 💢 AFG ✪ AFGHANISTAN 💢 AF ✪ AFRICA 💢  AF ✪ SOUTH AFRICA 💢 DSTV ✪ ENTERTAINMENT 💢 DSTV ✪ SPORT 💢 DSTV ✪ NEWS 💢 DSTV ✪ DOKUMENTARY 💢 DSTV ✪ MOVIES 💢 DSTV ✪ KIDS 💢 DSTV ✪ MUSIC 💢 TH ✪ THAILAND 💢 FOR ✪ ADULTS 💢 FOR ✪ ADULTS 2 💢 FOR ✪ ADULTS 3 💢 FOR ✪ ADULTS X4 💢 FOR ✪ PORNBOX ADULTS ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://lefanten.com:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://lefanten.com:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 25 Mart 2021 19:53
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 26 Mart 2027 06:22
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ r8YG8MhgAn
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 3a86b2536b0fee6
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇫🇷 France
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Paris
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ API Message
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 5.196.40.73
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 17 Eylül 2026 - 02:38
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 4082 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 35352 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 9876 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/get.php?username=r8YG8MhgAn&password=3a86b2536b0fee6&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/xmltv.php?username=r8YG8MhgAn&password=3a86b2536b0fee6&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✪ ULUSAL 💢 TR ✪ HEVC 💢 TR ✪ RAW 💢 TR ✪ QHD 💢 TR ✪ HABER 💢 TR ✪ BELGESEL 💢 TR ✪ COCUK 💢 TR ✪ COCUK 7/24 💢 TR ✪ MUZIK 💢 TR ✪ MUZIK 7/24 💢 TR ✪ DINI / YEREL 💢 TR ✪ SPOR 💢 TR ✪ BEIN SPORTS+ 💢 TR ✪ BEIN SPORTS 💢 TR ✪ S-SPORT 💢 TR ✪ TABII / EXXEN SPOR 💢 TR ✪ DIZI SON BOLUMLER 💢 TR ✪ BEIN & D-SMART 💢 TR ✪ SINEMA MIX 💢 TR ✪ NETFLIX / BLUTV 7/24 💢 TR ✪ CINEMAXIMUM 7/24 💢 TR ✪ FILM 7/24 💢 TR ✪ YESILCAM 💢 TR ✪ YERLI FILM 7/24 💢 TR ✪ YERLI DIZI 7/24 💢 TR ✪ RADYO 💢 DE ✪ DEUTSCHLAND 💢 DE ✪ HEVC 💢 DE ✪ RAW 💢 DE ✪ UHD - QHD 💢 DE ✪ REGIONAL 💢 DE ✪ NEWS 💢 DE ✪ DOKU 💢 DE ✪ RTL+ SENDER 💢 DE ✪ SKY CINEMA 💢 DE ✪ SKY SELECT 💢 DE ✪ KINDER & 24/7 💢 DE ✪ TV ACTOR 24/7 💢 DE ✪ TV SERIEN 24/7  💢 DE ✪ TV CINEMA 24/7 💢 DE ✪ TOP SERIEN 24/7 💢 DE ✪ KINO LOUNGE 2026 💢 DE ✪ NETFLIX TOP10 💢 DE ✪ SKY BUNDESLIGA 💢 DE ✪ DAZN SENDER 💢 DE ✪ DAZN FUSSBALL LIGA 💢 DE ✪ DAZN EVENT 💢 DE ✪ UEFA CHAMPIONS LEAGUE 💢 DE ✪ SKY SPORT 💢 DE ✪ SKY SPORT F1 EVENT 💢 DE ✪ SPORT  💢 DE ✪ RTL+ EVENT 💢 DE ✪ MYTEAM MAGENTA 💢 DE ✪ LEAGUES TEAM 💢 DE ✪ LEAGUES EVENT 💢 DE ✪ DYN EVENT 💢 DE ✪ DYN SPORTARTEN 💢 DE ✪ DEL.2 EVENT 💢 DE ✪ DEL.2 TEAM 💢 DE ✪ SPORTEUROPE TV 💢 DE ✪ MUSIK 💢 DE ✪ RADIO 💢 VIP ✪ SPORTS EU/MIX  💢 VIP ✪ SPORTS BALKAN  💢 VIP ✪ F1.TV 💢 VIP ✪ PPV GLORY KICKBOXING 💢 VIP ✪ GOLF SPORTS ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://lefanten.com:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://lefanten.com:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 04 Şubat 2026 18:01
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 23 Mart 2027 03:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ jODKsKTjvR
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ LgjMijWKJA
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇫🇷 France
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Paris
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ API Message
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 5.196.40.73
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 17 Eylül 2026 - 03:05
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 12798 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 58082 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 11497 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/get.php?username=jODKsKTjvR&password=LgjMijWKJA&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/xmltv.php?username=jODKsKTjvR&password=LgjMijWKJA&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✪ ULUSAL 💢 TR ✪ HEVC 💢 TR ✪ RAW 💢 TR ✪ QHD 💢 TR ✪ HABER 💢 TR ✪ BELGESEL 💢 TR ✪ COCUK 💢 TR ✪ COCUK 7/24 💢 TR ✪ MUZIK 💢 TR ✪ MUZIK 7/24 💢 TR ✪ DINI / YEREL 💢 TR ✪ SPOR 💢 TR ✪ BEIN SPORTS+ 💢 TR ✪ BEIN SPORTS 💢 TR ✪ S-SPORT 💢 TR ✪ TABII / EXXEN SPOR 💢 TR ✪ DIZI SON BOLUMLER 💢 TR ✪ BEIN & D-SMART 💢 TR ✪ SINEMA MIX 💢 TR ✪ NETFLIX / BLUTV 7/24 💢 TR ✪ CINEMAXIMUM 7/24 💢 TR ✪ FILM 7/24 💢 TR ✪ YESILCAM 💢 TR ✪ YERLI FILM 7/24 💢 TR ✪ YERLI DIZI 7/24 💢 TR ✪ RADYO 💢 DE ✪ DEUTSCHLAND 💢 DE ✪ HEVC 💢 DE ✪ RAW 💢 DE ✪ UHD - QHD 💢 DE ✪ REGIONAL 💢 DE ✪ NEWS 💢 DE ✪ DOKU 💢 DE ✪ RTL+ SENDER 💢 DE ✪ SKY CINEMA 💢 DE ✪ SKY SELECT 💢 DE ✪ KINDER & 24/7 💢 DE ✪ TV ACTOR 24/7 💢 DE ✪ TV SERIEN 24/7  💢 DE ✪ TV CINEMA 24/7 💢 DE ✪ TOP SERIEN 24/7 💢 DE ✪ KINO LOUNGE 2026 💢 DE ✪ NETFLIX TOP10 💢 DE ✪ SKY BUNDESLIGA 💢 DE ✪ DAZN SENDER 💢 DE ✪ DAZN FUSSBALL LIGA 💢 DE ✪ DAZN EVENT 💢 DE ✪ UEFA CHAMPIONS LEAGUE 💢 DE ✪ SKY SPORT 💢 DE ✪ SKY SPORT F1 EVENT 💢 DE ✪ SPORT  💢 DE ✪ RTL+ EVENT 💢 DE ✪ MYTEAM MAGENTA 💢 DE ✪ LEAGUES TEAM 💢 DE ✪ LEAGUES EVENT 💢 DE ✪ DYN EVENT 💢 DE ✪ DYN SPORTARTEN 💢 DE ✪ DEL.2 EVENT 💢 DE ✪ DEL.2 TEAM 💢 DE ✪ SPORTEUROPE TV 💢 DE ✪ MUSIK 💢 DE ✪ RADIO 💢 VIP ✪ SPORTS EU/MIX  💢 VIP ✪ SPORTS BALKAN  💢 VIP ✪ F1.TV 💢 VIP ✪ PPV GLORY KICKBOXING 💢 VIP ✪ GOLF SPORTS 💢 AT ✪ AUSTRIA 💢 AT ✪ AUSTRIA SPORT 💢 CH ✪ SWISS 💢 CH ✪ BLUE SPORT DE 💢 CH ✪ MYSPORT EVENT 💢 NL ✪ UHD 💢 NL ✪ RAW 💢 NL ✪ GENERAL 💢 NL ✪ REGIO 💢 NL ✪ SPORT  💢 NL ✪ VIAPLAY 💢 NL ✪ DOCUMENTAIRE 💢 NL ✪ CINEMA 💢 NL ✪ KINDEREN 💢 NL ✪ MUZIEK 💢 NL ✪ RADIO 💢 PL ✪ POLSKA HEVC 💢 PL ✪ POLSKA 💢 PL ✪ SPORT 💢 PL ✪ MUSIC 💢 PL ✪ DOKU  💢 PL ✪ CINEMA  💢 PL ✪ KIDS  💢 ALB ✪ NATIONAL 💢 ALB ✪ DOKUMENTERA 💢 ALB ✪ PER FEMIJE 💢 ALB ✪ CINEMA 💢 ALB ✪ SPORT  💢 ALB ✪ MUSIC 💢 EXYU ✪ SERBIEN 💢 EXYU ✪ PINK 💢 EXYU ✪ DOCU 💢 EXYU ✪ KIDS 24/7 💢 EXYU ✪ 24/7 💢 EXYU ✪ CINEMA 💢 EXYU ✪ MUSIC 💢 CRO ✪ CROATIA 💢 BIH ✪ BOSNIA  💢 MK ✪ MACEDONIA 💢 GR ✪ Ελλάδα | GREECE 💢 GR ✪ Αθλητικά | SPORTS  💢 GR ✪ Κινηματογράφος | CINEMA 💢 GR ✪ Ντοκιμαντέρ | DOCUMENTARY 💢 GR ✪ Παιδικά | KIDS 💢 BE ✪ BELGIUM 💢 BE ✪ BELGIUM SPORT 💢 FR ✪ FRANCE 💢 FR ✪ SPORT 💢 FR ✪ LIGUE+1 💢 FR ✪ CANAL+ 💢 FR ✪ CINEMA 💢 FR ✪ DECOUVERTE 💢 FR ✪ ENFANTS 💢 FR ✪ MUSIC 💢 BG ✪ BULGARIA 💢 BG ✪ SPORT 💢 BG ✪ DOKU 💢 BG ✪ CINEMA 💢 BG ✪ KIDS 💢 BG ✪ MUSIC 💢 RO ✪ ROMANIA 💢 RO ✪ CINEMA 💢 RO ✪ DOKU 💢 RO ✪ SPORT  💢 RO ✪ KIDS/COPII 💢 RO ✪ MUSIC 💢 UK ✪ ENGLAND 💢 UK ✪ SPORT  💢 UK ✪ DOKU 💢 UK ✪ SKY SPORT 💢 UK ✪ TNT SPORT 💢 UK ✪ CINEMA 💢 UK ✪ MUSIC 💢 UK ✪ KIDS 💢 IT ✪ ITALIA HEVC 💢 IT ✪ ITALIA 💢 IT ✪ CINEMA 💢 IT ✪ 24/7 ACTOR 💢 IT ✪ CULTURA 💢 IT ✪ BAMBINI 💢 IT ✪ MUSICA 💢 IT ✪ SPORT  💢 IT ✪ DAZN 💢 RU ✪ Россия | RUSSIA 💢 RU ✪ Спорт | SPORT  💢 RU ✪  Кино | CINEMA 💢 RU ✪ Познавательные | NATURE 💢 RU ✪ Новостные | NEWS 💢 RU ✪ Детские | KIDS 💢 RU ✪ Развлекательные | REST 💢 RU ✪ Музыкальные | MUSIC 💢 UA ✪ UKRAIN 💢 HU ✪ HUNGARY 💢 AZ ✪ AZERBAYCAN 💢 DK ✪ DENMARK 💢 SE ✪ SWEDEN 💢 NO ✪ NORWAY 💢 FI ✪ FINLAND 💢 SL ✪ SLOVENIA 💢 SL ✪ SLOVAKIA 💢 CZ ✪ CZECH 💢 CZ ✪ NEWS 💢 CZ ✪ DOKU 💢 CZ ✪ SPORT 💢 CZ ✪ MOVIE 💢 CZ ✪ CHILDREN 💢 CZ ✪ MUSIC 💢 CZ ✪ OTHER 💢 US ✪ ENTERTAINMENT 💢 US ✪ NEWS 💢 US ✪ DOCUMENTARY 💢 US ✪ SPORT  💢 US ✪ KIDS 💢 US ✪ MOVIES - CINEMA 💢 US ✪ MLS (EVENT) 💢 US ✪ NBA (EVENT) 💢 US ✪ NFL (EVENT) 💢 CA ✪ CANADA 💢 CA ✪ SPORT 💢 AU ✪ AUSTRALIA 💢 BR ✪ BRAZIL 💢 COL ✪ COLOMBIA 💢 PE ✪ PERU 💢 AR ✪ QURAN 💢 AR ✪ BEIN SPORT 💢 AR ✪ BEIN ENTERTAINMENT 💢 AR ✪ SPORTS 💢 AR ✪ STARZPLAY 💢 AR ✪ NEWS 💢 AR ✪ OSN 💢 AR ✪ NETFLIX 💢 AR ✪ SHAHID 💢 AR ✪ ISLAM 💢 AR ✪ KIDS 💢 AR ✪ MBC 💢 AR ✪ ROTANA 💢 AR ✪ AL MAJD 💢 AR ✪ MAROCCO 💢 AR ✪ ALGERIA 💢 AR ✪ SAUDI ARABIA 💢 AR ✪ LEBANON 💢 AR ✪ TUNISIE 💢 AR ✪ KUWAIT 💢 AR ✪ SUDAN 💢 AR ✪ EGYPT 💢 AR ✪ PALASTINE 💢 AR ✪ UAE 💢 AR ✪ BAHRAIN 💢 AR ✪ IRAQ 💢 AR ✪ JORDAN 💢 AR ✪ QATAR 💢 AR ✪ SYRIA 💢 KU ✪ KURDISH 💢 SU ✪ SURYOYO 💢 IR ✪ IRAN 💢 IN ✪ INDIA 💢 IN ✪ INDIA REGIONAL 💢 IN ✪ INDIA KANNADA TV 💢 IN ✪ MOVIES 💢 ARM ✪ ARMENIAN 💢 PK ✪ PAKISTAN 💢 AFG ✪ AFGHANISTAN 💢 AF ✪ AFRICA 💢  AF ✪ SOUTH AFRICA 💢 DSTV ✪ ENTERTAINMENT 💢 DSTV ✪ SPORT 💢 DSTV ✪ NEWS 💢 DSTV ✪ DOKUMENTARY 💢 DSTV ✪ MOVIES 💢 DSTV ✪ KIDS 💢 DSTV ✪ MUSIC 💢 TH ✪ THAILAND ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://lefanten.com:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://lefanten.com:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 09 Aralık 2025 22:23
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 10 Aralık 2026 22:23
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ hr0GZdY5
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ jUmRCr247ZHQw
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇫🇷 France
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Paris
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ API Message
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 5.196.40.73
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 17 Eylül 2026 - 03:08
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 3518 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 46155 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 6461 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/get.php?username=hr0GZdY5&password=jUmRCr247ZHQw&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/xmltv.php?username=hr0GZdY5&password=jUmRCr247ZHQw&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢DE ✪ DEUTSCHLAND 💢 DE ✪ HEVC 💢 DE ✪ RAW 💢 DE ✪ UHD - QHD 💢 DE ✪ REGIONAL 💢 DE ✪ NEWS 💢 DE ✪ DOKU 💢 DE ✪ RTL+ SENDER 💢 DE ✪ SKY CINEMA 💢 DE ✪ SKY SELECT 💢 DE ✪ KINDER & 24/7 💢 DE ✪ TV ACTOR 24/7 💢 DE ✪ TV SERIEN 24/7  💢 DE ✪ TV CINEMA 24/7 💢 DE ✪ TOP SERIEN 24/7 💢 DE ✪ KINO LOUNGE 2026 💢 DE ✪ NETFLIX TOP10 💢 DE ✪ SKY BUNDESLIGA 💢 DE ✪ DAZN SENDER 💢 DE ✪ DAZN FUSSBALL LIGA 💢 DE ✪ DAZN EVENT 💢 DE ✪ UEFA CHAMPIONS LEAGUE 💢 DE ✪ SKY SPORT 💢 DE ✪ SKY SPORT F1 EVENT 💢 DE ✪ SPORT  💢 DE ✪ RTL+ EVENT 💢 DE ✪ MYTEAM MAGENTA 💢 DE ✪ LEAGUES TEAM 💢 DE ✪ LEAGUES EVENT 💢 DE ✪ DYN EVENT 💢 DE ✪ DYN SPORTARTEN 💢 DE ✪ DEL.2 EVENT 💢 DE ✪ DEL.2 TEAM 💢 DE ✪ SPORTEUROPE TV 💢 DE ✪ MUSIK 💢 DE ✪ RADIO 💢 VIP ✪ SPORTS EU/MIX  💢 VIP ✪ SPORTS BALKAN  💢 VIP ✪ F1.TV 💢 VIP ✪ PPV GLORY KICKBOXING 💢 VIP ✪ GOLF SPORTS 💢 AT ✪ AUSTRIA 💢 AT ✪ AUSTRIA SPORT 💢 CH ✪ SWISS 💢 CH ✪ BLUE SPORT DE 💢 CH ✪ MYSPORT EVENT 💢 FOR ✪ ADULTS 💢 FOR ✪ ADULTS 2 💢 FOR ✪ ADULTS 3 💢 FOR ✪ ADULTS X4 💢 FOR ✪ PORNBOX ADULTS ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://lefanten.com:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://lefanten.com:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 05 Haziran 2026 14:04
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 05 Aralık 2026 14:03
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ TCr9ECp9
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ DNtO8vTQ
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇫🇷 France
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Paris
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ API Message
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 5.196.40.73
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 17 Eylül 2026 - 03:23
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 12429 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 66737 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 7586 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/get.php?username=TCr9ECp9&password=DNtO8vTQ&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/xmltv.php?username=TCr9ECp9&password=DNtO8vTQ&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢DE ✪ DEUTSCHLAND 💢 DE ✪ HEVC 💢 DE ✪ RAW 💢 DE ✪ UHD - QHD 💢 DE ✪ REGIONAL 💢 DE ✪ NEWS 💢 DE ✪ DOKU 💢 DE ✪ RTL+ SENDER 💢 DE ✪ SKY CINEMA 💢 DE ✪ SKY SELECT 💢 DE ✪ KINDER & 24/7 💢 DE ✪ TV ACTOR 24/7 💢 DE ✪ TV SERIEN 24/7  💢 DE ✪ TV CINEMA 24/7 💢 DE ✪ TOP SERIEN 24/7 💢 DE ✪ KINO LOUNGE 2026 💢 DE ✪ NETFLIX TOP10 💢 DE ✪ SKY BUNDESLIGA 💢 DE ✪ DAZN SENDER 💢 DE ✪ DAZN FUSSBALL LIGA 💢 DE ✪ DAZN EVENT 💢 DE ✪ UEFA CHAMPIONS LEAGUE 💢 DE ✪ SKY SPORT 💢 DE ✪ SKY SPORT F1 EVENT 💢 DE ✪ SPORT  💢 DE ✪ RTL+ EVENT 💢 DE ✪ MYTEAM MAGENTA 💢 DE ✪ LEAGUES TEAM 💢 DE ✪ LEAGUES EVENT 💢 DE ✪ DYN EVENT 💢 DE ✪ DYN SPORTARTEN 💢 DE ✪ DEL.2 EVENT 💢 DE ✪ DEL.2 TEAM 💢 DE ✪ SPORTEUROPE TV 💢 DE ✪ MUSIK 💢 DE ✪ RADIO 💢 VIP ✪ SPORTS EU/MIX  💢 VIP ✪ SPORTS BALKAN  💢 VIP ✪ F1.TV 💢 VIP ✪ PPV GLORY KICKBOXING 💢 VIP ✪ GOLF SPORTS 💢 AT ✪ AUSTRIA 💢 AT ✪ AUSTRIA SPORT 💢 CH ✪ SWISS 💢 CH ✪ BLUE SPORT DE 💢 CH ✪ MYSPORT EVENT 💢 NL ✪ UHD 💢 NL ✪ RAW 💢 NL ✪ GENERAL 💢 NL ✪ REGIO 💢 NL ✪ SPORT  💢 NL ✪ VIAPLAY 💢 NL ✪ DOCUMENTAIRE 💢 NL ✪ CINEMA 💢 NL ✪ KINDEREN 💢 NL ✪ MUZIEK 💢 NL ✪ RADIO 💢 PL ✪ POLSKA HEVC 💢 PL ✪ POLSKA 💢 PL ✪ SPORT 💢 PL ✪ MUSIC 💢 PL ✪ DOKU  💢 PL ✪ CINEMA  💢 PL ✪ KIDS  💢 ALB ✪ NATIONAL 💢 ALB ✪ DOKUMENTERA 💢 ALB ✪ PER FEMIJE 💢 ALB ✪ CINEMA 💢 ALB ✪ SPORT  💢 ALB ✪ MUSIC 💢 EXYU ✪ SERBIEN 💢 EXYU ✪ PINK 💢 EXYU ✪ DOCU 💢 EXYU ✪ KIDS 24/7 💢 EXYU ✪ 24/7 💢 EXYU ✪ CINEMA 💢 EXYU ✪ MUSIC 💢 CRO ✪ CROATIA 💢 BIH ✪ BOSNIA  💢 MK ✪ MACEDONIA 💢 GR ✪ Ελλάδα | GREECE 💢 GR ✪ Αθλητικά | SPORTS  💢 GR ✪ Κινηματογράφος | CINEMA 💢 GR ✪ Ντοκιμαντέρ | DOCUMENTARY 💢 GR ✪ Παιδικά | KIDS 💢 BE ✪ BELGIUM 💢 BE ✪ BELGIUM SPORT 💢 FR ✪ FRANCE 💢 FR ✪ SPORT 💢 FR ✪ LIGUE+1 💢 FR ✪ CANAL+ 💢 FR ✪ CINEMA 💢 FR ✪ DECOUVERTE 💢 FR ✪ ENFANTS 💢 FR ✪ MUSIC 💢 PT ✪ HEVC 💢 PT ✪ PORTUGAL 💢 PT ✪ SPORT 💢 PT ✪ CINEMA 💢 PT ✪ DOKU 💢 PT ✪ KIDS 💢 PT ✪ MUSIC 💢 BG ✪ BULGARIA 💢 BG ✪ SPORT 💢 BG ✪ DOKU 💢 BG ✪ CINEMA 💢 BG ✪ KIDS 💢 BG ✪ MUSIC 💢 RO ✪ ROMANIA 💢 RO ✪ CINEMA 💢 RO ✪ DOKU 💢 RO ✪ SPORT  💢 RO ✪ KIDS/COPII 💢 RO ✪ MUSIC 💢 UK ✪ ENGLAND 💢 UK ✪ SPORT  💢 UK ✪ DOKU 💢 UK ✪ SKY SPORT 💢 UK ✪ TNT SPORT 💢 UK ✪ CINEMA 💢 UK ✪ MUSIC 💢 UK ✪ KIDS 💢 IT ✪ ITALIA HEVC 💢 IT ✪ ITALIA 💢 IT ✪ CINEMA 💢 IT ✪ 24/7 ACTOR 💢 IT ✪ CULTURA 💢 IT ✪ BAMBINI 💢 IT ✪ MUSICA 💢 IT ✪ SPORT  💢 IT ✪ DAZN 💢 ES ✪ SPAIN 💢 ES ✪ DEPORTES 💢 ES ✪ DOCUMENTALES 💢 ES ✪ CINEMA 💢 RU ✪ Россия | RUSSIA 💢 RU ✪ Спорт | SPORT  💢 RU ✪  Кино | CINEMA 💢 RU ✪ Познавательные | NATURE 💢 RU ✪ Новостные | NEWS 💢 RU ✪ Детские | KIDS 💢 RU ✪ Развлекательные | REST 💢 RU ✪ Музыкальные | MUSIC 💢 UA ✪ UKRAIN 💢 HU ✪ HUNGARY 💢 AZ ✪ AZERBAYCAN 💢 DK ✪ DENMARK 💢 SE ✪ SWEDEN 💢 NO ✪ NORWAY 💢 FI ✪ FINLAND 💢 SL ✪ SLOVENIA 💢 SL ✪ SLOVAKIA 💢 CZ ✪ CZECH 💢 CZ ✪ NEWS 💢 CZ ✪ DOKU 💢 CZ ✪ SPORT 💢 CZ ✪ MOVIE 💢 CZ ✪ CHILDREN 💢 CZ ✪ MUSIC 💢 CZ ✪ OTHER 💢 US ✪ ENTERTAINMENT 💢 US ✪ NEWS 💢 US ✪ DOCUMENTARY 💢 US ✪ SPORT  💢 US ✪ KIDS 💢 US ✪ MOVIES - CINEMA 💢 US ✪ MLS (EVENT) 💢 US ✪ NBA (EVENT) 💢 US ✪ NFL (EVENT) 💢 CA ✪ CANADA 💢 CA ✪ SPORT 💢 AU ✪ AUSTRALIA 💢 BR ✪ BRAZIL 💢 COL ✪ COLOMBIA 💢 PE ✪ PERU 💢 AR ✪ QURAN 💢 AR ✪ BEIN SPORT 💢 AR ✪ BEIN ENTERTAINMENT 💢 AR ✪ SPORTS 💢 AR ✪ STARZPLAY 💢 AR ✪ NEWS 💢 AR ✪ OSN 💢 AR ✪ NETFLIX 💢 AR ✪ SHAHID 💢 AR ✪ ISLAM 💢 AR ✪ KIDS 💢 AR ✪ MBC 💢 AR ✪ ROTANA 💢 AR ✪ AL MAJD 💢 AR ✪ MAROCCO 💢 AR ✪ ALGERIA 💢 AR ✪ SAUDI ARABIA 💢 AR ✪ LEBANON 💢 AR ✪ TUNISIE 💢 AR ✪ KUWAIT 💢 AR ✪ SUDAN 💢 AR ✪ EGYPT 💢 AR ✪ PALASTINE 💢 AR ✪ UAE 💢 AR ✪ BAHRAIN 💢 AR ✪ IRAQ 💢 AR ✪ JORDAN 💢 AR ✪ QATAR 💢 AR ✪ SYRIA 💢 KU ✪ KURDISH 💢 SU ✪ SURYOYO 💢 IR ✪ IRAN 💢 IN ✪ INDIA 💢 IN ✪ INDIA REGIONAL 💢 IN ✪ INDIA KANNADA TV 💢 IN ✪ MOVIES 💢 ARM ✪ ARMENIAN 💢 PK ✪ PAKISTAN 💢 AFG ✪ AFGHANISTAN 💢 AF ✪ AFRICA 💢  AF ✪ SOUTH AFRICA 💢 DSTV ✪ ENTERTAINMENT 💢 DSTV ✪ SPORT 💢 DSTV ✪ NEWS 💢 DSTV ✪ DOKUMENTARY 💢 DSTV ✪ MOVIES 💢 DSTV ✪ KIDS 💢 DSTV ✪ MUSIC 💢 TH ✪ THAILAND 💢 FOR ✪ ADULTS 💢 FOR ✪ ADULTS 2 💢 FOR ✪ ADULTS 3 💢 FOR ✪ ADULTS X4 💢 FOR ✪ PORNBOX ADULTS ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://lefanten.com:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://lefanten.com:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 02 Temmuz 2026 21:50
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 14 Ekim 2026 21:20
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ mRm9DJ24
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ WUXirzhh
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇫🇷 France
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Paris
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ API Message
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 5.196.40.73
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 17 Eylül 2026 - 03:54
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 13174 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 58082 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 12113 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/get.php?username=mRm9DJ24&password=WUXirzhh&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/xmltv.php?username=mRm9DJ24&password=WUXirzhh&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✪ ULUSAL 💢 TR ✪ HEVC 💢 TR ✪ RAW 💢 TR ✪ QHD 💢 TR ✪ HABER 💢 TR ✪ BELGESEL 💢 TR ✪ COCUK 💢 TR ✪ COCUK 7/24 💢 TR ✪ MUZIK 💢 TR ✪ MUZIK 7/24 💢 TR ✪ DINI / YEREL 💢 TR ✪ SPOR 💢 TR ✪ BEIN SPORTS+ 💢 TR ✪ BEIN SPORTS 💢 TR ✪ S-SPORT 💢 TR ✪ TABII / EXXEN SPOR 💢 TR ✪ DIZI SON BOLUMLER 💢 TR ✪ BEIN & D-SMART 💢 TR ✪ SINEMA MIX 💢 TR ✪ NETFLIX / BLUTV 7/24 💢 TR ✪ CINEMAXIMUM 7/24 💢 TR ✪ FILM 7/24 💢 TR ✪ YESILCAM 💢 TR ✪ YERLI FILM 7/24 💢 TR ✪ YERLI DIZI 7/24 💢 TR ✪ RADYO 💢 DE ✪ DEUTSCHLAND 💢 DE ✪ HEVC 💢 DE ✪ RAW 💢 DE ✪ UHD - QHD 💢 DE ✪ REGIONAL 💢 DE ✪ NEWS 💢 DE ✪ DOKU 💢 DE ✪ RTL+ SENDER 💢 DE ✪ SKY CINEMA 💢 DE ✪ SKY SELECT 💢 DE ✪ KINDER & 24/7 💢 DE ✪ TV ACTOR 24/7 💢 DE ✪ TV SERIEN 24/7  💢 DE ✪ TV CINEMA 24/7 💢 DE ✪ TOP SERIEN 24/7 💢 DE ✪ KINO LOUNGE 2026 💢 DE ✪ NETFLIX TOP10 💢 DE ✪ SKY BUNDESLIGA 💢 DE ✪ DAZN SENDER 💢 DE ✪ DAZN FUSSBALL LIGA 💢 DE ✪ DAZN EVENT 💢 DE ✪ UEFA CHAMPIONS LEAGUE 💢 DE ✪ SKY SPORT 💢 DE ✪ SKY SPORT F1 EVENT 💢 DE ✪ SPORT  💢 DE ✪ RTL+ EVENT 💢 DE ✪ MYTEAM MAGENTA 💢 DE ✪ LEAGUES TEAM 💢 DE ✪ LEAGUES EVENT 💢 DE ✪ DYN EVENT 💢 DE ✪ DYN SPORTARTEN 💢 DE ✪ DEL.2 EVENT 💢 DE ✪ DEL.2 TEAM 💢 DE ✪ SPORTEUROPE TV 💢 DE ✪ MUSIK 💢 DE ✪ RADIO 💢 VIP ✪ SPORTS EU/MIX  💢 VIP ✪ SPORTS BALKAN  💢 VIP ✪ F1.TV 💢 VIP ✪ PPV GLORY KICKBOXING 💢 VIP ✪ GOLF SPORTS 💢 AT ✪ AUSTRIA 💢 AT ✪ AUSTRIA SPORT 💢 CH ✪ SWISS 💢 CH ✪ BLUE SPORT DE 💢 CH ✪ MYSPORT EVENT 💢 NL ✪ UHD 💢 NL ✪ RAW 💢 NL ✪ GENERAL 💢 NL ✪ REGIO 💢 NL ✪ SPORT  💢 NL ✪ VIAPLAY 💢 NL ✪ DOCUMENTAIRE 💢 NL ✪ CINEMA 💢 NL ✪ KINDEREN 💢 NL ✪ MUZIEK 💢 NL ✪ RADIO 💢 PL ✪ POLSKA HEVC 💢 PL ✪ POLSKA 💢 PL ✪ SPORT 💢 PL ✪ MUSIC 💢 PL ✪ DOKU  💢 PL ✪ CINEMA  💢 PL ✪ KIDS  💢 ALB ✪ NATIONAL 💢 ALB ✪ DOKUMENTERA 💢 ALB ✪ PER FEMIJE 💢 ALB ✪ CINEMA 💢 ALB ✪ SPORT  💢 ALB ✪ MUSIC 💢 EXYU ✪ SERBIEN 💢 EXYU ✪ PINK 💢 EXYU ✪ DOCU 💢 EXYU ✪ KIDS 24/7 💢 EXYU ✪ 24/7 💢 EXYU ✪ CINEMA 💢 EXYU ✪ MUSIC 💢 CRO ✪ CROATIA 💢 BIH ✪ BOSNIA  💢 MK ✪ MACEDONIA 💢 GR ✪ Ελλάδα | GREECE 💢 GR ✪ Αθλητικά | SPORTS  💢 GR ✪ Κινηματογράφος | CINEMA 💢 GR ✪ Ντοκιμαντέρ | DOCUMENTARY 💢 GR ✪ Παιδικά | KIDS 💢 BE ✪ BELGIUM 💢 BE ✪ BELGIUM SPORT 💢 FR ✪ FRANCE 💢 FR ✪ SPORT 💢 FR ✪ LIGUE+1 💢 FR ✪ CANAL+ 💢 FR ✪ CINEMA 💢 FR ✪ DECOUVERTE 💢 FR ✪ ENFANTS 💢 FR ✪ MUSIC 💢 PT ✪ HEVC 💢 PT ✪ PORTUGAL 💢 PT ✪ SPORT 💢 PT ✪ CINEMA 💢 PT ✪ DOKU 💢 PT ✪ KIDS 💢 PT ✪ MUSIC 💢 BG ✪ BULGARIA 💢 BG ✪ SPORT 💢 BG ✪ DOKU 💢 BG ✪ CINEMA 💢 BG ✪ KIDS 💢 BG ✪ MUSIC 💢 RO ✪ ROMANIA 💢 RO ✪ CINEMA 💢 RO ✪ DOKU 💢 RO ✪ SPORT  💢 RO ✪ KIDS/COPII 💢 RO ✪ MUSIC 💢 UK ✪ ENGLAND 💢 UK ✪ SPORT  💢 UK ✪ DOKU 💢 UK ✪ SKY SPORT 💢 UK ✪ TNT SPORT 💢 UK ✪ CINEMA 💢 UK ✪ MUSIC 💢 UK ✪ KIDS 💢 IT ✪ ITALIA HEVC 💢 IT ✪ ITALIA 💢 IT ✪ CINEMA 💢 IT ✪ 24/7 ACTOR 💢 IT ✪ CULTURA 💢 IT ✪ BAMBINI 💢 IT ✪ MUSICA 💢 IT ✪ SPORT  💢 IT ✪ DAZN 💢 ES ✪ SPAIN 💢 ES ✪ DEPORTES 💢 ES ✪ DOCUMENTALES 💢 ES ✪ CINEMA 💢 RU ✪ Россия | RUSSIA 💢 RU ✪ Спорт | SPORT  💢 RU ✪  Кино | CINEMA 💢 RU ✪ Познавательные | NATURE 💢 RU ✪ Новостные | NEWS 💢 RU ✪ Детские | KIDS 💢 RU ✪ Развлекательные | REST 💢 RU ✪ Музыкальные | MUSIC 💢 UA ✪ UKRAIN 💢 HU ✪ HUNGARY 💢 AZ ✪ AZERBAYCAN 💢 DK ✪ DENMARK 💢 SE ✪ SWEDEN 💢 NO ✪ NORWAY 💢 FI ✪ FINLAND 💢 SL ✪ SLOVENIA 💢 SL ✪ SLOVAKIA 💢 CZ ✪ CZECH 💢 CZ ✪ NEWS 💢 CZ ✪ DOKU 💢 CZ ✪ SPORT 💢 CZ ✪ MOVIE 💢 CZ ✪ CHILDREN 💢 CZ ✪ MUSIC 💢 CZ ✪ OTHER 💢 US ✪ ENTERTAINMENT 💢 US ✪ NEWS 💢 US ✪ DOCUMENTARY 💢 US ✪ SPORT  💢 US ✪ KIDS 💢 US ✪ MOVIES - CINEMA 💢 US ✪ MLS (EVENT) 💢 US ✪ NBA (EVENT) 💢 US ✪ NFL (EVENT) 💢 CA ✪ CANADA 💢 CA ✪ SPORT 💢 AU ✪ AUSTRALIA 💢 BR ✪ BRAZIL 💢 COL ✪ COLOMBIA 💢 PE ✪ PERU 💢 AR ✪ QURAN 💢 AR ✪ BEIN SPORT 💢 AR ✪ BEIN ENTERTAINMENT 💢 AR ✪ SPORTS 💢 AR ✪ STARZPLAY 💢 AR ✪ NEWS 💢 AR ✪ OSN 💢 AR ✪ NETFLIX 💢 AR ✪ SHAHID 💢 AR ✪ ISLAM 💢 AR ✪ KIDS 💢 AR ✪ MBC 💢 AR ✪ ROTANA 💢 AR ✪ AL MAJD 💢 AR ✪ MAROCCO 💢 AR ✪ ALGERIA 💢 AR ✪ SAUDI ARABIA 💢 AR ✪ LEBANON 💢 AR ✪ TUNISIE 💢 AR ✪ KUWAIT 💢 AR ✪ SUDAN 💢 AR ✪ EGYPT 💢 AR ✪ PALASTINE 💢 AR ✪ UAE 💢 AR ✪ BAHRAIN 💢 AR ✪ IRAQ 💢 AR ✪ JORDAN 💢 AR ✪ QATAR 💢 AR ✪ SYRIA 💢 KU ✪ KURDISH 💢 SU ✪ SURYOYO 💢 IR ✪ IRAN 💢 IN ✪ INDIA 💢 IN ✪ INDIA REGIONAL 💢 IN ✪ INDIA KANNADA TV 💢 IN ✪ MOVIES 💢 ARM ✪ ARMENIAN 💢 PK ✪ PAKISTAN 💢 AFG ✪ AFGHANISTAN 💢 AF ✪ AFRICA 💢  AF ✪ SOUTH AFRICA 💢 DSTV ✪ ENTERTAINMENT 💢 DSTV ✪ SPORT 💢 DSTV ✪ NEWS 💢 DSTV ✪ DOKUMENTARY 💢 DSTV ✪ MOVIES 💢 DSTV ✪ KIDS 💢 DSTV ✪ MUSIC 💢 TH ✪ THAILAND ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://lefanten.com:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://lefanten.com:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 18 Eylül 2024 10:12
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 18 Ekim 2026 10:12
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ t7nmX128w2
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ EmzeeRPCw2
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇫🇷 France
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Paris
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ API Message
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 5.196.40.73
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 17 Eylül 2026 - 04:00
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 14182 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 82837 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 12113 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/get.php?username=t7nmX128w2&password=EmzeeRPCw2&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/xmltv.php?username=t7nmX128w2&password=EmzeeRPCw2&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✪ ULUSAL 💢 TR ✪ HEVC 💢 TR ✪ RAW 💢 TR ✪ QHD 💢 TR ✪ HABER 💢 TR ✪ BELGESEL 💢 TR ✪ COCUK 💢 TR ✪ COCUK 7/24 💢 TR ✪ MUZIK 💢 TR ✪ MUZIK 7/24 💢 TR ✪ DINI / YEREL 💢 TR ✪ SPOR 💢 TR ✪ BEIN SPORTS+ 💢 TR ✪ BEIN SPORTS 💢 TR ✪ S-SPORT 💢 TR ✪ TABII / EXXEN SPOR 💢 TR ✪ DIZI SON BOLUMLER 💢 TR ✪ BEIN & D-SMART 💢 TR ✪ SINEMA MIX 💢 TR ✪ NETFLIX / BLUTV 7/24 💢 TR ✪ CINEMAXIMUM 7/24 💢 TR ✪ FILM 7/24 💢 TR ✪ YESILCAM 💢 TR ✪ YERLI FILM 7/24 💢 TR ✪ YERLI DIZI 7/24 💢 TR ✪ RADYO 💢 DE ✪ DEUTSCHLAND 💢 DE ✪ HEVC 💢 DE ✪ RAW 💢 DE ✪ UHD - QHD 💢 DE ✪ REGIONAL 💢 DE ✪ NEWS 💢 DE ✪ DOKU 💢 DE ✪ RTL+ SENDER 💢 DE ✪ SKY CINEMA 💢 DE ✪ SKY SELECT 💢 DE ✪ KINDER & 24/7 💢 DE ✪ TV ACTOR 24/7 💢 DE ✪ TV SERIEN 24/7  💢 DE ✪ TV CINEMA 24/7 💢 DE ✪ TOP SERIEN 24/7 💢 DE ✪ KINO LOUNGE 2026 💢 DE ✪ NETFLIX TOP10 💢 DE ✪ SKY BUNDESLIGA 💢 DE ✪ DAZN SENDER 💢 DE ✪ DAZN FUSSBALL LIGA 💢 DE ✪ DAZN EVENT 💢 DE ✪ UEFA CHAMPIONS LEAGUE 💢 DE ✪ SKY SPORT 💢 DE ✪ SKY SPORT F1 EVENT 💢 DE ✪ SPORT  💢 DE ✪ RTL+ EVENT 💢 DE ✪ MYTEAM MAGENTA 💢 DE ✪ LEAGUES TEAM 💢 DE ✪ LEAGUES EVENT 💢 DE ✪ DYN EVENT 💢 DE ✪ DYN SPORTARTEN 💢 DE ✪ DEL.2 EVENT 💢 DE ✪ DEL.2 TEAM 💢 DE ✪ SPORTEUROPE TV 💢 DE ✪ MUSIK 💢 DE ✪ RADIO 💢 VIP ✪ SPORTS EU/MIX  💢 VIP ✪ SPORTS BALKAN  💢 VIP ✪ F1.TV 💢 VIP ✪ PPV GLORY KICKBOXING 💢 VIP ✪ GOLF SPORTS 💢 AT ✪ AUSTRIA 💢 AT ✪ AUSTRIA SPORT 💢 CH ✪ SWISS 💢 CH ✪ BLUE SPORT DE 💢 CH ✪ MYSPORT EVENT 💢 NL ✪ UHD 💢 NL ✪ RAW 💢 NL ✪ GENERAL 💢 NL ✪ REGIO 💢 NL ✪ SPORT  💢 NL ✪ VIAPLAY 💢 NL ✪ DOCUMENTAIRE 💢 NL ✪ CINEMA 💢 NL ✪ KINDEREN 💢 NL ✪ MUZIEK 💢 NL ✪ RADIO 💢 PL ✪ POLSKA HEVC 💢 PL ✪ POLSKA 💢 PL ✪ SPORT 💢 PL ✪ MUSIC 💢 PL ✪ DOKU  💢 PL ✪ CINEMA  💢 PL ✪ KIDS  💢 ALB ✪ NATIONAL 💢 ALB ✪ DOKUMENTERA 💢 ALB ✪ PER FEMIJE 💢 ALB ✪ CINEMA 💢 ALB ✪ SPORT  💢 ALB ✪ MUSIC 💢 EXYU ✪ SERBIEN 💢 EXYU ✪ PINK 💢 EXYU ✪ DOCU 💢 EXYU ✪ KIDS 24/7 💢 EXYU ✪ 24/7 💢 EXYU ✪ CINEMA 💢 EXYU ✪ MUSIC 💢 CRO ✪ CROATIA 💢 BIH ✪ BOSNIA  💢 MK ✪ MACEDONIA 💢 GR ✪ Ελλάδα | GREECE 💢 GR ✪ Αθλητικά | SPORTS  💢 GR ✪ Κινηματογράφος | CINEMA 💢 GR ✪ Ντοκιμαντέρ | DOCUMENTARY 💢 GR ✪ Παιδικά | KIDS 💢 BE ✪ BELGIUM 💢 BE ✪ BELGIUM SPORT 💢 FR ✪ FRANCE 💢 FR ✪ SPORT 💢 FR ✪ LIGUE+1 💢 FR ✪ CANAL+ 💢 FR ✪ CINEMA 💢 FR ✪ DECOUVERTE 💢 FR ✪ ENFANTS 💢 FR ✪ MUSIC 💢 PT ✪ HEVC 💢 PT ✪ PORTUGAL 💢 PT ✪ SPORT 💢 PT ✪ CINEMA 💢 PT ✪ DOKU 💢 PT ✪ KIDS 💢 PT ✪ MUSIC 💢 BG ✪ BULGARIA 💢 BG ✪ SPORT 💢 BG ✪ DOKU 💢 BG ✪ CINEMA 💢 BG ✪ KIDS 💢 BG ✪ MUSIC 💢 RO ✪ ROMANIA 💢 RO ✪ CINEMA 💢 RO ✪ DOKU 💢 RO ✪ SPORT  💢 RO ✪ KIDS/COPII 💢 RO ✪ MUSIC 💢 UK ✪ ENGLAND 💢 UK ✪ SPORT  💢 UK ✪ DOKU 💢 UK ✪ SKY SPORT 💢 UK ✪ TNT SPORT 💢 UK ✪ CINEMA 💢 UK ✪ MUSIC 💢 UK ✪ KIDS 💢 IT ✪ ITALIA HEVC 💢 IT ✪ ITALIA 💢 IT ✪ CINEMA 💢 IT ✪ 24/7 ACTOR 💢 IT ✪ CULTURA 💢 IT ✪ BAMBINI 💢 IT ✪ MUSICA 💢 IT ✪ SPORT  💢 IT ✪ DAZN 💢 ES ✪ SPAIN 💢 ES ✪ DEPORTES 💢 ES ✪ DOCUMENTALES 💢 ES ✪ CINEMA 💢 RU ✪ Россия | RUSSIA 💢 RU ✪ Спорт | SPORT  💢 RU ✪  Кино | CINEMA 💢 RU ✪ Познавательные | NATURE 💢 RU ✪ Новостные | NEWS 💢 RU ✪ Детские | KIDS 💢 RU ✪ Развлекательные | REST 💢 RU ✪ Музыкальные | MUSIC 💢 UA ✪ UKRAIN 💢 HU ✪ HUNGARY 💢 AZ ✪ AZERBAYCAN 💢 DK ✪ DENMARK 💢 SE ✪ SWEDEN 💢 NO ✪ NORWAY 💢 FI ✪ FINLAND 💢 SL ✪ SLOVENIA 💢 SL ✪ SLOVAKIA 💢 CZ ✪ CZECH 💢 CZ ✪ NEWS 💢 CZ ✪ DOKU 💢 CZ ✪ SPORT 💢 CZ ✪ MOVIE 💢 CZ ✪ CHILDREN 💢 CZ ✪ MUSIC 💢 CZ ✪ OTHER 💢 US ✪ ENTERTAINMENT 💢 US ✪ NEWS 💢 US ✪ DOCUMENTARY 💢 US ✪ SPORT  💢 US ✪ KIDS 💢 US ✪ MOVIES - CINEMA 💢 US ✪ MLS (EVENT) 💢 US ✪ NBA (EVENT) 💢 US ✪ NFL (EVENT) 💢 CA ✪ CANADA 💢 CA ✪ SPORT 💢 AU ✪ AUSTRALIA 💢 BR ✪ BRAZIL 💢 COL ✪ COLOMBIA 💢 PE ✪ PERU 💢 AR ✪ QURAN 💢 AR ✪ BEIN SPORT 💢 AR ✪ BEIN ENTERTAINMENT 💢 AR ✪ SPORTS 💢 AR ✪ STARZPLAY 💢 AR ✪ NEWS 💢 AR ✪ OSN 💢 AR ✪ NETFLIX 💢 AR ✪ SHAHID 💢 AR ✪ ISLAM 💢 AR ✪ KIDS 💢 AR ✪ MBC 💢 AR ✪ ROTANA 💢 AR ✪ AL MAJD 💢 AR ✪ MAROCCO 💢 AR ✪ ALGERIA 💢 AR ✪ SAUDI ARABIA 💢 AR ✪ LEBANON 💢 AR ✪ TUNISIE 💢 AR ✪ KUWAIT 💢 AR ✪ SUDAN 💢 AR ✪ EGYPT 💢 AR ✪ PALASTINE 💢 AR ✪ UAE 💢 AR ✪ BAHRAIN 💢 AR ✪ IRAQ 💢 AR ✪ JORDAN 💢 AR ✪ QATAR 💢 AR ✪ SYRIA 💢 KU ✪ KURDISH 💢 SU ✪ SURYOYO 💢 IR ✪ IRAN 💢 IN ✪ INDIA 💢 IN ✪ INDIA REGIONAL 💢 IN ✪ INDIA KANNADA TV 💢 IN ✪ MOVIES 💢 ARM ✪ ARMENIAN 💢 PK ✪ PAKISTAN 💢 AFG ✪ AFGHANISTAN 💢 AF ✪ AFRICA 💢  AF ✪ SOUTH AFRICA 💢 DSTV ✪ ENTERTAINMENT 💢 DSTV ✪ SPORT 💢 DSTV ✪ NEWS 💢 DSTV ✪ DOKUMENTARY 💢 DSTV ✪ MOVIES 💢 DSTV ✪ KIDS 💢 DSTV ✪ MUSIC 💢 TH ✪ THAILAND 💢 FOR ✪ ADULTS 💢 FOR ✪ ADULTS 2 💢 FOR ✪ ADULTS 3 💢 FOR ✪ ADULTS X4 💢 FOR ✪ PORNBOX ADULTS ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://lefanten.com:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://lefanten.com:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 02 Şubat 2026 16:31
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 28 Ocak 2027 03:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ poDopcbvmP
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ KfCi5LfrhS
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇫🇷 France
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Paris
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ API Message
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 5.196.40.73
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 17 Eylül 2026 - 04:01
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 3619 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 46155 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 6461 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/get.php?username=poDopcbvmP&password=KfCi5LfrhS&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/xmltv.php?username=poDopcbvmP&password=KfCi5LfrhS&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢DE ✪ DEUTSCHLAND 💢 DE ✪ HEVC 💢 DE ✪ RAW 💢 DE ✪ UHD - QHD 💢 DE ✪ REGIONAL 💢 DE ✪ NEWS 💢 DE ✪ DOKU 💢 DE ✪ RTL+ SENDER 💢 DE ✪ SKY CINEMA 💢 DE ✪ SKY SELECT 💢 DE ✪ KINDER & 24/7 💢 DE ✪ TV ACTOR 24/7 💢 DE ✪ TV SERIEN 24/7  💢 DE ✪ TV CINEMA 24/7 💢 DE ✪ TOP SERIEN 24/7 💢 DE ✪ KINO LOUNGE 2026 💢 DE ✪ NETFLIX TOP10 💢 DE ✪ SKY BUNDESLIGA 💢 DE ✪ DAZN SENDER 💢 DE ✪ DAZN FUSSBALL LIGA 💢 DE ✪ DAZN EVENT 💢 DE ✪ UEFA CHAMPIONS LEAGUE 💢 DE ✪ SKY SPORT 💢 DE ✪ SKY SPORT F1 EVENT 💢 DE ✪ SPORT  💢 DE ✪ RTL+ EVENT 💢 DE ✪ MYTEAM MAGENTA 💢 DE ✪ LEAGUES TEAM 💢 DE ✪ LEAGUES EVENT 💢 DE ✪ DYN EVENT 💢 DE ✪ DYN SPORTARTEN 💢 DE ✪ DEL.2 EVENT 💢 DE ✪ DEL.2 TEAM 💢 DE ✪ SPORTEUROPE TV 💢 DE ✪ MUSIK 💢 DE ✪ RADIO 💢 VIP ✪ SPORTS EU/MIX  💢 VIP ✪ SPORTS BALKAN  💢 VIP ✪ F1.TV 💢 VIP ✪ PPV GLORY KICKBOXING 💢 VIP ✪ GOLF SPORTS 💢 AT ✪ AUSTRIA 💢 AT ✪ AUSTRIA SPORT 💢 CH ✪ SWISS 💢 CH ✪ BLUE SPORT DE 💢 CH ✪ MYSPORT EVENT 💢 CRO ✪ CROATIA 💢 FOR ✪ ADULTS 💢 FOR ✪ ADULTS 2 💢 FOR ✪ ADULTS 3 💢 FOR ✪ ADULTS X4 💢 FOR ✪ PORNBOX ADULTS ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://lefanten.com:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://lefanten.com:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 25 Haziran 2026 21:39
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 13 Haziran 2027 21:36
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ lL4CfOQb
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ Ef80XJMH
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇫🇷 France
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Paris
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ API Message
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 5.196.40.73
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 17 Eylül 2026 - 04:29
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 14182 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 82837 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 12113 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/get.php?username=lL4CfOQb&password=Ef80XJMH&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/xmltv.php?username=lL4CfOQb&password=Ef80XJMH&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✪ ULUSAL 💢 TR ✪ HEVC 💢 TR ✪ RAW 💢 TR ✪ QHD 💢 TR ✪ HABER 💢 TR ✪ BELGESEL 💢 TR ✪ COCUK 💢 TR ✪ COCUK 7/24 💢 TR ✪ MUZIK 💢 TR ✪ MUZIK 7/24 💢 TR ✪ DINI / YEREL 💢 TR ✪ SPOR 💢 TR ✪ BEIN SPORTS+ 💢 TR ✪ BEIN SPORTS 💢 TR ✪ S-SPORT 💢 TR ✪ TABII / EXXEN SPOR 💢 TR ✪ DIZI SON BOLUMLER 💢 TR ✪ BEIN & D-SMART 💢 TR ✪ SINEMA MIX 💢 TR ✪ NETFLIX / BLUTV 7/24 💢 TR ✪ CINEMAXIMUM 7/24 💢 TR ✪ FILM 7/24 💢 TR ✪ YESILCAM 💢 TR ✪ YERLI FILM 7/24 💢 TR ✪ YERLI DIZI 7/24 💢 TR ✪ RADYO 💢 DE ✪ DEUTSCHLAND 💢 DE ✪ HEVC 💢 DE ✪ RAW 💢 DE ✪ UHD - QHD 💢 DE ✪ REGIONAL 💢 DE ✪ NEWS 💢 DE ✪ DOKU 💢 DE ✪ RTL+ SENDER 💢 DE ✪ SKY CINEMA 💢 DE ✪ SKY SELECT 💢 DE ✪ KINDER & 24/7 💢 DE ✪ TV ACTOR 24/7 💢 DE ✪ TV SERIEN 24/7  💢 DE ✪ TV CINEMA 24/7 💢 DE ✪ TOP SERIEN 24/7 💢 DE ✪ KINO LOUNGE 2026 💢 DE ✪ NETFLIX TOP10 💢 DE ✪ SKY BUNDESLIGA 💢 DE ✪ DAZN SENDER 💢 DE ✪ DAZN FUSSBALL LIGA 💢 DE ✪ DAZN EVENT 💢 DE ✪ UEFA CHAMPIONS LEAGUE 💢 DE ✪ SKY SPORT 💢 DE ✪ SKY SPORT F1 EVENT 💢 DE ✪ SPORT  💢 DE ✪ RTL+ EVENT 💢 DE ✪ MYTEAM MAGENTA 💢 DE ✪ LEAGUES TEAM 💢 DE ✪ LEAGUES EVENT 💢 DE ✪ DYN EVENT 💢 DE ✪ DYN SPORTARTEN 💢 DE ✪ DEL.2 EVENT 💢 DE ✪ DEL.2 TEAM 💢 DE ✪ SPORTEUROPE TV 💢 DE ✪ MUSIK 💢 DE ✪ RADIO 💢 VIP ✪ SPORTS EU/MIX  💢 VIP ✪ SPORTS BALKAN  💢 VIP ✪ F1.TV 💢 VIP ✪ PPV GLORY KICKBOXING 💢 VIP ✪ GOLF SPORTS 💢 AT ✪ AUSTRIA 💢 AT ✪ AUSTRIA SPORT 💢 CH ✪ SWISS 💢 CH ✪ BLUE SPORT DE 💢 CH ✪ MYSPORT EVENT 💢 NL ✪ UHD 💢 NL ✪ RAW 💢 NL ✪ GENERAL 💢 NL ✪ REGIO 💢 NL ✪ SPORT  💢 NL ✪ VIAPLAY 💢 NL ✪ DOCUMENTAIRE 💢 NL ✪ CINEMA 💢 NL ✪ KINDEREN 💢 NL ✪ MUZIEK 💢 NL ✪ RADIO 💢 PL ✪ POLSKA HEVC 💢 PL ✪ POLSKA 💢 PL ✪ SPORT 💢 PL ✪ MUSIC 💢 PL ✪ DOKU  💢 PL ✪ CINEMA  💢 PL ✪ KIDS  💢 ALB ✪ NATIONAL 💢 ALB ✪ DOKUMENTERA 💢 ALB ✪ PER FEMIJE 💢 ALB ✪ CINEMA 💢 ALB ✪ SPORT  💢 ALB ✪ MUSIC 💢 EXYU ✪ SERBIEN 💢 EXYU ✪ PINK 💢 EXYU ✪ DOCU 💢 EXYU ✪ KIDS 24/7 💢 EXYU ✪ 24/7 💢 EXYU ✪ CINEMA 💢 EXYU ✪ MUSIC 💢 CRO ✪ CROATIA 💢 BIH ✪ BOSNIA  💢 MK ✪ MACEDONIA 💢 GR ✪ Ελλάδα | GREECE 💢 GR ✪ Αθλητικά | SPORTS  💢 GR ✪ Κινηματογράφος | CINEMA 💢 GR ✪ Ντοκιμαντέρ | DOCUMENTARY 💢 GR ✪ Παιδικά | KIDS 💢 BE ✪ BELGIUM 💢 BE ✪ BELGIUM SPORT 💢 FR ✪ FRANCE 💢 FR ✪ SPORT 💢 FR ✪ LIGUE+1 💢 FR ✪ CANAL+ 💢 FR ✪ CINEMA 💢 FR ✪ DECOUVERTE 💢 FR ✪ ENFANTS 💢 FR ✪ MUSIC 💢 PT ✪ HEVC 💢 PT ✪ PORTUGAL 💢 PT ✪ SPORT 💢 PT ✪ CINEMA 💢 PT ✪ DOKU 💢 PT ✪ KIDS 💢 PT ✪ MUSIC 💢 BG ✪ BULGARIA 💢 BG ✪ SPORT 💢 BG ✪ DOKU 💢 BG ✪ CINEMA 💢 BG ✪ KIDS 💢 BG ✪ MUSIC 💢 RO ✪ ROMANIA 💢 RO ✪ CINEMA 💢 RO ✪ DOKU 💢 RO ✪ SPORT  💢 RO ✪ KIDS/COPII 💢 RO ✪ MUSIC 💢 UK ✪ ENGLAND 💢 UK ✪ SPORT  💢 UK ✪ DOKU 💢 UK ✪ SKY SPORT 💢 UK ✪ TNT SPORT 💢 UK ✪ CINEMA 💢 UK ✪ MUSIC 💢 UK ✪ KIDS 💢 IT ✪ ITALIA HEVC 💢 IT ✪ ITALIA 💢 IT ✪ CINEMA 💢 IT ✪ 24/7 ACTOR 💢 IT ✪ CULTURA 💢 IT ✪ BAMBINI 💢 IT ✪ MUSICA 💢 IT ✪ SPORT  💢 IT ✪ DAZN 💢 ES ✪ SPAIN 💢 ES ✪ DEPORTES 💢 ES ✪ DOCUMENTALES 💢 ES ✪ CINEMA 💢 RU ✪ Россия | RUSSIA 💢 RU ✪ Спорт | SPORT  💢 RU ✪  Кино | CINEMA 💢 RU ✪ Познавательные | NATURE 💢 RU ✪ Новостные | NEWS 💢 RU ✪ Детские | KIDS 💢 RU ✪ Развлекательные | REST 💢 RU ✪ Музыкальные | MUSIC 💢 UA ✪ UKRAIN 💢 HU ✪ HUNGARY 💢 AZ ✪ AZERBAYCAN 💢 DK ✪ DENMARK 💢 SE ✪ SWEDEN 💢 NO ✪ NORWAY 💢 FI ✪ FINLAND 💢 SL ✪ SLOVENIA 💢 SL ✪ SLOVAKIA 💢 CZ ✪ CZECH 💢 CZ ✪ NEWS 💢 CZ ✪ DOKU 💢 CZ ✪ SPORT 💢 CZ ✪ MOVIE 💢 CZ ✪ CHILDREN 💢 CZ ✪ MUSIC 💢 CZ ✪ OTHER 💢 US ✪ ENTERTAINMENT 💢 US ✪ NEWS 💢 US ✪ DOCUMENTARY 💢 US ✪ SPORT  💢 US ✪ KIDS 💢 US ✪ MOVIES - CINEMA 💢 US ✪ MLS (EVENT) 💢 US ✪ NBA (EVENT) 💢 US ✪ NFL (EVENT) 💢 CA ✪ CANADA 💢 CA ✪ SPORT 💢 AU ✪ AUSTRALIA 💢 BR ✪ BRAZIL 💢 COL ✪ COLOMBIA 💢 PE ✪ PERU 💢 AR ✪ QURAN 💢 AR ✪ BEIN SPORT 💢 AR ✪ BEIN ENTERTAINMENT 💢 AR ✪ SPORTS 💢 AR ✪ STARZPLAY 💢 AR ✪ NEWS 💢 AR ✪ OSN 💢 AR ✪ NETFLIX 💢 AR ✪ SHAHID 💢 AR ✪ ISLAM 💢 AR ✪ KIDS 💢 AR ✪ MBC 💢 AR ✪ ROTANA 💢 AR ✪ AL MAJD 💢 AR ✪ MAROCCO 💢 AR ✪ ALGERIA 💢 AR ✪ SAUDI ARABIA 💢 AR ✪ LEBANON 💢 AR ✪ TUNISIE 💢 AR ✪ KUWAIT 💢 AR ✪ SUDAN 💢 AR ✪ EGYPT 💢 AR ✪ PALASTINE 💢 AR ✪ UAE 💢 AR ✪ BAHRAIN 💢 AR ✪ IRAQ 💢 AR ✪ JORDAN 💢 AR ✪ QATAR 💢 AR ✪ SYRIA 💢 KU ✪ KURDISH 💢 SU ✪ SURYOYO 💢 IR ✪ IRAN 💢 IN ✪ INDIA 💢 IN ✪ INDIA REGIONAL 💢 IN ✪ INDIA KANNADA TV 💢 IN ✪ MOVIES 💢 ARM ✪ ARMENIAN 💢 PK ✪ PAKISTAN 💢 AFG ✪ AFGHANISTAN 💢 AF ✪ AFRICA 💢  AF ✪ SOUTH AFRICA 💢 DSTV ✪ ENTERTAINMENT 💢 DSTV ✪ SPORT 💢 DSTV ✪ NEWS 💢 DSTV ✪ DOKUMENTARY 💢 DSTV ✪ MOVIES 💢 DSTV ✪ KIDS 💢 DSTV ✪ MUSIC 💢 TH ✪ THAILAND 💢 FOR ✪ ADULTS 💢 FOR ✪ ADULTS 2 💢 FOR ✪ ADULTS 3 💢 FOR ✪ ADULTS X4 💢 FOR ✪ PORNBOX ADULTS ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://lefanten.com:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://lefanten.com:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 28 Şubat 2026 13:49
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 19 Kasım 2026 03:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ c19NcaIVd2
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 7nouBlu76y
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇫🇷 France
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Paris
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ API Message
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 5.196.40.73
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 17 Eylül 2026 - 05:51
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 12798 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 58082 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 11497 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/get.php?username=c19NcaIVd2&password=7nouBlu76y&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/xmltv.php?username=c19NcaIVd2&password=7nouBlu76y&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✪ ULUSAL 💢 TR ✪ HEVC 💢 TR ✪ RAW 💢 TR ✪ QHD 💢 TR ✪ HABER 💢 TR ✪ BELGESEL 💢 TR ✪ COCUK 💢 TR ✪ COCUK 7/24 💢 TR ✪ MUZIK 💢 TR ✪ MUZIK 7/24 💢 TR ✪ DINI / YEREL 💢 TR ✪ SPOR 💢 TR ✪ BEIN SPORTS+ 💢 TR ✪ BEIN SPORTS 💢 TR ✪ S-SPORT 💢 TR ✪ TABII / EXXEN SPOR 💢 TR ✪ DIZI SON BOLUMLER 💢 TR ✪ BEIN & D-SMART 💢 TR ✪ SINEMA MIX 💢 TR ✪ NETFLIX / BLUTV 7/24 💢 TR ✪ CINEMAXIMUM 7/24 💢 TR ✪ FILM 7/24 💢 TR ✪ YESILCAM 💢 TR ✪ YERLI FILM 7/24 💢 TR ✪ YERLI DIZI 7/24 💢 TR ✪ RADYO 💢 DE ✪ DEUTSCHLAND 💢 DE ✪ HEVC 💢 DE ✪ RAW 💢 DE ✪ UHD - QHD 💢 DE ✪ REGIONAL 💢 DE ✪ NEWS 💢 DE ✪ DOKU 💢 DE ✪ RTL+ SENDER 💢 DE ✪ SKY CINEMA 💢 DE ✪ SKY SELECT 💢 DE ✪ KINDER & 24/7 💢 DE ✪ TV ACTOR 24/7 💢 DE ✪ TV SERIEN 24/7  💢 DE ✪ TV CINEMA 24/7 💢 DE ✪ TOP SERIEN 24/7 💢 DE ✪ KINO LOUNGE 2026 💢 DE ✪ NETFLIX TOP10 💢 DE ✪ SKY BUNDESLIGA 💢 DE ✪ DAZN SENDER 💢 DE ✪ DAZN FUSSBALL LIGA 💢 DE ✪ DAZN EVENT 💢 DE ✪ UEFA CHAMPIONS LEAGUE 💢 DE ✪ SKY SPORT 💢 DE ✪ SKY SPORT F1 EVENT 💢 DE ✪ SPORT  💢 DE ✪ RTL+ EVENT 💢 DE ✪ MYTEAM MAGENTA 💢 DE ✪ LEAGUES TEAM 💢 DE ✪ LEAGUES EVENT 💢 DE ✪ DYN EVENT 💢 DE ✪ DYN SPORTARTEN 💢 DE ✪ DEL.2 EVENT 💢 DE ✪ DEL.2 TEAM 💢 DE ✪ SPORTEUROPE TV 💢 DE ✪ MUSIK 💢 DE ✪ RADIO 💢 VIP ✪ SPORTS EU/MIX  💢 VIP ✪ SPORTS BALKAN  💢 VIP ✪ F1.TV 💢 VIP ✪ PPV GLORY KICKBOXING 💢 VIP ✪ GOLF SPORTS 💢 AT ✪ AUSTRIA 💢 AT ✪ AUSTRIA SPORT 💢 CH ✪ SWISS 💢 CH ✪ BLUE SPORT DE 💢 CH ✪ MYSPORT EVENT 💢 NL ✪ UHD 💢 NL ✪ RAW 💢 NL ✪ GENERAL 💢 NL ✪ REGIO 💢 NL ✪ SPORT  💢 NL ✪ VIAPLAY 💢 NL ✪ DOCUMENTAIRE 💢 NL ✪ CINEMA 💢 NL ✪ KINDEREN 💢 NL ✪ MUZIEK 💢 NL ✪ RADIO 💢 PL ✪ POLSKA HEVC 💢 PL ✪ POLSKA 💢 PL ✪ SPORT 💢 PL ✪ MUSIC 💢 PL ✪ DOKU  💢 PL ✪ CINEMA  💢 PL ✪ KIDS  💢 ALB ✪ NATIONAL 💢 ALB ✪ DOKUMENTERA 💢 ALB ✪ PER FEMIJE 💢 ALB ✪ CINEMA 💢 ALB ✪ SPORT  💢 ALB ✪ MUSIC 💢 EXYU ✪ SERBIEN 💢 EXYU ✪ PINK 💢 EXYU ✪ DOCU 💢 EXYU ✪ KIDS 24/7 💢 EXYU ✪ 24/7 💢 EXYU ✪ CINEMA 💢 EXYU ✪ MUSIC 💢 CRO ✪ CROATIA 💢 BIH ✪ BOSNIA  💢 MK ✪ MACEDONIA 💢 GR ✪ Ελλάδα | GREECE 💢 GR ✪ Αθλητικά | SPORTS  💢 GR ✪ Κινηματογράφος | CINEMA 💢 GR ✪ Ντοκιμαντέρ | DOCUMENTARY 💢 GR ✪ Παιδικά | KIDS 💢 BE ✪ BELGIUM 💢 BE ✪ BELGIUM SPORT 💢 FR ✪ FRANCE 💢 FR ✪ SPORT 💢 FR ✪ LIGUE+1 💢 FR ✪ CANAL+ 💢 FR ✪ CINEMA 💢 FR ✪ DECOUVERTE 💢 FR ✪ ENFANTS 💢 FR ✪ MUSIC 💢 BG ✪ BULGARIA 💢 BG ✪ SPORT 💢 BG ✪ DOKU 💢 BG ✪ CINEMA 💢 BG ✪ KIDS 💢 BG ✪ MUSIC 💢 RO ✪ ROMANIA 💢 RO ✪ CINEMA 💢 RO ✪ DOKU 💢 RO ✪ SPORT  💢 RO ✪ KIDS/COPII 💢 RO ✪ MUSIC 💢 UK ✪ ENGLAND 💢 UK ✪ SPORT  💢 UK ✪ DOKU 💢 UK ✪ SKY SPORT 💢 UK ✪ TNT SPORT 💢 UK ✪ CINEMA 💢 UK ✪ MUSIC 💢 UK ✪ KIDS 💢 IT ✪ ITALIA HEVC 💢 IT ✪ ITALIA 💢 IT ✪ CINEMA 💢 IT ✪ 24/7 ACTOR 💢 IT ✪ CULTURA 💢 IT ✪ BAMBINI 💢 IT ✪ MUSICA 💢 IT ✪ SPORT  💢 IT ✪ DAZN 💢 RU ✪ Россия | RUSSIA 💢 RU ✪ Спорт | SPORT  💢 RU ✪  Кино | CINEMA 💢 RU ✪ Познавательные | NATURE 💢 RU ✪ Новостные | NEWS 💢 RU ✪ Детские | KIDS 💢 RU ✪ Развлекательные | REST 💢 RU ✪ Музыкальные | MUSIC 💢 UA ✪ UKRAIN 💢 HU ✪ HUNGARY 💢 AZ ✪ AZERBAYCAN 💢 DK ✪ DENMARK 💢 SE ✪ SWEDEN 💢 NO ✪ NORWAY 💢 FI ✪ FINLAND 💢 SL ✪ SLOVENIA 💢 SL ✪ SLOVAKIA 💢 CZ ✪ CZECH 💢 CZ ✪ NEWS 💢 CZ ✪ DOKU 💢 CZ ✪ SPORT 💢 CZ ✪ MOVIE 💢 CZ ✪ CHILDREN 💢 CZ ✪ MUSIC 💢 CZ ✪ OTHER 💢 US ✪ ENTERTAINMENT 💢 US ✪ NEWS 💢 US ✪ DOCUMENTARY 💢 US ✪ SPORT  💢 US ✪ KIDS 💢 US ✪ MOVIES - CINEMA 💢 US ✪ MLS (EVENT) 💢 US ✪ NBA (EVENT) 💢 US ✪ NFL (EVENT) 💢 CA ✪ CANADA 💢 CA ✪ SPORT 💢 AU ✪ AUSTRALIA 💢 BR ✪ BRAZIL 💢 COL ✪ COLOMBIA 💢 PE ✪ PERU 💢 AR ✪ QURAN 💢 AR ✪ BEIN SPORT 💢 AR ✪ BEIN ENTERTAINMENT 💢 AR ✪ SPORTS 💢 AR ✪ STARZPLAY 💢 AR ✪ NEWS 💢 AR ✪ OSN 💢 AR ✪ NETFLIX 💢 AR ✪ SHAHID 💢 AR ✪ ISLAM 💢 AR ✪ KIDS 💢 AR ✪ MBC 💢 AR ✪ ROTANA 💢 AR ✪ AL MAJD 💢 AR ✪ MAROCCO 💢 AR ✪ ALGERIA 💢 AR ✪ SAUDI ARABIA 💢 AR ✪ LEBANON 💢 AR ✪ TUNISIE 💢 AR ✪ KUWAIT 💢 AR ✪ SUDAN 💢 AR ✪ EGYPT 💢 AR ✪ PALASTINE 💢 AR ✪ UAE 💢 AR ✪ BAHRAIN 💢 AR ✪ IRAQ 💢 AR ✪ JORDAN 💢 AR ✪ QATAR 💢 AR ✪ SYRIA 💢 KU ✪ KURDISH 💢 SU ✪ SURYOYO 💢 IR ✪ IRAN 💢 IN ✪ INDIA 💢 IN ✪ INDIA REGIONAL 💢 IN ✪ INDIA KANNADA TV 💢 IN ✪ MOVIES 💢 ARM ✪ ARMENIAN 💢 PK ✪ PAKISTAN 💢 AFG ✪ AFGHANISTAN 💢 AF ✪ AFRICA 💢  AF ✪ SOUTH AFRICA 💢 DSTV ✪ ENTERTAINMENT 💢 DSTV ✪ SPORT 💢 DSTV ✪ NEWS 💢 DSTV ✪ DOKUMENTARY 💢 DSTV ✪ MOVIES 💢 DSTV ✪ KIDS 💢 DSTV ✪ MUSIC 💢 TH ✪ THAILAND ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://lefanten.com:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://lefanten.com:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 01 Şubat 2026 17:34
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 12 Aralık 2026 21:30
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 1yxMimu6si
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 16KOzfChuT
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇫🇷 France
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Paris
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ API Message
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 5.196.40.73
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 17 Eylül 2026 - 05:55
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 12798 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 58082 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 11497 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/get.php?username=1yxMimu6si&password=16KOzfChuT&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/xmltv.php?username=1yxMimu6si&password=16KOzfChuT&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✪ ULUSAL 💢 TR ✪ HEVC 💢 TR ✪ RAW 💢 TR ✪ QHD 💢 TR ✪ HABER 💢 TR ✪ BELGESEL 💢 TR ✪ COCUK 💢 TR ✪ COCUK 7/24 💢 TR ✪ MUZIK 💢 TR ✪ MUZIK 7/24 💢 TR ✪ DINI / YEREL 💢 TR ✪ SPOR 💢 TR ✪ BEIN SPORTS+ 💢 TR ✪ BEIN SPORTS 💢 TR ✪ S-SPORT 💢 TR ✪ TABII / EXXEN SPOR 💢 TR ✪ DIZI SON BOLUMLER 💢 TR ✪ BEIN & D-SMART 💢 TR ✪ SINEMA MIX 💢 TR ✪ NETFLIX / BLUTV 7/24 💢 TR ✪ CINEMAXIMUM 7/24 💢 TR ✪ FILM 7/24 💢 TR ✪ YESILCAM 💢 TR ✪ YERLI FILM 7/24 💢 TR ✪ YERLI DIZI 7/24 💢 TR ✪ RADYO 💢 DE ✪ DEUTSCHLAND 💢 DE ✪ HEVC 💢 DE ✪ RAW 💢 DE ✪ UHD - QHD 💢 DE ✪ REGIONAL 💢 DE ✪ NEWS 💢 DE ✪ DOKU 💢 DE ✪ RTL+ SENDER 💢 DE ✪ SKY CINEMA 💢 DE ✪ SKY SELECT 💢 DE ✪ KINDER & 24/7 💢 DE ✪ TV ACTOR 24/7 💢 DE ✪ TV SERIEN 24/7  💢 DE ✪ TV CINEMA 24/7 💢 DE ✪ TOP SERIEN 24/7 💢 DE ✪ KINO LOUNGE 2026 💢 DE ✪ NETFLIX TOP10 💢 DE ✪ SKY BUNDESLIGA 💢 DE ✪ DAZN SENDER 💢 DE ✪ DAZN FUSSBALL LIGA 💢 DE ✪ DAZN EVENT 💢 DE ✪ UEFA CHAMPIONS LEAGUE 💢 DE ✪ SKY SPORT 💢 DE ✪ SKY SPORT F1 EVENT 💢 DE ✪ SPORT  💢 DE ✪ RTL+ EVENT 💢 DE ✪ MYTEAM MAGENTA 💢 DE ✪ LEAGUES TEAM 💢 DE ✪ LEAGUES EVENT 💢 DE ✪ DYN EVENT 💢 DE ✪ DYN SPORTARTEN 💢 DE ✪ DEL.2 EVENT 💢 DE ✪ DEL.2 TEAM 💢 DE ✪ SPORTEUROPE TV 💢 DE ✪ MUSIK 💢 DE ✪ RADIO 💢 VIP ✪ SPORTS EU/MIX  💢 VIP ✪ SPORTS BALKAN  💢 VIP ✪ F1.TV 💢 VIP ✪ PPV GLORY KICKBOXING 💢 VIP ✪ GOLF SPORTS 💢 AT ✪ AUSTRIA 💢 AT ✪ AUSTRIA SPORT 💢 CH ✪ SWISS 💢 CH ✪ BLUE SPORT DE 💢 CH ✪ MYSPORT EVENT 💢 NL ✪ UHD 💢 NL ✪ RAW 💢 NL ✪ GENERAL 💢 NL ✪ REGIO 💢 NL ✪ SPORT  💢 NL ✪ VIAPLAY 💢 NL ✪ DOCUMENTAIRE 💢 NL ✪ CINEMA 💢 NL ✪ KINDEREN 💢 NL ✪ MUZIEK 💢 NL ✪ RADIO 💢 PL ✪ POLSKA HEVC 💢 PL ✪ POLSKA 💢 PL ✪ SPORT 💢 PL ✪ MUSIC 💢 PL ✪ DOKU  💢 PL ✪ CINEMA  💢 PL ✪ KIDS  💢 ALB ✪ NATIONAL 💢 ALB ✪ DOKUMENTERA 💢 ALB ✪ PER FEMIJE 💢 ALB ✪ CINEMA 💢 ALB ✪ SPORT  💢 ALB ✪ MUSIC 💢 EXYU ✪ SERBIEN 💢 EXYU ✪ PINK 💢 EXYU ✪ DOCU 💢 EXYU ✪ KIDS 24/7 💢 EXYU ✪ 24/7 💢 EXYU ✪ CINEMA 💢 EXYU ✪ MUSIC 💢 CRO ✪ CROATIA 💢 BIH ✪ BOSNIA  💢 MK ✪ MACEDONIA 💢 GR ✪ Ελλάδα | GREECE 💢 GR ✪ Αθλητικά | SPORTS  💢 GR ✪ Κινηματογράφος | CINEMA 💢 GR ✪ Ντοκιμαντέρ | DOCUMENTARY 💢 GR ✪ Παιδικά | KIDS 💢 BE ✪ BELGIUM 💢 BE ✪ BELGIUM SPORT 💢 FR ✪ FRANCE 💢 FR ✪ SPORT 💢 FR ✪ LIGUE+1 💢 FR ✪ CANAL+ 💢 FR ✪ CINEMA 💢 FR ✪ DECOUVERTE 💢 FR ✪ ENFANTS 💢 FR ✪ MUSIC 💢 BG ✪ BULGARIA 💢 BG ✪ SPORT 💢 BG ✪ DOKU 💢 BG ✪ CINEMA 💢 BG ✪ KIDS 💢 BG ✪ MUSIC 💢 RO ✪ ROMANIA 💢 RO ✪ CINEMA 💢 RO ✪ DOKU 💢 RO ✪ SPORT  💢 RO ✪ KIDS/COPII 💢 RO ✪ MUSIC 💢 UK ✪ ENGLAND 💢 UK ✪ SPORT  💢 UK ✪ DOKU 💢 UK ✪ SKY SPORT 💢 UK ✪ TNT SPORT 💢 UK ✪ CINEMA 💢 UK ✪ MUSIC 💢 UK ✪ KIDS 💢 IT ✪ ITALIA HEVC 💢 IT ✪ ITALIA 💢 IT ✪ CINEMA 💢 IT ✪ 24/7 ACTOR 💢 IT ✪ CULTURA 💢 IT ✪ BAMBINI 💢 IT ✪ MUSICA 💢 IT ✪ SPORT  💢 IT ✪ DAZN 💢 RU ✪ Россия | RUSSIA 💢 RU ✪ Спорт | SPORT  💢 RU ✪  Кино | CINEMA 💢 RU ✪ Познавательные | NATURE 💢 RU ✪ Новостные | NEWS 💢 RU ✪ Детские | KIDS 💢 RU ✪ Развлекательные | REST 💢 RU ✪ Музыкальные | MUSIC 💢 UA ✪ UKRAIN 💢 HU ✪ HUNGARY 💢 AZ ✪ AZERBAYCAN 💢 DK ✪ DENMARK 💢 SE ✪ SWEDEN 💢 NO ✪ NORWAY 💢 FI ✪ FINLAND 💢 SL ✪ SLOVENIA 💢 SL ✪ SLOVAKIA 💢 CZ ✪ CZECH 💢 CZ ✪ NEWS 💢 CZ ✪ DOKU 💢 CZ ✪ SPORT 💢 CZ ✪ MOVIE 💢 CZ ✪ CHILDREN 💢 CZ ✪ MUSIC 💢 CZ ✪ OTHER 💢 US ✪ ENTERTAINMENT 💢 US ✪ NEWS 💢 US ✪ DOCUMENTARY 💢 US ✪ SPORT  💢 US ✪ KIDS 💢 US ✪ MOVIES - CINEMA 💢 US ✪ MLS (EVENT) 💢 US ✪ NBA (EVENT) 💢 US ✪ NFL (EVENT) 💢 CA ✪ CANADA 💢 CA ✪ SPORT 💢 AU ✪ AUSTRALIA 💢 BR ✪ BRAZIL 💢 COL ✪ COLOMBIA 💢 PE ✪ PERU 💢 AR ✪ QURAN 💢 AR ✪ BEIN SPORT 💢 AR ✪ BEIN ENTERTAINMENT 💢 AR ✪ SPORTS 💢 AR ✪ STARZPLAY 💢 AR ✪ NEWS 💢 AR ✪ OSN 💢 AR ✪ NETFLIX 💢 AR ✪ SHAHID 💢 AR ✪ ISLAM 💢 AR ✪ KIDS 💢 AR ✪ MBC 💢 AR ✪ ROTANA 💢 AR ✪ AL MAJD 💢 AR ✪ MAROCCO 💢 AR ✪ ALGERIA 💢 AR ✪ SAUDI ARABIA 💢 AR ✪ LEBANON 💢 AR ✪ TUNISIE 💢 AR ✪ KUWAIT 💢 AR ✪ SUDAN 💢 AR ✪ EGYPT 💢 AR ✪ PALASTINE 💢 AR ✪ UAE 💢 AR ✪ BAHRAIN 💢 AR ✪ IRAQ 💢 AR ✪ JORDAN 💢 AR ✪ QATAR 💢 AR ✪ SYRIA 💢 KU ✪ KURDISH 💢 SU ✪ SURYOYO 💢 IR ✪ IRAN 💢 IN ✪ INDIA 💢 IN ✪ INDIA REGIONAL 💢 IN ✪ INDIA KANNADA TV 💢 IN ✪ MOVIES 💢 ARM ✪ ARMENIAN 💢 PK ✪ PAKISTAN 💢 AFG ✪ AFGHANISTAN 💢 AF ✪ AFRICA 💢  AF ✪ SOUTH AFRICA 💢 DSTV ✪ ENTERTAINMENT 💢 DSTV ✪ SPORT 💢 DSTV ✪ NEWS 💢 DSTV ✪ DOKUMENTARY 💢 DSTV ✪ MOVIES 💢 DSTV ✪ KIDS 💢 DSTV ✪ MUSIC 💢 TH ✪ THAILAND ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://lefanten.com:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://lefanten.com:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 14 Şubat 2026 14:59
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 06 Aralık 2026 14:58
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 1vOH9I4J
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 8OfNBMxP
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇫🇷 France
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Paris
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ API Message
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 5.196.40.73
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 17 Eylül 2026 - 06:06
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 12429 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 66737 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 7586 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/get.php?username=1vOH9I4J&password=8OfNBMxP&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/xmltv.php?username=1vOH9I4J&password=8OfNBMxP&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢DE ✪ DEUTSCHLAND 💢 DE ✪ HEVC 💢 DE ✪ RAW 💢 DE ✪ UHD - QHD 💢 DE ✪ REGIONAL 💢 DE ✪ NEWS 💢 DE ✪ DOKU 💢 DE ✪ RTL+ SENDER 💢 DE ✪ SKY CINEMA 💢 DE ✪ SKY SELECT 💢 DE ✪ KINDER & 24/7 💢 DE ✪ TV ACTOR 24/7 💢 DE ✪ TV SERIEN 24/7  💢 DE ✪ TV CINEMA 24/7 💢 DE ✪ TOP SERIEN 24/7 💢 DE ✪ KINO LOUNGE 2026 💢 DE ✪ NETFLIX TOP10 💢 DE ✪ SKY BUNDESLIGA 💢 DE ✪ DAZN SENDER 💢 DE ✪ DAZN FUSSBALL LIGA 💢 DE ✪ DAZN EVENT 💢 DE ✪ UEFA CHAMPIONS LEAGUE 💢 DE ✪ SKY SPORT 💢 DE ✪ SKY SPORT F1 EVENT 💢 DE ✪ SPORT  💢 DE ✪ RTL+ EVENT 💢 DE ✪ MYTEAM MAGENTA 💢 DE ✪ LEAGUES TEAM 💢 DE ✪ LEAGUES EVENT 💢 DE ✪ DYN EVENT 💢 DE ✪ DYN SPORTARTEN 💢 DE ✪ DEL.2 EVENT 💢 DE ✪ DEL.2 TEAM 💢 DE ✪ SPORTEUROPE TV 💢 DE ✪ MUSIK 💢 DE ✪ RADIO 💢 VIP ✪ SPORTS EU/MIX  💢 VIP ✪ SPORTS BALKAN  💢 VIP ✪ F1.TV 💢 VIP ✪ PPV GLORY KICKBOXING 💢 VIP ✪ GOLF SPORTS 💢 AT ✪ AUSTRIA 💢 AT ✪ AUSTRIA SPORT 💢 CH ✪ SWISS 💢 CH ✪ BLUE SPORT DE 💢 CH ✪ MYSPORT EVENT 💢 NL ✪ UHD 💢 NL ✪ RAW 💢 NL ✪ GENERAL 💢 NL ✪ REGIO 💢 NL ✪ SPORT  💢 NL ✪ VIAPLAY 💢 NL ✪ DOCUMENTAIRE 💢 NL ✪ CINEMA 💢 NL ✪ KINDEREN 💢 NL ✪ MUZIEK 💢 NL ✪ RADIO 💢 PL ✪ POLSKA HEVC 💢 PL ✪ POLSKA 💢 PL ✪ SPORT 💢 PL ✪ MUSIC 💢 PL ✪ DOKU  💢 PL ✪ CINEMA  💢 PL ✪ KIDS  💢 ALB ✪ NATIONAL 💢 ALB ✪ DOKUMENTERA 💢 ALB ✪ PER FEMIJE 💢 ALB ✪ CINEMA 💢 ALB ✪ SPORT  💢 ALB ✪ MUSIC 💢 EXYU ✪ SERBIEN 💢 EXYU ✪ PINK 💢 EXYU ✪ DOCU 💢 EXYU ✪ KIDS 24/7 💢 EXYU ✪ 24/7 💢 EXYU ✪ CINEMA 💢 EXYU ✪ MUSIC 💢 CRO ✪ CROATIA 💢 BIH ✪ BOSNIA  💢 MK ✪ MACEDONIA 💢 GR ✪ Ελλάδα | GREECE 💢 GR ✪ Αθλητικά | SPORTS  💢 GR ✪ Κινηματογράφος | CINEMA 💢 GR ✪ Ντοκιμαντέρ | DOCUMENTARY 💢 GR ✪ Παιδικά | KIDS 💢 BE ✪ BELGIUM 💢 BE ✪ BELGIUM SPORT 💢 FR ✪ FRANCE 💢 FR ✪ SPORT 💢 FR ✪ LIGUE+1 💢 FR ✪ CANAL+ 💢 FR ✪ CINEMA 💢 FR ✪ DECOUVERTE 💢 FR ✪ ENFANTS 💢 FR ✪ MUSIC 💢 PT ✪ HEVC 💢 PT ✪ PORTUGAL 💢 PT ✪ SPORT 💢 PT ✪ CINEMA 💢 PT ✪ DOKU 💢 PT ✪ KIDS 💢 PT ✪ MUSIC 💢 BG ✪ BULGARIA 💢 BG ✪ SPORT 💢 BG ✪ DOKU 💢 BG ✪ CINEMA 💢 BG ✪ KIDS 💢 BG ✪ MUSIC 💢 RO ✪ ROMANIA 💢 RO ✪ CINEMA 💢 RO ✪ DOKU 💢 RO ✪ SPORT  💢 RO ✪ KIDS/COPII 💢 RO ✪ MUSIC 💢 UK ✪ ENGLAND 💢 UK ✪ SPORT  💢 UK ✪ DOKU 💢 UK ✪ SKY SPORT 💢 UK ✪ TNT SPORT 💢 UK ✪ CINEMA 💢 UK ✪ MUSIC 💢 UK ✪ KIDS 💢 IT ✪ ITALIA HEVC 💢 IT ✪ ITALIA 💢 IT ✪ CINEMA 💢 IT ✪ 24/7 ACTOR 💢 IT ✪ CULTURA 💢 IT ✪ BAMBINI 💢 IT ✪ MUSICA 💢 IT ✪ SPORT  💢 IT ✪ DAZN 💢 ES ✪ SPAIN 💢 ES ✪ DEPORTES 💢 ES ✪ DOCUMENTALES 💢 ES ✪ CINEMA 💢 RU ✪ Россия | RUSSIA 💢 RU ✪ Спорт | SPORT  💢 RU ✪  Кино | CINEMA 💢 RU ✪ Познавательные | NATURE 💢 RU ✪ Новостные | NEWS 💢 RU ✪ Детские | KIDS 💢 RU ✪ Развлекательные | REST 💢 RU ✪ Музыкальные | MUSIC 💢 UA ✪ UKRAIN 💢 HU ✪ HUNGARY 💢 AZ ✪ AZERBAYCAN 💢 DK ✪ DENMARK 💢 SE ✪ SWEDEN 💢 NO ✪ NORWAY 💢 FI ✪ FINLAND 💢 SL ✪ SLOVENIA 💢 SL ✪ SLOVAKIA 💢 CZ ✪ CZECH 💢 CZ ✪ NEWS 💢 CZ ✪ DOKU 💢 CZ ✪ SPORT 💢 CZ ✪ MOVIE 💢 CZ ✪ CHILDREN 💢 CZ ✪ MUSIC 💢 CZ ✪ OTHER 💢 US ✪ ENTERTAINMENT 💢 US ✪ NEWS 💢 US ✪ DOCUMENTARY 💢 US ✪ SPORT  💢 US ✪ KIDS 💢 US ✪ MOVIES - CINEMA 💢 US ✪ MLS (EVENT) 💢 US ✪ NBA (EVENT) 💢 US ✪ NFL (EVENT) 💢 CA ✪ CANADA 💢 CA ✪ SPORT 💢 AU ✪ AUSTRALIA 💢 BR ✪ BRAZIL 💢 COL ✪ COLOMBIA 💢 PE ✪ PERU 💢 AR ✪ QURAN 💢 AR ✪ BEIN SPORT 💢 AR ✪ BEIN ENTERTAINMENT 💢 AR ✪ SPORTS 💢 AR ✪ STARZPLAY 💢 AR ✪ NEWS 💢 AR ✪ OSN 💢 AR ✪ NETFLIX 💢 AR ✪ SHAHID 💢 AR ✪ ISLAM 💢 AR ✪ KIDS 💢 AR ✪ MBC 💢 AR ✪ ROTANA 💢 AR ✪ AL MAJD 💢 AR ✪ MAROCCO 💢 AR ✪ ALGERIA 💢 AR ✪ SAUDI ARABIA 💢 AR ✪ LEBANON 💢 AR ✪ TUNISIE 💢 AR ✪ KUWAIT 💢 AR ✪ SUDAN 💢 AR ✪ EGYPT 💢 AR ✪ PALASTINE 💢 AR ✪ UAE 💢 AR ✪ BAHRAIN 💢 AR ✪ IRAQ 💢 AR ✪ JORDAN 💢 AR ✪ QATAR 💢 AR ✪ SYRIA 💢 KU ✪ KURDISH 💢 SU ✪ SURYOYO 💢 IR ✪ IRAN 💢 IN ✪ INDIA 💢 IN ✪ INDIA REGIONAL 💢 IN ✪ INDIA KANNADA TV 💢 IN ✪ MOVIES 💢 ARM ✪ ARMENIAN 💢 PK ✪ PAKISTAN 💢 AFG ✪ AFGHANISTAN 💢 AF ✪ AFRICA 💢  AF ✪ SOUTH AFRICA 💢 DSTV ✪ ENTERTAINMENT 💢 DSTV ✪ SPORT 💢 DSTV ✪ NEWS 💢 DSTV ✪ DOKUMENTARY 💢 DSTV ✪ MOVIES 💢 DSTV ✪ KIDS 💢 DSTV ✪ MUSIC 💢 TH ✪ THAILAND 💢 FOR ✪ ADULTS 💢 FOR ✪ ADULTS 2 💢 FOR ✪ ADULTS 3 💢 FOR ✪ ADULTS X4 💢 FOR ✪ PORNBOX ADULTS ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://lefanten.com:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://lefanten.com:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 10 Nisan 2026 15:28
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 10 Nisan 2027 15:28
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 95F4kwcH
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ pLrMYpFj
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇫🇷 France
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Paris
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ API Message
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 5.196.40.73
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 17 Eylül 2026 - 08:19
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 12443 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 58082 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 12113 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/get.php?username=95F4kwcH&password=pLrMYpFj&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/xmltv.php?username=95F4kwcH&password=pLrMYpFj&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✪ ULUSAL 💢 TR ✪ HEVC 💢 TR ✪ RAW 💢 TR ✪ QHD 💢 TR ✪ HABER 💢 TR ✪ BELGESEL 💢 TR ✪ COCUK 💢 TR ✪ COCUK 7/24 💢 TR ✪ MUZIK 💢 TR ✪ MUZIK 7/24 💢 TR ✪ DINI / YEREL 💢 TR ✪ SPOR 💢 TR ✪ BEIN SPORTS+ 💢 TR ✪ BEIN SPORTS 💢 TR ✪ S-SPORT 💢 TR ✪ TABII / EXXEN SPOR 💢 TR ✪ DIZI SON BOLUMLER 💢 TR ✪ BEIN & D-SMART 💢 TR ✪ SINEMA MIX 💢 TR ✪ NETFLIX / BLUTV 7/24 💢 TR ✪ CINEMAXIMUM 7/24 💢 TR ✪ FILM 7/24 💢 TR ✪ YESILCAM 💢 TR ✪ YERLI FILM 7/24 💢 TR ✪ YERLI DIZI 7/24 💢 TR ✪ RADYO 💢 DE ✪ DEUTSCHLAND 💢 DE ✪ HEVC 💢 DE ✪ RAW 💢 DE ✪ UHD - QHD 💢 DE ✪ REGIONAL 💢 DE ✪ NEWS 💢 DE ✪ DOKU 💢 DE ✪ RTL+ SENDER 💢 DE ✪ SKY CINEMA 💢 DE ✪ SKY SELECT 💢 DE ✪ KINDER & 24/7 💢 DE ✪ TV ACTOR 24/7 💢 DE ✪ TV SERIEN 24/7  💢 DE ✪ TV CINEMA 24/7 💢 DE ✪ TOP SERIEN 24/7 💢 DE ✪ KINO LOUNGE 2026 💢 DE ✪ NETFLIX TOP10 💢 DE ✪ SKY BUNDESLIGA 💢 DE ✪ DAZN SENDER 💢 DE ✪ DAZN FUSSBALL LIGA 💢 DE ✪ DAZN EVENT 💢 DE ✪ UEFA CHAMPIONS LEAGUE 💢 DE ✪ SKY SPORT 💢 DE ✪ SKY SPORT F1 EVENT 💢 DE ✪ SPORT  💢 DE ✪ RTL+ EVENT 💢 DE ✪ MYTEAM MAGENTA 💢 DE ✪ LEAGUES TEAM 💢 DE ✪ LEAGUES EVENT 💢 DE ✪ DYN EVENT 💢 DE ✪ DYN SPORTARTEN 💢 DE ✪ DEL.2 EVENT 💢 DE ✪ DEL.2 TEAM 💢 DE ✪ SPORTEUROPE TV 💢 DE ✪ MUSIK 💢 DE ✪ RADIO 💢 VIP ✪ SPORTS EU/MIX  💢 VIP ✪ SPORTS BALKAN  💢 VIP ✪ F1.TV 💢 VIP ✪ PPV GLORY KICKBOXING 💢 VIP ✪ GOLF SPORTS 💢 AT ✪ AUSTRIA 💢 AT ✪ AUSTRIA SPORT 💢 CH ✪ SWISS 💢 CH ✪ BLUE SPORT DE 💢 CH ✪ MYSPORT EVENT 💢 NL ✪ UHD 💢 NL ✪ RAW 💢 NL ✪ GENERAL 💢 NL ✪ REGIO 💢 NL ✪ SPORT  💢 NL ✪ VIAPLAY 💢 NL ✪ DOCUMENTAIRE 💢 NL ✪ CINEMA 💢 NL ✪ KINDEREN 💢 NL ✪ MUZIEK 💢 NL ✪ RADIO 💢 PL ✪ POLSKA HEVC 💢 PL ✪ POLSKA 💢 PL ✪ SPORT 💢 PL ✪ MUSIC 💢 PL ✪ DOKU  💢 PL ✪ CINEMA  💢 PL ✪ KIDS  💢 ALB ✪ NATIONAL 💢 ALB ✪ DOKUMENTERA 💢 ALB ✪ PER FEMIJE 💢 ALB ✪ CINEMA 💢 ALB ✪ SPORT  💢 ALB ✪ MUSIC 💢 EXYU ✪ SERBIEN 💢 EXYU ✪ PINK 💢 EXYU ✪ DOCU 💢 EXYU ✪ KIDS 24/7 💢 EXYU ✪ 24/7 💢 EXYU ✪ CINEMA 💢 EXYU ✪ MUSIC 💢 CRO ✪ CROATIA 💢 BIH ✪ BOSNIA  💢 MK ✪ MACEDONIA 💢 GR ✪ Ελλάδα | GREECE 💢 GR ✪ Αθλητικά | SPORTS  💢 GR ✪ Κινηματογράφος | CINEMA 💢 GR ✪ Ντοκιμαντέρ | DOCUMENTARY 💢 GR ✪ Παιδικά | KIDS 💢 BE ✪ BELGIUM 💢 BE ✪ BELGIUM SPORT 💢 FR ✪ FRANCE 💢 FR ✪ SPORT 💢 FR ✪ LIGUE+1 💢 FR ✪ CANAL+ 💢 FR ✪ CINEMA 💢 FR ✪ DECOUVERTE 💢 FR ✪ ENFANTS 💢 FR ✪ MUSIC 💢 PT ✪ HEVC 💢 PT ✪ PORTUGAL 💢 PT ✪ SPORT 💢 PT ✪ CINEMA 💢 PT ✪ DOKU 💢 PT ✪ KIDS 💢 PT ✪ MUSIC 💢 BG ✪ BULGARIA 💢 BG ✪ SPORT 💢 BG ✪ DOKU 💢 BG ✪ CINEMA 💢 BG ✪ KIDS 💢 BG ✪ MUSIC 💢 RO ✪ ROMANIA 💢 RO ✪ CINEMA 💢 RO ✪ DOKU 💢 RO ✪ SPORT  💢 RO ✪ KIDS/COPII 💢 RO ✪ MUSIC 💢 UK ✪ ENGLAND 💢 UK ✪ SPORT  💢 UK ✪ DOKU 💢 UK ✪ SKY SPORT 💢 UK ✪ TNT SPORT 💢 UK ✪ CINEMA 💢 UK ✪ MUSIC 💢 UK ✪ KIDS 💢 IT ✪ ITALIA HEVC 💢 IT ✪ ITALIA 💢 IT ✪ CINEMA 💢 IT ✪ 24/7 ACTOR 💢 IT ✪ CULTURA 💢 IT ✪ BAMBINI 💢 IT ✪ MUSICA 💢 IT ✪ SPORT  💢 IT ✪ DAZN 💢 ES ✪ SPAIN 💢 ES ✪ DEPORTES 💢 ES ✪ DOCUMENTALES 💢 ES ✪ CINEMA 💢 RU ✪ Россия | RUSSIA 💢 RU ✪ Спорт | SPORT  💢 RU ✪  Кино | CINEMA 💢 RU ✪ Познавательные | NATURE 💢 RU ✪ Новостные | NEWS 💢 RU ✪ Детские | KIDS 💢 RU ✪ Развлекательные | REST 💢 RU ✪ Музыкальные | MUSIC 💢 UA ✪ UKRAIN 💢 HU ✪ HUNGARY 💢 AZ ✪ AZERBAYCAN 💢 DK ✪ DENMARK 💢 SE ✪ SWEDEN 💢 NO ✪ NORWAY 💢 FI ✪ FINLAND 💢 SL ✪ SLOVENIA 💢 SL ✪ SLOVAKIA 💢 CZ ✪ CZECH 💢 CZ ✪ NEWS 💢 CZ ✪ DOKU 💢 CZ ✪ SPORT 💢 CZ ✪ MOVIE 💢 CZ ✪ CHILDREN 💢 CZ ✪ MUSIC 💢 CZ ✪ OTHER 💢 US ✪ ENTERTAINMENT 💢 US ✪ NEWS 💢 US ✪ DOCUMENTARY 💢 US ✪ SPORT  💢 US ✪ KIDS 💢 US ✪ MOVIES - CINEMA 💢 US ✪ MLS (EVENT) 💢 US ✪ NBA (EVENT) 💢 US ✪ NFL (EVENT) 💢 CA ✪ CANADA 💢 CA ✪ SPORT 💢 AU ✪ AUSTRALIA 💢 BR ✪ BRAZIL 💢 COL ✪ COLOMBIA 💢 PE ✪ PERU 💢 KU ✪ KURDISH 💢 SU ✪ SURYOYO 💢 IR ✪ IRAN 💢 IN ✪ INDIA 💢 IN ✪ INDIA REGIONAL 💢 IN ✪ INDIA KANNADA TV 💢 IN ✪ MOVIES 💢 ARM ✪ ARMENIAN 💢 PK ✪ PAKISTAN 💢 AFG ✪ AFGHANISTAN 💢 AF ✪ AFRICA 💢  AF ✪ SOUTH AFRICA 💢 DSTV ✪ ENTERTAINMENT 💢 DSTV ✪ SPORT 💢 DSTV ✪ NEWS 💢 DSTV ✪ DOKUMENTARY 💢 DSTV ✪ MOVIES 💢 DSTV ✪ KIDS 💢 DSTV ✪ MUSIC 💢 TH ✪ THAILAND ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://lefanten.com:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://lefanten.com:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 21 Temmuz 2026 15:57
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 29 Eylül 2026 12:03
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 0pftFPVL
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ KvNc1HqD
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇫🇷 France
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Paris
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ API Message
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 5.196.40.73
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 17 Eylül 2026 - 09:48
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 13174 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 58082 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 12113 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/get.php?username=0pftFPVL&password=KvNc1HqD&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/xmltv.php?username=0pftFPVL&password=KvNc1HqD&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✪ ULUSAL 💢 TR ✪ HEVC 💢 TR ✪ RAW 💢 TR ✪ QHD 💢 TR ✪ HABER 💢 TR ✪ BELGESEL 💢 TR ✪ COCUK 💢 TR ✪ COCUK 7/24 💢 TR ✪ MUZIK 💢 TR ✪ MUZIK 7/24 💢 TR ✪ DINI / YEREL 💢 TR ✪ SPOR 💢 TR ✪ BEIN SPORTS+ 💢 TR ✪ BEIN SPORTS 💢 TR ✪ S-SPORT 💢 TR ✪ TABII / EXXEN SPOR 💢 TR ✪ DIZI SON BOLUMLER 💢 TR ✪ BEIN & D-SMART 💢 TR ✪ SINEMA MIX 💢 TR ✪ NETFLIX / BLUTV 7/24 💢 TR ✪ CINEMAXIMUM 7/24 💢 TR ✪ FILM 7/24 💢 TR ✪ YESILCAM 💢 TR ✪ YERLI FILM 7/24 💢 TR ✪ YERLI DIZI 7/24 💢 TR ✪ RADYO 💢 DE ✪ DEUTSCHLAND 💢 DE ✪ HEVC 💢 DE ✪ RAW 💢 DE ✪ UHD - QHD 💢 DE ✪ REGIONAL 💢 DE ✪ NEWS 💢 DE ✪ DOKU 💢 DE ✪ RTL+ SENDER 💢 DE ✪ SKY CINEMA 💢 DE ✪ SKY SELECT 💢 DE ✪ KINDER & 24/7 💢 DE ✪ TV ACTOR 24/7 💢 DE ✪ TV SERIEN 24/7  💢 DE ✪ TV CINEMA 24/7 💢 DE ✪ TOP SERIEN 24/7 💢 DE ✪ KINO LOUNGE 2026 💢 DE ✪ NETFLIX TOP10 💢 DE ✪ SKY BUNDESLIGA 💢 DE ✪ DAZN SENDER 💢 DE ✪ DAZN FUSSBALL LIGA 💢 DE ✪ DAZN EVENT 💢 DE ✪ UEFA CHAMPIONS LEAGUE 💢 DE ✪ SKY SPORT 💢 DE ✪ SKY SPORT F1 EVENT 💢 DE ✪ SPORT  💢 DE ✪ RTL+ EVENT 💢 DE ✪ MYTEAM MAGENTA 💢 DE ✪ LEAGUES TEAM 💢 DE ✪ LEAGUES EVENT 💢 DE ✪ DYN EVENT 💢 DE ✪ DYN SPORTARTEN 💢 DE ✪ DEL.2 EVENT 💢 DE ✪ DEL.2 TEAM 💢 DE ✪ SPORTEUROPE TV 💢 DE ✪ MUSIK 💢 DE ✪ RADIO 💢 VIP ✪ SPORTS EU/MIX  💢 VIP ✪ SPORTS BALKAN  💢 VIP ✪ F1.TV 💢 VIP ✪ PPV GLORY KICKBOXING 💢 VIP ✪ GOLF SPORTS 💢 AT ✪ AUSTRIA 💢 AT ✪ AUSTRIA SPORT 💢 CH ✪ SWISS 💢 CH ✪ BLUE SPORT DE 💢 CH ✪ MYSPORT EVENT 💢 NL ✪ UHD 💢 NL ✪ RAW 💢 NL ✪ GENERAL 💢 NL ✪ REGIO 💢 NL ✪ SPORT  💢 NL ✪ VIAPLAY 💢 NL ✪ DOCUMENTAIRE 💢 NL ✪ CINEMA 💢 NL ✪ KINDEREN 💢 NL ✪ MUZIEK 💢 NL ✪ RADIO 💢 PL ✪ POLSKA HEVC 💢 PL ✪ POLSKA 💢 PL ✪ SPORT 💢 PL ✪ MUSIC 💢 PL ✪ DOKU  💢 PL ✪ CINEMA  💢 PL ✪ KIDS  💢 ALB ✪ NATIONAL 💢 ALB ✪ DOKUMENTERA 💢 ALB ✪ PER FEMIJE 💢 ALB ✪ CINEMA 💢 ALB ✪ SPORT  💢 ALB ✪ MUSIC 💢 EXYU ✪ SERBIEN 💢 EXYU ✪ PINK 💢 EXYU ✪ DOCU 💢 EXYU ✪ KIDS 24/7 💢 EXYU ✪ 24/7 💢 EXYU ✪ CINEMA 💢 EXYU ✪ MUSIC 💢 CRO ✪ CROATIA 💢 BIH ✪ BOSNIA  💢 MK ✪ MACEDONIA 💢 GR ✪ Ελλάδα | GREECE 💢 GR ✪ Αθλητικά | SPORTS  💢 GR ✪ Κινηματογράφος | CINEMA 💢 GR ✪ Ντοκιμαντέρ | DOCUMENTARY 💢 GR ✪ Παιδικά | KIDS 💢 BE ✪ BELGIUM 💢 BE ✪ BELGIUM SPORT 💢 FR ✪ FRANCE 💢 FR ✪ SPORT 💢 FR ✪ LIGUE+1 💢 FR ✪ CANAL+ 💢 FR ✪ CINEMA 💢 FR ✪ DECOUVERTE 💢 FR ✪ ENFANTS 💢 FR ✪ MUSIC 💢 PT ✪ HEVC 💢 PT ✪ PORTUGAL 💢 PT ✪ SPORT 💢 PT ✪ CINEMA 💢 PT ✪ DOKU 💢 PT ✪ KIDS 💢 PT ✪ MUSIC 💢 BG ✪ BULGARIA 💢 BG ✪ SPORT 💢 BG ✪ DOKU 💢 BG ✪ CINEMA 💢 BG ✪ KIDS 💢 BG ✪ MUSIC 💢 RO ✪ ROMANIA 💢 RO ✪ CINEMA 💢 RO ✪ DOKU 💢 RO ✪ SPORT  💢 RO ✪ KIDS/COPII 💢 RO ✪ MUSIC 💢 UK ✪ ENGLAND 💢 UK ✪ SPORT  💢 UK ✪ DOKU 💢 UK ✪ SKY SPORT 💢 UK ✪ TNT SPORT 💢 UK ✪ CINEMA 💢 UK ✪ MUSIC 💢 UK ✪ KIDS 💢 IT ✪ ITALIA HEVC 💢 IT ✪ ITALIA 💢 IT ✪ CINEMA 💢 IT ✪ 24/7 ACTOR 💢 IT ✪ CULTURA 💢 IT ✪ BAMBINI 💢 IT ✪ MUSICA 💢 IT ✪ SPORT  💢 IT ✪ DAZN 💢 ES ✪ SPAIN 💢 ES ✪ DEPORTES 💢 ES ✪ DOCUMENTALES 💢 ES ✪ CINEMA 💢 RU ✪ Россия | RUSSIA 💢 RU ✪ Спорт | SPORT  💢 RU ✪  Кино | CINEMA 💢 RU ✪ Познавательные | NATURE 💢 RU ✪ Новостные | NEWS 💢 RU ✪ Детские | KIDS 💢 RU ✪ Развлекательные | REST 💢 RU ✪ Музыкальные | MUSIC 💢 UA ✪ UKRAIN 💢 HU ✪ HUNGARY 💢 AZ ✪ AZERBAYCAN 💢 DK ✪ DENMARK 💢 SE ✪ SWEDEN 💢 NO ✪ NORWAY 💢 FI ✪ FINLAND 💢 SL ✪ SLOVENIA 💢 SL ✪ SLOVAKIA 💢 CZ ✪ CZECH 💢 CZ ✪ NEWS 💢 CZ ✪ DOKU 💢 CZ ✪ SPORT 💢 CZ ✪ MOVIE 💢 CZ ✪ CHILDREN 💢 CZ ✪ MUSIC 💢 CZ ✪ OTHER 💢 US ✪ ENTERTAINMENT 💢 US ✪ NEWS 💢 US ✪ DOCUMENTARY 💢 US ✪ SPORT  💢 US ✪ KIDS 💢 US ✪ MOVIES - CINEMA 💢 US ✪ MLS (EVENT) 💢 US ✪ NBA (EVENT) 💢 US ✪ NFL (EVENT) 💢 CA ✪ CANADA 💢 CA ✪ SPORT 💢 AU ✪ AUSTRALIA 💢 BR ✪ BRAZIL 💢 COL ✪ COLOMBIA 💢 PE ✪ PERU 💢 AR ✪ QURAN 💢 AR ✪ BEIN SPORT 💢 AR ✪ BEIN ENTERTAINMENT 💢 AR ✪ SPORTS 💢 AR ✪ STARZPLAY 💢 AR ✪ NEWS 💢 AR ✪ OSN 💢 AR ✪ NETFLIX 💢 AR ✪ SHAHID 💢 AR ✪ ISLAM 💢 AR ✪ KIDS 💢 AR ✪ MBC 💢 AR ✪ ROTANA 💢 AR ✪ AL MAJD 💢 AR ✪ MAROCCO 💢 AR ✪ ALGERIA 💢 AR ✪ SAUDI ARABIA 💢 AR ✪ LEBANON 💢 AR ✪ TUNISIE 💢 AR ✪ KUWAIT 💢 AR ✪ SUDAN 💢 AR ✪ EGYPT 💢 AR ✪ PALASTINE 💢 AR ✪ UAE 💢 AR ✪ BAHRAIN 💢 AR ✪ IRAQ 💢 AR ✪ JORDAN 💢 AR ✪ QATAR 💢 AR ✪ SYRIA 💢 KU ✪ KURDISH 💢 SU ✪ SURYOYO 💢 IR ✪ IRAN 💢 IN ✪ INDIA 💢 IN ✪ INDIA REGIONAL 💢 IN ✪ INDIA KANNADA TV 💢 IN ✪ MOVIES 💢 ARM ✪ ARMENIAN 💢 PK ✪ PAKISTAN 💢 AFG ✪ AFGHANISTAN 💢 AF ✪ AFRICA 💢  AF ✪ SOUTH AFRICA 💢 DSTV ✪ ENTERTAINMENT 💢 DSTV ✪ SPORT 💢 DSTV ✪ NEWS 💢 DSTV ✪ DOKUMENTARY 💢 DSTV ✪ MOVIES 💢 DSTV ✪ KIDS 💢 DSTV ✪ MUSIC 💢 TH ✪ THAILAND ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://lefanten.com:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://lefanten.com:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 16 Şubat 2024 20:52
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 16 Ekim 2026 19:52
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ kRFGR36x
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ bmxHCmamWpZdD
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇫🇷 France
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Paris
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ API Message
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 5.196.40.73
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 17 Eylül 2026 - 10:39
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 3518 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 46155 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 6461 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/get.php?username=kRFGR36x&password=bmxHCmamWpZdD&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/xmltv.php?username=kRFGR36x&password=bmxHCmamWpZdD&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢DE ✪ DEUTSCHLAND 💢 DE ✪ HEVC 💢 DE ✪ RAW 💢 DE ✪ UHD - QHD 💢 DE ✪ REGIONAL 💢 DE ✪ NEWS 💢 DE ✪ DOKU 💢 DE ✪ RTL+ SENDER 💢 DE ✪ SKY CINEMA 💢 DE ✪ SKY SELECT 💢 DE ✪ KINDER & 24/7 💢 DE ✪ TV ACTOR 24/7 💢 DE ✪ TV SERIEN 24/7  💢 DE ✪ TV CINEMA 24/7 💢 DE ✪ TOP SERIEN 24/7 💢 DE ✪ KINO LOUNGE 2026 💢 DE ✪ NETFLIX TOP10 💢 DE ✪ SKY BUNDESLIGA 💢 DE ✪ DAZN SENDER 💢 DE ✪ DAZN FUSSBALL LIGA 💢 DE ✪ DAZN EVENT 💢 DE ✪ UEFA CHAMPIONS LEAGUE 💢 DE ✪ SKY SPORT 💢 DE ✪ SKY SPORT F1 EVENT 💢 DE ✪ SPORT  💢 DE ✪ RTL+ EVENT 💢 DE ✪ MYTEAM MAGENTA 💢 DE ✪ LEAGUES TEAM 💢 DE ✪ LEAGUES EVENT 💢 DE ✪ DYN EVENT 💢 DE ✪ DYN SPORTARTEN 💢 DE ✪ DEL.2 EVENT 💢 DE ✪ DEL.2 TEAM 💢 DE ✪ SPORTEUROPE TV 💢 DE ✪ MUSIK 💢 DE ✪ RADIO 💢 VIP ✪ SPORTS EU/MIX  💢 VIP ✪ SPORTS BALKAN  💢 VIP ✪ F1.TV 💢 VIP ✪ PPV GLORY KICKBOXING 💢 VIP ✪ GOLF SPORTS 💢 AT ✪ AUSTRIA 💢 AT ✪ AUSTRIA SPORT 💢 CH ✪ SWISS 💢 CH ✪ BLUE SPORT DE 💢 CH ✪ MYSPORT EVENT 💢 FOR ✪ ADULTS 💢 FOR ✪ ADULTS 2 💢 FOR ✪ ADULTS 3 💢 FOR ✪ ADULTS X4 💢 FOR ✪ PORNBOX ADULTS ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://lefanten.com:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://lefanten.com:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 02 Mayıs 2026 22:13
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 02 Mayıs 2027 22:13
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ txMV2VSb
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ y08Wau9i
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇫🇷 France
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Paris
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ API Message
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 5.196.40.73
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 17 Eylül 2026 - 11:18
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 12429 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 66737 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 7586 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/get.php?username=txMV2VSb&password=y08Wau9i&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/xmltv.php?username=txMV2VSb&password=y08Wau9i&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢DE ✪ DEUTSCHLAND 💢 DE ✪ HEVC 💢 DE ✪ RAW 💢 DE ✪ UHD - QHD 💢 DE ✪ REGIONAL 💢 DE ✪ NEWS 💢 DE ✪ DOKU 💢 DE ✪ RTL+ SENDER 💢 DE ✪ SKY CINEMA 💢 DE ✪ SKY SELECT 💢 DE ✪ KINDER & 24/7 💢 DE ✪ TV ACTOR 24/7 💢 DE ✪ TV SERIEN 24/7  💢 DE ✪ TV CINEMA 24/7 💢 DE ✪ TOP SERIEN 24/7 💢 DE ✪ KINO LOUNGE 2026 💢 DE ✪ NETFLIX TOP10 💢 DE ✪ SKY BUNDESLIGA 💢 DE ✪ DAZN SENDER 💢 DE ✪ DAZN FUSSBALL LIGA 💢 DE ✪ DAZN EVENT 💢 DE ✪ UEFA CHAMPIONS LEAGUE 💢 DE ✪ SKY SPORT 💢 DE ✪ SKY SPORT F1 EVENT 💢 DE ✪ SPORT  💢 DE ✪ RTL+ EVENT 💢 DE ✪ MYTEAM MAGENTA 💢 DE ✪ LEAGUES TEAM 💢 DE ✪ LEAGUES EVENT 💢 DE ✪ DYN EVENT 💢 DE ✪ DYN SPORTARTEN 💢 DE ✪ DEL.2 EVENT 💢 DE ✪ DEL.2 TEAM 💢 DE ✪ SPORTEUROPE TV 💢 DE ✪ MUSIK 💢 DE ✪ RADIO 💢 VIP ✪ SPORTS EU/MIX  💢 VIP ✪ SPORTS BALKAN  💢 VIP ✪ F1.TV 💢 VIP ✪ PPV GLORY KICKBOXING 💢 VIP ✪ GOLF SPORTS 💢 AT ✪ AUSTRIA 💢 AT ✪ AUSTRIA SPORT 💢 CH ✪ SWISS 💢 CH ✪ BLUE SPORT DE 💢 CH ✪ MYSPORT EVENT 💢 NL ✪ UHD 💢 NL ✪ RAW 💢 NL ✪ GENERAL 💢 NL ✪ REGIO 💢 NL ✪ SPORT  💢 NL ✪ VIAPLAY 💢 NL ✪ DOCUMENTAIRE 💢 NL ✪ CINEMA 💢 NL ✪ KINDEREN 💢 NL ✪ MUZIEK 💢 NL ✪ RADIO 💢 PL ✪ POLSKA HEVC 💢 PL ✪ POLSKA 💢 PL ✪ SPORT 💢 PL ✪ MUSIC 💢 PL ✪ DOKU  💢 PL ✪ CINEMA  💢 PL ✪ KIDS  💢 ALB ✪ NATIONAL 💢 ALB ✪ DOKUMENTERA 💢 ALB ✪ PER FEMIJE 💢 ALB ✪ CINEMA 💢 ALB ✪ SPORT  💢 ALB ✪ MUSIC 💢 EXYU ✪ SERBIEN 💢 EXYU ✪ PINK 💢 EXYU ✪ DOCU 💢 EXYU ✪ KIDS 24/7 💢 EXYU ✪ 24/7 💢 EXYU ✪ CINEMA 💢 EXYU ✪ MUSIC 💢 CRO ✪ CROATIA 💢 BIH ✪ BOSNIA  💢 MK ✪ MACEDONIA 💢 GR ✪ Ελλάδα | GREECE 💢 GR ✪ Αθλητικά | SPORTS  💢 GR ✪ Κινηματογράφος | CINEMA 💢 GR ✪ Ντοκιμαντέρ | DOCUMENTARY 💢 GR ✪ Παιδικά | KIDS 💢 BE ✪ BELGIUM 💢 BE ✪ BELGIUM SPORT 💢 FR ✪ FRANCE 💢 FR ✪ SPORT 💢 FR ✪ LIGUE+1 💢 FR ✪ CANAL+ 💢 FR ✪ CINEMA 💢 FR ✪ DECOUVERTE 💢 FR ✪ ENFANTS 💢 FR ✪ MUSIC 💢 PT ✪ HEVC 💢 PT ✪ PORTUGAL 💢 PT ✪ SPORT 💢 PT ✪ CINEMA 💢 PT ✪ DOKU 💢 PT ✪ KIDS 💢 PT ✪ MUSIC 💢 BG ✪ BULGARIA 💢 BG ✪ SPORT 💢 BG ✪ DOKU 💢 BG ✪ CINEMA 💢 BG ✪ KIDS 💢 BG ✪ MUSIC 💢 RO ✪ ROMANIA 💢 RO ✪ CINEMA 💢 RO ✪ DOKU 💢 RO ✪ SPORT  💢 RO ✪ KIDS/COPII 💢 RO ✪ MUSIC 💢 UK ✪ ENGLAND 💢 UK ✪ SPORT  💢 UK ✪ DOKU 💢 UK ✪ SKY SPORT 💢 UK ✪ TNT SPORT 💢 UK ✪ CINEMA 💢 UK ✪ MUSIC 💢 UK ✪ KIDS 💢 IT ✪ ITALIA HEVC 💢 IT ✪ ITALIA 💢 IT ✪ CINEMA 💢 IT ✪ 24/7 ACTOR 💢 IT ✪ CULTURA 💢 IT ✪ BAMBINI 💢 IT ✪ MUSICA 💢 IT ✪ SPORT  💢 IT ✪ DAZN 💢 ES ✪ SPAIN 💢 ES ✪ DEPORTES 💢 ES ✪ DOCUMENTALES 💢 ES ✪ CINEMA 💢 RU ✪ Россия | RUSSIA 💢 RU ✪ Спорт | SPORT  💢 RU ✪  Кино | CINEMA 💢 RU ✪ Познавательные | NATURE 💢 RU ✪ Новостные | NEWS 💢 RU ✪ Детские | KIDS 💢 RU ✪ Развлекательные | REST 💢 RU ✪ Музыкальные | MUSIC 💢 UA ✪ UKRAIN 💢 HU ✪ HUNGARY 💢 AZ ✪ AZERBAYCAN 💢 DK ✪ DENMARK 💢 SE ✪ SWEDEN 💢 NO ✪ NORWAY 💢 FI ✪ FINLAND 💢 SL ✪ SLOVENIA 💢 SL ✪ SLOVAKIA 💢 CZ ✪ CZECH 💢 CZ ✪ NEWS 💢 CZ ✪ DOKU 💢 CZ ✪ SPORT 💢 CZ ✪ MOVIE 💢 CZ ✪ CHILDREN 💢 CZ ✪ MUSIC 💢 CZ ✪ OTHER 💢 US ✪ ENTERTAINMENT 💢 US ✪ NEWS 💢 US ✪ DOCUMENTARY 💢 US ✪ SPORT  💢 US ✪ KIDS 💢 US ✪ MOVIES - CINEMA 💢 US ✪ MLS (EVENT) 💢 US ✪ NBA (EVENT) 💢 US ✪ NFL (EVENT) 💢 CA ✪ CANADA 💢 CA ✪ SPORT 💢 AU ✪ AUSTRALIA 💢 BR ✪ BRAZIL 💢 COL ✪ COLOMBIA 💢 PE ✪ PERU 💢 AR ✪ QURAN 💢 AR ✪ BEIN SPORT 💢 AR ✪ BEIN ENTERTAINMENT 💢 AR ✪ SPORTS 💢 AR ✪ STARZPLAY 💢 AR ✪ NEWS 💢 AR ✪ OSN 💢 AR ✪ NETFLIX 💢 AR ✪ SHAHID 💢 AR ✪ ISLAM 💢 AR ✪ KIDS 💢 AR ✪ MBC 💢 AR ✪ ROTANA 💢 AR ✪ AL MAJD 💢 AR ✪ MAROCCO 💢 AR ✪ ALGERIA 💢 AR ✪ SAUDI ARABIA 💢 AR ✪ LEBANON 💢 AR ✪ TUNISIE 💢 AR ✪ KUWAIT 💢 AR ✪ SUDAN 💢 AR ✪ EGYPT 💢 AR ✪ PALASTINE 💢 AR ✪ UAE 💢 AR ✪ BAHRAIN 💢 AR ✪ IRAQ 💢 AR ✪ JORDAN 💢 AR ✪ QATAR 💢 AR ✪ SYRIA 💢 KU ✪ KURDISH 💢 SU ✪ SURYOYO 💢 IR ✪ IRAN 💢 IN ✪ INDIA 💢 IN ✪ INDIA REGIONAL 💢 IN ✪ INDIA KANNADA TV 💢 IN ✪ MOVIES 💢 ARM ✪ ARMENIAN 💢 PK ✪ PAKISTAN 💢 AFG ✪ AFGHANISTAN 💢 AF ✪ AFRICA 💢  AF ✪ SOUTH AFRICA 💢 DSTV ✪ ENTERTAINMENT 💢 DSTV ✪ SPORT 💢 DSTV ✪ NEWS 💢 DSTV ✪ DOKUMENTARY 💢 DSTV ✪ MOVIES 💢 DSTV ✪ KIDS 💢 DSTV ✪ MUSIC 💢 TH ✪ THAILAND 💢 FOR ✪ ADULTS 💢 FOR ✪ ADULTS 2 💢 FOR ✪ ADULTS 3 💢 FOR ✪ ADULTS X4 💢 FOR ✪ PORNBOX ADULTS ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://lefanten.com:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://lefanten.com:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 04 Mayıs 2025 16:56
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 04 Kasım 2027 20:07
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ rSd5sSNf
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ ayJbAmf
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇫🇷 France
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Paris
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ API Message
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 5.196.40.73
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 17 Eylül 2026 - 11:29
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 13174 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 58081 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 12113 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/get.php?username=rSd5sSNf&password=ayJbAmf&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/xmltv.php?username=rSd5sSNf&password=ayJbAmf&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✪ ULUSAL 💢 TR ✪ HEVC 💢 TR ✪ RAW 💢 TR ✪ QHD 💢 TR ✪ HABER 💢 TR ✪ BELGESEL 💢 TR ✪ COCUK 💢 TR ✪ COCUK 7/24 💢 TR ✪ MUZIK 💢 TR ✪ MUZIK 7/24 💢 TR ✪ DINI / YEREL 💢 TR ✪ SPOR 💢 TR ✪ BEIN SPORTS+ 💢 TR ✪ BEIN SPORTS 💢 TR ✪ S-SPORT 💢 TR ✪ TABII / EXXEN SPOR 💢 TR ✪ DIZI SON BOLUMLER 💢 TR ✪ BEIN & D-SMART 💢 TR ✪ SINEMA MIX 💢 TR ✪ NETFLIX / BLUTV 7/24 💢 TR ✪ CINEMAXIMUM 7/24 💢 TR ✪ FILM 7/24 💢 TR ✪ YESILCAM 💢 TR ✪ YERLI FILM 7/24 💢 TR ✪ YERLI DIZI 7/24 💢 TR ✪ RADYO 💢 DE ✪ DEUTSCHLAND 💢 DE ✪ HEVC 💢 DE ✪ RAW 💢 DE ✪ UHD - QHD 💢 DE ✪ REGIONAL 💢 DE ✪ NEWS 💢 DE ✪ DOKU 💢 DE ✪ RTL+ SENDER 💢 DE ✪ SKY CINEMA 💢 DE ✪ SKY SELECT 💢 DE ✪ KINDER & 24/7 💢 DE ✪ TV ACTOR 24/7 💢 DE ✪ TV SERIEN 24/7  💢 DE ✪ TV CINEMA 24/7 💢 DE ✪ TOP SERIEN 24/7 💢 DE ✪ KINO LOUNGE 2026 💢 DE ✪ NETFLIX TOP10 💢 DE ✪ SKY BUNDESLIGA 💢 DE ✪ DAZN SENDER 💢 DE ✪ DAZN FUSSBALL LIGA 💢 DE ✪ DAZN EVENT 💢 DE ✪ UEFA CHAMPIONS LEAGUE 💢 DE ✪ SKY SPORT 💢 DE ✪ SKY SPORT F1 EVENT 💢 DE ✪ SPORT  💢 DE ✪ RTL+ EVENT 💢 DE ✪ MYTEAM MAGENTA 💢 DE ✪ LEAGUES TEAM 💢 DE ✪ LEAGUES EVENT 💢 DE ✪ DYN EVENT 💢 DE ✪ DYN SPORTARTEN 💢 DE ✪ DEL.2 EVENT 💢 DE ✪ DEL.2 TEAM 💢 DE ✪ SPORTEUROPE TV 💢 DE ✪ MUSIK 💢 DE ✪ RADIO 💢 VIP ✪ SPORTS EU/MIX  💢 VIP ✪ SPORTS BALKAN  💢 VIP ✪ F1.TV 💢 VIP ✪ PPV GLORY KICKBOXING 💢 VIP ✪ GOLF SPORTS 💢 AT ✪ AUSTRIA 💢 AT ✪ AUSTRIA SPORT 💢 CH ✪ SWISS 💢 CH ✪ BLUE SPORT DE 💢 CH ✪ MYSPORT EVENT 💢 NL ✪ UHD 💢 NL ✪ RAW 💢 NL ✪ GENERAL 💢 NL ✪ REGIO 💢 NL ✪ SPORT  💢 NL ✪ VIAPLAY 💢 NL ✪ DOCUMENTAIRE 💢 NL ✪ CINEMA 💢 NL ✪ KINDEREN 💢 NL ✪ MUZIEK 💢 NL ✪ RADIO 💢 PL ✪ POLSKA HEVC 💢 PL ✪ POLSKA 💢 PL ✪ SPORT 💢 PL ✪ MUSIC 💢 PL ✪ DOKU  💢 PL ✪ CINEMA  💢 PL ✪ KIDS  💢 ALB ✪ NATIONAL 💢 ALB ✪ DOKUMENTERA 💢 ALB ✪ PER FEMIJE 💢 ALB ✪ CINEMA 💢 ALB ✪ SPORT  💢 ALB ✪ MUSIC 💢 EXYU ✪ SERBIEN 💢 EXYU ✪ PINK 💢 EXYU ✪ DOCU 💢 EXYU ✪ KIDS 24/7 💢 EXYU ✪ 24/7 💢 EXYU ✪ CINEMA 💢 EXYU ✪ MUSIC 💢 CRO ✪ CROATIA 💢 BIH ✪ BOSNIA  💢 MK ✪ MACEDONIA 💢 GR ✪ Ελλάδα | GREECE 💢 GR ✪ Αθλητικά | SPORTS  💢 GR ✪ Κινηματογράφος | CINEMA 💢 GR ✪ Ντοκιμαντέρ | DOCUMENTARY 💢 GR ✪ Παιδικά | KIDS 💢 BE ✪ BELGIUM 💢 BE ✪ BELGIUM SPORT 💢 FR ✪ FRANCE 💢 FR ✪ SPORT 💢 FR ✪ LIGUE+1 💢 FR ✪ CANAL+ 💢 FR ✪ CINEMA 💢 FR ✪ DECOUVERTE 💢 FR ✪ ENFANTS 💢 FR ✪ MUSIC 💢 PT ✪ HEVC 💢 PT ✪ PORTUGAL 💢 PT ✪ SPORT 💢 PT ✪ CINEMA 💢 PT ✪ DOKU 💢 PT ✪ KIDS 💢 PT ✪ MUSIC 💢 BG ✪ BULGARIA 💢 BG ✪ SPORT 💢 BG ✪ DOKU 💢 BG ✪ CINEMA 💢 BG ✪ KIDS 💢 BG ✪ MUSIC 💢 RO ✪ ROMANIA 💢 RO ✪ CINEMA 💢 RO ✪ DOKU 💢 RO ✪ SPORT  💢 RO ✪ KIDS/COPII 💢 RO ✪ MUSIC 💢 UK ✪ ENGLAND 💢 UK ✪ SPORT  💢 UK ✪ DOKU 💢 UK ✪ SKY SPORT 💢 UK ✪ TNT SPORT 💢 UK ✪ CINEMA 💢 UK ✪ MUSIC 💢 UK ✪ KIDS 💢 IT ✪ ITALIA HEVC 💢 IT ✪ ITALIA 💢 IT ✪ CINEMA 💢 IT ✪ 24/7 ACTOR 💢 IT ✪ CULTURA 💢 IT ✪ BAMBINI 💢 IT ✪ MUSICA 💢 IT ✪ SPORT  💢 IT ✪ DAZN 💢 ES ✪ SPAIN 💢 ES ✪ DEPORTES 💢 ES ✪ DOCUMENTALES 💢 ES ✪ CINEMA 💢 RU ✪ Россия | RUSSIA 💢 RU ✪ Спорт | SPORT  💢 RU ✪  Кино | CINEMA 💢 RU ✪ Познавательные | NATURE 💢 RU ✪ Новостные | NEWS 💢 RU ✪ Детские | KIDS 💢 RU ✪ Развлекательные | REST 💢 RU ✪ Музыкальные | MUSIC 💢 UA ✪ UKRAIN 💢 HU ✪ HUNGARY 💢 AZ ✪ AZERBAYCAN 💢 DK ✪ DENMARK 💢 SE ✪ SWEDEN 💢 NO ✪ NORWAY 💢 FI ✪ FINLAND 💢 SL ✪ SLOVENIA 💢 SL ✪ SLOVAKIA 💢 CZ ✪ CZECH 💢 CZ ✪ NEWS 💢 CZ ✪ DOKU 💢 CZ ✪ SPORT 💢 CZ ✪ MOVIE 💢 CZ ✪ CHILDREN 💢 CZ ✪ MUSIC 💢 CZ ✪ OTHER 💢 US ✪ ENTERTAINMENT 💢 US ✪ NEWS 💢 US ✪ DOCUMENTARY 💢 US ✪ SPORT  💢 US ✪ KIDS 💢 US ✪ MOVIES - CINEMA 💢 US ✪ MLS (EVENT) 💢 US ✪ NBA (EVENT) 💢 US ✪ NFL (EVENT) 💢 CA ✪ CANADA 💢 CA ✪ SPORT 💢 AU ✪ AUSTRALIA 💢 BR ✪ BRAZIL 💢 COL ✪ COLOMBIA 💢 PE ✪ PERU 💢 AR ✪ QURAN 💢 AR ✪ BEIN SPORT 💢 AR ✪ BEIN ENTERTAINMENT 💢 AR ✪ SPORTS 💢 AR ✪ STARZPLAY 💢 AR ✪ NEWS 💢 AR ✪ OSN 💢 AR ✪ NETFLIX 💢 AR ✪ SHAHID 💢 AR ✪ ISLAM 💢 AR ✪ KIDS 💢 AR ✪ MBC 💢 AR ✪ ROTANA 💢 AR ✪ AL MAJD 💢 AR ✪ MAROCCO 💢 AR ✪ ALGERIA 💢 AR ✪ SAUDI ARABIA 💢 AR ✪ LEBANON 💢 AR ✪ TUNISIE 💢 AR ✪ KUWAIT 💢 AR ✪ SUDAN 💢 AR ✪ EGYPT 💢 AR ✪ PALASTINE 💢 AR ✪ UAE 💢 AR ✪ BAHRAIN 💢 AR ✪ IRAQ 💢 AR ✪ JORDAN 💢 AR ✪ QATAR 💢 AR ✪ SYRIA 💢 KU ✪ KURDISH 💢 SU ✪ SURYOYO 💢 IR ✪ IRAN 💢 IN ✪ INDIA 💢 IN ✪ INDIA REGIONAL 💢 IN ✪ INDIA KANNADA TV 💢 IN ✪ MOVIES 💢 ARM ✪ ARMENIAN 💢 PK ✪ PAKISTAN 💢 AFG ✪ AFGHANISTAN 💢 AF ✪ AFRICA 💢  AF ✪ SOUTH AFRICA 💢 DSTV ✪ ENTERTAINMENT 💢 DSTV ✪ SPORT 💢 DSTV ✪ NEWS 💢 DSTV ✪ DOKUMENTARY 💢 DSTV ✪ MOVIES 💢 DSTV ✪ KIDS 💢 DSTV ✪ MUSIC 💢 TH ✪ THAILAND ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://lefanten.com:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://lefanten.com:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 23 Nisan 2026 14:34
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 23 Nisan 2027 14:34
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ PJ2da00f
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ YnkXThiN
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇫🇷 France
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Paris
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ API Message
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 5.135.245.95
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 17 Eylül 2026 - 20:14
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 12429 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 66737 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 7587 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/get.php?username=PJ2da00f&password=YnkXThiN&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/xmltv.php?username=PJ2da00f&password=YnkXThiN&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢DE ✪ DEUTSCHLAND 💢 DE ✪ HEVC 💢 DE ✪ RAW 💢 DE ✪ UHD - QHD 💢 DE ✪ REGIONAL 💢 DE ✪ NEWS 💢 DE ✪ DOKU 💢 DE ✪ RTL+ SENDER 💢 DE ✪ SKY CINEMA 💢 DE ✪ SKY SELECT 💢 DE ✪ KINDER & 24/7 💢 DE ✪ TV ACTOR 24/7 💢 DE ✪ TV SERIEN 24/7  💢 DE ✪ TV CINEMA 24/7 💢 DE ✪ TOP SERIEN 24/7 💢 DE ✪ KINO LOUNGE 2026 💢 DE ✪ NETFLIX TOP10 💢 DE ✪ SKY BUNDESLIGA 💢 DE ✪ DAZN SENDER 💢 DE ✪ DAZN FUSSBALL LIGA 💢 DE ✪ DAZN EVENT 💢 DE ✪ UEFA CHAMPIONS LEAGUE 💢 DE ✪ SKY SPORT 💢 DE ✪ SKY SPORT F1 EVENT 💢 DE ✪ SPORT  💢 DE ✪ RTL+ EVENT 💢 DE ✪ MYTEAM MAGENTA 💢 DE ✪ LEAGUES TEAM 💢 DE ✪ LEAGUES EVENT 💢 DE ✪ DYN EVENT 💢 DE ✪ DYN SPORTARTEN 💢 DE ✪ DEL.2 EVENT 💢 DE ✪ DEL.2 TEAM 💢 DE ✪ SPORTEUROPE TV 💢 DE ✪ MUSIK 💢 DE ✪ RADIO 💢 VIP ✪ SPORTS EU/MIX  💢 VIP ✪ SPORTS BALKAN  💢 VIP ✪ F1.TV 💢 VIP ✪ PPV GLORY KICKBOXING 💢 VIP ✪ GOLF SPORTS 💢 AT ✪ AUSTRIA 💢 AT ✪ AUSTRIA SPORT 💢 CH ✪ SWISS 💢 CH ✪ BLUE SPORT DE 💢 CH ✪ MYSPORT EVENT 💢 NL ✪ UHD 💢 NL ✪ RAW 💢 NL ✪ GENERAL 💢 NL ✪ REGIO 💢 NL ✪ SPORT  💢 NL ✪ VIAPLAY 💢 NL ✪ DOCUMENTAIRE 💢 NL ✪ CINEMA 💢 NL ✪ KINDEREN 💢 NL ✪ MUZIEK 💢 NL ✪ RADIO 💢 PL ✪ POLSKA HEVC 💢 PL ✪ POLSKA 💢 PL ✪ SPORT 💢 PL ✪ MUSIC 💢 PL ✪ DOKU  💢 PL ✪ CINEMA  💢 PL ✪ KIDS  💢 ALB ✪ NATIONAL 💢 ALB ✪ DOKUMENTERA 💢 ALB ✪ PER FEMIJE 💢 ALB ✪ CINEMA 💢 ALB ✪ SPORT  💢 ALB ✪ MUSIC 💢 EXYU ✪ SERBIEN 💢 EXYU ✪ PINK 💢 EXYU ✪ DOCU 💢 EXYU ✪ KIDS 24/7 💢 EXYU ✪ 24/7 💢 EXYU ✪ CINEMA 💢 EXYU ✪ MUSIC 💢 CRO ✪ CROATIA 💢 BIH ✪ BOSNIA  💢 MK ✪ MACEDONIA 💢 GR ✪ Ελλάδα | GREECE 💢 GR ✪ Αθλητικά | SPORTS  💢 GR ✪ Κινηματογράφος | CINEMA 💢 GR ✪ Ντοκιμαντέρ | DOCUMENTARY 💢 GR ✪ Παιδικά | KIDS 💢 BE ✪ BELGIUM 💢 BE ✪ BELGIUM SPORT 💢 FR ✪ FRANCE 💢 FR ✪ SPORT 💢 FR ✪ LIGUE+1 💢 FR ✪ CANAL+ 💢 FR ✪ CINEMA 💢 FR ✪ DECOUVERTE 💢 FR ✪ ENFANTS 💢 FR ✪ MUSIC 💢 PT ✪ HEVC 💢 PT ✪ PORTUGAL 💢 PT ✪ SPORT 💢 PT ✪ CINEMA 💢 PT ✪ DOKU 💢 PT ✪ KIDS 💢 PT ✪ MUSIC 💢 BG ✪ BULGARIA 💢 BG ✪ SPORT 💢 BG ✪ DOKU 💢 BG ✪ CINEMA 💢 BG ✪ KIDS 💢 BG ✪ MUSIC 💢 RO ✪ ROMANIA 💢 RO ✪ CINEMA 💢 RO ✪ DOKU 💢 RO ✪ SPORT  💢 RO ✪ KIDS/COPII 💢 RO ✪ MUSIC 💢 UK ✪ ENGLAND 💢 UK ✪ SPORT  💢 UK ✪ DOKU 💢 UK ✪ SKY SPORT 💢 UK ✪ TNT SPORT 💢 UK ✪ CINEMA 💢 UK ✪ MUSIC 💢 UK ✪ KIDS 💢 IT ✪ ITALIA HEVC 💢 IT ✪ ITALIA 💢 IT ✪ CINEMA 💢 IT ✪ 24/7 ACTOR 💢 IT ✪ CULTURA 💢 IT ✪ BAMBINI 💢 IT ✪ MUSICA 💢 IT ✪ SPORT  💢 IT ✪ DAZN 💢 ES ✪ SPAIN 💢 ES ✪ DEPORTES 💢 ES ✪ DOCUMENTALES 💢 ES ✪ CINEMA 💢 RU ✪ Россия | RUSSIA 💢 RU ✪ Спорт | SPORT  💢 RU ✪  Кино | CINEMA 💢 RU ✪ Познавательные | NATURE 💢 RU ✪ Новостные | NEWS 💢 RU ✪ Детские | KIDS 💢 RU ✪ Развлекательные | REST 💢 RU ✪ Музыкальные | MUSIC 💢 UA ✪ UKRAIN 💢 HU ✪ HUNGARY 💢 AZ ✪ AZERBAYCAN 💢 DK ✪ DENMARK 💢 SE ✪ SWEDEN 💢 NO ✪ NORWAY 💢 FI ✪ FINLAND 💢 SL ✪ SLOVENIA 💢 SL ✪ SLOVAKIA 💢 CZ ✪ CZECH 💢 CZ ✪ NEWS 💢 CZ ✪ DOKU 💢 CZ ✪ SPORT 💢 CZ ✪ MOVIE 💢 CZ ✪ CHILDREN 💢 CZ ✪ MUSIC 💢 CZ ✪ OTHER 💢 US ✪ ENTERTAINMENT 💢 US ✪ NEWS 💢 US ✪ DOCUMENTARY 💢 US ✪ SPORT  💢 US ✪ KIDS 💢 US ✪ MOVIES - CINEMA 💢 US ✪ MLS (EVENT) 💢 US ✪ NBA (EVENT) 💢 US ✪ NFL (EVENT) 💢 CA ✪ CANADA 💢 CA ✪ SPORT 💢 AU ✪ AUSTRALIA 💢 BR ✪ BRAZIL 💢 COL ✪ COLOMBIA 💢 PE ✪ PERU 💢 AR ✪ QURAN 💢 AR ✪ BEIN SPORT 💢 AR ✪ BEIN ENTERTAINMENT 💢 AR ✪ SPORTS 💢 AR ✪ STARZPLAY 💢 AR ✪ NEWS 💢 AR ✪ OSN 💢 AR ✪ NETFLIX 💢 AR ✪ SHAHID 💢 AR ✪ ISLAM 💢 AR ✪ KIDS 💢 AR ✪ MBC 💢 AR ✪ ROTANA 💢 AR ✪ AL MAJD 💢 AR ✪ MAROCCO 💢 AR ✪ ALGERIA 💢 AR ✪ SAUDI ARABIA 💢 AR ✪ LEBANON 💢 AR ✪ TUNISIE 💢 AR ✪ KUWAIT 💢 AR ✪ SUDAN 💢 AR ✪ EGYPT 💢 AR ✪ PALASTINE 💢 AR ✪ UAE 💢 AR ✪ BAHRAIN 💢 AR ✪ IRAQ 💢 AR ✪ JORDAN 💢 AR ✪ QATAR 💢 AR ✪ SYRIA 💢 KU ✪ KURDISH 💢 SU ✪ SURYOYO 💢 IR ✪ IRAN 💢 IN ✪ INDIA 💢 IN ✪ INDIA REGIONAL 💢 IN ✪ INDIA KANNADA TV 💢 IN ✪ MOVIES 💢 ARM ✪ ARMENIAN 💢 PK ✪ PAKISTAN 💢 AFG ✪ AFGHANISTAN 💢 AF ✪ AFRICA 💢  AF ✪ SOUTH AFRICA 💢 DSTV ✪ ENTERTAINMENT 💢 DSTV ✪ SPORT 💢 DSTV ✪ NEWS 💢 DSTV ✪ DOKUMENTARY 💢 DSTV ✪ MOVIES 💢 DSTV ✪ KIDS 💢 DSTV ✪ MUSIC 💢 TH ✪ THAILAND 💢 FOR ✪ ADULTS 💢 FOR ✪ ADULTS 2 💢 FOR ✪ ADULTS 3 💢 FOR ✪ ADULTS X4 💢 FOR ✪ PORNBOX ADULTS ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://lefanten.com:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://lefanten.com:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 08 Eylül 2024 11:52
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 10 Ekim 2026 22:07
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ gD6zKzzDeS
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 3O0PKJyFA8
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇫🇷 France
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Paris
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ API Message
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 5.135.245.95
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 17 Eylül 2026 - 20:20
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 13179 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 58081 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 12117 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/get.php?username=gD6zKzzDeS&password=3O0PKJyFA8&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/xmltv.php?username=gD6zKzzDeS&password=3O0PKJyFA8&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✪ ULUSAL 💢 TR ✪ HEVC 💢 TR ✪ RAW 💢 TR ✪ QHD 💢 TR ✪ HABER 💢 TR ✪ BELGESEL 💢 TR ✪ COCUK 💢 TR ✪ COCUK 7/24 💢 TR ✪ MUZIK 💢 TR ✪ MUZIK 7/24 💢 TR ✪ DINI / YEREL 💢 TR ✪ SPOR 💢 TR ✪ BEIN SPORTS+ 💢 TR ✪ BEIN SPORTS 💢 TR ✪ S-SPORT 💢 TR ✪ TABII / EXXEN SPOR 💢 TR ✪ DIZI SON BOLUMLER 💢 TR ✪ BEIN & D-SMART 💢 TR ✪ SINEMA MIX 💢 TR ✪ NETFLIX / BLUTV 7/24 💢 TR ✪ CINEMAXIMUM 7/24 💢 TR ✪ FILM 7/24 💢 TR ✪ YESILCAM 💢 TR ✪ YERLI FILM 7/24 💢 TR ✪ YERLI DIZI 7/24 💢 TR ✪ RADYO 💢 DE ✪ DEUTSCHLAND 💢 DE ✪ HEVC 💢 DE ✪ RAW 💢 DE ✪ UHD - QHD 💢 DE ✪ REGIONAL 💢 DE ✪ NEWS 💢 DE ✪ DOKU 💢 DE ✪ RTL+ SENDER 💢 DE ✪ SKY CINEMA 💢 DE ✪ SKY SELECT 💢 DE ✪ KINDER & 24/7 💢 DE ✪ TV ACTOR 24/7 💢 DE ✪ TV SERIEN 24/7  💢 DE ✪ TV CINEMA 24/7 💢 DE ✪ TOP SERIEN 24/7 💢 DE ✪ KINO LOUNGE 2026 💢 DE ✪ NETFLIX TOP10 💢 DE ✪ SKY BUNDESLIGA 💢 DE ✪ DAZN SENDER 💢 DE ✪ DAZN FUSSBALL LIGA 💢 DE ✪ DAZN EVENT 💢 DE ✪ UEFA CHAMPIONS LEAGUE 💢 DE ✪ SKY SPORT 💢 DE ✪ SKY SPORT F1 EVENT 💢 DE ✪ SPORT  💢 DE ✪ RTL+ EVENT 💢 DE ✪ MYTEAM MAGENTA 💢 DE ✪ LEAGUES TEAM 💢 DE ✪ LEAGUES EVENT 💢 DE ✪ DYN EVENT 💢 DE ✪ DYN SPORTARTEN 💢 DE ✪ DEL.2 EVENT 💢 DE ✪ DEL.2 TEAM 💢 DE ✪ SPORTEUROPE TV 💢 DE ✪ MUSIK 💢 DE ✪ RADIO 💢 VIP ✪ SPORTS EU/MIX  💢 VIP ✪ SPORTS BALKAN  💢 VIP ✪ F1.TV 💢 VIP ✪ PPV GLORY KICKBOXING 💢 VIP ✪ GOLF SPORTS 💢 AT ✪ AUSTRIA 💢 AT ✪ AUSTRIA SPORT 💢 CH ✪ SWISS 💢 CH ✪ BLUE SPORT DE 💢 CH ✪ MYSPORT EVENT 💢 NL ✪ UHD 💢 NL ✪ RAW 💢 NL ✪ GENERAL 💢 NL ✪ REGIO 💢 NL ✪ SPORT  💢 NL ✪ VIAPLAY 💢 NL ✪ DOCUMENTAIRE 💢 NL ✪ CINEMA 💢 NL ✪ KINDEREN 💢 NL ✪ MUZIEK 💢 NL ✪ RADIO 💢 PL ✪ POLSKA HEVC 💢 PL ✪ POLSKA 💢 PL ✪ SPORT 💢 PL ✪ MUSIC 💢 PL ✪ DOKU  💢 PL ✪ CINEMA  💢 PL ✪ KIDS  💢 ALB ✪ NATIONAL 💢 ALB ✪ DOKUMENTERA 💢 ALB ✪ PER FEMIJE 💢 ALB ✪ CINEMA 💢 ALB ✪ SPORT  💢 ALB ✪ MUSIC 💢 EXYU ✪ SERBIEN 💢 EXYU ✪ PINK 💢 EXYU ✪ DOCU 💢 EXYU ✪ KIDS 24/7 💢 EXYU ✪ 24/7 💢 EXYU ✪ CINEMA 💢 EXYU ✪ MUSIC 💢 CRO ✪ CROATIA 💢 BIH ✪ BOSNIA  💢 MK ✪ MACEDONIA 💢 GR ✪ Ελλάδα | GREECE 💢 GR ✪ Αθλητικά | SPORTS  💢 GR ✪ Κινηματογράφος | CINEMA 💢 GR ✪ Ντοκιμαντέρ | DOCUMENTARY 💢 GR ✪ Παιδικά | KIDS 💢 BE ✪ BELGIUM 💢 BE ✪ BELGIUM SPORT 💢 FR ✪ FRANCE 💢 FR ✪ SPORT 💢 FR ✪ LIGUE+1 💢 FR ✪ CANAL+ 💢 FR ✪ CINEMA 💢 FR ✪ DECOUVERTE 💢 FR ✪ ENFANTS 💢 FR ✪ MUSIC 💢 PT ✪ HEVC 💢 PT ✪ PORTUGAL 💢 PT ✪ SPORT 💢 PT ✪ CINEMA 💢 PT ✪ DOKU 💢 PT ✪ KIDS 💢 PT ✪ MUSIC 💢 BG ✪ BULGARIA 💢 BG ✪ SPORT 💢 BG ✪ DOKU 💢 BG ✪ CINEMA 💢 BG ✪ KIDS 💢 BG ✪ MUSIC 💢 RO ✪ ROMANIA 💢 RO ✪ CINEMA 💢 RO ✪ DOKU 💢 RO ✪ SPORT  💢 RO ✪ KIDS/COPII 💢 RO ✪ MUSIC 💢 UK ✪ ENGLAND 💢 UK ✪ SPORT  💢 UK ✪ DOKU 💢 UK ✪ SKY SPORT 💢 UK ✪ TNT SPORT 💢 UK ✪ CINEMA 💢 UK ✪ MUSIC 💢 UK ✪ KIDS 💢 IT ✪ ITALIA HEVC 💢 IT ✪ ITALIA 💢 IT ✪ CINEMA 💢 IT ✪ 24/7 ACTOR 💢 IT ✪ CULTURA 💢 IT ✪ BAMBINI 💢 IT ✪ MUSICA 💢 IT ✪ SPORT  💢 IT ✪ DAZN 💢 ES ✪ SPAIN 💢 ES ✪ DEPORTES 💢 ES ✪ DOCUMENTALES 💢 ES ✪ CINEMA 💢 RU ✪ Россия | RUSSIA 💢 RU ✪ Спорт | SPORT  💢 RU ✪  Кино | CINEMA 💢 RU ✪ Познавательные | NATURE 💢 RU ✪ Новостные | NEWS 💢 RU ✪ Детские | KIDS 💢 RU ✪ Развлекательные | REST 💢 RU ✪ Музыкальные | MUSIC 💢 UA ✪ UKRAIN 💢 HU ✪ HUNGARY 💢 AZ ✪ AZERBAYCAN 💢 DK ✪ DENMARK 💢 SE ✪ SWEDEN 💢 NO ✪ NORWAY 💢 FI ✪ FINLAND 💢 SL ✪ SLOVENIA 💢 SL ✪ SLOVAKIA 💢 CZ ✪ CZECH 💢 CZ ✪ NEWS 💢 CZ ✪ DOKU 💢 CZ ✪ SPORT 💢 CZ ✪ MOVIE 💢 CZ ✪ CHILDREN 💢 CZ ✪ MUSIC 💢 CZ ✪ OTHER 💢 US ✪ ENTERTAINMENT 💢 US ✪ NEWS 💢 US ✪ DOCUMENTARY 💢 US ✪ SPORT  💢 US ✪ KIDS 💢 US ✪ MOVIES - CINEMA 💢 US ✪ MLS (EVENT) 💢 US ✪ NBA (EVENT) 💢 US ✪ NFL (EVENT) 💢 CA ✪ CANADA 💢 CA ✪ SPORT 💢 AU ✪ AUSTRALIA 💢 BR ✪ BRAZIL 💢 COL ✪ COLOMBIA 💢 PE ✪ PERU 💢 AR ✪ QURAN 💢 AR ✪ BEIN SPORT 💢 AR ✪ BEIN ENTERTAINMENT 💢 AR ✪ SPORTS 💢 AR ✪ STARZPLAY 💢 AR ✪ NEWS 💢 AR ✪ OSN 💢 AR ✪ NETFLIX 💢 AR ✪ SHAHID 💢 AR ✪ ISLAM 💢 AR ✪ KIDS 💢 AR ✪ MBC 💢 AR ✪ ROTANA 💢 AR ✪ AL MAJD 💢 AR ✪ MAROCCO 💢 AR ✪ ALGERIA 💢 AR ✪ SAUDI ARABIA 💢 AR ✪ LEBANON 💢 AR ✪ TUNISIE 💢 AR ✪ KUWAIT 💢 AR ✪ SUDAN 💢 AR ✪ EGYPT 💢 AR ✪ PALASTINE 💢 AR ✪ UAE 💢 AR ✪ BAHRAIN 💢 AR ✪ IRAQ 💢 AR ✪ JORDAN 💢 AR ✪ QATAR 💢 AR ✪ SYRIA 💢 KU ✪ KURDISH 💢 SU ✪ SURYOYO 💢 IR ✪ IRAN 💢 IN ✪ INDIA 💢 IN ✪ INDIA REGIONAL 💢 IN ✪ INDIA KANNADA TV 💢 IN ✪ MOVIES 💢 ARM ✪ ARMENIAN 💢 PK ✪ PAKISTAN 💢 AFG ✪ AFGHANISTAN 💢 AF ✪ AFRICA 💢  AF ✪ SOUTH AFRICA 💢 DSTV ✪ ENTERTAINMENT 💢 DSTV ✪ SPORT 💢 DSTV ✪ NEWS 💢 DSTV ✪ DOKUMENTARY 💢 DSTV ✪ MOVIES 💢 DSTV ✪ KIDS 💢 DSTV ✪ MUSIC 💢 TH ✪ THAILAND ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://lefanten.com:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://lefanten.com:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 13 Nisan 2026 17:35
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 24 Şubat 2027 17:35
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ oH6uHgrq
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ TF3urhd4
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇫🇷 France
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Paris
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ API Message
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 5.135.245.95
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 17 Eylül 2026 - 21:08
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 13179 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 58081 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 12117 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/get.php?username=oH6uHgrq&password=TF3urhd4&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/xmltv.php?username=oH6uHgrq&password=TF3urhd4&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✪ ULUSAL 💢 TR ✪ HEVC 💢 TR ✪ RAW 💢 TR ✪ QHD 💢 TR ✪ HABER 💢 TR ✪ BELGESEL 💢 TR ✪ COCUK 💢 TR ✪ COCUK 7/24 💢 TR ✪ MUZIK 💢 TR ✪ MUZIK 7/24 💢 TR ✪ DINI / YEREL 💢 TR ✪ SPOR 💢 TR ✪ BEIN SPORTS+ 💢 TR ✪ BEIN SPORTS 💢 TR ✪ S-SPORT 💢 TR ✪ TABII / EXXEN SPOR 💢 TR ✪ DIZI SON BOLUMLER 💢 TR ✪ BEIN & D-SMART 💢 TR ✪ SINEMA MIX 💢 TR ✪ NETFLIX / BLUTV 7/24 💢 TR ✪ CINEMAXIMUM 7/24 💢 TR ✪ FILM 7/24 💢 TR ✪ YESILCAM 💢 TR ✪ YERLI FILM 7/24 💢 TR ✪ YERLI DIZI 7/24 💢 TR ✪ RADYO 💢 DE ✪ DEUTSCHLAND 💢 DE ✪ HEVC 💢 DE ✪ RAW 💢 DE ✪ UHD - QHD 💢 DE ✪ REGIONAL 💢 DE ✪ NEWS 💢 DE ✪ DOKU 💢 DE ✪ RTL+ SENDER 💢 DE ✪ SKY CINEMA 💢 DE ✪ SKY SELECT 💢 DE ✪ KINDER & 24/7 💢 DE ✪ TV ACTOR 24/7 💢 DE ✪ TV SERIEN 24/7  💢 DE ✪ TV CINEMA 24/7 💢 DE ✪ TOP SERIEN 24/7 💢 DE ✪ KINO LOUNGE 2026 💢 DE ✪ NETFLIX TOP10 💢 DE ✪ SKY BUNDESLIGA 💢 DE ✪ DAZN SENDER 💢 DE ✪ DAZN FUSSBALL LIGA 💢 DE ✪ DAZN EVENT 💢 DE ✪ UEFA CHAMPIONS LEAGUE 💢 DE ✪ SKY SPORT 💢 DE ✪ SKY SPORT F1 EVENT 💢 DE ✪ SPORT  💢 DE ✪ RTL+ EVENT 💢 DE ✪ MYTEAM MAGENTA 💢 DE ✪ LEAGUES TEAM 💢 DE ✪ LEAGUES EVENT 💢 DE ✪ DYN EVENT 💢 DE ✪ DYN SPORTARTEN 💢 DE ✪ DEL.2 EVENT 💢 DE ✪ DEL.2 TEAM 💢 DE ✪ SPORTEUROPE TV 💢 DE ✪ MUSIK 💢 DE ✪ RADIO 💢 VIP ✪ SPORTS EU/MIX  💢 VIP ✪ SPORTS BALKAN  💢 VIP ✪ F1.TV 💢 VIP ✪ PPV GLORY KICKBOXING 💢 VIP ✪ GOLF SPORTS 💢 AT ✪ AUSTRIA 💢 AT ✪ AUSTRIA SPORT 💢 CH ✪ SWISS 💢 CH ✪ BLUE SPORT DE 💢 CH ✪ MYSPORT EVENT 💢 NL ✪ UHD 💢 NL ✪ RAW 💢 NL ✪ GENERAL 💢 NL ✪ REGIO 💢 NL ✪ SPORT  💢 NL ✪ VIAPLAY 💢 NL ✪ DOCUMENTAIRE 💢 NL ✪ CINEMA 💢 NL ✪ KINDEREN 💢 NL ✪ MUZIEK 💢 NL ✪ RADIO 💢 PL ✪ POLSKA HEVC 💢 PL ✪ POLSKA 💢 PL ✪ SPORT 💢 PL ✪ MUSIC 💢 PL ✪ DOKU  💢 PL ✪ CINEMA  💢 PL ✪ KIDS  💢 ALB ✪ NATIONAL 💢 ALB ✪ DOKUMENTERA 💢 ALB ✪ PER FEMIJE 💢 ALB ✪ CINEMA 💢 ALB ✪ SPORT  💢 ALB ✪ MUSIC 💢 EXYU ✪ SERBIEN 💢 EXYU ✪ PINK 💢 EXYU ✪ DOCU 💢 EXYU ✪ KIDS 24/7 💢 EXYU ✪ 24/7 💢 EXYU ✪ CINEMA 💢 EXYU ✪ MUSIC 💢 CRO ✪ CROATIA 💢 BIH ✪ BOSNIA  💢 MK ✪ MACEDONIA 💢 GR ✪ Ελλάδα | GREECE 💢 GR ✪ Αθλητικά | SPORTS  💢 GR ✪ Κινηματογράφος | CINEMA 💢 GR ✪ Ντοκιμαντέρ | DOCUMENTARY 💢 GR ✪ Παιδικά | KIDS 💢 BE ✪ BELGIUM 💢 BE ✪ BELGIUM SPORT 💢 FR ✪ FRANCE 💢 FR ✪ SPORT 💢 FR ✪ LIGUE+1 💢 FR ✪ CANAL+ 💢 FR ✪ CINEMA 💢 FR ✪ DECOUVERTE 💢 FR ✪ ENFANTS 💢 FR ✪ MUSIC 💢 PT ✪ HEVC 💢 PT ✪ PORTUGAL 💢 PT ✪ SPORT 💢 PT ✪ CINEMA 💢 PT ✪ DOKU 💢 PT ✪ KIDS 💢 PT ✪ MUSIC 💢 BG ✪ BULGARIA 💢 BG ✪ SPORT 💢 BG ✪ DOKU 💢 BG ✪ CINEMA 💢 BG ✪ KIDS 💢 BG ✪ MUSIC 💢 RO ✪ ROMANIA 💢 RO ✪ CINEMA 💢 RO ✪ DOKU 💢 RO ✪ SPORT  💢 RO ✪ KIDS/COPII 💢 RO ✪ MUSIC 💢 UK ✪ ENGLAND 💢 UK ✪ SPORT  💢 UK ✪ DOKU 💢 UK ✪ SKY SPORT 💢 UK ✪ TNT SPORT 💢 UK ✪ CINEMA 💢 UK ✪ MUSIC 💢 UK ✪ KIDS 💢 IT ✪ ITALIA HEVC 💢 IT ✪ ITALIA 💢 IT ✪ CINEMA 💢 IT ✪ 24/7 ACTOR 💢 IT ✪ CULTURA 💢 IT ✪ BAMBINI 💢 IT ✪ MUSICA 💢 IT ✪ SPORT  💢 IT ✪ DAZN 💢 ES ✪ SPAIN 💢 ES ✪ DEPORTES 💢 ES ✪ DOCUMENTALES 💢 ES ✪ CINEMA 💢 RU ✪ Россия | RUSSIA 💢 RU ✪ Спорт | SPORT  💢 RU ✪  Кино | CINEMA 💢 RU ✪ Познавательные | NATURE 💢 RU ✪ Новостные | NEWS 💢 RU ✪ Детские | KIDS 💢 RU ✪ Развлекательные | REST 💢 RU ✪ Музыкальные | MUSIC 💢 UA ✪ UKRAIN 💢 HU ✪ HUNGARY 💢 AZ ✪ AZERBAYCAN 💢 DK ✪ DENMARK 💢 SE ✪ SWEDEN 💢 NO ✪ NORWAY 💢 FI ✪ FINLAND 💢 SL ✪ SLOVENIA 💢 SL ✪ SLOVAKIA 💢 CZ ✪ CZECH 💢 CZ ✪ NEWS 💢 CZ ✪ DOKU 💢 CZ ✪ SPORT 💢 CZ ✪ MOVIE 💢 CZ ✪ CHILDREN 💢 CZ ✪ MUSIC 💢 CZ ✪ OTHER 💢 US ✪ ENTERTAINMENT 💢 US ✪ NEWS 💢 US ✪ DOCUMENTARY 💢 US ✪ SPORT  💢 US ✪ KIDS 💢 US ✪ MOVIES - CINEMA 💢 US ✪ MLS (EVENT) 💢 US ✪ NBA (EVENT) 💢 US ✪ NFL (EVENT) 💢 CA ✪ CANADA 💢 CA ✪ SPORT 💢 AU ✪ AUSTRALIA 💢 BR ✪ BRAZIL 💢 COL ✪ COLOMBIA 💢 PE ✪ PERU 💢 AR ✪ QURAN 💢 AR ✪ BEIN SPORT 💢 AR ✪ BEIN ENTERTAINMENT 💢 AR ✪ SPORTS 💢 AR ✪ STARZPLAY 💢 AR ✪ NEWS 💢 AR ✪ OSN 💢 AR ✪ NETFLIX 💢 AR ✪ SHAHID 💢 AR ✪ ISLAM 💢 AR ✪ KIDS 💢 AR ✪ MBC 💢 AR ✪ ROTANA 💢 AR ✪ AL MAJD 💢 AR ✪ MAROCCO 💢 AR ✪ ALGERIA 💢 AR ✪ SAUDI ARABIA 💢 AR ✪ LEBANON 💢 AR ✪ TUNISIE 💢 AR ✪ KUWAIT 💢 AR ✪ SUDAN 💢 AR ✪ EGYPT 💢 AR ✪ PALASTINE 💢 AR ✪ UAE 💢 AR ✪ BAHRAIN 💢 AR ✪ IRAQ 💢 AR ✪ JORDAN 💢 AR ✪ QATAR 💢 AR ✪ SYRIA 💢 KU ✪ KURDISH 💢 SU ✪ SURYOYO 💢 IR ✪ IRAN 💢 IN ✪ INDIA 💢 IN ✪ INDIA REGIONAL 💢 IN ✪ INDIA KANNADA TV 💢 IN ✪ MOVIES 💢 ARM ✪ ARMENIAN 💢 PK ✪ PAKISTAN 💢 AFG ✪ AFGHANISTAN 💢 AF ✪ AFRICA 💢  AF ✪ SOUTH AFRICA 💢 DSTV ✪ ENTERTAINMENT 💢 DSTV ✪ SPORT 💢 DSTV ✪ NEWS 💢 DSTV ✪ DOKUMENTARY 💢 DSTV ✪ MOVIES 💢 DSTV ✪ KIDS 💢 DSTV ✪ MUSIC 💢 TH ✪ THAILAND ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://lefanten.com:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://lefanten.com:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 18 Haziran 2026 09:02
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 26 Eylül 2026 21:31
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ dqbA3jj8
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ vxekDAAl
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇫🇷 France
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Paris
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ API Message
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 5.135.245.95
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ OVH SAS
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 17 Eylül 2026 - 22:16
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 13179 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 58081 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 12117 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/get.php?username=dqbA3jj8&password=vxekDAAl&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://lefanten.com:8080/xmltv.php?username=dqbA3jj8&password=vxekDAAl&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✪ ULUSAL 💢 TR ✪ HEVC 💢 TR ✪ RAW 💢 TR ✪ QHD 💢 TR ✪ HABER 💢 TR ✪ BELGESEL 💢 TR ✪ COCUK 💢 TR ✪ COCUK 7/24 💢 TR ✪ MUZIK 💢 TR ✪ MUZIK 7/24 💢 TR ✪ DINI / YEREL 💢 TR ✪ SPOR 💢 TR ✪ BEIN SPORTS+ 💢 TR ✪ BEIN SPORTS 💢 TR ✪ S-SPORT 💢 TR ✪ TABII / EXXEN SPOR 💢 TR ✪ DIZI SON BOLUMLER 💢 TR ✪ BEIN & D-SMART 💢 TR ✪ SINEMA MIX 💢 TR ✪ NETFLIX / BLUTV 7/24 💢 TR ✪ CINEMAXIMUM 7/24 💢 TR ✪ FILM 7/24 💢 TR ✪ YESILCAM 💢 TR ✪ YERLI FILM 7/24 💢 TR ✪ YERLI DIZI 7/24 💢 TR ✪ RADYO 💢 DE ✪ DEUTSCHLAND 💢 DE ✪ HEVC 💢 DE ✪ RAW 💢 DE ✪ UHD - QHD 💢 DE ✪ REGIONAL 💢 DE ✪ NEWS 💢 DE ✪ DOKU 💢 DE ✪ RTL+ SENDER 💢 DE ✪ SKY CINEMA 💢 DE ✪ SKY SELECT 💢 DE ✪ KINDER & 24/7 💢 DE ✪ TV ACTOR 24/7 💢 DE ✪ TV SERIEN 24/7  💢 DE ✪ TV CINEMA 24/7 💢 DE ✪ TOP SERIEN 24/7 💢 DE ✪ KINO LOUNGE 2026 💢 DE ✪ NETFLIX TOP10 💢 DE ✪ SKY BUNDESLIGA 💢 DE ✪ DAZN SENDER 💢 DE ✪ DAZN FUSSBALL LIGA 💢 DE ✪ DAZN EVENT 💢 DE ✪ UEFA CHAMPIONS LEAGUE 💢 DE ✪ SKY SPORT 💢 DE ✪ SKY SPORT F1 EVENT 💢 DE ✪ SPORT  💢 DE ✪ RTL+ EVENT 💢 DE ✪ MYTEAM MAGENTA 💢 DE ✪ LEAGUES TEAM 💢 DE ✪ LEAGUES EVENT 💢 DE ✪ DYN EVENT 💢 DE ✪ DYN SPORTARTEN 💢 DE ✪ DEL.2 EVENT 💢 DE ✪ DEL.2 TEAM 💢 DE ✪ SPORTEUROPE TV 💢 DE ✪ MUSIK 💢 DE ✪ RADIO 💢 VIP ✪ SPORTS EU/MIX  💢 VIP ✪ SPORTS BALKAN  💢 VIP ✪ F1.TV 💢 VIP ✪ PPV GLORY KICKBOXING 💢 VIP ✪ GOLF SPORTS 💢 AT ✪ AUSTRIA 💢 AT ✪ AUSTRIA SPORT 💢 CH ✪ SWISS 💢 CH ✪ BLUE SPORT DE 💢 CH ✪ MYSPORT EVENT 💢 NL ✪ UHD 💢 NL ✪ RAW 💢 NL ✪ GENERAL 💢 NL ✪ REGIO 💢 NL ✪ SPORT  💢 NL ✪ VIAPLAY 💢 NL ✪ DOCUMENTAIRE 💢 NL ✪ CINEMA 💢 NL ✪ KINDEREN 💢 NL ✪ MUZIEK 💢 NL ✪ RADIO 💢 PL ✪ POLSKA HEVC 💢 PL ✪ POLSKA 💢 PL ✪ SPORT 💢 PL ✪ MUSIC 💢 PL ✪ DOKU  💢 PL ✪ CINEMA  💢 PL ✪ KIDS  💢 ALB ✪ NATIONAL 💢 ALB ✪ DOKUMENTERA 💢 ALB ✪ PER FEMIJE 💢 ALB ✪ CINEMA 💢 ALB ✪ SPORT  💢 ALB ✪ MUSIC 💢 EXYU ✪ SERBIEN 💢 EXYU ✪ PINK 💢 EXYU ✪ DOCU 💢 EXYU ✪ KIDS 24/7 💢 EXYU ✪ 24/7 💢 EXYU ✪ CINEMA 💢 EXYU ✪ MUSIC 💢 CRO ✪ CROATIA 💢 BIH ✪ BOSNIA  💢 MK ✪ MACEDONIA 💢 GR ✪ Ελλάδα | GREECE 💢 GR ✪ Αθλητικά | SPORTS  💢 GR ✪ Κινηματογράφος | CINEMA 💢 GR ✪ Ντοκιμαντέρ | DOCUMENTARY 💢 GR ✪ Παιδικά | KIDS 💢 BE ✪ BELGIUM 💢 BE ✪ BELGIUM SPORT 💢 FR ✪ FRANCE 💢 FR ✪ SPORT 💢 FR ✪ LIGUE+1 💢 FR ✪ CANAL+ 💢 FR ✪ CINEMA 💢 FR ✪ DECOUVERTE 💢 FR ✪ ENFANTS 💢 FR ✪ MUSIC 💢 PT ✪ HEVC 💢 PT ✪ PORTUGAL 💢 PT ✪ SPORT 💢 PT ✪ CINEMA 💢 PT ✪ DOKU 💢 PT ✪ KIDS 💢 PT ✪ MUSIC 💢 BG ✪ BULGARIA 💢 BG ✪ SPORT 💢 BG ✪ DOKU 💢 BG ✪ CINEMA 💢 BG ✪ KIDS 💢 BG ✪ MUSIC 💢 RO ✪ ROMANIA 💢 RO ✪ CINEMA 💢 RO ✪ DOKU 💢 RO ✪ SPORT  💢 RO ✪ KIDS/COPII 💢 RO ✪ MUSIC 💢 UK ✪ ENGLAND 💢 UK ✪ SPORT  💢 UK ✪ DOKU 💢 UK ✪ SKY SPORT 💢 UK ✪ TNT SPORT 💢 UK ✪ CINEMA 💢 UK ✪ MUSIC 💢 UK ✪ KIDS 💢 IT ✪ ITALIA HEVC 💢 IT ✪ ITALIA 💢 IT ✪ CINEMA 💢 IT ✪ 24/7 ACTOR 💢 IT ✪ CULTURA 💢 IT ✪ BAMBINI 💢 IT ✪ MUSICA 💢 IT ✪ SPORT  💢 IT ✪ DAZN 💢 ES ✪ SPAIN 💢 ES ✪ DEPORTES 💢 ES ✪ DOCUMENTALES 💢 ES ✪ CINEMA 💢 RU ✪ Россия | RUSSIA 💢 RU ✪ Спорт | SPORT  💢 RU ✪  Кино | CINEMA 💢 RU ✪ Познавательные | NATURE 💢 RU ✪ Новостные | NEWS 💢 RU ✪ Детские | KIDS 💢 RU ✪ Развлекательные | REST 💢 RU ✪ Музыкальные | MUSIC 💢 UA ✪ UKRAIN 💢 HU ✪ HUNGARY 💢 AZ ✪ AZERBAYCAN 💢 DK ✪ DENMARK 💢 SE ✪ SWEDEN 💢 NO ✪ NORWAY 💢 FI ✪ FINLAND 💢 SL ✪ SLOVENIA 💢 SL ✪ SLOVAKIA 💢 CZ ✪ CZECH 💢 CZ ✪ NEWS 💢 CZ ✪ DOKU 💢 CZ ✪ SPORT 💢 CZ ✪ MOVIE 💢 CZ ✪ CHILDREN 💢 CZ ✪ MUSIC 💢 CZ ✪ OTHER 💢 US ✪ ENTERTAINMENT 💢 US ✪ NEWS 💢 US ✪ DOCUMENTARY 💢 US ✪ SPORT  💢 US ✪ KIDS 💢 US ✪ MOVIES - CINEMA 💢 US ✪ MLS (EVENT) 💢 US ✪ NBA (EVENT) 💢 US ✪ NFL (EVENT) 💢 CA ✪ CANADA 💢 CA ✪ SPORT 💢 AU ✪ AUSTRALIA 💢 BR ✪ BRAZIL 💢 COL ✪ COLOMBIA 💢 PE ✪ PERU 💢 AR ✪ QURAN 💢 AR ✪ BEIN SPORT 💢 AR ✪ BEIN ENTERTAINMENT 💢 AR ✪ SPORTS 💢 AR ✪ STARZPLAY 💢 AR ✪ NEWS 💢 AR ✪ OSN 💢 AR ✪ NETFLIX 💢 AR ✪ SHAHID 💢 AR ✪ ISLAM 💢 AR ✪ KIDS 💢 AR ✪ MBC 💢 AR ✪ ROTANA 💢 AR ✪ AL MAJD 💢 AR ✪ MAROCCO 💢 AR ✪ ALGERIA 💢 AR ✪ SAUDI ARABIA 💢 AR ✪ LEBANON 💢 AR ✪ TUNISIE 💢 AR ✪ KUWAIT 💢 AR ✪ SUDAN 💢 AR ✪ EGYPT 💢 AR ✪ PALASTINE 💢 AR ✪ UAE 💢 AR ✪ BAHRAIN 💢 AR ✪ IRAQ 💢 AR ✪ JORDAN 💢 AR ✪ QATAR 💢 AR ✪ SYRIA 💢 KU ✪ KURDISH 💢 SU ✪ SURYOYO 💢 IR ✪ IRAN 💢 IN ✪ INDIA 💢 IN ✪ INDIA REGIONAL 💢 IN ✪ INDIA KANNADA TV 💢 IN ✪ MOVIES 💢 ARM ✪ ARMENIAN 💢 PK ✪ PAKISTAN 💢 AFG ✪ AFGHANISTAN 💢 AF ✪ AFRICA 💢  AF ✪ SOUTH AFRICA 💢 DSTV ✪ ENTERTAINMENT 💢 DSTV ✪ SPORT 💢 DSTV ✪ NEWS 💢 DSTV ✪ DOKUMENTARY 💢 DSTV ✪ MOVIES 💢 DSTV ✪ KIDS 💢 DSTV ✪ MUSIC 💢 TH ✪ THAILAND ✷✷ 📺
+
+========================================

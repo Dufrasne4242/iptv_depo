@@ -1,0 +1,726 @@
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://user.streamtv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://user.streamtv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 18 Mart 2023 19:16
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 05 Nisan 2027 07:03
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ Blade1995
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ p65RmPAxol
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 14 Eylül 2026 - 00:02
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 15836 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 65020 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 442 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/get.php?username=Blade1995&password=p65RmPAxol&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/xmltv.php?username=Blade1995&password=p65RmPAxol&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Arab Countries VIP 💢 Africa 💢 Africa VIP 💢 Africa Canal+ 💢 Albania 💢 Albania Sport 💢 Arab Countries 💢 beIN - Qatar ARB 💢 OSN - Qatar ARB 💢 ARB Algeria 💢 ARB Bahrain 💢 ARB Egypt 💢 ARB Libya 💢 ARB Syria 💢 ARB Lebanon 💢 ARB Palestine 💢 ARB Rotana 💢 ARB Morocco 💢 ARB Jordan 💢 ARB Kuwait 💢 ARB UAE 💢 ARB Iraq 💢 ARB Tunisia 💢 ARB Saudi Arabia 💢 ARB Islam 💢 ARB News 💢 ARB MBC 💢 ARB Kids 💢 Armenia 💢 Australia 💢 Austria 💢 Azerbaijan 💢 Belgium 💢 BOSNA-Bosnia 💢 Brazil 💢 Bulgaria 💢 Canada 💢 China 💢 Crna Gora-Monte Negro 💢 Czech Republic 💢 Denmark 💢 Denmark VIP 💢 24-7 Denmark 💢 Estonia 💢 ex-Yu 💢 ex-Yu VIP 💢 Finland 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Hungary 💢 India 💢 India VIP 💢 Indonesia 💢 Iran 💢 Israel 💢 Italia 💢 Japan 💢 Korea 💢 Kurdish 💢 Latin America 💢 Lithuania 💢 Macedonia 💢 Malaysia 💢 Malta 💢 Nepal 💢 Netherlands 💢 Norway 💢 Norway VIP 💢 Pakistan 💢 Philippines 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Russian 💢 Scandinavian 💢 Singapore 💢 Slovenia 💢 Spain 💢 Srbija-Serbia 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 Thailand 💢 Turkey 💢 Ukraine 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 Viet Nam 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 Fifa World Cup 2026 💢 World Cricket VIP ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://user.streamtv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://user.streamtv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 21 Mart 2021 15:56
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 04 Nisan 2027 22:45
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ HHQXMU82f3
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 6zgvnt1qHf
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 14 Eylül 2026 - 00:10
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 16611 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 65020 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 442 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/get.php?username=HHQXMU82f3&password=6zgvnt1qHf&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/xmltv.php?username=HHQXMU82f3&password=6zgvnt1qHf&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢NFL VIP Sports 💢 A1 TV 💢 Arab Countries VIP 💢 Afghanistan 💢 Africa 💢 Africa VIP 💢 Africa Canal+ 💢 Albania 💢 Albania Sport 💢 Arab Countries 💢 ARB Algeria 💢 ARB Bahrain 💢 ARB Egypt 💢 ARB Libya 💢 ARB Syria 💢 ARB Lebanon 💢 ARB Palestine 💢 ARB Rotana 💢 ARB Morocco 💢 ARB Jordan 💢 ARB Kuwait 💢 ARB UAE 💢 ARB Iraq 💢 ARB Tunisia 💢 ARB Saudi Arabia 💢 ARB Islam 💢 ARB News 💢 ARB MBC 💢 ARB Kids 💢 Armenia 💢 Australia 💢 Austria 💢 Belgium 💢 BOSNA-Bosnia 💢 Brazil 💢 Bulgaria 💢 Canada 💢 China 💢 Crna Gora-Monte Negro 💢 Czech Republic 💢 Denmark 💢 Denmark VIP 💢 Denmark Radio 💢 24-7 Denmark 💢 Estonia 💢 ex-Yu 💢 ex-Yu VIP 💢 Finland 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Hungary 💢 Iceland 💢 India 💢 India VIP 💢 Indonesia 💢 Iran 💢 Israel 💢 Italia 💢 Japan 💢 Korea 💢 Kurdish 💢 Latin America 💢 Lithuania 💢 Macedonia 💢 Malaysia 💢 Malta 💢 Netherlands 💢 Norway 💢 Norway VIP 💢 Pakistan 💢 Philippines 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Romania 💢 Russian 💢 Scandinavian 💢 Singapore 💢 Slovenia 💢 Spain 💢 Srbija-Serbia 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 Thailand 💢 Turkey 💢 UHD 4K 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 Viet Nam 💢 VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 Fifa World Cup 2026 💢 World Cricket VIP ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://user.streamtv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://user.streamtv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 11 Mart 2020 19:07
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 06 Mayıs 2027 18:01
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 12hmg20031105
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 8Swjq1RpHd
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 14 Eylül 2026 - 03:05
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 16646 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 65020 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 442 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/get.php?username=12hmg20031105&password=8Swjq1RpHd&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/xmltv.php?username=12hmg20031105&password=8Swjq1RpHd&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Arab Countries VIP 💢 Afghanistan 💢 Africa 💢 Africa VIP 💢 Africa Canal+ 💢 Albania 💢 Albania Sport 💢 Arab Countries 💢 ARB Algeria 💢 ARB Bahrain 💢 ARB Egypt 💢 ARB Libya 💢 ARB Syria 💢 ARB Lebanon 💢 ARB Palestine 💢 ARB Rotana 💢 ARB Morocco 💢 ARB Jordan 💢 ARB Kuwait 💢 ARB UAE 💢 ARB Iraq 💢 ARB Tunisia 💢 ARB Saudi Arabia 💢 ARB Islam 💢 ARB News 💢 ARB MBC 💢 ARB Kids 💢 Armenia 💢 Australia 💢 Austria 💢 Azerbaijan 💢 Belgium 💢 BOSNA-Bosnia 💢 Brazil 💢 Bulgaria 💢 Canada 💢 China 💢 Crna Gora-Monte Negro 💢 Czech Republic 💢 Denmark 💢 Denmark VIP 💢 Denmark Radio 💢 24-7 Denmark 💢 Estonia 💢 ex-Yu 💢 ex-Yu VIP 💢 Finland 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Hungary 💢 Iceland 💢 India 💢 India VIP 💢 Indonesia 💢 Iran 💢 Israel 💢 Italia 💢 Japan 💢 Korea 💢 Kurdish 💢 Latin America 💢 Lithuania 💢 Macedonia 💢 Malaysia 💢 Malta 💢 Netherlands 💢 Norway 💢 Norway VIP 💢 Pakistan 💢 Philippines 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Romania 💢 Russian 💢 Scandinavian 💢 Singapore 💢 Slovenia 💢 Spain 💢 Srbija-Serbia 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 Thailand 💢 Turkey 💢 UHD 4K 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 Viet Nam 💢 VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 NFL VIP Sports 💢 World Cricket VIP 💢 Fifa World Cup 2026 ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://user.streamtv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://user.streamtv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 03 Şubat 2023 12:49
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 15 Şubat 2027 02:52
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ caN6Y3xzQC
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ WeVu6CgYai
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 14 Eylül 2026 - 03:07
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 16942 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 18675 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/get.php?username=caN6Y3xzQC&password=WeVu6CgYai&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/xmltv.php?username=caN6Y3xzQC&password=WeVu6CgYai&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Arab Countries VIP 💢 Afghanistan 💢 Africa 💢 Africa VIP 💢 Africa Canal+ 💢 Albania 💢 Albania Sport 💢 Arab Countries 💢 beIN - Qatar ARB 💢 OSN - Qatar ARB 💢 ARB Algeria 💢 ARB Bahrain 💢 ARB Egypt 💢 ARB Libya 💢 ARB Syria 💢 ARB Lebanon 💢 ARB Palestine 💢 ARB Rotana 💢 ARB Morocco 💢 ARB Jordan 💢 ARB Kuwait 💢 ARB UAE 💢 ARB Iraq 💢 ARB Tunisia 💢 ARB Saudi Arabia 💢 ARB Islam 💢 ARB News 💢 ARB MBC 💢 ARB Kids 💢 Armenia 💢 Australia 💢 Austria 💢 Azerbaijan 💢 Belgium 💢 BOSNA-Bosnia 💢 Brazil 💢 Bulgaria 💢 Canada 💢 China 💢 Crna Gora-Monte Negro 💢 Czech Republic 💢 Denmark 💢 Denmark VIP 💢 Denmark Radio 💢 24-7 Denmark 💢 Estonia 💢 ex-Yu 💢 ex-Yu VIP 💢 Finland 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Hungary 💢 Iceland 💢 India 💢 India VIP 💢 Indonesia 💢 Iran 💢 Israel 💢 Italia 💢 Japan 💢 Korea 💢 Kurdish 💢 Latvia 💢 Latin America 💢 Lithuania 💢 Macedonia 💢 Malaysia 💢 Malta 💢 Nepal 💢 Netherlands 💢 Norway 💢 Norway VIP 💢 Pakistan 💢 Philippines 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Romania 💢 Russian 💢 Scandinavian 💢 Singapore 💢 Slovenia 💢 Spain 💢 Srbija-Serbia 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 Thailand 💢 Turkey 💢 UHD 4K 💢 Ukraine 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 Viet Nam 💢 VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 NFL VIP Sports 💢 World Cricket VIP 💢 Fifa World Cup 2026 ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://user.streamtv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://user.streamtv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 20 Kasım 2022 19:29
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 25 Ekim 2026 23:07
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ jecksoncardoso382
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ NZYdoT3F8m
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 14 Eylül 2026 - 03:24
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 16913 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 16324 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/get.php?username=jecksoncardoso382&password=NZYdoT3F8m&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/xmltv.php?username=jecksoncardoso382&password=NZYdoT3F8m&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Arab Countries VIP 💢 Afghanistan 💢 Africa 💢 Africa VIP 💢 Africa Canal+ 💢 Albania 💢 Albania Sport 💢 Arab Countries 💢 beIN - Qatar ARB 💢 OSN - Qatar ARB 💢 ARB Algeria 💢 ARB Bahrain 💢 ARB Egypt 💢 ARB Libya 💢 ARB Syria 💢 ARB Lebanon 💢 ARB Palestine 💢 ARB Rotana 💢 ARB Morocco 💢 ARB Jordan 💢 ARB Kuwait 💢 ARB UAE 💢 ARB Iraq 💢 ARB Tunisia 💢 ARB Saudi Arabia 💢 ARB Islam 💢 ARB News 💢 ARB MBC 💢 ARB Kids 💢 Armenia 💢 Australia 💢 Austria 💢 Azerbaijan 💢 Belgium 💢 BOSNA-Bosnia 💢 Brazil 💢 Bulgaria 💢 Canada 💢 China 💢 Crna Gora-Monte Negro 💢 Czech Republic 💢 Denmark 💢 Denmark VIP 💢 Denmark Radio 💢 24-7 Denmark 💢 Estonia 💢 ex-Yu 💢 ex-Yu VIP 💢 Finland 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Hungary 💢 Iceland 💢 India 💢 India VIP 💢 Indonesia 💢 Iran 💢 Israel 💢 Italia 💢 Japan 💢 Korea 💢 Kurdish 💢 Latin America 💢 Lithuania 💢 Macedonia 💢 Malaysia 💢 Malta 💢 Nepal 💢 Netherlands 💢 Norway 💢 Norway VIP 💢 Pakistan 💢 Philippines 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Romania 💢 Russian 💢 Scandinavian 💢 Singapore 💢 Slovenia 💢 Spain 💢 Srbija-Serbia 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 Thailand 💢 Turkey 💢 UHD 4K 💢 Ukraine 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 Viet Nam 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 NFL VIP Sports 💢 World Cricket VIP 💢 Fifa World Cup 2026 ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://user.streamtv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://user.streamtv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 22 Eylül 2020 10:56
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 29 Kasım 2026 10:56
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 3mTatd6fjJ
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ wQdaERqkSC
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 14 Eylül 2026 - 03:55
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 15842 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 65020 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 442 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/get.php?username=3mTatd6fjJ&password=wQdaERqkSC&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/xmltv.php?username=3mTatd6fjJ&password=wQdaERqkSC&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Arab Countries VIP 💢 Afghanistan 💢 Africa 💢 Africa VIP 💢 Africa Canal+ 💢 Albania 💢 Albania Sport 💢 Arab Countries 💢 ARB Algeria 💢 ARB Bahrain 💢 ARB Egypt 💢 ARB Libya 💢 ARB Syria 💢 ARB Lebanon 💢 ARB Palestine 💢 ARB Rotana 💢 ARB Morocco 💢 ARB Jordan 💢 ARB Kuwait 💢 ARB UAE 💢 ARB Iraq 💢 ARB Tunisia 💢 ARB Saudi Arabia 💢 ARB Islam 💢 ARB News 💢 ARB MBC 💢 ARB Kids 💢 Armenia 💢 Australia 💢 Austria 💢 Azerbaijan 💢 Belgium 💢 BOSNA-Bosnia 💢 Brazil 💢 Bulgaria 💢 Canada 💢 Crna Gora-Monte Negro 💢 Czech Republic 💢 Denmark 💢 Denmark VIP 💢 Denmark Radio 💢 24-7 Denmark 💢 Estonia 💢 ex-Yu 💢 ex-Yu VIP 💢 Finland 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Hungary 💢 Iceland 💢 India 💢 India VIP 💢 Israel 💢 Italia 💢 Kurdish 💢 Latin America 💢 Lithuania 💢 Macedonia 💢 Malta 💢 Netherlands 💢 Norway 💢 Norway VIP 💢 Pakistan 💢 Philippines 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Romania 💢 Russian 💢 Scandinavian 💢 Slovenia 💢 Spain 💢 Srbija-Serbia 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 Thailand 💢 Turkey 💢 UHD 4K 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 Viet Nam 💢 VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 NFL VIP Sports 💢 World Cricket VIP 💢 Fifa World Cup 2026 ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://user.streamtv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://user.streamtv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 27 Nisan 2020 08:19
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 04 Mayıs 2027 08:21
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ dsNGBCtE9d
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ xfTDr5KXaL
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 14 Eylül 2026 - 05:45
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 16630 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 65020 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 442 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/get.php?username=dsNGBCtE9d&password=xfTDr5KXaL&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/xmltv.php?username=dsNGBCtE9d&password=xfTDr5KXaL&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Arab Countries VIP 💢 Afghanistan 💢 Africa 💢 Africa VIP 💢 Africa Canal+ 💢 Albania 💢 Albania Sport 💢 Arab Countries 💢 ARB Algeria 💢 ARB Bahrain 💢 ARB Egypt 💢 ARB Libya 💢 ARB Syria 💢 ARB Lebanon 💢 ARB Palestine 💢 ARB Rotana 💢 ARB Morocco 💢 ARB Jordan 💢 ARB Kuwait 💢 ARB UAE 💢 ARB Iraq 💢 ARB Tunisia 💢 ARB Saudi Arabia 💢 ARB Islam 💢 ARB News 💢 ARB MBC 💢 ARB Kids 💢 Armenia 💢 Australia 💢 Austria 💢 Belgium 💢 BOSNA-Bosnia 💢 Brazil 💢 Bulgaria 💢 Canada 💢 China 💢 Crna Gora-Monte Negro 💢 Czech Republic 💢 Denmark 💢 Denmark VIP 💢 Denmark Radio 💢 24-7 Denmark 💢 Estonia 💢 ex-Yu 💢 ex-Yu VIP 💢 Finland 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Hungary 💢 Iceland 💢 India 💢 India VIP 💢 Indonesia 💢 Iran 💢 Israel 💢 Italia 💢 Japan 💢 Korea 💢 Kurdish 💢 Latin America 💢 Lithuania 💢 Macedonia 💢 Malaysia 💢 Malta 💢 Netherlands 💢 Norway 💢 Norway VIP 💢 Pakistan 💢 Philippines 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Romania 💢 Russian 💢 Scandinavian 💢 Singapore 💢 Slovenia 💢 Spain 💢 Srbija-Serbia 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 Thailand 💢 Turkey 💢 UHD 4K 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 Viet Nam 💢 VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 NFL VIP Sports 💢 World Cricket VIP 💢 Fifa World Cup 2026 ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://user.streamtv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://user.streamtv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 20 Haziran 2020 12:59
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 19 Ağustos 2027 22:04
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ ID9JgtXCrw
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ fapRkPrwSW
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 14 Eylül 2026 - 05:57
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 5669 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 19044 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 193 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/get.php?username=ID9JgtXCrw&password=fapRkPrwSW&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/xmltv.php?username=ID9JgtXCrw&password=fapRkPrwSW&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢France 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Italia 💢 Switzerland 💢 UHD 4K 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 NFL VIP Sports 💢 World Cricket VIP 💢 Fifa World Cup 2026 ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://user.streamtv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://user.streamtv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 21 Eylül 2025 07:49
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 22 Eylül 2026 07:49
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ Biker
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ zvQe7jGZ3q
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 14 Eylül 2026 - 06:28
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 16930 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 65020 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 497 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/get.php?username=Biker&password=zvQe7jGZ3q&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/xmltv.php?username=Biker&password=zvQe7jGZ3q&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Arab Countries VIP 💢 Afghanistan 💢 Africa 💢 Africa VIP 💢 Africa Canal+ 💢 Albania 💢 Albania Sport 💢 Arab Countries 💢 beIN - Qatar ARB 💢 OSN - Qatar ARB 💢 ARB Algeria 💢 ARB Bahrain 💢 ARB Egypt 💢 ARB Libya 💢 ARB Syria 💢 ARB Lebanon 💢 ARB Palestine 💢 ARB Rotana 💢 ARB Morocco 💢 ARB Jordan 💢 ARB Kuwait 💢 ARB UAE 💢 ARB Iraq 💢 ARB Tunisia 💢 ARB Saudi Arabia 💢 ARB Islam 💢 ARB News 💢 ARB MBC 💢 ARB Kids 💢 Armenia 💢 Australia 💢 Austria 💢 Azerbaijan 💢 Belgium 💢 BOSNA-Bosnia 💢 Brazil 💢 Bulgaria 💢 Canada 💢 China 💢 Crna Gora-Monte Negro 💢 Czech Republic 💢 Denmark 💢 Denmark VIP 💢 Denmark Radio 💢 24-7 Denmark 💢 Estonia 💢 ex-Yu 💢 ex-Yu VIP 💢 Finland 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Hungary 💢 Iceland 💢 India 💢 India VIP 💢 Indonesia 💢 Iran 💢 Israel 💢 Italia 💢 Japan 💢 Korea 💢 Kurdish 💢 Latin America 💢 Lithuania 💢 Macedonia 💢 Malaysia 💢 Malta 💢 Nepal 💢 Netherlands 💢 Norway 💢 Norway VIP 💢 Pakistan 💢 Philippines 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Romania 💢 Russian 💢 Scandinavian 💢 Singapore 💢 Slovenia 💢 Spain 💢 Srbija-Serbia 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 Thailand 💢 Turkey 💢 UHD 4K 💢 Ukraine 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 Viet Nam 💢 VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 NFL VIP Sports 💢 World Cricket VIP 💢 Fifa World Cup 2026 ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://user.streamtv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://user.streamtv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 06 Aralık 2023 23:19
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 08 Aralık 2026 04:54
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ carlospinheiro
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ KcfN1JwsXG
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 14 Eylül 2026 - 09:54
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2897 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 21511 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/get.php?username=carlospinheiro&password=KcfN1JwsXG&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/xmltv.php?username=carlospinheiro&password=KcfN1JwsXG&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Brazil 💢 For Adults 💢 France 💢 France HEVC 💢 Italia 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Spain ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://user.streamtv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://user.streamtv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 08 Ağustos 2025 20:53
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 23 Ağustos 2027 22:01
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ mmascarenhas6
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ Vq2LvzJTGF
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 14 Eylül 2026 - 10:10
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 904 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/get.php?username=mmascarenhas6&password=Vq2LvzJTGF&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/xmltv.php?username=mmascarenhas6&password=Vq2LvzJTGF&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://user.streamtv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://user.streamtv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 08 Ekim 2022 19:49
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 27 Şubat 2027 23:59
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ pjpcorreia
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ whkCT2QgR6
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 2
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 14 Eylül 2026 - 11:45
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 904 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/get.php?username=pjpcorreia&password=whkCT2QgR6&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/xmltv.php?username=pjpcorreia&password=whkCT2QgR6&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://user.streamtv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://user.streamtv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 28 Şubat 2023 00:13
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 08 Mart 2027 01:39
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ SqXk4WyDoT
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ PFjvgU5ebW
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 14 Eylül 2026 - 11:53
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 13101 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 16871 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/get.php?username=SqXk4WyDoT&password=PFjvgU5ebW&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/xmltv.php?username=SqXk4WyDoT&password=PFjvgU5ebW&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Afghanistan 💢 Africa VIP 💢 Albania 💢 Albania Sport 💢 Australia 💢 Austria 💢 Belgium 💢 BOSNA-Bosnia 💢 Brazil 💢 Bulgaria 💢 Crna Gora-Monte Negro 💢 Czech Republic 💢 Denmark 💢 Denmark VIP 💢 Denmark Radio 💢 24-7 Denmark 💢 Estonia 💢 ex-Yu 💢 ex-Yu VIP 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Iceland 💢 Italia 💢 Latin America 💢 Lithuania 💢 Macedonia 💢 Netherlands 💢 Norway 💢 Norway VIP 💢 Philippines 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Romania 💢 Russian 💢 Scandinavian 💢 Slovenia 💢 Spain 💢 Srbija-Serbia 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 Thailand 💢 Turkey 💢 UHD 4K 💢 Ukraine 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 NFL VIP Sports 💢 World Cricket VIP 💢 Fifa World Cup 2026 ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://user.streamtv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://user.streamtv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 08 Kasım 2023 10:13
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 11 Kasım 2026 22:21
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ GregWoi
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 6zb7jrUQNK
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 14 Eylül 2026 - 12:36
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 1481 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 16231 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/get.php?username=GregWoi&password=6zb7jrUQNK&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/xmltv.php?username=GregWoi&password=6zb7jrUQNK&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢For Adults 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Poland ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://user.streamtv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://user.streamtv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 24 Temmuz 2022 10:53
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 03 Ekim 2026 22:02
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ L197mklJTX
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 85Zv6a2EWL
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 14 Eylül 2026 - 12:51
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 904 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 9853 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/get.php?username=L197mklJTX&password=85Zv6a2EWL&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/xmltv.php?username=L197mklJTX&password=85Zv6a2EWL&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://user.streamtv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://user.streamtv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 03 Kasım 2021 19:44
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 18 Kasım 2026 20:01
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ Fratila
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ VQlMIcx3iE
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 3
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 3
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 14 Eylül 2026 - 18:08
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 3755 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 10960 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 262 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/get.php?username=Fratila&password=VQlMIcx3iE&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/xmltv.php?username=Fratila&password=VQlMIcx3iE&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Africa VIP 💢 Albania 💢 Albania Sport 💢 BOSNA-Bosnia 💢 Bulgaria 💢 ex-Yu 💢 France 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Iceland 💢 Italia 💢 Latin America 💢 Poland 💢 Romania 💢 Spain 💢 Srbija-Serbia 💢 Switzerland 💢 Thailand 💢 United Kingdom VIP 💢 United States VIP 💢 VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 NFL VIP Sports 💢 World Cricket VIP 💢 Fifa World Cup 2026 ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://user.streamtv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://user.streamtv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 02 Kasım 2024 01:01
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 09 Kasım 2026 02:06
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ PVI7bELTYG
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 8uxQvWtDCS
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 14 Eylül 2026 - 18:16
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 9403 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 65020 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 442 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/get.php?username=PVI7bELTYG&password=8uxQvWtDCS&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/xmltv.php?username=PVI7bELTYG&password=8uxQvWtDCS&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Africa 💢 Africa VIP 💢 Africa Canal+ 💢 Albania 💢 Albania Sport 💢 Belgium 💢 BOSNA-Bosnia 💢 Brazil 💢 Bulgaria 💢 Canada 💢 ex-Yu 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Iceland 💢 Italia 💢 Latin America 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Russian 💢 Spain 💢 Srbija-Serbia 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 Thailand 💢 United Kingdom 💢 United Kingdom VIP 💢 United States 💢 United States VIP 💢 VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 NFL VIP Sports 💢 World Cricket VIP 💢 Fifa World Cup 2026 ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://user.streamtv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://user.streamtv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 27 Ağustos 2019 17:52
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 29 Aralık 2026 17:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ ayrtondanilogomes
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ cyzRdX4K16
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 14 Eylül 2026 - 20:37
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 5395 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 17769 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/get.php?username=ayrtondanilogomes&password=cyzRdX4K16&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/xmltv.php?username=ayrtondanilogomes&password=cyzRdX4K16&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Africa 💢 Africa VIP 💢 Africa Canal+ 💢 France 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 NFL VIP Sports 💢 World Cricket VIP 💢 Fifa World Cup 2026 ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://user.streamtv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://user.streamtv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 03 Kasım 2020 03:13
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 03 Şubat 2027 16:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ ayrtondanilogomesmae
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 8u71Wkoeqj
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 14 Eylül 2026 - 21:14
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 904 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/get.php?username=ayrtondanilogomesmae&password=8u71Wkoeqj&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/xmltv.php?username=ayrtondanilogomesmae&password=8u71Wkoeqj&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://user.streamtv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://user.streamtv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 25 Kasım 2022 05:54
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 15 Aralık 2026 18:59
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 12win22112503
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ vh3759ZBLT
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 14 Eylül 2026 - 21:44
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 16894 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 65022 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 442 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/get.php?username=12win22112503&password=vh3759ZBLT&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/xmltv.php?username=12win22112503&password=vh3759ZBLT&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Arab Countries VIP 💢 Afghanistan 💢 Africa 💢 Africa VIP 💢 Africa Canal+ 💢 Albania 💢 Albania Sport 💢 Arab Countries 💢 beIN - Qatar ARB 💢 OSN - Qatar ARB 💢 ARB Algeria 💢 ARB Bahrain 💢 ARB Egypt 💢 ARB Libya 💢 ARB Syria 💢 ARB Lebanon 💢 ARB Palestine 💢 ARB Rotana 💢 ARB Morocco 💢 ARB Jordan 💢 ARB Kuwait 💢 ARB UAE 💢 ARB Iraq 💢 ARB Tunisia 💢 ARB Saudi Arabia 💢 ARB Islam 💢 ARB News 💢 ARB MBC 💢 ARB Kids 💢 Armenia 💢 Australia 💢 Austria 💢 Azerbaijan 💢 Belgium 💢 BOSNA-Bosnia 💢 Brazil 💢 Bulgaria 💢 Canada 💢 China 💢 Crna Gora-Monte Negro 💢 Czech Republic 💢 Denmark 💢 Denmark VIP 💢 Denmark Radio 💢 24-7 Denmark 💢 Estonia 💢 ex-Yu 💢 ex-Yu VIP 💢 Finland 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Hungary 💢 Iceland 💢 India 💢 India VIP 💢 Indonesia 💢 Iran 💢 Israel 💢 Italia 💢 Japan 💢 Korea 💢 Kurdish 💢 Latin America 💢 Lithuania 💢 Macedonia 💢 Malaysia 💢 Malta 💢 Nepal 💢 Netherlands 💢 Norway 💢 Norway VIP 💢 Pakistan 💢 Philippines 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Romania 💢 Russian 💢 Scandinavian 💢 Singapore 💢 Slovenia 💢 Spain 💢 Srbija-Serbia 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 Thailand 💢 Turkey 💢 UHD 4K 💢 Ukraine 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 Viet Nam 💢 VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 NFL VIP Sports 💢 World Cricket VIP 💢 Fifa World Cup 2026 ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://user.streamtv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://user.streamtv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 21 Şubat 2021 02:52
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 30 Mayıs 2027 03:52
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ michaelwulff
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ uX1AoTzE3Q
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 14 Eylül 2026 - 23:27
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 16465 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 58551 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 442 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/get.php?username=michaelwulff&password=uX1AoTzE3Q&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/xmltv.php?username=michaelwulff&password=uX1AoTzE3Q&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Arab Countries VIP 💢 Afghanistan 💢 Africa 💢 Africa VIP 💢 Africa Canal+ 💢 Albania 💢 Albania Sport 💢 Arab Countries 💢 ARB Algeria 💢 ARB Bahrain 💢 ARB Egypt 💢 ARB Libya 💢 ARB Syria 💢 ARB Lebanon 💢 ARB Palestine 💢 ARB Rotana 💢 ARB Morocco 💢 ARB Jordan 💢 ARB Kuwait 💢 ARB UAE 💢 ARB Iraq 💢 ARB Tunisia 💢 ARB Saudi Arabia 💢 ARB Islam 💢 ARB News 💢 ARB MBC 💢 ARB Kids 💢 Armenia 💢 Australia 💢 Austria 💢 Azerbaijan 💢 Belgium 💢 BOSNA-Bosnia 💢 Brazil 💢 Bulgaria 💢 Canada 💢 China 💢 Crna Gora-Monte Negro 💢 Czech Republic 💢 Denmark 💢 Denmark VIP 💢 Denmark Radio 💢 24-7 Denmark 💢 Estonia 💢 ex-Yu 💢 ex-Yu VIP 💢 Finland 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Hungary 💢 Iceland 💢 India 💢 India VIP 💢 Indonesia 💢 Iran 💢 Israel 💢 Italia 💢 Japan 💢 Korea 💢 Kurdish 💢 Latin America 💢 Lithuania 💢 Macedonia 💢 Malaysia 💢 Malta 💢 Netherlands 💢 Norway 💢 Norway VIP 💢 Pakistan 💢 Philippines 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Romania 💢 Russian 💢 Scandinavian 💢 Singapore 💢 Slovenia 💢 Spain 💢 Srbija-Serbia 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 Thailand 💢 Turkey 💢 UHD 4K 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 Viet Nam 💢 VIP 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 NFL VIP Sports 💢 World Cricket VIP 💢 Fifa World Cup 2026 ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://user.streamtv.to:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://user.streamtv.to:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 25 Ekim 2022 21:30
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 25 Aralık 2026 22:38
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ A6Wk3JjS8C
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ k3RNaPmg2D
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇲🇩 Moldova
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Chisinau
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 31.42.187.187
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 14 Eylül 2026 - 23:34
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 16913 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 16324 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/get.php?username=A6Wk3JjS8C&password=k3RNaPmg2D&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://user.streamtv.to:8080/xmltv.php?username=A6Wk3JjS8C&password=k3RNaPmg2D&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢A1 TV 💢 Arab Countries VIP 💢 Afghanistan 💢 Africa 💢 Africa VIP 💢 Africa Canal+ 💢 Albania 💢 Albania Sport 💢 Arab Countries 💢 beIN - Qatar ARB 💢 OSN - Qatar ARB 💢 ARB Algeria 💢 ARB Bahrain 💢 ARB Egypt 💢 ARB Libya 💢 ARB Syria 💢 ARB Lebanon 💢 ARB Palestine 💢 ARB Rotana 💢 ARB Morocco 💢 ARB Jordan 💢 ARB Kuwait 💢 ARB UAE 💢 ARB Iraq 💢 ARB Tunisia 💢 ARB Saudi Arabia 💢 ARB Islam 💢 ARB News 💢 ARB MBC 💢 ARB Kids 💢 Armenia 💢 Australia 💢 Austria 💢 Azerbaijan 💢 Belgium 💢 BOSNA-Bosnia 💢 Brazil 💢 Bulgaria 💢 Canada 💢 China 💢 Crna Gora-Monte Negro 💢 Czech Republic 💢 Denmark 💢 Denmark VIP 💢 Denmark Radio 💢 24-7 Denmark 💢 Estonia 💢 ex-Yu 💢 ex-Yu VIP 💢 Finland 💢 For Adults 💢 France 💢 France HEVC 💢 Germany 💢 Germany VIP 💢 Germany HEVC 💢 24-7 Germany 💢 Greece 💢 HRVATSKA-Croatia 💢 Hungary 💢 Iceland 💢 India 💢 India VIP 💢 Indonesia 💢 Iran 💢 Israel 💢 Italia 💢 Japan 💢 Korea 💢 Kurdish 💢 Latin America 💢 Lithuania 💢 Macedonia 💢 Malaysia 💢 Malta 💢 Nepal 💢 Netherlands 💢 Norway 💢 Norway VIP 💢 Pakistan 💢 Philippines 💢 Poland 💢 Portugal 💢 Portugal - Canais 24-7 💢 Portugal HEVC 💢 Romania 💢 Russian 💢 Scandinavian 💢 Singapore 💢 Slovenia 💢 Spain 💢 Srbija-Serbia 💢 Sweden 💢 Sweden VIP 💢 Switzerland 💢 Thailand 💢 Turkey 💢 UHD 4K 💢 Ukraine 💢 United Kingdom 💢 United Kingdom VIP 💢 Script UK 💢 24-7 English 💢 United States 💢 United States VIP 💢 Viet Nam 💢 VIP Sports 💢 Events 💢 PPV VIP Sports 💢 NFL VIP Sports 💢 World Cricket VIP 💢 Fifa World Cup 2026 ✷✷ 📺
+
+========================================

@@ -1,0 +1,33 @@
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://panther-tv.com:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://panther-tv.com:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 03 Mart 2026 20:41
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 05 Nisan 2026 19:41
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ JasarBangovi2026
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ f02bee380c8b
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇫🇮 Finland
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Helsinki
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ API Message
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.217.60.86
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Hetzner Online GmbH
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 22 Mart 2026 - 10:46
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈 (200)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 1416 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 20516 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 1189 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://panther-tv.com:8080/get.php?username=JasarBangovi2026&password=f02bee380c8b&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://panther-tv.com:8080/xmltv.php?username=JasarBangovi2026&password=f02bee380c8b&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢| Apex Prime  TV  | 💢 |BA|Bosna i Hercegovina 💢 |HR| Hrvatska 💢 |RS| Srbija 💢 |Ex-Yu| Pink 💢 |Ex-Yu| Elita 24/7 💢 |Ex-Yu| Filmski 💢 |Ex-Yu| Kino 24/7 💢 |Doc| Dokumentarni 💢 |Ex-Yu| Djeciji 💢 |Ex-Yu| Djeciji 24/7 💢 |Ex-Yu| Muzika 💢 |Ex-Yu| Sport 💢 |World| Sport 💢 |ME| Crna Gora 💢 |MK| Macedonia 💢 |SI| Slovenia 💢 |DE| Germany 💢 |DE| Sky Sport Germany 💢 |DE| Sky Film Germany 💢 |DE| Max Sky Select 💢 |AT| Austria 💢 |CH| Switzerland 💢 |NL| Netherlands 💢 |BE| Belgium 💢 |GBUM| UK & USA 💢 |FR| France 💢 |IT| Italy 💢 |PL| Poland 💢 |SE| Sweden 💢 |NO| Norway 💢 |DK| Denmark 💢  Kosovo & Albania 💢 |RO|  Romania 💢 |TR|  Turkey 💢 |BG|  Bulgaria 💢 |HU|  Hungary 💢 |GR| Greece 💢 |RU| Russia 💢 |UA| Ukraine 💢 |SK| Slovakia ✷✷ 📺
+
+========================================

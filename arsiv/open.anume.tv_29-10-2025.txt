@@ -1,0 +1,33 @@
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://open.anume.tv:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://update.miicrosoft.es:80
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 23 Şubat 2024 21:54
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 28 Kasım 2025 22:14
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ AN22834
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ J032LdGt3wuWBZFKHpvE6vNNdzlVXv
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 2
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kyiv
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ OpenTv Romania
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 195.66.215.132
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Virtual Systems LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Ekim 2025 - 04:03
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ ⚠️ Yayın kontrolü başarısız: Akış alınamadı (HTTPConnectionPool(host='89.36.95.245', port=80): Max retries exceeded with url: /live/AN22834/J032LdGt3wuWBZFKHpvE6vNNdzlVXv/58691.ts?token=QhVQVxddQQMXBgxdDQcGAQ0LAgEBUloMVwRVAQ0ADg9cVghSBlQAAQJBGEZGEUZdVFRvW11DWA0JA1wEGRZCS1xFZ18AF1kbDVYDVQdHGBpBUF1XG1tTDwcEUwwMDAIPFRVIXwAXWRsAVQBVAlAWFBdcSEZcEwxZXWoBUENdVF0bDVZDCFlPG1oNawBQCFVWURsKEAlDThpYRhUXDxZjV0pSH1MMFSZLQQZWBUEEQBh7VkZbV0EjSlhURXZaFGdSShUUFAZcF0tUF1FGD0cDDAQIEh4bAg1NX0EXTBcOFXFrFRQUAU0XXFsQXQtbRw4aQUoSHhsIEWdDUBZBR1FWVVxFGgxGBUEVFw5VHGoGW1ZbXFNGUA4MSxMPRwcXGBVVVllRQgtHPElcBxZeF1MEAQwbTQ== (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001F408D016D0>, 'Connection to 89.36.95.245 timed out. (connect timeout=15)')))
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 1119 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 5323 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 252 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://open.anume.tv:8080/get.php?username=AN22834&password=J032LdGt3wuWBZFKHpvE6vNNdzlVXv&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://open.anume.tv:8080/xmltv.php?username=AN22834&password=J032LdGt3wuWBZFKHpvE6vNNdzlVXv&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢Romania  💢 ⭐⭐⭐Adult 18+⭐⭐⭐ 💢 ⭐⭐⭐XXX Adult2⭐⭐⭐ ✷✷ 📺
+
+========================================

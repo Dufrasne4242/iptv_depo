@@ -1,0 +1,528 @@
+
+♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://royal-cdn.eu:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://royal-cdn.eu:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 05 Aralık 2023 14:06
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 17 Kasım 2026 12:13
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ plextv92
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ rrrrr
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 3
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇯🇵 Japan
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Asia/Tokyo
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 103.75.68.99
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ NexonHost Srl
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 31 Ekim 2026 - 01:47
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (0/8 stream • HTTP 459)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8914 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 13808 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 3723 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://royal-cdn.eu:8080/get.php?username=plextv92&password=rrrrr&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://royal-cdn.eu:8080/xmltv.php?username=plextv92&password=rrrrr&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢MAGYARORSZÁG 💢 PRÉMIUM 💢 PRÉMIUM SOROZATOK 💢 CANAL PLUS 💢 RTL+ ( ÉLŐ ) 💢 NET4+ ( ÉLŐ ) 💢 DAZN  ( ÉLŐ ) 💢 VOYO SK 💢 REALITY TV 💢 RTL + TV SHOW 💢 Tv Show 💢 PODCAST 💢 RAJZFILMVILÁG 💢 NETFLIX 💢 DISNEY 💢 MAX 💢 VÁROSI TV 💢 RÁDIÓK 💢 PREMIUM SPORT CSATORNÁK 💢 PREMIUM DE+UK CSATORNÁK 💢 CZECH+SLOVAK 💢 CSEHORSZÁG 💢 CZECH+SLOVAK PREMIUM 💢 CZECH+SLOVAK RADIOK 💢 ROMÁNIA 💢 AUSTRIA - GENERAL 💢 AUSTRIA - SPORT 💢 GERMANY GENERAL 💢 GERMANY UNTERHALTUNG 💢 GERMANY NACHRICTEN 💢 GERMANY KINDER 💢 GERMANY - FILME SERIE 💢 GERMANY - SELEKT KINO 💢 GERMANY EAGLE CINEMA 💢 GERMANY DOCUMENTUM 💢 GERMANY MUSIK 💢 GERMANY SKY SPORT 💢 GERMANY SPORT (AMAZON PRIME) 💢 GERMANY SPORT (DAZN GERMANY) 💢 GERMANY SPORT (EUROSPORT 360 EXTRA) 💢 GERMANY SPORT (MAGENTA SPORT 2 & 3 BUNDESLIGA) 💢 GERMANY SPORT (RTL+EUROPE LEAGUE) 💢 U.K ENTERTAINMENT 💢 U.K  INTERNATIONAL 💢 U.K KIDS 💢 U.K DOCUMENTARIES 💢 U.K MOVIES 💢 U.K MUSIC 💢 U.K  NEWS 💢 U.K SKY SPORTS 💢 U.K SPORTS (OTHERS) 💢 U.K TNT SPORT 💢 U.S.A - ENTERTAINMENT 💢 U.S.A - NEWS 💢 U.S.A. - KIDS 💢 U.S.A. - MOVIES 💢 U.S.A. - MUSIC 💢 U.S.A. - ABC 💢 U.S.A. - DOCUMENTARIES 💢 U.S.A. - REGIONAL 💢 U.S.A. - UNSORTED 💢 U.S.A. - SPORTS 💢 KANADA 💢 INDIA 💢 SPANYOLORSZÁG 💢 ALBÁNIA 💢 HOLLANDIA 💢 FRANCIAORSZÁG 💢 FRANCIAORSZÁG CINEMA 4K 💢 BULGÁRIA 💢 SPANYOLORSZÁG MOVISTAR HD 💢 OLASZORSZÁG 💢 OLASZORSZÁG  EAGLE CINEMA 4K 💢 TÖRÖKORSZÁG 💢 GÖRÖGORSZÁG 💢 PAKISZTÁN 💢 AFRIKA 💢 BELGIUM 💢 PORTUGÁLIA 💢 BRASIL 💢 KINA 💢 SZERBIA 💢 UKRAJNA 💢 AUSZTRÁLIA 💢 OROSZORSZÁG 💢 LENGYELORSZÁG 💢 EX YU 💢 NORVÉGIA 💢 SVÁJC 💢 SVÉDORSZÁG 💢 DÁNIA 💢 HORVÁTORSZÁG 💢 IRORSZÁG 💢 MACEDÓNIA 💢 XXX ✷✷ 📺
+
+========================================
+
+♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://royal-cdn.eu:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://royal-cdn.eu:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 20 Ocak 2023 19:10
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 24 Kasım 2026 02:35
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ plextv140
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ fT8eU8E
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 3
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇯🇵 Japan
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Asia/Tokyo
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 103.75.68.99
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ NexonHost Srl
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 31 Ekim 2026 - 02:59
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (0/8 stream • HTTP 459)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8914 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 13808 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 3723 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://royal-cdn.eu:8080/get.php?username=plextv140&password=fT8eU8E&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://royal-cdn.eu:8080/xmltv.php?username=plextv140&password=fT8eU8E&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢MAGYARORSZÁG 💢 PRÉMIUM 💢 PRÉMIUM SOROZATOK 💢 CANAL PLUS 💢 RTL+ ( ÉLŐ ) 💢 NET4+ ( ÉLŐ ) 💢 DAZN  ( ÉLŐ ) 💢 VOYO SK 💢 REALITY TV 💢 RTL + TV SHOW 💢 Tv Show 💢 PODCAST 💢 RAJZFILMVILÁG 💢 NETFLIX 💢 DISNEY 💢 MAX 💢 VÁROSI TV 💢 RÁDIÓK 💢 PREMIUM SPORT CSATORNÁK 💢 PREMIUM DE+UK CSATORNÁK 💢 CZECH+SLOVAK 💢 CSEHORSZÁG 💢 CZECH+SLOVAK PREMIUM 💢 CZECH+SLOVAK RADIOK 💢 ROMÁNIA 💢 AUSTRIA - GENERAL 💢 AUSTRIA - SPORT 💢 GERMANY GENERAL 💢 GERMANY UNTERHALTUNG 💢 GERMANY NACHRICTEN 💢 GERMANY KINDER 💢 GERMANY - FILME SERIE 💢 GERMANY - SELEKT KINO 💢 GERMANY EAGLE CINEMA 💢 GERMANY DOCUMENTUM 💢 GERMANY MUSIK 💢 GERMANY SKY SPORT 💢 GERMANY SPORT (AMAZON PRIME) 💢 GERMANY SPORT (DAZN GERMANY) 💢 GERMANY SPORT (EUROSPORT 360 EXTRA) 💢 GERMANY SPORT (MAGENTA SPORT 2 & 3 BUNDESLIGA) 💢 GERMANY SPORT (RTL+EUROPE LEAGUE) 💢 U.K ENTERTAINMENT 💢 U.K  INTERNATIONAL 💢 U.K KIDS 💢 U.K DOCUMENTARIES 💢 U.K MOVIES 💢 U.K MUSIC 💢 U.K  NEWS 💢 U.K SKY SPORTS 💢 U.K SPORTS (OTHERS) 💢 U.K TNT SPORT 💢 U.S.A - ENTERTAINMENT 💢 U.S.A - NEWS 💢 U.S.A. - KIDS 💢 U.S.A. - MOVIES 💢 U.S.A. - MUSIC 💢 U.S.A. - ABC 💢 U.S.A. - DOCUMENTARIES 💢 U.S.A. - REGIONAL 💢 U.S.A. - UNSORTED 💢 U.S.A. - SPORTS 💢 KANADA 💢 INDIA 💢 SPANYOLORSZÁG 💢 ALBÁNIA 💢 HOLLANDIA 💢 FRANCIAORSZÁG 💢 FRANCIAORSZÁG CINEMA 4K 💢 BULGÁRIA 💢 SPANYOLORSZÁG MOVISTAR HD 💢 OLASZORSZÁG 💢 OLASZORSZÁG  EAGLE CINEMA 4K 💢 TÖRÖKORSZÁG 💢 GÖRÖGORSZÁG 💢 PAKISZTÁN 💢 AFRIKA 💢 BELGIUM 💢 PORTUGÁLIA 💢 BRASIL 💢 KINA 💢 SZERBIA 💢 UKRAJNA 💢 AUSZTRÁLIA 💢 OROSZORSZÁG 💢 LENGYELORSZÁG 💢 EX YU 💢 NORVÉGIA 💢 SVÁJC 💢 SVÉDORSZÁG 💢 DÁNIA 💢 HORVÁTORSZÁG 💢 IRORSZÁG 💢 MACEDÓNIA 💢 XXX ✷✷ 📺
+
+========================================
+
+♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://royal-cdn.eu:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://royal-cdn.eu:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 27 Nisan 2023 20:38
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 05 Kasım 2026 20:59
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ plextv260
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ hPgJWJA
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 3
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇯🇵 Japan
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Asia/Tokyo
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 103.75.68.99
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ NexonHost Srl
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 31 Ekim 2026 - 03:00
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (0/8 stream • HTTP 459)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8914 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 13808 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 3723 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://royal-cdn.eu:8080/get.php?username=plextv260&password=hPgJWJA&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://royal-cdn.eu:8080/xmltv.php?username=plextv260&password=hPgJWJA&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢MAGYARORSZÁG 💢 PRÉMIUM 💢 PRÉMIUM SOROZATOK 💢 CANAL PLUS 💢 RTL+ ( ÉLŐ ) 💢 NET4+ ( ÉLŐ ) 💢 DAZN  ( ÉLŐ ) 💢 VOYO SK 💢 REALITY TV 💢 RTL + TV SHOW 💢 Tv Show 💢 PODCAST 💢 RAJZFILMVILÁG 💢 NETFLIX 💢 DISNEY 💢 MAX 💢 VÁROSI TV 💢 RÁDIÓK 💢 PREMIUM SPORT CSATORNÁK 💢 PREMIUM DE+UK CSATORNÁK 💢 CZECH+SLOVAK 💢 CSEHORSZÁG 💢 CZECH+SLOVAK PREMIUM 💢 CZECH+SLOVAK RADIOK 💢 ROMÁNIA 💢 AUSTRIA - GENERAL 💢 AUSTRIA - SPORT 💢 GERMANY GENERAL 💢 GERMANY UNTERHALTUNG 💢 GERMANY NACHRICTEN 💢 GERMANY KINDER 💢 GERMANY - FILME SERIE 💢 GERMANY - SELEKT KINO 💢 GERMANY EAGLE CINEMA 💢 GERMANY DOCUMENTUM 💢 GERMANY MUSIK 💢 GERMANY SKY SPORT 💢 GERMANY SPORT (AMAZON PRIME) 💢 GERMANY SPORT (DAZN GERMANY) 💢 GERMANY SPORT (EUROSPORT 360 EXTRA) 💢 GERMANY SPORT (MAGENTA SPORT 2 & 3 BUNDESLIGA) 💢 GERMANY SPORT (RTL+EUROPE LEAGUE) 💢 U.K ENTERTAINMENT 💢 U.K  INTERNATIONAL 💢 U.K KIDS 💢 U.K DOCUMENTARIES 💢 U.K MOVIES 💢 U.K MUSIC 💢 U.K  NEWS 💢 U.K SKY SPORTS 💢 U.K SPORTS (OTHERS) 💢 U.K TNT SPORT 💢 U.S.A - ENTERTAINMENT 💢 U.S.A - NEWS 💢 U.S.A. - KIDS 💢 U.S.A. - MOVIES 💢 U.S.A. - MUSIC 💢 U.S.A. - ABC 💢 U.S.A. - DOCUMENTARIES 💢 U.S.A. - REGIONAL 💢 U.S.A. - UNSORTED 💢 U.S.A. - SPORTS 💢 KANADA 💢 INDIA 💢 SPANYOLORSZÁG 💢 ALBÁNIA 💢 HOLLANDIA 💢 FRANCIAORSZÁG 💢 FRANCIAORSZÁG CINEMA 4K 💢 BULGÁRIA 💢 SPANYOLORSZÁG MOVISTAR HD 💢 OLASZORSZÁG 💢 OLASZORSZÁG  EAGLE CINEMA 4K 💢 TÖRÖKORSZÁG 💢 GÖRÖGORSZÁG 💢 PAKISZTÁN 💢 AFRIKA 💢 BELGIUM 💢 PORTUGÁLIA 💢 BRASIL 💢 KINA 💢 SZERBIA 💢 UKRAJNA 💢 AUSZTRÁLIA 💢 OROSZORSZÁG 💢 LENGYELORSZÁG 💢 EX YU 💢 NORVÉGIA 💢 SVÁJC 💢 SVÉDORSZÁG 💢 DÁNIA 💢 HORVÁTORSZÁG 💢 IRORSZÁG 💢 MACEDÓNIA 💢 XXX ✷✷ 📺
+
+========================================
+
+♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://royal-cdn.eu:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://royal-cdn.eu:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 08 Temmuz 2026 22:44
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 10 Ocak 2027 23:44
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ gabrielantal
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ retdsae
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 3
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇯🇵 Japan
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Asia/Tokyo
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 103.75.68.99
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ NexonHost Srl
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 31 Ekim 2026 - 03:07
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (0/8 stream • HTTP 459)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8904 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 8922 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 3189 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://royal-cdn.eu:8080/get.php?username=gabrielantal&password=retdsae&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://royal-cdn.eu:8080/xmltv.php?username=gabrielantal&password=retdsae&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢MAGYARORSZÁG 💢 PRÉMIUM 💢 PRÉMIUM SOROZATOK 💢 CANAL PLUS 💢 RTL+ ( ÉLŐ ) 💢 NET4+ ( ÉLŐ ) 💢 DAZN  ( ÉLŐ ) 💢 VOYO SK 💢 REALITY TV 💢 RTL + TV SHOW 💢 Tv Show 💢 PODCAST 💢 RAJZFILMVILÁG 💢 NETFLIX 💢 DISNEY 💢 MAX 💢 VÁROSI TV 💢 RÁDIÓK 💢 PREMIUM SPORT CSATORNÁK 💢 PREMIUM DE+UK CSATORNÁK 💢 CZECH+SLOVAK 💢 CSEHORSZÁG 💢 CZECH+SLOVAK PREMIUM 💢 CZECH+SLOVAK RADIOK 💢 ROMÁNIA 💢 AUSTRIA - GENERAL 💢 AUSTRIA - SPORT 💢 GERMANY GENERAL 💢 GERMANY UNTERHALTUNG 💢 GERMANY NACHRICTEN 💢 GERMANY KINDER 💢 GERMANY - FILME SERIE 💢 GERMANY - SELEKT KINO 💢 GERMANY EAGLE CINEMA 💢 GERMANY DOCUMENTUM 💢 GERMANY MUSIK 💢 GERMANY SKY SPORT 💢 GERMANY SPORT (AMAZON PRIME) 💢 GERMANY SPORT (DAZN GERMANY) 💢 GERMANY SPORT (EUROSPORT 360 EXTRA) 💢 GERMANY SPORT (MAGENTA SPORT 2 & 3 BUNDESLIGA) 💢 GERMANY SPORT (RTL+EUROPE LEAGUE) 💢 U.K ENTERTAINMENT 💢 U.K  INTERNATIONAL 💢 U.K KIDS 💢 U.K DOCUMENTARIES 💢 U.K MOVIES 💢 U.K MUSIC 💢 U.K  NEWS 💢 U.K SKY SPORTS 💢 U.K SPORTS (OTHERS) 💢 U.K TNT SPORT 💢 U.S.A - ENTERTAINMENT 💢 U.S.A - NEWS 💢 U.S.A. - KIDS 💢 U.S.A. - MOVIES 💢 U.S.A. - MUSIC 💢 U.S.A. - ABC 💢 U.S.A. - DOCUMENTARIES 💢 U.S.A. - REGIONAL 💢 U.S.A. - UNSORTED 💢 U.S.A. - SPORTS 💢 KANADA 💢 INDIA 💢 SPANYOLORSZÁG 💢 ALBÁNIA 💢 HOLLANDIA 💢 FRANCIAORSZÁG 💢 FRANCIAORSZÁG CINEMA 4K 💢 BULGÁRIA 💢 SPANYOLORSZÁG MOVISTAR HD 💢 OLASZORSZÁG 💢 OLASZORSZÁG  EAGLE CINEMA 4K 💢 TÖRÖKORSZÁG 💢 GÖRÖGORSZÁG 💢 PAKISZTÁN 💢 AFRIKA 💢 BELGIUM 💢 PORTUGÁLIA 💢 BRASIL 💢 KINA 💢 SZERBIA 💢 UKRAJNA 💢 AUSZTRÁLIA 💢 OROSZORSZÁG 💢 LENGYELORSZÁG 💢 EX YU 💢 NORVÉGIA 💢 SVÁJC 💢 SVÉDORSZÁG 💢 DÁNIA 💢 HORVÁTORSZÁG 💢 IRORSZÁG 💢 MACEDÓNIA 💢 XXX ✷✷ 📺
+
+========================================
+
+♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://royal-cdn.eu:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://royal-cdn.eu:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 07 Ağustos 2022 19:43
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 10 Kasım 2026 22:44
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ fWxS6zRQ
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ gellért
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 3
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇯🇵 Japan
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Asia/Tokyo
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 103.75.68.99
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ NexonHost Srl
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 31 Ekim 2026 - 03:14
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (0/8 stream • HTTP 459)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 1544 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 8689 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 3189 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://royal-cdn.eu:8080/get.php?username=fWxS6zRQ&password=gellért&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://royal-cdn.eu:8080/xmltv.php?username=fWxS6zRQ&password=gellért&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢MAGYARORSZÁG 💢 PRÉMIUM 💢 PRÉMIUM SOROZATOK 💢 CANAL PLUS 💢 RTL+ ( ÉLŐ ) 💢 NET4+ ( ÉLŐ ) 💢 DAZN  ( ÉLŐ ) 💢 VOYO SK 💢 REALITY TV 💢 RTL + TV SHOW 💢 Tv Show 💢 PODCAST 💢 RAJZFILMVILÁG 💢 NETFLIX 💢 DISNEY 💢 MAX 💢 VÁROSI TV 💢 RÁDIÓK 💢 PREMIUM SPORT CSATORNÁK 💢 PREMIUM DE+UK CSATORNÁK 💢 AUSTRIA - GENERAL 💢 AUSTRIA - SPORT 💢 GERMANY GENERAL 💢 GERMANY UNTERHALTUNG 💢 GERMANY NACHRICTEN 💢 GERMANY KINDER 💢 GERMANY - FILME SERIE 💢 GERMANY - SELEKT KINO 💢 GERMANY EAGLE CINEMA 💢 GERMANY DOCUMENTUM 💢 GERMANY MUSIK 💢 GERMANY SKY SPORT 💢 GERMANY SPORT (AMAZON PRIME) 💢 GERMANY SPORT (DAZN GERMANY) 💢 GERMANY SPORT (EUROSPORT 360 EXTRA) 💢 GERMANY SPORT (MAGENTA SPORT 2 & 3 BUNDESLIGA) 💢 GERMANY SPORT (RTL+EUROPE LEAGUE) 💢 XXX ✷✷ 📺
+
+========================================
+
+♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://royal-cdn.eu:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://royal-cdn.eu:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 17 Mart 2023 16:43
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 19 Kasım 2026 22:19
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ plextv232
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ ggggg
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 3
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇯🇵 Japan
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Asia/Tokyo
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 103.75.68.99
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ NexonHost Srl
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 31 Ekim 2026 - 03:27
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (0/8 stream • HTTP 459)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8914 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 13808 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 3723 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://royal-cdn.eu:8080/get.php?username=plextv232&password=ggggg&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://royal-cdn.eu:8080/xmltv.php?username=plextv232&password=ggggg&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢MAGYARORSZÁG 💢 PRÉMIUM 💢 PRÉMIUM SOROZATOK 💢 CANAL PLUS 💢 RTL+ ( ÉLŐ ) 💢 NET4+ ( ÉLŐ ) 💢 DAZN  ( ÉLŐ ) 💢 VOYO SK 💢 REALITY TV 💢 RTL + TV SHOW 💢 Tv Show 💢 PODCAST 💢 RAJZFILMVILÁG 💢 NETFLIX 💢 DISNEY 💢 MAX 💢 VÁROSI TV 💢 RÁDIÓK 💢 PREMIUM SPORT CSATORNÁK 💢 PREMIUM DE+UK CSATORNÁK 💢 CZECH+SLOVAK 💢 CSEHORSZÁG 💢 CZECH+SLOVAK PREMIUM 💢 CZECH+SLOVAK RADIOK 💢 ROMÁNIA 💢 AUSTRIA - GENERAL 💢 AUSTRIA - SPORT 💢 GERMANY GENERAL 💢 GERMANY UNTERHALTUNG 💢 GERMANY NACHRICTEN 💢 GERMANY KINDER 💢 GERMANY - FILME SERIE 💢 GERMANY - SELEKT KINO 💢 GERMANY EAGLE CINEMA 💢 GERMANY DOCUMENTUM 💢 GERMANY MUSIK 💢 GERMANY SKY SPORT 💢 GERMANY SPORT (AMAZON PRIME) 💢 GERMANY SPORT (DAZN GERMANY) 💢 GERMANY SPORT (EUROSPORT 360 EXTRA) 💢 GERMANY SPORT (MAGENTA SPORT 2 & 3 BUNDESLIGA) 💢 GERMANY SPORT (RTL+EUROPE LEAGUE) 💢 U.K ENTERTAINMENT 💢 U.K  INTERNATIONAL 💢 U.K KIDS 💢 U.K DOCUMENTARIES 💢 U.K MOVIES 💢 U.K MUSIC 💢 U.K  NEWS 💢 U.K SKY SPORTS 💢 U.K SPORTS (OTHERS) 💢 U.K TNT SPORT 💢 U.S.A - ENTERTAINMENT 💢 U.S.A - NEWS 💢 U.S.A. - KIDS 💢 U.S.A. - MOVIES 💢 U.S.A. - MUSIC 💢 U.S.A. - ABC 💢 U.S.A. - DOCUMENTARIES 💢 U.S.A. - REGIONAL 💢 U.S.A. - UNSORTED 💢 U.S.A. - SPORTS 💢 KANADA 💢 INDIA 💢 SPANYOLORSZÁG 💢 ALBÁNIA 💢 HOLLANDIA 💢 FRANCIAORSZÁG 💢 FRANCIAORSZÁG CINEMA 4K 💢 BULGÁRIA 💢 SPANYOLORSZÁG MOVISTAR HD 💢 OLASZORSZÁG 💢 OLASZORSZÁG  EAGLE CINEMA 4K 💢 TÖRÖKORSZÁG 💢 GÖRÖGORSZÁG 💢 PAKISZTÁN 💢 AFRIKA 💢 BELGIUM 💢 PORTUGÁLIA 💢 BRASIL 💢 KINA 💢 SZERBIA 💢 UKRAJNA 💢 AUSZTRÁLIA 💢 OROSZORSZÁG 💢 LENGYELORSZÁG 💢 EX YU 💢 NORVÉGIA 💢 SVÁJC 💢 SVÉDORSZÁG 💢 DÁNIA 💢 HORVÁTORSZÁG 💢 IRORSZÁG 💢 MACEDÓNIA 💢 XXX ✷✷ 📺
+
+========================================
+
+♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://royal-cdn.eu:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://royal-cdn.eu:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 11 Eylül 2026 18:46
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 11 Kasım 2026 23:43
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ Hajnalka23
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ Nagy
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 3
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇯🇵 Japan
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Asia/Tokyo
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 103.75.68.99
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ NexonHost Srl
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 31 Ekim 2026 - 04:30
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (0/8 stream • HTTP 459)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8914 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 13808 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 3723 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://royal-cdn.eu:8080/get.php?username=Hajnalka23&password=Nagy&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://royal-cdn.eu:8080/xmltv.php?username=Hajnalka23&password=Nagy&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢MAGYARORSZÁG 💢 PRÉMIUM 💢 PRÉMIUM SOROZATOK 💢 CANAL PLUS 💢 RTL+ ( ÉLŐ ) 💢 NET4+ ( ÉLŐ ) 💢 DAZN  ( ÉLŐ ) 💢 VOYO SK 💢 REALITY TV 💢 RTL + TV SHOW 💢 Tv Show 💢 PODCAST 💢 RAJZFILMVILÁG 💢 NETFLIX 💢 DISNEY 💢 MAX 💢 VÁROSI TV 💢 RÁDIÓK 💢 PREMIUM SPORT CSATORNÁK 💢 PREMIUM DE+UK CSATORNÁK 💢 CZECH+SLOVAK 💢 CSEHORSZÁG 💢 CZECH+SLOVAK PREMIUM 💢 CZECH+SLOVAK RADIOK 💢 ROMÁNIA 💢 AUSTRIA - GENERAL 💢 AUSTRIA - SPORT 💢 GERMANY GENERAL 💢 GERMANY UNTERHALTUNG 💢 GERMANY NACHRICTEN 💢 GERMANY KINDER 💢 GERMANY - FILME SERIE 💢 GERMANY - SELEKT KINO 💢 GERMANY EAGLE CINEMA 💢 GERMANY DOCUMENTUM 💢 GERMANY MUSIK 💢 GERMANY SKY SPORT 💢 GERMANY SPORT (AMAZON PRIME) 💢 GERMANY SPORT (DAZN GERMANY) 💢 GERMANY SPORT (EUROSPORT 360 EXTRA) 💢 GERMANY SPORT (MAGENTA SPORT 2 & 3 BUNDESLIGA) 💢 GERMANY SPORT (RTL+EUROPE LEAGUE) 💢 U.K ENTERTAINMENT 💢 U.K  INTERNATIONAL 💢 U.K KIDS 💢 U.K DOCUMENTARIES 💢 U.K MOVIES 💢 U.K MUSIC 💢 U.K  NEWS 💢 U.K SKY SPORTS 💢 U.K SPORTS (OTHERS) 💢 U.K TNT SPORT 💢 U.S.A - ENTERTAINMENT 💢 U.S.A - NEWS 💢 U.S.A. - KIDS 💢 U.S.A. - MOVIES 💢 U.S.A. - MUSIC 💢 U.S.A. - ABC 💢 U.S.A. - DOCUMENTARIES 💢 U.S.A. - REGIONAL 💢 U.S.A. - UNSORTED 💢 U.S.A. - SPORTS 💢 KANADA 💢 INDIA 💢 SPANYOLORSZÁG 💢 ALBÁNIA 💢 HOLLANDIA 💢 FRANCIAORSZÁG 💢 FRANCIAORSZÁG CINEMA 4K 💢 BULGÁRIA 💢 SPANYOLORSZÁG MOVISTAR HD 💢 OLASZORSZÁG 💢 OLASZORSZÁG  EAGLE CINEMA 4K 💢 TÖRÖKORSZÁG 💢 GÖRÖGORSZÁG 💢 PAKISZTÁN 💢 AFRIKA 💢 BELGIUM 💢 PORTUGÁLIA 💢 BRASIL 💢 KINA 💢 SZERBIA 💢 UKRAJNA 💢 AUSZTRÁLIA 💢 OROSZORSZÁG 💢 LENGYELORSZÁG 💢 EX YU 💢 NORVÉGIA 💢 SVÁJC 💢 SVÉDORSZÁG 💢 DÁNIA 💢 HORVÁTORSZÁG 💢 IRORSZÁG 💢 MACEDÓNIA 💢 XXX ✷✷ 📺
+
+========================================
+
+♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://royal-cdn.eu:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://royal-cdn.eu:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 24 Eylül 2023 20:00
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 26 Kasım 2026 22:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ ahtZ96KX
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ mSdEPck
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 3
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇯🇵 Japan
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Asia/Tokyo
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 103.75.68.99
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ NexonHost Srl
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 31 Ekim 2026 - 04:32
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (0/8 stream • HTTP 459)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8914 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 13808 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 3723 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://royal-cdn.eu:8080/get.php?username=ahtZ96KX&password=mSdEPck&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://royal-cdn.eu:8080/xmltv.php?username=ahtZ96KX&password=mSdEPck&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢MAGYARORSZÁG 💢 PRÉMIUM 💢 PRÉMIUM SOROZATOK 💢 CANAL PLUS 💢 RTL+ ( ÉLŐ ) 💢 NET4+ ( ÉLŐ ) 💢 DAZN  ( ÉLŐ ) 💢 VOYO SK 💢 REALITY TV 💢 RTL + TV SHOW 💢 Tv Show 💢 PODCAST 💢 RAJZFILMVILÁG 💢 NETFLIX 💢 DISNEY 💢 MAX 💢 VÁROSI TV 💢 RÁDIÓK 💢 PREMIUM SPORT CSATORNÁK 💢 PREMIUM DE+UK CSATORNÁK 💢 CZECH+SLOVAK 💢 CSEHORSZÁG 💢 CZECH+SLOVAK PREMIUM 💢 CZECH+SLOVAK RADIOK 💢 ROMÁNIA 💢 AUSTRIA - GENERAL 💢 AUSTRIA - SPORT 💢 GERMANY GENERAL 💢 GERMANY UNTERHALTUNG 💢 GERMANY NACHRICTEN 💢 GERMANY KINDER 💢 GERMANY - FILME SERIE 💢 GERMANY - SELEKT KINO 💢 GERMANY EAGLE CINEMA 💢 GERMANY DOCUMENTUM 💢 GERMANY MUSIK 💢 GERMANY SKY SPORT 💢 GERMANY SPORT (AMAZON PRIME) 💢 GERMANY SPORT (DAZN GERMANY) 💢 GERMANY SPORT (EUROSPORT 360 EXTRA) 💢 GERMANY SPORT (MAGENTA SPORT 2 & 3 BUNDESLIGA) 💢 GERMANY SPORT (RTL+EUROPE LEAGUE) 💢 U.K ENTERTAINMENT 💢 U.K  INTERNATIONAL 💢 U.K KIDS 💢 U.K DOCUMENTARIES 💢 U.K MOVIES 💢 U.K MUSIC 💢 U.K  NEWS 💢 U.K SKY SPORTS 💢 U.K SPORTS (OTHERS) 💢 U.K TNT SPORT 💢 U.S.A - ENTERTAINMENT 💢 U.S.A - NEWS 💢 U.S.A. - KIDS 💢 U.S.A. - MOVIES 💢 U.S.A. - MUSIC 💢 U.S.A. - ABC 💢 U.S.A. - DOCUMENTARIES 💢 U.S.A. - REGIONAL 💢 U.S.A. - UNSORTED 💢 U.S.A. - SPORTS 💢 KANADA 💢 INDIA 💢 SPANYOLORSZÁG 💢 ALBÁNIA 💢 HOLLANDIA 💢 FRANCIAORSZÁG 💢 FRANCIAORSZÁG CINEMA 4K 💢 BULGÁRIA 💢 SPANYOLORSZÁG MOVISTAR HD 💢 OLASZORSZÁG 💢 OLASZORSZÁG  EAGLE CINEMA 4K 💢 TÖRÖKORSZÁG 💢 GÖRÖGORSZÁG 💢 PAKISZTÁN 💢 AFRIKA 💢 BELGIUM 💢 PORTUGÁLIA 💢 BRASIL 💢 KINA 💢 SZERBIA 💢 UKRAJNA 💢 AUSZTRÁLIA 💢 OROSZORSZÁG 💢 LENGYELORSZÁG 💢 EX YU 💢 NORVÉGIA 💢 SVÁJC 💢 SVÉDORSZÁG 💢 DÁNIA 💢 HORVÁTORSZÁG 💢 IRORSZÁG 💢 MACEDÓNIA 💢 XXX ✷✷ 📺
+
+========================================
+
+♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://royal-cdn.eu:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://royal-cdn.eu:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 19 Nisan 2023 18:36
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 09 Aralık 2026 11:57
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ plextv248
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ cK3yG5J
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 3
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇯🇵 Japan
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Asia/Tokyo
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 103.75.68.99
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ NexonHost Srl
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 31 Ekim 2026 - 04:34
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (0/8 stream • HTTP 459)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8919 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 13808 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 3723 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://royal-cdn.eu:8080/get.php?username=plextv248&password=cK3yG5J&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://royal-cdn.eu:8080/xmltv.php?username=plextv248&password=cK3yG5J&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢MAGYARORSZÁG 💢 PRÉMIUM 💢 PRÉMIUM SOROZATOK 💢 CANAL PLUS 💢 RTL+ ( ÉLŐ ) 💢 NET4+ ( ÉLŐ ) 💢 DAZN  ( ÉLŐ ) 💢 VOYO SK 💢 VOYO RO 💢 REALITY TV 💢 RTL + TV SHOW 💢 Tv Show 💢 PODCAST 💢 RAJZFILMVILÁG 💢 NETFLIX 💢 DISNEY 💢 MAX 💢 VÁROSI TV 💢 RÁDIÓK 💢 PREMIUM SPORT CSATORNÁK 💢 PREMIUM DE+UK CSATORNÁK 💢 CZECH+SLOVAK 💢 CSEHORSZÁG 💢 CZECH+SLOVAK PREMIUM 💢 CZECH+SLOVAK RADIOK 💢 ROMÁNIA 💢 AUSTRIA - GENERAL 💢 AUSTRIA - SPORT 💢 GERMANY GENERAL 💢 GERMANY UNTERHALTUNG 💢 GERMANY NACHRICTEN 💢 GERMANY KINDER 💢 GERMANY - FILME SERIE 💢 GERMANY - SELEKT KINO 💢 GERMANY EAGLE CINEMA 💢 GERMANY DOCUMENTUM 💢 GERMANY MUSIK 💢 GERMANY SKY SPORT 💢 GERMANY SPORT (AMAZON PRIME) 💢 GERMANY SPORT (DAZN GERMANY) 💢 GERMANY SPORT (EUROSPORT 360 EXTRA) 💢 GERMANY SPORT (MAGENTA SPORT 2 & 3 BUNDESLIGA) 💢 GERMANY SPORT (RTL+EUROPE LEAGUE) 💢 U.K ENTERTAINMENT 💢 U.K  INTERNATIONAL 💢 U.K KIDS 💢 U.K DOCUMENTARIES 💢 U.K MOVIES 💢 U.K MUSIC 💢 U.K  NEWS 💢 U.K SKY SPORTS 💢 U.K SPORTS (OTHERS) 💢 U.K TNT SPORT 💢 U.S.A - ENTERTAINMENT 💢 U.S.A - NEWS 💢 U.S.A. - KIDS 💢 U.S.A. - MOVIES 💢 U.S.A. - MUSIC 💢 U.S.A. - ABC 💢 U.S.A. - DOCUMENTARIES 💢 U.S.A. - REGIONAL 💢 U.S.A. - UNSORTED 💢 U.S.A. - SPORTS 💢 KANADA 💢 INDIA 💢 SPANYOLORSZÁG 💢 ALBÁNIA 💢 HOLLANDIA 💢 FRANCIAORSZÁG 💢 FRANCIAORSZÁG CINEMA 4K 💢 BULGÁRIA 💢 SPANYOLORSZÁG MOVISTAR HD 💢 OLASZORSZÁG 💢 OLASZORSZÁG  EAGLE CINEMA 4K 💢 TÖRÖKORSZÁG 💢 GÖRÖGORSZÁG 💢 PAKISZTÁN 💢 AFRIKA 💢 BELGIUM 💢 PORTUGÁLIA 💢 BRASIL 💢 KINA 💢 SZERBIA 💢 UKRAJNA 💢 AUSZTRÁLIA 💢 OROSZORSZÁG 💢 LENGYELORSZÁG 💢 EX YU 💢 NORVÉGIA 💢 SVÁJC 💢 SVÉDORSZÁG 💢 DÁNIA 💢 HORVÁTORSZÁG 💢 IRORSZÁG 💢 MACEDÓNIA 💢 XXX ✷✷ 📺
+
+========================================
+
+♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://royal-cdn.eu:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://royal-cdn.eu:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 29 Ağustos 2023 11:35
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 03 Nisan 2027 15:51
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ plextv311
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ sssssxxxxx
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 3
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇯🇵 Japan
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Asia/Tokyo
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 103.75.68.99
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ NexonHost Srl
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 31 Ekim 2026 - 04:35
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (0/8 stream • HTTP 459)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8914 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 13808 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 3723 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://royal-cdn.eu:8080/get.php?username=plextv311&password=sssssxxxxx&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://royal-cdn.eu:8080/xmltv.php?username=plextv311&password=sssssxxxxx&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢MAGYARORSZÁG 💢 PRÉMIUM 💢 PRÉMIUM SOROZATOK 💢 CANAL PLUS 💢 RTL+ ( ÉLŐ ) 💢 NET4+ ( ÉLŐ ) 💢 DAZN  ( ÉLŐ ) 💢 VOYO SK 💢 REALITY TV 💢 RTL + TV SHOW 💢 Tv Show 💢 PODCAST 💢 RAJZFILMVILÁG 💢 NETFLIX 💢 DISNEY 💢 MAX 💢 VÁROSI TV 💢 RÁDIÓK 💢 PREMIUM SPORT CSATORNÁK 💢 PREMIUM DE+UK CSATORNÁK 💢 CZECH+SLOVAK 💢 CSEHORSZÁG 💢 CZECH+SLOVAK PREMIUM 💢 CZECH+SLOVAK RADIOK 💢 ROMÁNIA 💢 AUSTRIA - GENERAL 💢 AUSTRIA - SPORT 💢 GERMANY GENERAL 💢 GERMANY UNTERHALTUNG 💢 GERMANY NACHRICTEN 💢 GERMANY KINDER 💢 GERMANY - FILME SERIE 💢 GERMANY - SELEKT KINO 💢 GERMANY EAGLE CINEMA 💢 GERMANY DOCUMENTUM 💢 GERMANY MUSIK 💢 GERMANY SKY SPORT 💢 GERMANY SPORT (AMAZON PRIME) 💢 GERMANY SPORT (DAZN GERMANY) 💢 GERMANY SPORT (EUROSPORT 360 EXTRA) 💢 GERMANY SPORT (MAGENTA SPORT 2 & 3 BUNDESLIGA) 💢 GERMANY SPORT (RTL+EUROPE LEAGUE) 💢 U.K ENTERTAINMENT 💢 U.K  INTERNATIONAL 💢 U.K KIDS 💢 U.K DOCUMENTARIES 💢 U.K MOVIES 💢 U.K MUSIC 💢 U.K  NEWS 💢 U.K SKY SPORTS 💢 U.K SPORTS (OTHERS) 💢 U.K TNT SPORT 💢 U.S.A - ENTERTAINMENT 💢 U.S.A - NEWS 💢 U.S.A. - KIDS 💢 U.S.A. - MOVIES 💢 U.S.A. - MUSIC 💢 U.S.A. - ABC 💢 U.S.A. - DOCUMENTARIES 💢 U.S.A. - REGIONAL 💢 U.S.A. - UNSORTED 💢 U.S.A. - SPORTS 💢 KANADA 💢 INDIA 💢 SPANYOLORSZÁG 💢 ALBÁNIA 💢 HOLLANDIA 💢 FRANCIAORSZÁG 💢 FRANCIAORSZÁG CINEMA 4K 💢 BULGÁRIA 💢 SPANYOLORSZÁG MOVISTAR HD 💢 OLASZORSZÁG 💢 OLASZORSZÁG  EAGLE CINEMA 4K 💢 TÖRÖKORSZÁG 💢 GÖRÖGORSZÁG 💢 PAKISZTÁN 💢 AFRIKA 💢 BELGIUM 💢 PORTUGÁLIA 💢 BRASIL 💢 KINA 💢 SZERBIA 💢 UKRAJNA 💢 AUSZTRÁLIA 💢 OROSZORSZÁG 💢 LENGYELORSZÁG 💢 EX YU 💢 NORVÉGIA 💢 SVÁJC 💢 SVÉDORSZÁG 💢 DÁNIA 💢 HORVÁTORSZÁG 💢 IRORSZÁG 💢 MACEDÓNIA 💢 XXX ✷✷ 📺
+
+========================================
+
+♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://royal-cdn.eu:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://royal-cdn.eu:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 21 Temmuz 2023 11:18
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 23 Kasım 2026 13:18
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ TamasSim
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 15fxysas
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 3
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇯🇵 Japan
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Asia/Tokyo
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 103.75.68.99
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ NexonHost Srl
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 31 Ekim 2026 - 04:40
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (0/8 stream • HTTP 459)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8904 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 8922 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 3189 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://royal-cdn.eu:8080/get.php?username=TamasSim&password=15fxysas&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://royal-cdn.eu:8080/xmltv.php?username=TamasSim&password=15fxysas&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢MAGYARORSZÁG 💢 PRÉMIUM 💢 PRÉMIUM SOROZATOK 💢 CANAL PLUS 💢 RTL+ ( ÉLŐ ) 💢 NET4+ ( ÉLŐ ) 💢 DAZN  ( ÉLŐ ) 💢 VOYO SK 💢 REALITY TV 💢 RTL + TV SHOW 💢 Tv Show 💢 PODCAST 💢 RAJZFILMVILÁG 💢 NETFLIX 💢 DISNEY 💢 MAX 💢 VÁROSI TV 💢 RÁDIÓK 💢 PREMIUM SPORT CSATORNÁK 💢 PREMIUM DE+UK CSATORNÁK 💢 CZECH+SLOVAK 💢 CSEHORSZÁG 💢 CZECH+SLOVAK PREMIUM 💢 CZECH+SLOVAK RADIOK 💢 ROMÁNIA 💢 AUSTRIA - GENERAL 💢 AUSTRIA - SPORT 💢 GERMANY GENERAL 💢 GERMANY UNTERHALTUNG 💢 GERMANY NACHRICTEN 💢 GERMANY KINDER 💢 GERMANY - FILME SERIE 💢 GERMANY - SELEKT KINO 💢 GERMANY EAGLE CINEMA 💢 GERMANY DOCUMENTUM 💢 GERMANY MUSIK 💢 GERMANY SKY SPORT 💢 GERMANY SPORT (AMAZON PRIME) 💢 GERMANY SPORT (DAZN GERMANY) 💢 GERMANY SPORT (EUROSPORT 360 EXTRA) 💢 GERMANY SPORT (MAGENTA SPORT 2 & 3 BUNDESLIGA) 💢 GERMANY SPORT (RTL+EUROPE LEAGUE) 💢 U.K ENTERTAINMENT 💢 U.K  INTERNATIONAL 💢 U.K KIDS 💢 U.K DOCUMENTARIES 💢 U.K MOVIES 💢 U.K MUSIC 💢 U.K  NEWS 💢 U.K SKY SPORTS 💢 U.K SPORTS (OTHERS) 💢 U.K TNT SPORT 💢 U.S.A - ENTERTAINMENT 💢 U.S.A - NEWS 💢 U.S.A. - KIDS 💢 U.S.A. - MOVIES 💢 U.S.A. - MUSIC 💢 U.S.A. - ABC 💢 U.S.A. - DOCUMENTARIES 💢 U.S.A. - REGIONAL 💢 U.S.A. - UNSORTED 💢 U.S.A. - SPORTS 💢 KANADA 💢 INDIA 💢 SPANYOLORSZÁG 💢 ALBÁNIA 💢 HOLLANDIA 💢 FRANCIAORSZÁG 💢 FRANCIAORSZÁG CINEMA 4K 💢 BULGÁRIA 💢 SPANYOLORSZÁG MOVISTAR HD 💢 OLASZORSZÁG 💢 OLASZORSZÁG  EAGLE CINEMA 4K 💢 TÖRÖKORSZÁG 💢 GÖRÖGORSZÁG 💢 PAKISZTÁN 💢 AFRIKA 💢 BELGIUM 💢 PORTUGÁLIA 💢 BRASIL 💢 KINA 💢 SZERBIA 💢 UKRAJNA 💢 AUSZTRÁLIA 💢 OROSZORSZÁG 💢 LENGYELORSZÁG 💢 EX YU 💢 NORVÉGIA 💢 SVÁJC 💢 SVÉDORSZÁG 💢 DÁNIA 💢 HORVÁTORSZÁG 💢 IRORSZÁG 💢 MACEDÓNIA 💢 XXX ✷✷ 📺
+
+========================================
+
+♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://royal-cdn.eu:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://royal-cdn.eu:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 11 Aralık 2020 13:55
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ Unlimited
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ sajat
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ y3wXFKqX
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 2
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇯🇵 Japan
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Asia/Tokyo
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 103.75.68.99
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ NexonHost Srl
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 31 Ekim 2026 - 04:45
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ VAR ✅ (2/8  • HTTP 302)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8904 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 13808 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 3723 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://royal-cdn.eu:8080/get.php?username=sajat&password=y3wXFKqX&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://royal-cdn.eu:8080/xmltv.php?username=sajat&password=y3wXFKqX&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢MAGYARORSZÁG 💢 PRÉMIUM 💢 PRÉMIUM SOROZATOK 💢 CANAL PLUS 💢 RTL+ ( ÉLŐ ) 💢 NET4+ ( ÉLŐ ) 💢 DAZN  ( ÉLŐ ) 💢 VOYO SK 💢 REALITY TV 💢 RTL + TV SHOW 💢 Tv Show 💢 PODCAST 💢 RAJZFILMVILÁG 💢 NETFLIX 💢 DISNEY 💢 MAX 💢 VÁROSI TV 💢 RÁDIÓK 💢 PREMIUM SPORT CSATORNÁK 💢 PREMIUM DE+UK CSATORNÁK 💢 CZECH+SLOVAK 💢 CSEHORSZÁG 💢 CZECH+SLOVAK PREMIUM 💢 CZECH+SLOVAK RADIOK 💢 ROMÁNIA 💢 AUSTRIA - GENERAL 💢 AUSTRIA - SPORT 💢 GERMANY GENERAL 💢 GERMANY UNTERHALTUNG 💢 GERMANY NACHRICTEN 💢 GERMANY KINDER 💢 GERMANY - FILME SERIE 💢 GERMANY - SELEKT KINO 💢 GERMANY EAGLE CINEMA 💢 GERMANY DOCUMENTUM 💢 GERMANY MUSIK 💢 GERMANY SKY SPORT 💢 GERMANY SPORT (AMAZON PRIME) 💢 GERMANY SPORT (DAZN GERMANY) 💢 GERMANY SPORT (EUROSPORT 360 EXTRA) 💢 GERMANY SPORT (MAGENTA SPORT 2 & 3 BUNDESLIGA) 💢 GERMANY SPORT (RTL+EUROPE LEAGUE) 💢 U.K ENTERTAINMENT 💢 U.K  INTERNATIONAL 💢 U.K KIDS 💢 U.K DOCUMENTARIES 💢 U.K MOVIES 💢 U.K MUSIC 💢 U.K  NEWS 💢 U.K SKY SPORTS 💢 U.K SPORTS (OTHERS) 💢 U.K TNT SPORT 💢 U.S.A - ENTERTAINMENT 💢 U.S.A - NEWS 💢 U.S.A. - KIDS 💢 U.S.A. - MOVIES 💢 U.S.A. - MUSIC 💢 U.S.A. - ABC 💢 U.S.A. - DOCUMENTARIES 💢 U.S.A. - REGIONAL 💢 U.S.A. - UNSORTED 💢 U.S.A. - SPORTS 💢 KANADA 💢 INDIA 💢 SPANYOLORSZÁG 💢 ALBÁNIA 💢 HOLLANDIA 💢 FRANCIAORSZÁG 💢 FRANCIAORSZÁG CINEMA 4K 💢 BULGÁRIA 💢 SPANYOLORSZÁG MOVISTAR HD 💢 OLASZORSZÁG 💢 OLASZORSZÁG  EAGLE CINEMA 4K 💢 TÖRÖKORSZÁG 💢 GÖRÖGORSZÁG 💢 PAKISZTÁN 💢 AFRIKA 💢 BELGIUM 💢 PORTUGÁLIA 💢 BRASIL 💢 KINA 💢 SZERBIA 💢 UKRAJNA 💢 AUSZTRÁLIA 💢 OROSZORSZÁG 💢 LENGYELORSZÁG 💢 EX YU 💢 NORVÉGIA 💢 SVÁJC 💢 SVÉDORSZÁG 💢 DÁNIA 💢 HORVÁTORSZÁG 💢 IRORSZÁG 💢 MACEDÓNIA 💢 XXX ✷✷ 📺
+
+========================================
+
+♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://royal-cdn.eu:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://royal-cdn.eu:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 20 Haziran 2023 18:53
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 28 Kasım 2026 19:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ plextv277
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ aJ2tKGt
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 3
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇯🇵 Japan
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Asia/Tokyo
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 103.75.68.99
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ NexonHost Srl
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 31 Ekim 2026 - 04:46
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (0/8 stream • HTTP 459)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8914 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 13808 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 3723 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://royal-cdn.eu:8080/get.php?username=plextv277&password=aJ2tKGt&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://royal-cdn.eu:8080/xmltv.php?username=plextv277&password=aJ2tKGt&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢MAGYARORSZÁG 💢 PRÉMIUM 💢 PRÉMIUM SOROZATOK 💢 CANAL PLUS 💢 RTL+ ( ÉLŐ ) 💢 NET4+ ( ÉLŐ ) 💢 DAZN  ( ÉLŐ ) 💢 VOYO SK 💢 REALITY TV 💢 RTL + TV SHOW 💢 Tv Show 💢 PODCAST 💢 RAJZFILMVILÁG 💢 NETFLIX 💢 DISNEY 💢 MAX 💢 VÁROSI TV 💢 RÁDIÓK 💢 PREMIUM SPORT CSATORNÁK 💢 PREMIUM DE+UK CSATORNÁK 💢 CZECH+SLOVAK 💢 CSEHORSZÁG 💢 CZECH+SLOVAK PREMIUM 💢 CZECH+SLOVAK RADIOK 💢 ROMÁNIA 💢 AUSTRIA - GENERAL 💢 AUSTRIA - SPORT 💢 GERMANY GENERAL 💢 GERMANY UNTERHALTUNG 💢 GERMANY NACHRICTEN 💢 GERMANY KINDER 💢 GERMANY - FILME SERIE 💢 GERMANY - SELEKT KINO 💢 GERMANY EAGLE CINEMA 💢 GERMANY DOCUMENTUM 💢 GERMANY MUSIK 💢 GERMANY SKY SPORT 💢 GERMANY SPORT (AMAZON PRIME) 💢 GERMANY SPORT (DAZN GERMANY) 💢 GERMANY SPORT (EUROSPORT 360 EXTRA) 💢 GERMANY SPORT (MAGENTA SPORT 2 & 3 BUNDESLIGA) 💢 GERMANY SPORT (RTL+EUROPE LEAGUE) 💢 U.K ENTERTAINMENT 💢 U.K  INTERNATIONAL 💢 U.K KIDS 💢 U.K DOCUMENTARIES 💢 U.K MOVIES 💢 U.K MUSIC 💢 U.K  NEWS 💢 U.K SKY SPORTS 💢 U.K SPORTS (OTHERS) 💢 U.K TNT SPORT 💢 U.S.A - ENTERTAINMENT 💢 U.S.A - NEWS 💢 U.S.A. - KIDS 💢 U.S.A. - MOVIES 💢 U.S.A. - MUSIC 💢 U.S.A. - ABC 💢 U.S.A. - DOCUMENTARIES 💢 U.S.A. - REGIONAL 💢 U.S.A. - UNSORTED 💢 U.S.A. - SPORTS 💢 KANADA 💢 INDIA 💢 SPANYOLORSZÁG 💢 ALBÁNIA 💢 HOLLANDIA 💢 FRANCIAORSZÁG 💢 FRANCIAORSZÁG CINEMA 4K 💢 BULGÁRIA 💢 SPANYOLORSZÁG MOVISTAR HD 💢 OLASZORSZÁG 💢 OLASZORSZÁG  EAGLE CINEMA 4K 💢 TÖRÖKORSZÁG 💢 GÖRÖGORSZÁG 💢 PAKISZTÁN 💢 AFRIKA 💢 BELGIUM 💢 PORTUGÁLIA 💢 BRASIL 💢 KINA 💢 SZERBIA 💢 UKRAJNA 💢 AUSZTRÁLIA 💢 OROSZORSZÁG 💢 LENGYELORSZÁG 💢 EX YU 💢 NORVÉGIA 💢 SVÁJC 💢 SVÉDORSZÁG 💢 DÁNIA 💢 HORVÁTORSZÁG 💢 IRORSZÁG 💢 MACEDÓNIA 💢 XXX ✷✷ 📺
+
+========================================
+
+♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://royal-cdn.eu:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://royal-cdn.eu:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 17 Haziran 2021 10:13
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 06 Kasım 2026 22:42
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ rbfsJ5Z1
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ eQf7rH1Q
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 3
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇯🇵 Japan
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Asia/Tokyo
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 103.75.68.99
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ NexonHost Srl
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 31 Ekim 2026 - 15:09
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (0/8 stream • HTTP 459)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 1021 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 8921 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 3191 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://royal-cdn.eu:8080/get.php?username=rbfsJ5Z1&password=eQf7rH1Q&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://royal-cdn.eu:8080/xmltv.php?username=rbfsJ5Z1&password=eQf7rH1Q&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢MAGYARORSZÁG 💢 PRÉMIUM 💢 PRÉMIUM SOROZATOK 💢 CANAL PLUS 💢 RTL+ ( ÉLŐ ) 💢 NET4+ ( ÉLŐ ) 💢 DAZN  ( ÉLŐ ) 💢 VOYO SK 💢 REALITY TV 💢 RTL + TV SHOW 💢 Tv Show 💢 PODCAST 💢 RAJZFILMVILÁG 💢 NETFLIX 💢 DISNEY 💢 MAX 💢 RÁDIÓK 💢 PREMIUM SPORT CSATORNÁK 💢 PREMIUM DE+UK CSATORNÁK 💢 XXX ✷✷ 📺
+
+========================================
+
+♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://royal-cdn.eu:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://royal-cdn.eu:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 18 Temmuz 2025 21:46
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 21 Ağustos 2027 23:55
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ RichardSzaraz
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ kzxBuzech9P2xSE
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 3
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇯🇵 Japan
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Asia/Tokyo
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 103.75.68.99
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ NexonHost Srl
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 31 Ekim 2026 - 19:25
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (0/8 stream • HTTP 459)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8914 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 13821 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 3725 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://royal-cdn.eu:8080/get.php?username=RichardSzaraz&password=kzxBuzech9P2xSE&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://royal-cdn.eu:8080/xmltv.php?username=RichardSzaraz&password=kzxBuzech9P2xSE&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢MAGYARORSZÁG 💢 PRÉMIUM 💢 PRÉMIUM SOROZATOK 💢 CANAL PLUS 💢 RTL+ ( ÉLŐ ) 💢 NET4+ ( ÉLŐ ) 💢 DAZN  ( ÉLŐ ) 💢 VOYO SK 💢 REALITY TV 💢 RTL + TV SHOW 💢 Tv Show 💢 PODCAST 💢 RAJZFILMVILÁG 💢 NETFLIX 💢 DISNEY 💢 MAX 💢 VÁROSI TV 💢 RÁDIÓK 💢 PREMIUM SPORT CSATORNÁK 💢 PREMIUM DE+UK CSATORNÁK 💢 CZECH+SLOVAK 💢 CSEHORSZÁG 💢 CZECH+SLOVAK PREMIUM 💢 CZECH+SLOVAK RADIOK 💢 ROMÁNIA 💢 AUSTRIA - GENERAL 💢 AUSTRIA - SPORT 💢 GERMANY GENERAL 💢 GERMANY UNTERHALTUNG 💢 GERMANY NACHRICTEN 💢 GERMANY KINDER 💢 GERMANY - FILME SERIE 💢 GERMANY - SELEKT KINO 💢 GERMANY EAGLE CINEMA 💢 GERMANY DOCUMENTUM 💢 GERMANY MUSIK 💢 GERMANY SKY SPORT 💢 GERMANY SPORT (AMAZON PRIME) 💢 GERMANY SPORT (DAZN GERMANY) 💢 GERMANY SPORT (EUROSPORT 360 EXTRA) 💢 GERMANY SPORT (MAGENTA SPORT 2 & 3 BUNDESLIGA) 💢 GERMANY SPORT (RTL+EUROPE LEAGUE) 💢 U.K ENTERTAINMENT 💢 U.K  INTERNATIONAL 💢 U.K KIDS 💢 U.K DOCUMENTARIES 💢 U.K MOVIES 💢 U.K MUSIC 💢 U.K  NEWS 💢 U.K SKY SPORTS 💢 U.K SPORTS (OTHERS) 💢 U.K TNT SPORT 💢 U.S.A - ENTERTAINMENT 💢 U.S.A - NEWS 💢 U.S.A. - KIDS 💢 U.S.A. - MOVIES 💢 U.S.A. - MUSIC 💢 U.S.A. - ABC 💢 U.S.A. - DOCUMENTARIES 💢 U.S.A. - REGIONAL 💢 U.S.A. - UNSORTED 💢 U.S.A. - SPORTS 💢 KANADA 💢 INDIA 💢 SPANYOLORSZÁG 💢 ALBÁNIA 💢 HOLLANDIA 💢 FRANCIAORSZÁG 💢 FRANCIAORSZÁG CINEMA 4K 💢 BULGÁRIA 💢 SPANYOLORSZÁG MOVISTAR HD 💢 OLASZORSZÁG 💢 OLASZORSZÁG  EAGLE CINEMA 4K 💢 TÖRÖKORSZÁG 💢 GÖRÖGORSZÁG 💢 PAKISZTÁN 💢 AFRIKA 💢 BELGIUM 💢 PORTUGÁLIA 💢 BRASIL 💢 KINA 💢 SZERBIA 💢 UKRAJNA 💢 AUSZTRÁLIA 💢 OROSZORSZÁG 💢 LENGYELORSZÁG 💢 EX YU 💢 NORVÉGIA 💢 SVÁJC 💢 SVÉDORSZÁG 💢 DÁNIA 💢 HORVÁTORSZÁG 💢 IRORSZÁG 💢 MACEDÓNIA 💢 XXX ✷✷ 📺
+
+========================================
+
+♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://royal-cdn.eu:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://royal-cdn.eu:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 23 Eylül 2021 21:43
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 25 Kasım 2026 21:38
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ tyz99k4B
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ belasinka
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 3
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇯🇵 Japan
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Asia/Tokyo
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 103.75.68.99
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ NexonHost Srl
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 31 Ekim 2026 - 21:35
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (0/8 stream • HTTP 459)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 1276 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 8702 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 3191 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://royal-cdn.eu:8080/get.php?username=tyz99k4B&password=belasinka&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://royal-cdn.eu:8080/xmltv.php?username=tyz99k4B&password=belasinka&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢MAGYARORSZÁG 💢 PRÉMIUM 💢 PRÉMIUM SOROZATOK 💢 CANAL PLUS 💢 RTL+ ( ÉLŐ ) 💢 NET4+ ( ÉLŐ ) 💢 DAZN  ( ÉLŐ ) 💢 VOYO SK 💢 REALITY TV 💢 RTL + TV SHOW 💢 Tv Show 💢 PODCAST 💢 RAJZFILMVILÁG 💢 NETFLIX 💢 DISNEY 💢 MAX 💢 VÁROSI TV 💢 RÁDIÓK 💢 PREMIUM SPORT CSATORNÁK 💢 PREMIUM DE+UK CSATORNÁK 💢 ROMÁNIA 💢 XXX ✷✷ 📺
+
+========================================

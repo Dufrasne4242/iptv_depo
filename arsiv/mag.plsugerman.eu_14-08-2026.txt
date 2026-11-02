@@ -1,0 +1,264 @@
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://mag.plsugerman.eu:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://mag.plsugerman.eu:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 28 Ekim 2024 10:27
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 29 Ekim 2026 21:06
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ tcb.ertugrul
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 25.10.22
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇨🇦 Canada
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/Toronto
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ plus
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 188.114.96.0
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Cloudflare, Inc.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 14 Ağustos 2026 - 03:32
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ VAR ✅ (200)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 9971 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 11444 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 3324 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://mag.plsugerman.eu:8080/get.php?username=tcb.ertugrul&password=25.10.22&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://mag.plsugerman.eu:8080/xmltv.php?username=tcb.ertugrul&password=25.10.22&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR • ⚽️Spor&Dsmart  💢 TR • ⚽️beIN Sports 💢 TR • ⚽️S Sport 💢 TR • ⚽️Tivibu Spor 💢 TR • ⚽️Exxen Spor 💢 TR • ⚽️Tabii Spor 💢 TR • Ulusal Favori 💢 TR • Ulusal  💢 TR • Ulusal Raw | Android 💢 TR • Yerel Kanallar 💢 TR • Haber  💢 TR • Sinema  💢 TR • 4K Premium 💢 TR • Sinema boxset 💢 TR • Sinema Up 💢 TR • Dizi  💢 TR • Eğlence 💢 TR • Cocuk  💢 TR • Belgesel  💢 TR • Muzik / Radio 💢 TR • Dini 💢 TR • Kıbrıs  💢 DE • National (Ulusal) 💢 DE • Kino (Sinema) 💢 DE • Filme 💢 DE • Sport ⚽️ 💢 DE • Nachrichten (Haber) 💢 DE • Dokumentarfilm (Belgesel) 💢 DE • Kind (Çocuk) 💢 DE • Musik 💢 FR • Canalsat (Ulusal) 💢 FR • Sports (Spor) 💢 FR • Cinema (Sinema) 💢 FR • Enfants (Cocuk) 💢 FR • Culture (Belgesel) 💢 FR • Music (Muzik) 💢 FR • News (Haber) 💢 IT • ITALIA (Ulusal) 💢 IT • Sport (Spor) 💢 IT • CINEMA (Sinema) 💢 IT • Cultura (Belgesel) 💢 IT • Notizia (Haber) 💢 IT • Musica (Müzik) 💢 IT • Bambino (Çocuk) 💢 UK • Entertainment (Ulusal) 💢 UK • Sport (Spor) 💢 UK • Cinema (Sinema) 💢 UK • Documentaries (Belgesel) 💢 UK • News (Haber) 💢 UK • Kids (Çocuk) 💢 UK • Music (Müzik) 💢 ► Azerbaycan 💢 ► Netherlands 💢 ► Poland  💢 ► Kurdish 💢 ► Sweden  💢 ► Denmark  💢 ► Finland  💢 ► Swiss  💢 ► Russia  💢 ► Ukraine 💢 ► Spain  💢 ► Portugal  💢 ► Ex-Yu  💢 ► Albania  💢 ► Belgium  💢 ► Bulgaria  💢 ► Romania  💢 ► Macedonia  💢 ► Norway  💢 ► Greece ( Yunanistan )  💢 ► Croatia ( Hırvatistan )  💢 ► Bosna Hersek  💢 ► Israel  💢 ► Serbia  💢 ► Iran  💢 ► India  💢 ► Canada  💢 ► Austria  💢 ► Africa  💢 ► USA  💢 ► Hungary 💢 ► Latin America 💢 ► Afghanistan  💢 ► Armenia 💢 ► Slovenia 💢 ► Pakistan 💢 ► Golf Sports 💢 ► Slovakia 💢 ► Georgia 💢 ► Kazakhstan 💢 ► Ireland (İrlanda) 💢 ► Arabic 💢 ► Arabic Bae 💢 ► Arabic Bahrain 💢 ► Arabic Cezair 💢 ► Arabic Egypt 💢 ► Arabic Fas 💢 ► Arabic Filistin 💢 ► Arabic Iraq 💢 ► Arabic Kuwait 💢 ► Arabic Libia 💢 ► Arabic Lübnan 💢 ► Arabic Umman 💢 ► Arabic Katar 💢 ► Czech's Republic 💢 ► Arabic Sudan 💢 ► Arabic Suudi Arabistan 💢  ► Arabic Suriye 💢 ► Arabic Tunisia 💢 ► Arabic Ürdün 💢 ► Arabic Yemen ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://mag.plsugerman.eu:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://mag.plsugerman.eu:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 21 Ağustos 2022 22:23
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 01 Eylül 2026 21:55
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ cengiz@ka2020
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 21.08.2022
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇨🇦 Canada
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/Toronto
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ plus
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 188.114.96.0
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Cloudflare, Inc.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 14 Ağustos 2026 - 04:05
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 976 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 7102 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 824 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://mag.plsugerman.eu:8080/get.php?username=cengiz@ka2020&password=21.08.2022&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://mag.plsugerman.eu:8080/xmltv.php?username=cengiz@ka2020&password=21.08.2022&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR • ⚽️Spor&Dsmart  💢 TR • ⚽️beIN Sports 💢 TR • ⚽️S Sport 💢 TR • ⚽️Tivibu Spor 💢 TR • ⚽️Exxen Spor 💢 TR • ⚽️Tabii Spor 💢 TR • Ulusal Favori 💢 TR • Ulusal  💢 TR • Ulusal Raw | Android 💢 TR • Yerel Kanallar 💢 TR • Haber  💢 TR • Sinema  💢 TR • 4K Premium 💢 TR • Sinema boxset 💢 TR • Sinema Up 💢 TR • Dizi  💢 TR • Eğlence 💢 TR • Cocuk  💢 TR • Belgesel  💢 TR • Muzik / Radio 💢 TR • Dini ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://mag.plsugerman.eu
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://mag.plsugerman.eu:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 27 Kasım 2020 18:41
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 07 Aralık 2026 19:10
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ tomruk.12
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ aynd.36
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇨🇦 Canada
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/Toronto
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ plus
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 188.114.97.0
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Cloudflare, Inc.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 14 Ağustos 2026 - 05:08
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ VAR ✅ (200)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 10357 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 22262 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 3330 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://mag.plsugerman.eu/get.php?username=tomruk.12&password=aynd.36&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://mag.plsugerman.eu/xmltv.php?username=tomruk.12&password=aynd.36&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR • ⚽️Spor&Dsmart  💢 TR • ⚽️beIN Sports 💢 TR • ⚽️S Sport 💢 TR • ⚽️Tivibu Spor 💢 TR • ⚽️Exxen Spor 💢 TR • ⚽️Tabii Spor 💢 TR • Ulusal Favori 💢 TR • Ulusal  💢 TR • Ulusal Raw | Android 💢 TR • Yerel Kanallar 💢 TR • Haber  💢 TR • Sinema  💢 TR • 4K Premium 💢 TR • Sinema boxset 💢 TR • Sinema Up 💢 TR • Dizi  💢 TR • Eğlence 💢 TR • Cocuk  💢 TR • Belgesel  💢 TR • Muzik / Radio 💢 TR • Dini 💢 TR • Kıbrıs  💢 DE • National (Ulusal) 💢 DE • Kino (Sinema) 💢 DE • Filme 💢 DE • Sport ⚽️ 💢 DE • Nachrichten (Haber) 💢 DE • Dokumentarfilm (Belgesel) 💢 DE • Kind (Çocuk) 💢 DE • Musik 💢 FR • Canalsat (Ulusal) 💢 FR • Sports (Spor) 💢 FR • Cinema (Sinema) 💢 FR • Enfants (Cocuk) 💢 FR • Culture (Belgesel) 💢 FR • Music (Muzik) 💢 FR • News (Haber) 💢 IT • ITALIA (Ulusal) 💢 IT • Sport (Spor) 💢 IT • CINEMA (Sinema) 💢 IT • Cultura (Belgesel) 💢 IT • Notizia (Haber) 💢 IT • Musica (Müzik) 💢 IT • Bambino (Çocuk) 💢 UK • Entertainment (Ulusal) 💢 UK • Sport (Spor) 💢 UK • Cinema (Sinema) 💢 UK • Documentaries (Belgesel) 💢 UK • News (Haber) 💢 UK • Kids (Çocuk) 💢 UK • Music (Müzik) 💢 ► Azerbaycan 💢 ► Netherlands 💢 ► Poland  💢 ► Kurdish 💢 ► Sweden  💢 ► Denmark  💢 ► Finland  💢 ► Swiss  💢 ► Russia  💢 ► Ukraine 💢 ► Spain  💢 ► Portugal  💢 ► Ex-Yu  💢 ► Albania  💢 ► Belgium  💢 ► Bulgaria  💢 ► Romania  💢 ► Macedonia  💢 ► Norway  💢 ► Greece ( Yunanistan )  💢 ► Croatia ( Hırvatistan )  💢 ► Bosna Hersek  💢 ► Israel  💢 ► Serbia  💢 ► Iran  💢 ► India  💢 ► Canada  💢 ► Austria  💢 ► Africa  💢 ► USA  💢 ► Hungary 💢 ► Latin America 💢 ► Afghanistan  💢 ► Armenia 💢 ► Slovenia 💢 ► Pakistan 💢 ► Golf Sports 💢 ► Slovakia 💢 ► Georgia 💢 ► Kazakhstan 💢 ► Ireland (İrlanda) 💢 ► Arabic 💢 ► Arabic Bae 💢 ► Arabic Bahrain 💢 ► Arabic Cezair 💢 ► Arabic Egypt 💢 ► Arabic Fas 💢 ► Arabic Filistin 💢 ► Arabic Iraq 💢 ► Arabic Kuwait 💢 ► Arabic Libia 💢 ► Arabic Lübnan 💢 ► Arabic Umman 💢 ► Arabic Katar 💢 ► Czech's Republic 💢 ► Arabic Sudan 💢 ► Arabic Suudi Arabistan 💢  ► Arabic Suriye 💢 ► Arabic Tunisia 💢 ► Arabic Ürdün 💢 ► Arabic Yemen 💢 ► XXX + 18 Adult 💢  ► XXX + 18 Adult 2 💢  ► XXX + 18 Adult (Local) ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://mag.plsugerman.eu:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://mag.plsugerman.eu:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 06 Mart 2021 12:05
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 06 Mart 2030 12:05
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ mesut1.yaz22
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 17ht02mn19rp
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇨🇦 Canada
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/Toronto
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ plus
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 188.114.96.0
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Cloudflare, Inc.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 14 Ağustos 2026 - 06:50
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ VAR ✅ (200)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 10357 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 22827 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 3330 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://mag.plsugerman.eu:8080/get.php?username=mesut1.yaz22&password=17ht02mn19rp&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://mag.plsugerman.eu:8080/xmltv.php?username=mesut1.yaz22&password=17ht02mn19rp&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR • ⚽️Spor&Dsmart  💢 TR • ⚽️beIN Sports 💢 TR • ⚽️S Sport 💢 TR • ⚽️Tivibu Spor 💢 TR • ⚽️Exxen Spor 💢 TR • ⚽️Tabii Spor 💢 TR • Ulusal Favori 💢 TR • Ulusal  💢 TR • Ulusal Raw | Android 💢 TR • Yerel Kanallar 💢 TR • Haber  💢 TR • Sinema  💢 TR • 4K Premium 💢 TR • Sinema boxset 💢 TR • Sinema Up 💢 TR • Dizi  💢 TR • Eğlence 💢 TR • Cocuk  💢 TR • Belgesel  💢 TR • Muzik / Radio 💢 TR • Dini 💢 TR • Kıbrıs  💢 DE • National (Ulusal) 💢 DE • Kino (Sinema) 💢 DE • Filme 💢 DE • Sport ⚽️ 💢 DE • Nachrichten (Haber) 💢 DE • Dokumentarfilm (Belgesel) 💢 DE • Kind (Çocuk) 💢 DE • Musik 💢 FR • Canalsat (Ulusal) 💢 FR • Sports (Spor) 💢 FR • Cinema (Sinema) 💢 FR • Enfants (Cocuk) 💢 FR • Culture (Belgesel) 💢 FR • Music (Muzik) 💢 FR • News (Haber) 💢 IT • ITALIA (Ulusal) 💢 IT • Sport (Spor) 💢 IT • CINEMA (Sinema) 💢 IT • Cultura (Belgesel) 💢 IT • Notizia (Haber) 💢 IT • Musica (Müzik) 💢 IT • Bambino (Çocuk) 💢 UK • Entertainment (Ulusal) 💢 UK • Sport (Spor) 💢 UK • Cinema (Sinema) 💢 UK • Documentaries (Belgesel) 💢 UK • News (Haber) 💢 UK • Kids (Çocuk) 💢 UK • Music (Müzik) 💢 ► Azerbaycan 💢 ► Netherlands 💢 ► Poland  💢 ► Kurdish 💢 ► Sweden  💢 ► Denmark  💢 ► Finland  💢 ► Swiss  💢 ► Russia  💢 ► Ukraine 💢 ► Spain  💢 ► Portugal  💢 ► Ex-Yu  💢 ► Albania  💢 ► Belgium  💢 ► Bulgaria  💢 ► Romania  💢 ► Macedonia  💢 ► Norway  💢 ► Greece ( Yunanistan )  💢 ► Croatia ( Hırvatistan )  💢 ► Bosna Hersek  💢 ► Israel  💢 ► Serbia  💢 ► Iran  💢 ► India  💢 ► Canada  💢 ► Austria  💢 ► Africa  💢 ► USA  💢 ► Hungary 💢 ► Latin America 💢 ► Afghanistan  💢 ► Armenia 💢 ► Slovenia 💢 ► Pakistan 💢 ► Golf Sports 💢 ► Slovakia 💢 ► Georgia 💢 ► Kazakhstan 💢 ► Ireland (İrlanda) 💢 ► Arabic 💢 ► Arabic Bae 💢 ► Arabic Bahrain 💢 ► Arabic Cezair 💢 ► Arabic Egypt 💢 ► Arabic Fas 💢 ► Arabic Filistin 💢 ► Arabic Iraq 💢 ► Arabic Kuwait 💢 ► Arabic Libia 💢 ► Arabic Lübnan 💢 ► Arabic Umman 💢 ► Arabic Katar 💢 ► Czech's Republic 💢 ► Arabic Sudan 💢 ► Arabic Suudi Arabistan 💢  ► Arabic Suriye 💢 ► Arabic Tunisia 💢 ► Arabic Ürdün 💢 ► Arabic Yemen 💢 ► XXX + 18 Adult 💢  ► XXX + 18 Adult 2 💢  ► XXX + 18 Adult (Local) ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://mag.plsugerman.eu
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://mag.plsugerman.eu:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 03 Şubat 2022 18:29
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 03 Şubat 2027 20:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ usering241
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 03.02.2022.al
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇨🇦 Canada
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/Toronto
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ plus
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 188.114.97.0
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Cloudflare, Inc.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 14 Ağustos 2026 - 09:15
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ VAR ✅ (200)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 9971 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 11444 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 3324 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://mag.plsugerman.eu/get.php?username=usering241&password=03.02.2022.al&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://mag.plsugerman.eu/xmltv.php?username=usering241&password=03.02.2022.al&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR • ⚽️Spor&Dsmart  💢 TR • ⚽️beIN Sports 💢 TR • ⚽️S Sport 💢 TR • ⚽️Tivibu Spor 💢 TR • ⚽️Exxen Spor 💢 TR • ⚽️Tabii Spor 💢 TR • Ulusal Favori 💢 TR • Ulusal  💢 TR • Ulusal Raw | Android 💢 TR • Yerel Kanallar 💢 TR • Haber  💢 TR • Sinema  💢 TR • 4K Premium 💢 TR • Sinema boxset 💢 TR • Sinema Up 💢 TR • Dizi  💢 TR • Eğlence 💢 TR • Cocuk  💢 TR • Belgesel  💢 TR • Muzik / Radio 💢 TR • Dini 💢 TR • Kıbrıs  💢 DE • National (Ulusal) 💢 DE • Kino (Sinema) 💢 DE • Filme 💢 DE • Sport ⚽️ 💢 DE • Nachrichten (Haber) 💢 DE • Dokumentarfilm (Belgesel) 💢 DE • Kind (Çocuk) 💢 DE • Musik 💢 FR • Canalsat (Ulusal) 💢 FR • Sports (Spor) 💢 FR • Cinema (Sinema) 💢 FR • Enfants (Cocuk) 💢 FR • Culture (Belgesel) 💢 FR • Music (Muzik) 💢 FR • News (Haber) 💢 IT • ITALIA (Ulusal) 💢 IT • Sport (Spor) 💢 IT • CINEMA (Sinema) 💢 IT • Cultura (Belgesel) 💢 IT • Notizia (Haber) 💢 IT • Musica (Müzik) 💢 IT • Bambino (Çocuk) 💢 UK • Entertainment (Ulusal) 💢 UK • Sport (Spor) 💢 UK • Cinema (Sinema) 💢 UK • Documentaries (Belgesel) 💢 UK • News (Haber) 💢 UK • Kids (Çocuk) 💢 UK • Music (Müzik) 💢 ► Azerbaycan 💢 ► Netherlands 💢 ► Poland  💢 ► Kurdish 💢 ► Sweden  💢 ► Denmark  💢 ► Finland  💢 ► Swiss  💢 ► Russia  💢 ► Ukraine 💢 ► Spain  💢 ► Portugal  💢 ► Ex-Yu  💢 ► Albania  💢 ► Belgium  💢 ► Bulgaria  💢 ► Romania  💢 ► Macedonia  💢 ► Norway  💢 ► Greece ( Yunanistan )  💢 ► Croatia ( Hırvatistan )  💢 ► Bosna Hersek  💢 ► Israel  💢 ► Serbia  💢 ► Iran  💢 ► India  💢 ► Canada  💢 ► Austria  💢 ► Africa  💢 ► USA  💢 ► Hungary 💢 ► Latin America 💢 ► Afghanistan  💢 ► Armenia 💢 ► Slovenia 💢 ► Pakistan 💢 ► Golf Sports 💢 ► Slovakia 💢 ► Georgia 💢 ► Kazakhstan 💢 ► Ireland (İrlanda) 💢 ► Arabic 💢 ► Arabic Bae 💢 ► Arabic Bahrain 💢 ► Arabic Cezair 💢 ► Arabic Egypt 💢 ► Arabic Fas 💢 ► Arabic Filistin 💢 ► Arabic Iraq 💢 ► Arabic Kuwait 💢 ► Arabic Libia 💢 ► Arabic Lübnan 💢 ► Arabic Umman 💢 ► Arabic Katar 💢 ► Czech's Republic 💢 ► Arabic Sudan 💢 ► Arabic Suudi Arabistan 💢  ► Arabic Suriye 💢 ► Arabic Tunisia 💢 ► Arabic Ürdün 💢 ► Arabic Yemen ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://mag.plsugerman.eu:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://mag.plsugerman.eu:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 21 Ağustos 2022 22:23
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 01 Eylül 2026 21:55
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ cengiz@ka2020
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 21.08.2022
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇨🇦 Canada
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/Toronto
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ plus
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 188.114.97.0
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Cloudflare, Inc.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 14 Ağustos 2026 - 11:26
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ VAR ✅ (200)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 976 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 7102 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 824 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://mag.plsugerman.eu:8080/get.php?username=cengiz@ka2020&password=21.08.2022&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://mag.plsugerman.eu:8080/xmltv.php?username=cengiz@ka2020&password=21.08.2022&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR • ⚽️Spor&Dsmart  💢 TR • ⚽️beIN Sports 💢 TR • ⚽️S Sport 💢 TR • ⚽️Tivibu Spor 💢 TR • ⚽️Exxen Spor 💢 TR • ⚽️Tabii Spor 💢 TR • Ulusal Favori 💢 TR • Ulusal  💢 TR • Ulusal Raw | Android 💢 TR • Yerel Kanallar 💢 TR • Haber  💢 TR • Sinema  💢 TR • 4K Premium 💢 TR • Sinema boxset 💢 TR • Sinema Up 💢 TR • Dizi  💢 TR • Eğlence 💢 TR • Cocuk  💢 TR • Belgesel  💢 TR • Muzik / Radio 💢 TR • Dini ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://mag.plsugerman.eu:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://mag.plsugerman.eu:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 27 Kasım 2020 18:41
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 07 Aralık 2026 19:10
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ tomruk.12
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ aynd.36
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇨🇦 Canada
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/Toronto
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ plus
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 188.114.96.0
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Cloudflare, Inc.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 14 Ağustos 2026 - 22:30
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ VAR ✅ (200)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 10357 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 22281 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 3334 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://mag.plsugerman.eu:8080/get.php?username=tomruk.12&password=aynd.36&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://mag.plsugerman.eu:8080/xmltv.php?username=tomruk.12&password=aynd.36&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR • ⚽️Spor&Dsmart  💢 TR • ⚽️beIN Sports 💢 TR • ⚽️S Sport 💢 TR • ⚽️Tivibu Spor 💢 TR • ⚽️Exxen Spor 💢 TR • ⚽️Tabii Spor 💢 TR • Ulusal Favori 💢 TR • Ulusal  💢 TR • Ulusal Raw | Android 💢 TR • Yerel Kanallar 💢 TR • Haber  💢 TR • Sinema  💢 TR • 4K Premium 💢 TR • Sinema boxset 💢 TR • Sinema Up 💢 TR • Dizi  💢 TR • Eğlence 💢 TR • Cocuk  💢 TR • Belgesel  💢 TR • Muzik / Radio 💢 TR • Dini 💢 TR • Kıbrıs  💢 DE • National (Ulusal) 💢 DE • Kino (Sinema) 💢 DE • Filme 💢 DE • Sport ⚽️ 💢 DE • Nachrichten (Haber) 💢 DE • Dokumentarfilm (Belgesel) 💢 DE • Kind (Çocuk) 💢 DE • Musik 💢 FR • Canalsat (Ulusal) 💢 FR • Sports (Spor) 💢 FR • Cinema (Sinema) 💢 FR • Enfants (Cocuk) 💢 FR • Culture (Belgesel) 💢 FR • Music (Muzik) 💢 FR • News (Haber) 💢 IT • ITALIA (Ulusal) 💢 IT • Sport (Spor) 💢 IT • CINEMA (Sinema) 💢 IT • Cultura (Belgesel) 💢 IT • Notizia (Haber) 💢 IT • Musica (Müzik) 💢 IT • Bambino (Çocuk) 💢 UK • Entertainment (Ulusal) 💢 UK • Sport (Spor) 💢 UK • Cinema (Sinema) 💢 UK • Documentaries (Belgesel) 💢 UK • News (Haber) 💢 UK • Kids (Çocuk) 💢 UK • Music (Müzik) 💢 ► Azerbaycan 💢 ► Netherlands 💢 ► Poland  💢 ► Kurdish 💢 ► Sweden  💢 ► Denmark  💢 ► Finland  💢 ► Swiss  💢 ► Russia  💢 ► Ukraine 💢 ► Spain  💢 ► Portugal  💢 ► Ex-Yu  💢 ► Albania  💢 ► Belgium  💢 ► Bulgaria  💢 ► Romania  💢 ► Macedonia  💢 ► Norway  💢 ► Greece ( Yunanistan )  💢 ► Croatia ( Hırvatistan )  💢 ► Bosna Hersek  💢 ► Israel  💢 ► Serbia  💢 ► Iran  💢 ► India  💢 ► Canada  💢 ► Austria  💢 ► Africa  💢 ► USA  💢 ► Hungary 💢 ► Latin America 💢 ► Afghanistan  💢 ► Armenia 💢 ► Slovenia 💢 ► Pakistan 💢 ► Golf Sports 💢 ► Slovakia 💢 ► Georgia 💢 ► Kazakhstan 💢 ► Ireland (İrlanda) 💢 ► Arabic 💢 ► Arabic Bae 💢 ► Arabic Bahrain 💢 ► Arabic Cezair 💢 ► Arabic Egypt 💢 ► Arabic Fas 💢 ► Arabic Filistin 💢 ► Arabic Iraq 💢 ► Arabic Kuwait 💢 ► Arabic Libia 💢 ► Arabic Lübnan 💢 ► Arabic Umman 💢 ► Arabic Katar 💢 ► Czech's Republic 💢 ► Arabic Sudan 💢 ► Arabic Suudi Arabistan 💢  ► Arabic Suriye 💢 ► Arabic Tunisia 💢 ► Arabic Ürdün 💢 ► Arabic Yemen 💢 ► XXX + 18 Adult 💢  ► XXX + 18 Adult 2 💢  ► XXX + 18 Adult (Local) ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://mag.plsugerman.eu:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://mag.plsugerman.eu:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 01 Ekim 2022 19:32
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 01 Ekim 2026 19:32
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ umutskev.2
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ adapazari.2
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇨🇦 Canada
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/Toronto
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ plus
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 188.114.97.0
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Cloudflare, Inc.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 14 Ağustos 2026 - 22:51
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 VPN KULLAN 🔒 (401)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 9971 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 11463 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 3328 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://mag.plsugerman.eu:8080/get.php?username=umutskev.2&password=adapazari.2&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://mag.plsugerman.eu:8080/xmltv.php?username=umutskev.2&password=adapazari.2&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR • ⚽️Spor&Dsmart  💢 TR • ⚽️beIN Sports 💢 TR • ⚽️S Sport 💢 TR • ⚽️Tivibu Spor 💢 TR • ⚽️Exxen Spor 💢 TR • ⚽️Tabii Spor 💢 TR • Ulusal Favori 💢 TR • Ulusal  💢 TR • Ulusal Raw | Android 💢 TR • Yerel Kanallar 💢 TR • Haber  💢 TR • Sinema  💢 TR • 4K Premium 💢 TR • Sinema boxset 💢 TR • Sinema Up 💢 TR • Dizi  💢 TR • Eğlence 💢 TR • Cocuk  💢 TR • Belgesel  💢 TR • Muzik / Radio 💢 TR • Dini 💢 TR • Kıbrıs  💢 DE • National (Ulusal) 💢 DE • Kino (Sinema) 💢 DE • Filme 💢 DE • Sport ⚽️ 💢 DE • Nachrichten (Haber) 💢 DE • Dokumentarfilm (Belgesel) 💢 DE • Kind (Çocuk) 💢 DE • Musik 💢 FR • Canalsat (Ulusal) 💢 FR • Sports (Spor) 💢 FR • Cinema (Sinema) 💢 FR • Enfants (Cocuk) 💢 FR • Culture (Belgesel) 💢 FR • Music (Muzik) 💢 FR • News (Haber) 💢 IT • ITALIA (Ulusal) 💢 IT • Sport (Spor) 💢 IT • CINEMA (Sinema) 💢 IT • Cultura (Belgesel) 💢 IT • Notizia (Haber) 💢 IT • Musica (Müzik) 💢 IT • Bambino (Çocuk) 💢 UK • Entertainment (Ulusal) 💢 UK • Sport (Spor) 💢 UK • Cinema (Sinema) 💢 UK • Documentaries (Belgesel) 💢 UK • News (Haber) 💢 UK • Kids (Çocuk) 💢 UK • Music (Müzik) 💢 ► Azerbaycan 💢 ► Netherlands 💢 ► Poland  💢 ► Kurdish 💢 ► Sweden  💢 ► Denmark  💢 ► Finland  💢 ► Swiss  💢 ► Russia  💢 ► Ukraine 💢 ► Spain  💢 ► Portugal  💢 ► Ex-Yu  💢 ► Albania  💢 ► Belgium  💢 ► Bulgaria  💢 ► Romania  💢 ► Macedonia  💢 ► Norway  💢 ► Greece ( Yunanistan )  💢 ► Croatia ( Hırvatistan )  💢 ► Bosna Hersek  💢 ► Israel  💢 ► Serbia  💢 ► Iran  💢 ► India  💢 ► Canada  💢 ► Austria  💢 ► Africa  💢 ► USA  💢 ► Hungary 💢 ► Latin America 💢 ► Afghanistan  💢 ► Armenia 💢 ► Slovenia 💢 ► Pakistan 💢 ► Golf Sports 💢 ► Slovakia 💢 ► Georgia 💢 ► Kazakhstan 💢 ► Ireland (İrlanda) 💢 ► Arabic 💢 ► Arabic Bae 💢 ► Arabic Bahrain 💢 ► Arabic Cezair 💢 ► Arabic Egypt 💢 ► Arabic Fas 💢 ► Arabic Filistin 💢 ► Arabic Iraq 💢 ► Arabic Kuwait 💢 ► Arabic Libia 💢 ► Arabic Lübnan 💢 ► Arabic Umman 💢 ► Arabic Katar 💢 ► Czech's Republic 💢 ► Arabic Sudan 💢 ► Arabic Suudi Arabistan 💢  ► Arabic Suriye 💢 ► Arabic Tunisia 💢 ► Arabic Ürdün 💢 ► Arabic Yemen ✷✷ 📺
+
+========================================

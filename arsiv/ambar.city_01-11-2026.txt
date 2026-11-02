@@ -1,0 +1,396 @@
+
+♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ambar.city:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ambar.city:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 13 Eylül 2026 02:36
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 13 Kasım 2026 02:36
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 391856aw2j
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ aa26082026
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 3
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇸 United States
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/New_York
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ API Message
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.143.42.107
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Rackdog, LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 01 Kasım 2026 - 00:30
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (0/8 stream • HTTP 302)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2667 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 17835 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 3145 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://ambar.city:8080/get.php?username=391856aw2j&password=aa26082026&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ambar.city:8080/xmltv.php?username=391856aw2j&password=aa26082026&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢EVENTOS DIARIOS ⭐️ 💢 EVENTOS DIARIOS 2⭐️ 💢 EVENTOS HBO MAX ⭐️ 💢 EVENTOS DISNEY+⭐️ (HORA USA) 💢 DEPORTES LATINOS 💢 DEPORTES EUROPA 💢 CINE Y SERIES PREMIUM 💢 CINE Y SERIES 💢 CULTURA Y ENTRETENCION 💢 CHILE 💢 CHILE DEPORTES 💢 RADIOS Y TV CHILE REGIONAL 💢 INFANTIL 💢 ARGENTINA 💢 ARGENTINA DEPORTES 💢 BOLIVIA 💢 BRASIL 💢 BRASIL DEPORTES 💢 COLOMBIA 💢 COLOMBIA DEPORTES 💢 COSTA RICA 💢 CUBA 💢 ECUADOR 💢 EL SALVADOR 💢 GUATEMALA 💢 HONDURAS 💢 HAITI 💢 MEXICO 💢 MEXICO DEPORTES 💢 NICARAGUA 💢 PANAMA 💢 PARAGUAY 💢 PERU 💢 PERU DEPORTES 💢 REPUBLICA DOMINICANA 💢 PUERTO RICO 💢 URUGUAY 💢 URUGUAY DEPORTES 💢 VENEZUELA 💢 MUSICA 💢 RADIOS 💢 CONEXIONES LENTAS 💢 24/7 💢 24/7 INFANTIL 💢 CINE 24/7 💢 TELENOVELA Y ENTRETENIMIENTO 💢 NOTICIEROS 💢 FORMULA 1 💢 EVENTOS VIX ⭐️ 💢 EVENTOS UFC/ WWE ⭐️ 💢 DEPORTES VARIOS 💢 RELIGION 💢 USA SPORTS 💢 USA ENTERTAINMENT 💢 USA ABC 💢 USA CBS 💢 USA NBC 💢 CANADA 💢 ESPAÑA 💢 XXX ADULTOS ✷✷ 📺
+
+========================================
+
+♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ambar.city:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ambar.city:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 27 Ağustos 2026 23:15
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 27 Kasım 2026 23:22
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 696043aw2s
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ aa27082026
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 3
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇸 United States
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/New_York
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ API Message
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.143.42.107
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Rackdog, LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 01 Kasım 2026 - 02:53
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (0/8 stream • HTTP 302)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2667 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 17624 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 3115 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://ambar.city:8080/get.php?username=696043aw2s&password=aa27082026&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ambar.city:8080/xmltv.php?username=696043aw2s&password=aa27082026&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢EVENTOS DIARIOS ⭐️ 💢 EVENTOS DIARIOS 2⭐️ 💢 EVENTOS HBO MAX ⭐️ 💢 EVENTOS DISNEY+⭐️ (HORA USA) 💢 DEPORTES LATINOS 💢 DEPORTES EUROPA 💢 CINE Y SERIES PREMIUM 💢 CINE Y SERIES 💢 CULTURA Y ENTRETENCION 💢 CHILE 💢 CHILE DEPORTES 💢 RADIOS Y TV CHILE REGIONAL 💢 INFANTIL 💢 ARGENTINA 💢 ARGENTINA DEPORTES 💢 BOLIVIA 💢 BRASIL 💢 BRASIL DEPORTES 💢 COLOMBIA 💢 COLOMBIA DEPORTES 💢 COSTA RICA 💢 CUBA 💢 ECUADOR 💢 EL SALVADOR 💢 GUATEMALA 💢 HONDURAS 💢 HAITI 💢 MEXICO 💢 MEXICO DEPORTES 💢 NICARAGUA 💢 PANAMA 💢 PARAGUAY 💢 PERU 💢 PERU DEPORTES 💢 REPUBLICA DOMINICANA 💢 PUERTO RICO 💢 URUGUAY 💢 URUGUAY DEPORTES 💢 VENEZUELA 💢 MUSICA 💢 RADIOS 💢 CONEXIONES LENTAS 💢 24/7 💢 24/7 INFANTIL 💢 CINE 24/7 💢 TELENOVELA Y ENTRETENIMIENTO 💢 NOTICIEROS 💢 FORMULA 1 💢 EVENTOS VIX ⭐️ 💢 EVENTOS UFC/ WWE ⭐️ 💢 DEPORTES VARIOS 💢 RELIGION 💢 USA SPORTS 💢 USA ENTERTAINMENT 💢 USA ABC 💢 USA CBS 💢 USA NBC 💢 CANADA 💢 ESPAÑA 💢 XXX ADULTOS ✷✷ 📺
+
+========================================
+
+♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ambar.city:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ambar.city:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 08 Ağustos 2026 01:15
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 08 Kasım 2026 00:15
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 488255aw1j
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ a15022025
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 3
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇸 United States
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/New_York
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ API Message
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.143.42.107
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Rackdog, LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 01 Kasım 2026 - 02:57
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (0/8 stream • HTTP 302)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2667 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 17835 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 3145 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://ambar.city:8080/get.php?username=488255aw1j&password=a15022025&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ambar.city:8080/xmltv.php?username=488255aw1j&password=a15022025&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢DEPORTES LATINOS 💢 DEPORTES EUROPA 💢 CINE Y SERIES PREMIUM 💢 CULTURA Y ENTRETENCION 💢 CHILE 💢 CHILE DEPORTES 💢 RADIOS Y TV CHILE REGIONAL 💢 INFANTIL 💢 ARGENTINA 💢 COLOMBIA 💢 COLOMBIA DEPORTES 💢 PANAMA 💢 PARAGUAY 💢 PERU 💢 PERU DEPORTES 💢 VENEZUELA 💢 MUSICA 💢 RADIOS 💢 24/7 💢 24/7 INFANTIL 💢 TELENOVELA Y ENTRETENIMIENTO 💢 BOLIVIA 💢 BRASIL 💢 COSTA RICA 💢 ECUADOR 💢 EL SALVADOR 💢 HONDURAS 💢 MEXICO 💢 PUERTO RICO 💢 URUGUAY 💢 URUGUAY DEPORTES 💢 EVENTOS DIARIOS ⭐️ 💢 EVENTOS DIARIOS 2⭐️ 💢 EVENTOS HBO MAX ⭐️ 💢 EVENTOS DISNEY+⭐️ (HORA USA) 💢 CINE Y SERIES 💢 ARGENTINA DEPORTES 💢 BRASIL DEPORTES 💢 CUBA 💢 GUATEMALA 💢 HAITI 💢 MEXICO DEPORTES 💢 NICARAGUA 💢 REPUBLICA DOMINICANA 💢 CONEXIONES LENTAS 💢 CINE 24/7 💢 NOTICIEROS 💢 FORMULA 1 💢 EVENTOS VIX ⭐️ 💢 EVENTOS UFC/ WWE ⭐️ 💢 DEPORTES VARIOS 💢 RELIGION 💢 USA SPORTS 💢 USA ENTERTAINMENT 💢 USA ABC 💢 USA CBS 💢 USA NBC 💢 CANADA 💢 ESPAÑA 💢 XXX ADULTOS ✷✷ 📺
+
+========================================
+
+♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ambar.city:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ambar.city:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 01 Ağustos 2025 02:20
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 07 Aralık 2026 17:02
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 177497aw1c
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ a06022025
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 3
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇸 United States
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/New_York
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ API Message
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.143.42.107
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Rackdog, LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 01 Kasım 2026 - 04:51
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (0/8 stream • HTTP 302)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2667 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 17835 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 3145 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://ambar.city:8080/get.php?username=177497aw1c&password=a06022025&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ambar.city:8080/xmltv.php?username=177497aw1c&password=a06022025&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢EVENTOS DIARIOS ⭐️ 💢 EVENTOS DIARIOS 2⭐️ 💢 EVENTOS HBO MAX ⭐️ 💢 EVENTOS DISNEY+⭐️ (HORA USA) 💢 DEPORTES LATINOS 💢 DEPORTES EUROPA 💢 CINE Y SERIES PREMIUM 💢 CINE Y SERIES 💢 CULTURA Y ENTRETENCION 💢 CHILE 💢 CHILE DEPORTES 💢 RADIOS Y TV CHILE REGIONAL 💢 INFANTIL 💢 ARGENTINA 💢 ARGENTINA DEPORTES 💢 BOLIVIA 💢 BRASIL 💢 BRASIL DEPORTES 💢 COLOMBIA 💢 COLOMBIA DEPORTES 💢 COSTA RICA 💢 CUBA 💢 ECUADOR 💢 EL SALVADOR 💢 GUATEMALA 💢 HONDURAS 💢 HAITI 💢 MEXICO 💢 MEXICO DEPORTES 💢 NICARAGUA 💢 PANAMA 💢 PARAGUAY 💢 PERU 💢 PERU DEPORTES 💢 REPUBLICA DOMINICANA 💢 PUERTO RICO 💢 URUGUAY 💢 URUGUAY DEPORTES 💢 VENEZUELA 💢 MUSICA 💢 RADIOS 💢 CONEXIONES LENTAS 💢 24/7 💢 24/7 INFANTIL 💢 CINE 24/7 💢 TELENOVELA Y ENTRETENIMIENTO 💢 NOTICIEROS 💢 FORMULA 1 💢 EVENTOS VIX ⭐️ 💢 EVENTOS UFC/ WWE ⭐️ 💢 DEPORTES VARIOS 💢 RELIGION 💢 USA SPORTS 💢 USA ENTERTAINMENT 💢 USA ABC 💢 USA CBS 💢 USA NBC 💢 CANADA 💢 ESPAÑA 💢 XXX ADULTOS ✷✷ 📺
+
+========================================
+
+♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ambar.city:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ambar.city:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 13 Eylül 2026 17:55
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 13 Ocak 2027 17:55
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 525957aw1s
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ aa13092026
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 3
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇸 United States
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/New_York
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ API Message
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.143.42.107
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Rackdog, LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 01 Kasım 2026 - 06:12
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (0/8 stream • HTTP 302)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2667 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 17835 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 3145 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://ambar.city:8080/get.php?username=525957aw1s&password=aa13092026&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ambar.city:8080/xmltv.php?username=525957aw1s&password=aa13092026&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢EVENTOS DIARIOS ⭐️ 💢 EVENTOS DIARIOS 2⭐️ 💢 EVENTOS HBO MAX ⭐️ 💢 EVENTOS DISNEY+⭐️ (HORA USA) 💢 DEPORTES LATINOS 💢 DEPORTES EUROPA 💢 CINE Y SERIES PREMIUM 💢 CINE Y SERIES 💢 CULTURA Y ENTRETENCION 💢 CHILE 💢 CHILE DEPORTES 💢 RADIOS Y TV CHILE REGIONAL 💢 INFANTIL 💢 ARGENTINA 💢 ARGENTINA DEPORTES 💢 BOLIVIA 💢 BRASIL 💢 BRASIL DEPORTES 💢 COLOMBIA 💢 COLOMBIA DEPORTES 💢 COSTA RICA 💢 CUBA 💢 ECUADOR 💢 EL SALVADOR 💢 GUATEMALA 💢 HONDURAS 💢 HAITI 💢 MEXICO 💢 MEXICO DEPORTES 💢 NICARAGUA 💢 PANAMA 💢 PARAGUAY 💢 PERU 💢 PERU DEPORTES 💢 REPUBLICA DOMINICANA 💢 PUERTO RICO 💢 URUGUAY 💢 URUGUAY DEPORTES 💢 VENEZUELA 💢 MUSICA 💢 RADIOS 💢 CONEXIONES LENTAS 💢 24/7 💢 24/7 INFANTIL 💢 CINE 24/7 💢 TELENOVELA Y ENTRETENIMIENTO 💢 NOTICIEROS 💢 FORMULA 1 💢 EVENTOS VIX ⭐️ 💢 EVENTOS UFC/ WWE ⭐️ 💢 DEPORTES VARIOS 💢 RELIGION 💢 USA SPORTS 💢 USA ENTERTAINMENT 💢 USA ABC 💢 USA CBS 💢 USA NBC 💢 CANADA 💢 ESPAÑA 💢 XXX ADULTOS ✷✷ 📺
+
+========================================
+
+♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ambar.city:80
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ambar.city:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 11 Ocak 2026 00:02
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 11 Nisan 2027 03:07
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 56975174865
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 231219iptv
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 3
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇸 United States
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/New_York
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ API Message
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.143.42.107
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Rackdog, LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 01 Kasım 2026 - 06:13
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (0/8 stream • HTTP 302)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2667 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 17835 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 3145 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://ambar.city:80/get.php?username=56975174865&password=231219iptv&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ambar.city:80/xmltv.php?username=56975174865&password=231219iptv&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢EVENTOS DIARIOS ⭐️ 💢 EVENTOS DIARIOS 2⭐️ 💢 EVENTOS HBO MAX ⭐️ 💢 EVENTOS DISNEY+⭐️ (HORA USA) 💢 DEPORTES LATINOS 💢 DEPORTES EUROPA 💢 CINE Y SERIES PREMIUM 💢 CINE Y SERIES 💢 CULTURA Y ENTRETENCION 💢 CHILE 💢 CHILE DEPORTES 💢 RADIOS Y TV CHILE REGIONAL 💢 INFANTIL 💢 ARGENTINA 💢 ARGENTINA DEPORTES 💢 BOLIVIA 💢 BRASIL 💢 BRASIL DEPORTES 💢 COLOMBIA 💢 COLOMBIA DEPORTES 💢 COSTA RICA 💢 CUBA 💢 ECUADOR 💢 EL SALVADOR 💢 GUATEMALA 💢 HONDURAS 💢 HAITI 💢 MEXICO 💢 MEXICO DEPORTES 💢 NICARAGUA 💢 PANAMA 💢 PARAGUAY 💢 PERU 💢 PERU DEPORTES 💢 REPUBLICA DOMINICANA 💢 PUERTO RICO 💢 URUGUAY 💢 URUGUAY DEPORTES 💢 VENEZUELA 💢 MUSICA 💢 RADIOS 💢 CONEXIONES LENTAS 💢 24/7 💢 24/7 INFANTIL 💢 CINE 24/7 💢 TELENOVELA Y ENTRETENIMIENTO 💢 NOTICIEROS 💢 FORMULA 1 💢 EVENTOS VIX ⭐️ 💢 EVENTOS UFC/ WWE ⭐️ 💢 DEPORTES VARIOS 💢 RELIGION 💢 USA SPORTS 💢 USA ENTERTAINMENT 💢 USA ABC 💢 USA CBS 💢 USA NBC 💢 CANADA 💢 ESPAÑA 💢 XXX ADULTOS ✷✷ 📺
+
+========================================
+
+♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ambar.city:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ambar.city:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 16 Eylül 2026 21:31
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 16 Aralık 2026 21:31
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 043159aw1j
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ a28092024
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 3
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇸 United States
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/New_York
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ API Message
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.143.42.107
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Rackdog, LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 01 Kasım 2026 - 07:59
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (0/8 stream • HTTP 302)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2667 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 17835 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 3145 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://ambar.city:8080/get.php?username=043159aw1j&password=a28092024&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ambar.city:8080/xmltv.php?username=043159aw1j&password=a28092024&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢DEPORTES LATINOS 💢 DEPORTES EUROPA 💢 CINE Y SERIES PREMIUM 💢 CULTURA Y ENTRETENCION 💢 CHILE 💢 CHILE DEPORTES 💢 RADIOS Y TV CHILE REGIONAL 💢 INFANTIL 💢 ARGENTINA 💢 COLOMBIA 💢 COLOMBIA DEPORTES 💢 PANAMA 💢 PARAGUAY 💢 PERU 💢 PERU DEPORTES 💢 VENEZUELA 💢 MUSICA 💢 RADIOS 💢 24/7 💢 24/7 INFANTIL 💢 TELENOVELA Y ENTRETENIMIENTO 💢 BOLIVIA 💢 BRASIL 💢 COSTA RICA 💢 ECUADOR 💢 EL SALVADOR 💢 HONDURAS 💢 MEXICO 💢 PUERTO RICO 💢 URUGUAY 💢 URUGUAY DEPORTES 💢 EVENTOS DIARIOS ⭐️ 💢 EVENTOS DIARIOS 2⭐️ 💢 EVENTOS HBO MAX ⭐️ 💢 EVENTOS DISNEY+⭐️ (HORA USA) 💢 CINE Y SERIES 💢 ARGENTINA DEPORTES 💢 BRASIL DEPORTES 💢 CUBA 💢 GUATEMALA 💢 HAITI 💢 MEXICO DEPORTES 💢 NICARAGUA 💢 REPUBLICA DOMINICANA 💢 CONEXIONES LENTAS 💢 CINE 24/7 💢 NOTICIEROS 💢 FORMULA 1 💢 EVENTOS VIX ⭐️ 💢 EVENTOS UFC/ WWE ⭐️ 💢 DEPORTES VARIOS 💢 RELIGION 💢 USA SPORTS 💢 USA ENTERTAINMENT 💢 USA ABC 💢 USA CBS 💢 USA NBC 💢 CANADA 💢 ESPAÑA 💢 XXX ADULTOS ✷✷ 📺
+
+========================================
+
+♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ambar.city:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ambar.city:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 30 Temmuz 2026 02:14
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 02 Mart 2027 01:44
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 251706aw2s
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ aa29072026
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 3
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇸 United States
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/New_York
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ API Message
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.143.42.107
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Rackdog, LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 01 Kasım 2026 - 09:27
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (0/8 stream • HTTP 302)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2667 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 17835 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 3145 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://ambar.city:8080/get.php?username=251706aw2s&password=aa29072026&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ambar.city:8080/xmltv.php?username=251706aw2s&password=aa29072026&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢EVENTOS DIARIOS ⭐️ 💢 EVENTOS DIARIOS 2⭐️ 💢 EVENTOS HBO MAX ⭐️ 💢 EVENTOS DISNEY+⭐️ (HORA USA) 💢 DEPORTES LATINOS 💢 DEPORTES EUROPA 💢 CINE Y SERIES PREMIUM 💢 CINE Y SERIES 💢 CULTURA Y ENTRETENCION 💢 CHILE 💢 CHILE DEPORTES 💢 RADIOS Y TV CHILE REGIONAL 💢 INFANTIL 💢 ARGENTINA 💢 ARGENTINA DEPORTES 💢 BOLIVIA 💢 BRASIL 💢 BRASIL DEPORTES 💢 COLOMBIA 💢 COLOMBIA DEPORTES 💢 COSTA RICA 💢 CUBA 💢 ECUADOR 💢 EL SALVADOR 💢 GUATEMALA 💢 HONDURAS 💢 HAITI 💢 MEXICO 💢 MEXICO DEPORTES 💢 NICARAGUA 💢 PANAMA 💢 PARAGUAY 💢 PERU 💢 PERU DEPORTES 💢 REPUBLICA DOMINICANA 💢 PUERTO RICO 💢 URUGUAY 💢 URUGUAY DEPORTES 💢 VENEZUELA 💢 MUSICA 💢 RADIOS 💢 CONEXIONES LENTAS 💢 24/7 💢 24/7 INFANTIL 💢 CINE 24/7 💢 TELENOVELA Y ENTRETENIMIENTO 💢 NOTICIEROS 💢 FORMULA 1 💢 EVENTOS VIX ⭐️ 💢 EVENTOS UFC/ WWE ⭐️ 💢 DEPORTES VARIOS 💢 RELIGION 💢 USA SPORTS 💢 USA ENTERTAINMENT 💢 USA ABC 💢 USA CBS 💢 USA NBC 💢 CANADA 💢 ESPAÑA 💢 XXX ADULTOS ✷✷ 📺
+
+========================================
+
+♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ambar.city:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ambar.city:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 27 Eylül 2026 02:55
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 27 Mart 2027 03:28
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 859670aw2s
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ aa26092026
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 3
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇸 United States
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/New_York
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ API Message
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.143.42.107
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Rackdog, LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 01 Kasım 2026 - 09:30
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (0/8 stream • HTTP 302)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2667 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 17624 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 3115 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://ambar.city:8080/get.php?username=859670aw2s&password=aa26092026&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ambar.city:8080/xmltv.php?username=859670aw2s&password=aa26092026&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢EVENTOS DIARIOS ⭐️ 💢 EVENTOS DIARIOS 2⭐️ 💢 EVENTOS HBO MAX ⭐️ 💢 EVENTOS DISNEY+⭐️ (HORA USA) 💢 DEPORTES LATINOS 💢 DEPORTES EUROPA 💢 CINE Y SERIES PREMIUM 💢 CINE Y SERIES 💢 CULTURA Y ENTRETENCION 💢 CHILE 💢 CHILE DEPORTES 💢 RADIOS Y TV CHILE REGIONAL 💢 INFANTIL 💢 ARGENTINA 💢 ARGENTINA DEPORTES 💢 BOLIVIA 💢 BRASIL 💢 BRASIL DEPORTES 💢 COLOMBIA 💢 COLOMBIA DEPORTES 💢 COSTA RICA 💢 CUBA 💢 ECUADOR 💢 EL SALVADOR 💢 GUATEMALA 💢 HONDURAS 💢 HAITI 💢 MEXICO 💢 MEXICO DEPORTES 💢 NICARAGUA 💢 PANAMA 💢 PARAGUAY 💢 PERU 💢 PERU DEPORTES 💢 REPUBLICA DOMINICANA 💢 PUERTO RICO 💢 URUGUAY 💢 URUGUAY DEPORTES 💢 VENEZUELA 💢 MUSICA 💢 RADIOS 💢 CONEXIONES LENTAS 💢 24/7 💢 24/7 INFANTIL 💢 CINE 24/7 💢 TELENOVELA Y ENTRETENIMIENTO 💢 NOTICIEROS 💢 FORMULA 1 💢 EVENTOS VIX ⭐️ 💢 EVENTOS UFC/ WWE ⭐️ 💢 DEPORTES VARIOS 💢 RELIGION 💢 USA SPORTS 💢 USA ENTERTAINMENT 💢 USA ABC 💢 USA CBS 💢 USA NBC 💢 CANADA 💢 ESPAÑA 💢 XXX ADULTOS ✷✷ 📺
+
+========================================
+
+♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ambar.city:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ambar.city:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 05 Ekim 2026 20:20
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 05 Ocak 2027 20:50
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 243658aw1av
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ aa05102026
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 3
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇸 United States
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/New_York
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ API Message
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.143.42.107
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Rackdog, LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 01 Kasım 2026 - 11:10
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (0/8 stream • HTTP 302)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2667 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 17624 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 3115 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://ambar.city:8080/get.php?username=243658aw1av&password=aa05102026&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ambar.city:8080/xmltv.php?username=243658aw1av&password=aa05102026&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢EVENTOS DIARIOS ⭐️ 💢 EVENTOS DIARIOS 2⭐️ 💢 EVENTOS HBO MAX ⭐️ 💢 EVENTOS DISNEY+⭐️ (HORA USA) 💢 DEPORTES LATINOS 💢 DEPORTES EUROPA 💢 CINE Y SERIES PREMIUM 💢 CINE Y SERIES 💢 CULTURA Y ENTRETENCION 💢 CHILE 💢 CHILE DEPORTES 💢 RADIOS Y TV CHILE REGIONAL 💢 INFANTIL 💢 ARGENTINA 💢 ARGENTINA DEPORTES 💢 BOLIVIA 💢 BRASIL 💢 BRASIL DEPORTES 💢 COLOMBIA 💢 COLOMBIA DEPORTES 💢 COSTA RICA 💢 CUBA 💢 ECUADOR 💢 EL SALVADOR 💢 GUATEMALA 💢 HONDURAS 💢 HAITI 💢 MEXICO 💢 MEXICO DEPORTES 💢 NICARAGUA 💢 PANAMA 💢 PARAGUAY 💢 PERU 💢 PERU DEPORTES 💢 REPUBLICA DOMINICANA 💢 PUERTO RICO 💢 URUGUAY 💢 URUGUAY DEPORTES 💢 VENEZUELA 💢 MUSICA 💢 RADIOS 💢 CONEXIONES LENTAS 💢 24/7 💢 24/7 INFANTIL 💢 CINE 24/7 💢 TELENOVELA Y ENTRETENIMIENTO 💢 NOTICIEROS 💢 FORMULA 1 💢 EVENTOS VIX ⭐️ 💢 EVENTOS UFC/ WWE ⭐️ 💢 DEPORTES VARIOS 💢 RELIGION 💢 USA SPORTS 💢 USA ENTERTAINMENT 💢 USA ABC 💢 USA CBS 💢 USA NBC 💢 CANADA 💢 ESPAÑA 💢 XXX ADULTOS ✷✷ 📺
+
+========================================
+
+♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ambar.city
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ambar.city:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 23 Şubat 2025 04:45
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 24 Aralık 2026 04:34
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 903749aw1c
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ a22022025
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 3
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇸 United States
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/New_York
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ API Message
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.143.42.107
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Rackdog, LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 01 Kasım 2026 - 21:24
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (0/8 stream • HTTP 302)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2669 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 17835 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 3145 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://ambar.city/get.php?username=903749aw1c&password=a22022025&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ambar.city/xmltv.php?username=903749aw1c&password=a22022025&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢EVENTOS DIARIOS ⭐️ 💢 EVENTOS DIARIOS 2⭐️ 💢 EVENTOS HBO MAX ⭐️ 💢 EVENTOS DISNEY+⭐️ (HORA USA) 💢 DEPORTES LATINOS 💢 DEPORTES EUROPA 💢 CINE Y SERIES PREMIUM 💢 CINE Y SERIES 💢 CULTURA Y ENTRETENCION 💢 CHILE 💢 CHILE DEPORTES 💢 RADIOS Y TV CHILE REGIONAL 💢 INFANTIL 💢 ARGENTINA 💢 ARGENTINA DEPORTES 💢 BOLIVIA 💢 BRASIL 💢 BRASIL DEPORTES 💢 COLOMBIA 💢 COLOMBIA DEPORTES 💢 COSTA RICA 💢 CUBA 💢 ECUADOR 💢 EL SALVADOR 💢 GUATEMALA 💢 HONDURAS 💢 HAITI 💢 MEXICO 💢 MEXICO DEPORTES 💢 NICARAGUA 💢 PANAMA 💢 PARAGUAY 💢 PERU 💢 PERU DEPORTES 💢 REPUBLICA DOMINICANA 💢 PUERTO RICO 💢 URUGUAY 💢 URUGUAY DEPORTES 💢 VENEZUELA 💢 MUSICA 💢 RADIOS 💢 CONEXIONES LENTAS 💢 24/7 💢 24/7 INFANTIL 💢 CINE 24/7 💢 TELENOVELA Y ENTRETENIMIENTO 💢 NOTICIEROS 💢 FORMULA 1 💢 EVENTOS VIX ⭐️ 💢 EVENTOS UFC/ WWE ⭐️ 💢 DEPORTES VARIOS 💢 RELIGION 💢 USA SPORTS 💢 USA ENTERTAINMENT 💢 USA ABC 💢 USA CBS 💢 USA NBC 💢 CANADA 💢 ESPAÑA 💢 XXX ADULTOS ✷✷ 📺
+
+========================================
+
+♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://ambar.city:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://ambar.city:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 23 Şubat 2025 04:45
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 24 Aralık 2026 04:34
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 903749aw1c
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ a22022025
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 3
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇸 United States
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ America/New_York
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ API Message
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 95.143.42.107
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Rackdog, LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 01 Kasım 2026 - 21:25
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ GÖRÜNTÜ YOK ❌ (0/8 stream • HTTP 302)
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2669 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 17835 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 3145 ]
+
+╭✷📀 𝙼3𝚞_𝚄𝚛𝚕 ➢ http://ambar.city:8080/get.php?username=903749aw1c&password=a22022025&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://ambar.city:8080/xmltv.php?username=903749aw1c&password=a22022025&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢EVENTOS DIARIOS ⭐️ 💢 EVENTOS DIARIOS 2⭐️ 💢 EVENTOS HBO MAX ⭐️ 💢 EVENTOS DISNEY+⭐️ (HORA USA) 💢 DEPORTES LATINOS 💢 DEPORTES EUROPA 💢 CINE Y SERIES PREMIUM 💢 CINE Y SERIES 💢 CULTURA Y ENTRETENCION 💢 CHILE 💢 CHILE DEPORTES 💢 RADIOS Y TV CHILE REGIONAL 💢 INFANTIL 💢 ARGENTINA 💢 ARGENTINA DEPORTES 💢 BOLIVIA 💢 BRASIL 💢 BRASIL DEPORTES 💢 COLOMBIA 💢 COLOMBIA DEPORTES 💢 COSTA RICA 💢 CUBA 💢 ECUADOR 💢 EL SALVADOR 💢 GUATEMALA 💢 HONDURAS 💢 HAITI 💢 MEXICO 💢 MEXICO DEPORTES 💢 NICARAGUA 💢 PANAMA 💢 PARAGUAY 💢 PERU 💢 PERU DEPORTES 💢 REPUBLICA DOMINICANA 💢 PUERTO RICO 💢 URUGUAY 💢 URUGUAY DEPORTES 💢 VENEZUELA 💢 MUSICA 💢 RADIOS 💢 CONEXIONES LENTAS 💢 24/7 💢 24/7 INFANTIL 💢 CINE 24/7 💢 TELENOVELA Y ENTRETENIMIENTO 💢 NOTICIEROS 💢 FORMULA 1 💢 EVENTOS VIX ⭐️ 💢 EVENTOS UFC/ WWE ⭐️ 💢 DEPORTES VARIOS 💢 RELIGION 💢 USA SPORTS 💢 USA ENTERTAINMENT 💢 USA ABC 💢 USA CBS 💢 USA NBC 💢 CANADA 💢 ESPAÑA 💢 XXX ADULTOS ✷✷ 📺
+
+========================================

@@ -1,0 +1,33 @@
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://hepsinden.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://hepsinden.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 10 Şubat 2024 21:28
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 11 Eylül 2026 21:28
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ healthservices
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 7b2cfd03a54bdadd
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇫🇷 France
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Paris
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Successfully connected via API code.
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ Sunucu IP Bulunamadı
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Sunucu Adı Bulunamadı
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 13 Aralık 2025 - 18:50
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 10296 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 21934 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 5954 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://hepsinden.xyz:8080/get.php?username=healthservices&password=7b2cfd03a54bdadd&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://hepsinden.xyz:8080/xmltv.php?username=healthservices&password=7b2cfd03a54bdadd&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR: INFO 💢 TR: ULUSAL 💢 TR: TÜRK SD 💢 TR: TÜRK RAW 💢 TR: TÜRK HEVC 💢 TR: PRO SPOR 💢 TR: FREE SPOR 💢 TR: F1/MGP 💢 TR: HABER 💢 TR: BELGESEL 💢 TR: COCUK 💢 TR: MUZIK 💢 TR: SINEMA 💢 TR: 7/24 NETFLİX 💢 TR: 7/24 FILM 💢 TR: 7/24 DİZİ 💢 TR: DiNi 💢 TR: YÖRESEL 💢 TR: RELAXING 💢 DE: UNTERHALTUNG 💢 DE: RAW MIX 💢 DE: HEVC MIX 💢 DE: SPORT 💢 DE: SKY SPORT 💢 DE: DISCOVERY+ EVENT 💢 DE: DAZN EVENT 💢 DE: MAGENTA EVENT 💢 DE: RTL+ EVENT 💢 DE: DYN EVENT 💢 DE: AMAZON MIX 💢 DE: FORMULA 1 EVENT 💢 DE: SERIEN & FILME 💢 DE: VOD CINEMA 💢 DE: 7/24 CINEMA 💢 DE: NEWS 💢 DE: DOKU & LIFESTYLE 💢 DE: KINDER 💢 DE: MUSIK 💢 FR: TNT SAT 💢 FR: CINEMA 💢 FR: SPORT 💢 FR: DECOUVERTES 💢 FR: INFORMATION 💢 FR: ENFANT 💢 FR: MUSIC 💢 IT: GENERAL 💢 IT: MOVIES 💢 IT: DECUMANTARY 💢 IT: KIDS 💢 IT: SPORT 💢 IT: REGIONALS 💢 IT: MUSIC 💢 ES: GENERAL 💢 ES: CINE 💢 ES: ENTRETENIMIENTO 💢 ES: INFANTIL 💢 ES: DEPORTES 💢 ES: REGIONAL 💢 ES: MÚSICA 💢 PT: PORTUGAL 💢 UK: UNITED KINGDOM 💢 UK: ENTERTAIMENT 💢 UK: MOVIES 💢 UK: SPORTS 💢 UK: KIDS 💢 UK: DOKUMENTARY 💢 UK: MUSIC 💢 US: UNITED STATES GENERAL 💢 RO: ROMANIA 💢 AT: AUSTRIA 💢 NO: NORWAY 💢 SE: SWEDEN 💢 CA: CANADA 💢 BA: BOSANSKI 💢 BA: FILMSKI 💢 BA: PINK 💢 BA: MUZICKI 💢 BA: SPORT 💢 BA: DOKU 💢 BA: DJECIJI 💢 HR: HRVATSKI 💢 HR: SPORT 💢 SR: SRPSKI 💢 SR: SPORT 💢 MK: MAKEDONSKI 💢 SI: SLOVENSKI 💢 SRB: SERBIA 💢 AL: ALBANIA 💢 AL: NEWS 💢 AL: SPORT 💢 AL: FILM 💢 AL: KIDS 💢 AL: DOKUMENTARE 💢 AL: ISLAMIC 💢 AL: MUSIC 💢 DK: GENERELT 💢 DK: SPORTS 💢 DK: DOCUMENTARY 💢 DK: KIDS 💢 DK: MOVIE 💢 AZ: AZERBAIJAN 💢 BE: BELGIUM 💢 NL: NETHERLANDS 💢 AU: AUSTRALIA 💢 GR: GREECE 💢 BG: BULGARIAN 💢 BG: SPORT 💢 BG: CINEMA 💢 BG: DOCUMENTARY 💢 BG: KIDS 💢 BG: MUSIC 💢 PL: POLSKI 💢 EX-YU: YUGOSLAVIA 💢 CZ: CZECH REPUBLIC 💢 RU: RUSSIA 💢 BR: BRAZIL 💢 AR: ARAB 💢 IR: IRAN 💢 IRQ: IRAQ 💢 KU: KURDISH 💢 TR: LIVE MOBESE 💢 +18: ADULT ✷✷ 📺
+
+========================================

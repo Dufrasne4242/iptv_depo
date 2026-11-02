@@ -1,0 +1,495 @@
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://wu09.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://wu09.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 23 Eylül 2024 10:39
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 28 Eylül 2027 17:13
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ maldinibaressi
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ donadonnigibi
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ RUZGAR
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 45.12.33.128
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ NovoServe B.V.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 09 Ağustos 2026 - 00:22
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 3416 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 1741 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://wu09.xyz:8080/get.php?username=maldinibaressi&password=donadonnigibi&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://wu09.xyz:8080/xmltv.php?username=maldinibaressi&password=donadonnigibi&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢⫸TR INFO⫷ 💢 ⫸TR SUPER LİG 1⫷ 💢 ⫸TR SUPER LİG 2⫷ 💢 ⫸TR SPOR TURKIYE ⫷ 💢   ⫸Tv YouTube⫷ 💢 ⫸TR S SPOR ⫷ 💢 ⫸TR S  SPOR + ⫷ 💢 ⫸TR SPOR TVBU⫷ 💢 ⫸TR SPOR TABII ⫷ 💢 ⫸TR SPOR  SMART⫷ 💢 ⫸TR SPOR  EXXEN ⫷ 💢 ⫸TR YEREL TV⫷ 💢 ⫸TR ULUSAL 1⫷ 💢 ⫸TR HABER 1 ⫷ 💢 ⫸TR ULUSAL 2 ⫷ 💢 ⫸TR HABER 2⫷ 💢 ⫸TR BELGESEL⫷ 💢 ⫸TR COCUK⫷ 💢 ⫸TR MUZIK⫷ 💢 ⫸TR KKTC⫷ 💢 ⫸TR SALON 1 ⫷ 💢 ⫸TR SALON 2 ⫷ 💢 ⫸TR SALON 3 ⫷ 💢 ⫸ KUR● KURDİ⫷ 💢 ⫸AZ: AZERİ⫷ 💢  ⫸ AT: AVUSTRIA ⫷ 💢 ⫸DE: AMOZON⫷ 💢 ⫸ DE: UNTERHALTUNG⫷ 💢 ⫸ DE: KIDS⫷ 💢 ⫸ DE: SKY CINEMA⫷ 💢 ⫸ DE: DOKUMENTAR ⫷ 💢 ⫸ DE: SKY BUNDESLIGA ⫷ 💢 ⫸ DE: SKY SPORT⫷ 💢 ⫸ DE: MAGENTA ⫷ 💢 ⫸ DE: DYN SPOR⫷ 💢 ⫸ DE: RTL + SPORT⫷ 💢 ⫸ DE: DAZN EVENT ⫷ 💢 ⫸ NL: NETHERLAND⫷  💢 ⫸ NL: DOCUMENTAIRE ⫷ 💢 ⫸ NL: KINDEREN⫷ 💢 ⫸ NL: SPORT⫷ 💢 ⫸ IT:ITALIA⫷ 💢 ⫸ IT: CINEMA⫷ 💢 ⫸ IT: SPORT⫷ 💢 ⫸ FR: FRANCE⫷ 💢 ⫸ FR● CINEMA⫷ 💢  ⫸FR: FRANCE DOCU⫸ 💢 ⫸ UK● GENERALE⫷ 💢  ⫸UK: SPORT⫸ 💢 ⫸ BE: BELGİUM ⫷     💢 ⫸ CH: SWITCH⫷ 💢  ⫸SW=SWEDEN⫸ 💢 ⫸USA: CINEMA ⫸ 💢 ⫸ USA: SPORT⫷ 💢  ⫸GR: GNERAL⫸ 💢  ⫸GR: CINEMA⫸ 💢  ⫸GR=SPORT⫸ 💢  ⫸RU: RUSKI⫸ 💢 ⫸ BG● BULGARİ⫷ 💢 ⫸ BG● CİNEMA⫷ 💢 ⫸ BG● CARTON⫷ 💢  ⫸AL: ALBENYA ⫸ 💢  ⫸EXYU=GOOLD ⫸ 💢  ⫸RO= GOLD ⫸ 💢 ⫸ PL● GOLD ⫸ 💢 ⫸ PL● POLSAT SPORT⫷ 💢  ⫸ ARABİ FUUL⫸ 💢  ⫸18=ADULT ( YETISKIN ) ⫸ ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://wu09.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://wu09.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 19 Mart 2026 13:59
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 19 Mart 2027 13:59
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ f8WSWLdwr6NP
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ ccQZyYnQrpqy
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ RUZGAR
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 45.12.33.128
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ NovoServe B.V.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 09 Ağustos 2026 - 01:21
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 3476 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 1790 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://wu09.xyz:8080/get.php?username=f8WSWLdwr6NP&password=ccQZyYnQrpqy&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://wu09.xyz:8080/xmltv.php?username=f8WSWLdwr6NP&password=ccQZyYnQrpqy&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢⫸TR INFO⫷ 💢 ⫸TR SUPER LİG 1⫷ 💢 ⫸TR SUPER LİG 2⫷ 💢 ⫸TR SPOR TURKIYE ⫷ 💢   ⫸Tv YouTube⫷ 💢 ⫸TR S SPOR ⫷ 💢 ⫸TR S  SPOR + ⫷ 💢 ⫸TR SPOR TVBU⫷ 💢 ⫸TR SPOR TABII ⫷ 💢 ⫸TR SPOR  SMART⫷ 💢 ⫸TR SPOR  EXXEN ⫷ 💢 ⫸TR YEREL TV⫷ 💢 ⫸TR ULUSAL 1⫷ 💢 ⫸TR HABER 1 ⫷ 💢 ⫸TR ULUSAL 2 ⫷ 💢 ⫸TR HABER 2⫷ 💢 ⫸TR BELGESEL⫷ 💢 ⫸TR COCUK⫷ 💢 ⫸TR MUZIK⫷ 💢 ⫸TR KKTC⫷ 💢 ⫸TR SALON 1 ⫷ 💢 ⫸TR SALON 2 ⫷ 💢 ⫸TR SALON 3 ⫷ 💢    ⫸ 7/24 PARLIAMENT CINEMA ⫷ 💢 ⫸ KUR● KURDİ⫷ 💢 ⫸AZ: AZERİ⫷ 💢  ⫸ AT: AVUSTRIA ⫷ 💢 ⫸DE: AMOZON⫷ 💢 ⫸ DE: UNTERHALTUNG⫷ 💢 ⫸ DE: KIDS⫷ 💢 ⫸ DE: SKY CINEMA⫷ 💢 ⫸ DE: DOKUMENTAR ⫷ 💢 ⫸ DE: SKY BUNDESLIGA ⫷ 💢 ⫸ DE: SKY SPORT⫷ 💢 ⫸ DE: MAGENTA ⫷ 💢 ⫸ DE: DYN SPOR⫷ 💢 ⫸ DE: RTL + SPORT⫷ 💢 ⫸ DE: DAZN EVENT ⫷ 💢 ⫸ NL: NETHERLAND⫷  💢 ⫸ NL: DOCUMENTAIRE ⫷ 💢 ⫸ NL: KINDEREN⫷ 💢 ⫸ NL: SPORT⫷ 💢 ⫸ IT:ITALIA⫷ 💢 ⫸ IT: CINEMA⫷ 💢 ⫸ IT: SPORT⫷ 💢 ⫸ FR: FRANCE⫷ 💢 ⫸ FR● CINEMA⫷ 💢  ⫸FR: FRANCE DOCU⫸ 💢 ⫸ UK● GENERALE⫷ 💢  ⫸UK: SPORT⫸ 💢 ⫸ BE: BELGİUM ⫷     💢 ⫸ CH: SWITCH⫷ 💢  ⫸SW=SWEDEN⫸ 💢 ⫸USA: CINEMA ⫸ 💢 ⫸ USA: SPORT⫷ 💢  ⫸GR: GNERAL⫸ 💢  ⫸GR: CINEMA⫸ 💢  ⫸GR=SPORT⫸ 💢  ⫸RU: RUSKI⫸ 💢 ⫸ BG● BULGARİ⫷ 💢 ⫸ BG● CİNEMA⫷ 💢 ⫸ BG● CARTON⫷ 💢  ⫸AL: ALBENYA ⫸ 💢  ⫸EXYU=GOOLD ⫸ 💢  ⫸RO= GOLD ⫸ 💢 ⫸ PL● GOLD ⫸ 💢 ⫸ PL● POLSAT SPORT⫷ 💢  ⫸ ARABİ FUUL⫸ 💢  ⫸18=ADULT ( YETISKIN ) ⫸ ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://wu09.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://wu09.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 10 Şubat 2026 21:20
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 11 Şubat 2027 00:19
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ trYNSZCuW6
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ Yy7qLxKsSq
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ RUZGAR
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 45.12.33.128
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ NovoServe B.V.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 09 Ağustos 2026 - 01:34
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 3306 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 1589 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://wu09.xyz:8080/get.php?username=trYNSZCuW6&password=Yy7qLxKsSq&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://wu09.xyz:8080/xmltv.php?username=trYNSZCuW6&password=Yy7qLxKsSq&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢⫸TR INFO⫷ 💢 ⫸TR SUPER LİG 1⫷ 💢 ⫸TR SUPER LİG 2⫷ 💢 ⫸TR SPOR TURKIYE ⫷ 💢   ⫸Tv YouTube⫷ 💢 ⫸TR S SPOR ⫷ 💢 ⫸TR S  SPOR + ⫷ 💢 ⫸TR SPOR TVBU⫷ 💢 ⫸TR SPOR TABII ⫷ 💢 ⫸TR SPOR  SMART⫷ 💢 ⫸TR SPOR  EXXEN ⫷ 💢 ⫸TR YEREL TV⫷ 💢 ⫸TR ULUSAL 1⫷ 💢 ⫸TR HABER 1 ⫷ 💢 ⫸TR ULUSAL 2 ⫷ 💢 ⫸TR HABER 2⫷ 💢 ⫸TR BELGESEL⫷ 💢 ⫸TR COCUK⫷ 💢 ⫸TR MUZIK⫷ 💢 ⫸TR KKTC⫷ 💢 ⫸TR SALON 1 ⫷ 💢 ⫸TR SALON 2 ⫷ 💢 ⫸TR SALON 3 ⫷ 💢    ⫸ 7/24 PARLIAMENT CINEMA ⫷ 💢 ⫸ KUR● KURDİ⫷ 💢 ⫸AZ: AZERİ⫷ 💢  ⫸ AT: AVUSTRIA ⫷ 💢 ⫸DE: AMOZON⫷ 💢 ⫸ DE: UNTERHALTUNG⫷ 💢 ⫸ DE: KIDS⫷ 💢 ⫸ DE: SKY CINEMA⫷ 💢 ⫸ DE: DOKUMENTAR ⫷ 💢 ⫸ DE: SKY BUNDESLIGA ⫷ 💢 ⫸ DE: SKY SPORT⫷ 💢 ⫸ DE: MAGENTA ⫷ 💢 ⫸ DE: DYN SPOR⫷ 💢 ⫸ DE: RTL + SPORT⫷ 💢 ⫸ DE: DAZN EVENT ⫷ 💢 ⫸ NL: NETHERLAND⫷  💢 ⫸ NL: DOCUMENTAIRE ⫷ 💢 ⫸ NL: KINDEREN⫷ 💢 ⫸ NL: SPORT⫷ 💢 ⫸ IT:ITALIA⫷ 💢 ⫸ IT: CINEMA⫷ 💢 ⫸ IT: SPORT⫷ 💢 ⫸ FR: FRANCE⫷ 💢 ⫸ FR● CINEMA⫷ 💢  ⫸FR: FRANCE DOCU⫸ 💢 ⫸ UK● GENERALE⫷ 💢  ⫸UK: SPORT⫸ 💢 ⫸ BE: BELGİUM ⫷     💢 ⫸ CH: SWITCH⫷ 💢  ⫸SW=SWEDEN⫸ 💢 ⫸USA: CINEMA ⫸ 💢 ⫸ USA: SPORT⫷ 💢  ⫸GR: GNERAL⫸ 💢  ⫸GR: CINEMA⫸ 💢  ⫸GR=SPORT⫸ 💢  ⫸RU: RUSKI⫸ 💢 ⫸ BG● BULGARİ⫷ 💢 ⫸ BG● CİNEMA⫷ 💢 ⫸ BG● CARTON⫷ 💢  ⫸AL: ALBENYA ⫸ 💢  ⫸EXYU=GOOLD ⫸ 💢  ⫸RO= GOLD ⫸ 💢 ⫸ PL● GOLD ⫸ 💢 ⫸ PL● POLSAT SPORT⫷ 💢  ⫸ ARABİ FUUL⫸ ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://wu09.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://wu09.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 28 Temmuz 2025 00:32
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 16 Nisan 2027 01:38
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ Fv8UW2yLct
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ CKMpxWZjwc
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ RUZGAR
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 45.12.33.128
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ NovoServe B.V.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 09 Ağustos 2026 - 01:45
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 3476 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 1790 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://wu09.xyz:8080/get.php?username=Fv8UW2yLct&password=CKMpxWZjwc&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://wu09.xyz:8080/xmltv.php?username=Fv8UW2yLct&password=CKMpxWZjwc&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢⫸TR INFO⫷ 💢 ⫸TR SUPER LİG 1⫷ 💢 ⫸TR SUPER LİG 2⫷ 💢 ⫸TR SPOR TURKIYE ⫷ 💢   ⫸Tv YouTube⫷ 💢 ⫸TR S SPOR ⫷ 💢 ⫸TR S  SPOR + ⫷ 💢 ⫸TR SPOR TVBU⫷ 💢 ⫸TR SPOR TABII ⫷ 💢 ⫸TR SPOR  SMART⫷ 💢 ⫸TR SPOR  EXXEN ⫷ 💢 ⫸TR YEREL TV⫷ 💢 ⫸TR ULUSAL 1⫷ 💢 ⫸TR HABER 1 ⫷ 💢 ⫸TR ULUSAL 2 ⫷ 💢 ⫸TR HABER 2⫷ 💢 ⫸TR BELGESEL⫷ 💢 ⫸TR COCUK⫷ 💢 ⫸TR MUZIK⫷ 💢 ⫸TR KKTC⫷ 💢 ⫸TR SALON 1 ⫷ 💢 ⫸TR SALON 2 ⫷ 💢 ⫸TR SALON 3 ⫷ 💢    ⫸ 7/24 PARLIAMENT CINEMA ⫷ 💢 ⫸ KUR● KURDİ⫷ 💢 ⫸AZ: AZERİ⫷ 💢  ⫸ AT: AVUSTRIA ⫷ 💢 ⫸DE: AMOZON⫷ 💢 ⫸ DE: UNTERHALTUNG⫷ 💢 ⫸ DE: KIDS⫷ 💢 ⫸ DE: SKY CINEMA⫷ 💢 ⫸ DE: DOKUMENTAR ⫷ 💢 ⫸ DE: SKY BUNDESLIGA ⫷ 💢 ⫸ DE: SKY SPORT⫷ 💢 ⫸ DE: MAGENTA ⫷ 💢 ⫸ DE: DYN SPOR⫷ 💢 ⫸ DE: RTL + SPORT⫷ 💢 ⫸ DE: DAZN EVENT ⫷ 💢 ⫸ NL: NETHERLAND⫷  💢 ⫸ NL: DOCUMENTAIRE ⫷ 💢 ⫸ NL: KINDEREN⫷ 💢 ⫸ NL: SPORT⫷ 💢 ⫸ IT:ITALIA⫷ 💢 ⫸ IT: CINEMA⫷ 💢 ⫸ IT: SPORT⫷ 💢 ⫸ FR: FRANCE⫷ 💢 ⫸ FR● CINEMA⫷ 💢  ⫸FR: FRANCE DOCU⫸ 💢 ⫸ UK● GENERALE⫷ 💢  ⫸UK: SPORT⫸ 💢 ⫸ BE: BELGİUM ⫷     💢 ⫸ CH: SWITCH⫷ 💢  ⫸SW=SWEDEN⫸ 💢 ⫸USA: CINEMA ⫸ 💢 ⫸ USA: SPORT⫷ 💢  ⫸GR: GNERAL⫸ 💢  ⫸GR: CINEMA⫸ 💢  ⫸GR=SPORT⫸ 💢  ⫸RU: RUSKI⫸ 💢 ⫸ BG● BULGARİ⫷ 💢 ⫸ BG● CİNEMA⫷ 💢 ⫸ BG● CARTON⫷ 💢  ⫸AL: ALBENYA ⫸ 💢  ⫸EXYU=GOOLD ⫸ 💢  ⫸RO= GOLD ⫸ 💢 ⫸ PL● GOLD ⫸ 💢 ⫸ PL● POLSAT SPORT⫷ 💢  ⫸ ARABİ FUUL⫸ 💢  ⫸18=ADULT ( YETISKIN ) ⫸ ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://wu09.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://wu09.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 25 Eylül 2023 15:47
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 17 Ekim 2026 11:19
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ EvrenB@b@izmir
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ RQFb5uAhKhnP
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ RUZGAR
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 45.12.33.128
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ NovoServe B.V.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 09 Ağustos 2026 - 04:08
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 3476 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 2207 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://wu09.xyz:8080/get.php?username=EvrenB@b@izmir&password=RQFb5uAhKhnP&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://wu09.xyz:8080/xmltv.php?username=EvrenB@b@izmir&password=RQFb5uAhKhnP&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢⫸TR INFO⫷ 💢 ⫸TR SUPER LİG 1⫷ 💢 ⫸TR SUPER LİG 2⫷ 💢 ⫸TR SPOR TURKIYE ⫷ 💢   ⫸Tv YouTube⫷ 💢 ⫸TR S SPOR ⫷ 💢 ⫸TR S  SPOR + ⫷ 💢 ⫸TR SPOR TVBU⫷ 💢 ⫸TR SPOR TABII ⫷ 💢 ⫸TR SPOR  SMART⫷ 💢 ⫸TR SPOR  EXXEN ⫷ 💢 ⫸TR YEREL TV⫷ 💢 ⫸TR ULUSAL 1⫷ 💢 ⫸TR HABER 1 ⫷ 💢 ⫸TR ULUSAL 2 ⫷ 💢 ⫸TR HABER 2⫷ 💢 ⫸TR BELGESEL⫷ 💢 ⫸TR COCUK⫷ 💢 ⫸TR MUZIK⫷ 💢 ⫸TR KKTC⫷ 💢 ⫸TR SALON 1 ⫷ 💢 ⫸TR SALON 2 ⫷ 💢 ⫸TR SALON 3 ⫷ 💢    ⫸ 7/24 PARLIAMENT CINEMA ⫷ 💢 ⫸ 7/24 GERMANI CINEMA⫷    💢 ⫸ KUR● KURDİ⫷ 💢 ⫸AZ: AZERİ⫷ 💢  ⫸ AT: AVUSTRIA ⫷ 💢 ⫸DE: AMOZON⫷ 💢 ⫸ DE: UNTERHALTUNG⫷ 💢 ⫸ DE: KIDS⫷ 💢 ⫸ DE: SKY CINEMA⫷ 💢 ⫸ DE: DOKUMENTAR ⫷ 💢 ⫸ DE: SKY BUNDESLIGA ⫷ 💢 ⫸ DE: SKY SPORT⫷ 💢 ⫸ DE: MAGENTA ⫷ 💢 ⫸ DE: DYN SPOR⫷ 💢 ⫸ DE: RTL + SPORT⫷ 💢 ⫸ DE: DAZN EVENT ⫷ 💢 ⫸ NL: NETHERLAND⫷  💢 ⫸ NL: DOCUMENTAIRE ⫷ 💢 ⫸ NL: KINDEREN⫷ 💢 ⫸ NL: SPORT⫷ 💢 ⫸ IT:ITALIA⫷ 💢 ⫸ IT: CINEMA⫷ 💢 ⫸ IT: SPORT⫷ 💢 ⫸ FR: FRANCE⫷ 💢 ⫸ FR● CINEMA⫷ 💢  ⫸FR: FRANCE DOCU⫸ 💢 ⫸ UK● GENERALE⫷ 💢  ⫸UK: SPORT⫸ 💢 ⫸ BE: BELGİUM ⫷     💢 ⫸ CH: SWITCH⫷ 💢  ⫸SW=SWEDEN⫸ 💢 ⫸USA: CINEMA ⫸ 💢 ⫸ USA: SPORT⫷ 💢  ⫸GR: GNERAL⫸ 💢  ⫸GR: CINEMA⫸ 💢  ⫸GR=SPORT⫸ 💢  ⫸RU: RUSKI⫸ 💢 ⫸ BG● BULGARİ⫷ 💢 ⫸ BG● CİNEMA⫷ 💢 ⫸ BG● CARTON⫷ 💢  ⫸AL: ALBENYA ⫸ 💢  ⫸EXYU=GOOLD ⫸ 💢  ⫸RO= GOLD ⫸ 💢 ⫸ PL● GOLD ⫸ 💢 ⫸ PL● POLSAT SPORT⫷ 💢  ⫸ ARABİ FUUL⫸ 💢  ⫸18=ADULT ( YETISKIN ) ⫸ ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://wu09.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://wu09.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 09 Ocak 2025 21:17
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 09 Ocak 2027 21:17
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 65gU6FExjCQG
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ u572YeLTa8v4
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ RUZGAR
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 45.12.33.128
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ NovoServe B.V.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 09 Ağustos 2026 - 05:14
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 3476 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 3041 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://wu09.xyz:8080/get.php?username=65gU6FExjCQG&password=u572YeLTa8v4&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://wu09.xyz:8080/xmltv.php?username=65gU6FExjCQG&password=u572YeLTa8v4&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢⫸TR INFO⫷ 💢 ⫸TR SUPER LİG 1⫷ 💢 ⫸TR SUPER LİG 2⫷ 💢 ⫸TR SPOR TURKIYE ⫷ 💢   ⫸Tv YouTube⫷ 💢 ⫸TR S SPOR ⫷ 💢 ⫸TR S  SPOR + ⫷ 💢 ⫸TR SPOR TVBU⫷ 💢 ⫸TR SPOR TABII ⫷ 💢 ⫸TR SPOR  SMART⫷ 💢 ⫸TR SPOR  EXXEN ⫷ 💢 ⫸TR YEREL TV⫷ 💢 ⫸TR ULUSAL 1⫷ 💢 ⫸TR HABER 1 ⫷ 💢 ⫸TR ULUSAL 2 ⫷ 💢 ⫸TR HABER 2⫷ 💢 ⫸TR BELGESEL⫷ 💢 ⫸TR COCUK⫷ 💢 ⫸TR MUZIK⫷ 💢 ⫸TR KKTC⫷ 💢 ⫸TR SALON 1 ⫷ 💢 ⫸TR SALON 2 ⫷ 💢 ⫸TR SALON 3 ⫷ 💢    ⫸ 7/24 PARLIAMENT CINEMA ⫷ 💢 ⫸ 7/24 GERMANI CINEMA⫷    💢 ⫸ KUR● KURDİ⫷ 💢 ⫸AZ: AZERİ⫷ 💢  ⫸ AT: AVUSTRIA ⫷ 💢 ⫸DE: AMOZON⫷ 💢 ⫸ DE: UNTERHALTUNG⫷ 💢 ⫸ DE: KIDS⫷ 💢 ⫸ DE: SKY CINEMA⫷ 💢 ⫸ DE: DOKUMENTAR ⫷ 💢 ⫸ DE: SKY BUNDESLIGA ⫷ 💢 ⫸ DE: SKY SPORT⫷ 💢 ⫸ DE: MAGENTA ⫷ 💢 ⫸ DE: DYN SPOR⫷ 💢 ⫸ DE: RTL + SPORT⫷ 💢 ⫸ DE: DAZN EVENT ⫷ 💢 ⫸ NL: NETHERLAND⫷  💢 ⫸ NL: DOCUMENTAIRE ⫷ 💢 ⫸ NL: KINDEREN⫷ 💢 ⫸ NL: SPORT⫷ 💢 ⫸ IT:ITALIA⫷ 💢 ⫸ IT: CINEMA⫷ 💢 ⫸ IT: SPORT⫷ 💢 ⫸ FR: FRANCE⫷ 💢 ⫸ FR● CINEMA⫷ 💢  ⫸FR: FRANCE DOCU⫸ 💢 ⫸ UK● GENERALE⫷ 💢  ⫸UK: SPORT⫸ 💢 ⫸ BE: BELGİUM ⫷     💢 ⫸ CH: SWITCH⫷ 💢  ⫸SW=SWEDEN⫸ 💢 ⫸USA: CINEMA ⫸ 💢 ⫸ USA: SPORT⫷ 💢  ⫸GR: GNERAL⫸ 💢  ⫸GR: CINEMA⫸ 💢  ⫸GR=SPORT⫸ 💢  ⫸RU: RUSKI⫸ 💢 ⫸ BG● BULGARİ⫷ 💢 ⫸ BG● CİNEMA⫷ 💢 ⫸ BG● CARTON⫷ 💢  ⫸AL: ALBENYA ⫸ 💢  ⫸EXYU=GOOLD ⫸ 💢  ⫸RO= GOLD ⫸ 💢 ⫸ PL● GOLD ⫸ 💢 ⫸ PL● POLSAT SPORT⫷ 💢  ⫸ ARABİ FUUL⫸ 💢  ⫸18=ADULT ( YETISKIN ) ⫸ ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://wu09.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://wu09.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 04 Ekim 2018 16:41
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 05 Ekim 2026 20:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ aslanbey
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 150821yzx
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ RUZGAR
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 45.12.33.128
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ NovoServe B.V.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 09 Ağustos 2026 - 06:31
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 3476 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 3041 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://wu09.xyz:8080/get.php?username=aslanbey&password=150821yzx&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://wu09.xyz:8080/xmltv.php?username=aslanbey&password=150821yzx&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢⫸TR INFO⫷ 💢 ⫸TR SUPER LİG 1⫷ 💢 ⫸TR SUPER LİG 2⫷ 💢 ⫸TR SPOR TURKIYE ⫷ 💢   ⫸Tv YouTube⫷ 💢 ⫸TR S SPOR ⫷ 💢 ⫸TR S  SPOR + ⫷ 💢 ⫸TR SPOR TVBU⫷ 💢 ⫸TR SPOR TABII ⫷ 💢 ⫸TR SPOR  SMART⫷ 💢 ⫸TR SPOR  EXXEN ⫷ 💢 ⫸TR YEREL TV⫷ 💢 ⫸TR ULUSAL 1⫷ 💢 ⫸TR HABER 1 ⫷ 💢 ⫸TR ULUSAL 2 ⫷ 💢 ⫸TR HABER 2⫷ 💢 ⫸TR BELGESEL⫷ 💢 ⫸TR COCUK⫷ 💢 ⫸TR MUZIK⫷ 💢 ⫸TR KKTC⫷ 💢 ⫸TR SALON 1 ⫷ 💢 ⫸TR SALON 2 ⫷ 💢 ⫸TR SALON 3 ⫷ 💢    ⫸ 7/24 PARLIAMENT CINEMA ⫷ 💢 ⫸ 7/24 GERMANI CINEMA⫷    💢 ⫸ KUR● KURDİ⫷ 💢 ⫸AZ: AZERİ⫷ 💢  ⫸ AT: AVUSTRIA ⫷ 💢 ⫸DE: AMOZON⫷ 💢 ⫸ DE: UNTERHALTUNG⫷ 💢 ⫸ DE: KIDS⫷ 💢 ⫸ DE: SKY CINEMA⫷ 💢 ⫸ DE: DOKUMENTAR ⫷ 💢 ⫸ DE: SKY BUNDESLIGA ⫷ 💢 ⫸ DE: SKY SPORT⫷ 💢 ⫸ DE: MAGENTA ⫷ 💢 ⫸ DE: DYN SPOR⫷ 💢 ⫸ DE: RTL + SPORT⫷ 💢 ⫸ DE: DAZN EVENT ⫷ 💢 ⫸ NL: NETHERLAND⫷  💢 ⫸ NL: DOCUMENTAIRE ⫷ 💢 ⫸ NL: KINDEREN⫷ 💢 ⫸ NL: SPORT⫷ 💢 ⫸ IT:ITALIA⫷ 💢 ⫸ IT: CINEMA⫷ 💢 ⫸ IT: SPORT⫷ 💢 ⫸ FR: FRANCE⫷ 💢 ⫸ FR● CINEMA⫷ 💢  ⫸FR: FRANCE DOCU⫸ 💢 ⫸ UK● GENERALE⫷ 💢  ⫸UK: SPORT⫸ 💢 ⫸ BE: BELGİUM ⫷     💢 ⫸ CH: SWITCH⫷ 💢  ⫸SW=SWEDEN⫸ 💢 ⫸USA: CINEMA ⫸ 💢 ⫸ USA: SPORT⫷ 💢  ⫸GR: GNERAL⫸ 💢  ⫸GR: CINEMA⫸ 💢  ⫸GR=SPORT⫸ 💢  ⫸RU: RUSKI⫸ 💢 ⫸ BG● BULGARİ⫷ 💢 ⫸ BG● CİNEMA⫷ 💢 ⫸ BG● CARTON⫷ 💢  ⫸AL: ALBENYA ⫸ 💢  ⫸EXYU=GOOLD ⫸ 💢  ⫸RO= GOLD ⫸ 💢 ⫸ PL● GOLD ⫸ 💢 ⫸ PL● POLSAT SPORT⫷ 💢  ⫸ ARABİ FUUL⫸ 💢  ⫸18=ADULT ( YETISKIN ) ⫸ ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://wu09.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://wu09.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 25 Eylül 2023 15:47
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 17 Ekim 2026 11:19
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ EvrenB@b@izmir
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ RQFb5uAhKhnP
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ RUZGAR
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 45.12.33.128
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ NovoServe B.V.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 09 Ağustos 2026 - 08:39
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 3476 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 3041 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://wu09.xyz:8080/get.php?username=EvrenB@b@izmir&password=RQFb5uAhKhnP&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://wu09.xyz:8080/xmltv.php?username=EvrenB@b@izmir&password=RQFb5uAhKhnP&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢⫸TR INFO⫷ 💢 ⫸TR SUPER LİG 1⫷ 💢 ⫸TR SUPER LİG 2⫷ 💢 ⫸TR SPOR TURKIYE ⫷ 💢   ⫸Tv YouTube⫷ 💢 ⫸TR S SPOR ⫷ 💢 ⫸TR S  SPOR + ⫷ 💢 ⫸TR SPOR TVBU⫷ 💢 ⫸TR SPOR TABII ⫷ 💢 ⫸TR SPOR  SMART⫷ 💢 ⫸TR SPOR  EXXEN ⫷ 💢 ⫸TR YEREL TV⫷ 💢 ⫸TR ULUSAL 1⫷ 💢 ⫸TR HABER 1 ⫷ 💢 ⫸TR ULUSAL 2 ⫷ 💢 ⫸TR HABER 2⫷ 💢 ⫸TR BELGESEL⫷ 💢 ⫸TR COCUK⫷ 💢 ⫸TR MUZIK⫷ 💢 ⫸TR KKTC⫷ 💢 ⫸TR SALON 1 ⫷ 💢 ⫸TR SALON 2 ⫷ 💢 ⫸TR SALON 3 ⫷ 💢    ⫸ 7/24 PARLIAMENT CINEMA ⫷ 💢 ⫸ 7/24 GERMANI CINEMA⫷    💢 ⫸ KUR● KURDİ⫷ 💢 ⫸AZ: AZERİ⫷ 💢  ⫸ AT: AVUSTRIA ⫷ 💢 ⫸DE: AMOZON⫷ 💢 ⫸ DE: UNTERHALTUNG⫷ 💢 ⫸ DE: KIDS⫷ 💢 ⫸ DE: SKY CINEMA⫷ 💢 ⫸ DE: DOKUMENTAR ⫷ 💢 ⫸ DE: SKY BUNDESLIGA ⫷ 💢 ⫸ DE: SKY SPORT⫷ 💢 ⫸ DE: MAGENTA ⫷ 💢 ⫸ DE: DYN SPOR⫷ 💢 ⫸ DE: RTL + SPORT⫷ 💢 ⫸ DE: DAZN EVENT ⫷ 💢 ⫸ NL: NETHERLAND⫷  💢 ⫸ NL: DOCUMENTAIRE ⫷ 💢 ⫸ NL: KINDEREN⫷ 💢 ⫸ NL: SPORT⫷ 💢 ⫸ IT:ITALIA⫷ 💢 ⫸ IT: CINEMA⫷ 💢 ⫸ IT: SPORT⫷ 💢 ⫸ FR: FRANCE⫷ 💢 ⫸ FR● CINEMA⫷ 💢  ⫸FR: FRANCE DOCU⫸ 💢 ⫸ UK● GENERALE⫷ 💢  ⫸UK: SPORT⫸ 💢 ⫸ BE: BELGİUM ⫷     💢 ⫸ CH: SWITCH⫷ 💢  ⫸SW=SWEDEN⫸ 💢 ⫸USA: CINEMA ⫸ 💢 ⫸ USA: SPORT⫷ 💢  ⫸GR: GNERAL⫸ 💢  ⫸GR: CINEMA⫸ 💢  ⫸GR=SPORT⫸ 💢  ⫸RU: RUSKI⫸ 💢 ⫸ BG● BULGARİ⫷ 💢 ⫸ BG● CİNEMA⫷ 💢 ⫸ BG● CARTON⫷ 💢  ⫸AL: ALBENYA ⫸ 💢  ⫸EXYU=GOOLD ⫸ 💢  ⫸RO= GOLD ⫸ 💢 ⫸ PL● GOLD ⫸ 💢 ⫸ PL● POLSAT SPORT⫷ 💢  ⫸ ARABİ FUUL⫸ 💢  ⫸18=ADULT ( YETISKIN ) ⫸ ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://wu09.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://wu09.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 01 Şubat 2026 16:32
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 08 Eylül 2026 03:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ hakantug@90
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ BrqDVc9wG6
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ RUZGAR
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 45.12.33.128
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ NovoServe B.V.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 09 Ağustos 2026 - 08:41
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 3306 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 1982 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://wu09.xyz:8080/get.php?username=hakantug@90&password=BrqDVc9wG6&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://wu09.xyz:8080/xmltv.php?username=hakantug@90&password=BrqDVc9wG6&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢⫸TR INFO⫷ 💢 ⫸TR SUPER LİG 1⫷ 💢 ⫸TR SUPER LİG 2⫷ 💢 ⫸TR SPOR TURKIYE ⫷ 💢   ⫸Tv YouTube⫷ 💢 ⫸TR S SPOR ⫷ 💢 ⫸TR S  SPOR + ⫷ 💢 ⫸TR SPOR TVBU⫷ 💢 ⫸TR SPOR TABII ⫷ 💢 ⫸TR SPOR  SMART⫷ 💢 ⫸TR SPOR  EXXEN ⫷ 💢 ⫸TR YEREL TV⫷ 💢 ⫸TR ULUSAL 1⫷ 💢 ⫸TR HABER 1 ⫷ 💢 ⫸TR ULUSAL 2 ⫷ 💢 ⫸TR HABER 2⫷ 💢 ⫸TR BELGESEL⫷ 💢 ⫸TR COCUK⫷ 💢 ⫸TR MUZIK⫷ 💢 ⫸TR KKTC⫷ 💢 ⫸TR SALON 1 ⫷ 💢 ⫸TR SALON 2 ⫷ 💢 ⫸TR SALON 3 ⫷ 💢    ⫸ 7/24 PARLIAMENT CINEMA ⫷ 💢 ⫸ 7/24 GERMANI CINEMA⫷    💢 ⫸ KUR● KURDİ⫷ 💢 ⫸AZ: AZERİ⫷ 💢  ⫸ AT: AVUSTRIA ⫷ 💢 ⫸DE: AMOZON⫷ 💢 ⫸ DE: UNTERHALTUNG⫷ 💢 ⫸ DE: KIDS⫷ 💢 ⫸ DE: SKY CINEMA⫷ 💢 ⫸ DE: DOKUMENTAR ⫷ 💢 ⫸ DE: SKY BUNDESLIGA ⫷ 💢 ⫸ DE: SKY SPORT⫷ 💢 ⫸ DE: MAGENTA ⫷ 💢 ⫸ DE: DYN SPOR⫷ 💢 ⫸ DE: RTL + SPORT⫷ 💢 ⫸ DE: DAZN EVENT ⫷ 💢 ⫸ NL: NETHERLAND⫷  💢 ⫸ NL: DOCUMENTAIRE ⫷ 💢 ⫸ NL: KINDEREN⫷ 💢 ⫸ NL: SPORT⫷ 💢 ⫸ IT:ITALIA⫷ 💢 ⫸ IT: CINEMA⫷ 💢 ⫸ IT: SPORT⫷ 💢 ⫸ FR: FRANCE⫷ 💢 ⫸ FR● CINEMA⫷ 💢  ⫸FR: FRANCE DOCU⫸ 💢 ⫸ UK● GENERALE⫷ 💢  ⫸UK: SPORT⫸ 💢 ⫸ BE: BELGİUM ⫷     💢 ⫸ CH: SWITCH⫷ 💢  ⫸SW=SWEDEN⫸ 💢 ⫸USA: CINEMA ⫸ 💢 ⫸ USA: SPORT⫷ 💢  ⫸GR: GNERAL⫸ 💢  ⫸GR: CINEMA⫸ 💢  ⫸GR=SPORT⫸ 💢  ⫸RU: RUSKI⫸ 💢 ⫸ BG● BULGARİ⫷ 💢 ⫸ BG● CİNEMA⫷ 💢 ⫸ BG● CARTON⫷ 💢  ⫸AL: ALBENYA ⫸ 💢  ⫸EXYU=GOOLD ⫸ 💢  ⫸RO= GOLD ⫸ 💢 ⫸ PL● GOLD ⫸ 💢 ⫸ PL● POLSAT SPORT⫷ 💢  ⫸ ARABİ FUUL⫸ ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://wu09.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://wu09.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 06 Nisan 2026 21:45
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 06 Nisan 2027 21:45
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ tYMc7PDqhnxH
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ vdXzLB2AxLaV
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ RUZGAR
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 45.12.33.128
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ NovoServe B.V.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 09 Ağustos 2026 - 08:50
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 3476 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 3041 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://wu09.xyz:8080/get.php?username=tYMc7PDqhnxH&password=vdXzLB2AxLaV&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://wu09.xyz:8080/xmltv.php?username=tYMc7PDqhnxH&password=vdXzLB2AxLaV&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢⫸TR INFO⫷ 💢 ⫸TR SUPER LİG 1⫷ 💢 ⫸TR SUPER LİG 2⫷ 💢 ⫸TR SPOR TURKIYE ⫷ 💢   ⫸Tv YouTube⫷ 💢 ⫸TR S SPOR ⫷ 💢 ⫸TR S  SPOR + ⫷ 💢 ⫸TR SPOR TVBU⫷ 💢 ⫸TR SPOR TABII ⫷ 💢 ⫸TR SPOR  SMART⫷ 💢 ⫸TR SPOR  EXXEN ⫷ 💢 ⫸TR YEREL TV⫷ 💢 ⫸TR ULUSAL 1⫷ 💢 ⫸TR HABER 1 ⫷ 💢 ⫸TR ULUSAL 2 ⫷ 💢 ⫸TR HABER 2⫷ 💢 ⫸TR BELGESEL⫷ 💢 ⫸TR COCUK⫷ 💢 ⫸TR MUZIK⫷ 💢 ⫸TR KKTC⫷ 💢 ⫸TR SALON 1 ⫷ 💢 ⫸TR SALON 2 ⫷ 💢 ⫸TR SALON 3 ⫷ 💢    ⫸ 7/24 PARLIAMENT CINEMA ⫷ 💢 ⫸ 7/24 GERMANI CINEMA⫷    💢 ⫸ KUR● KURDİ⫷ 💢 ⫸AZ: AZERİ⫷ 💢  ⫸ AT: AVUSTRIA ⫷ 💢 ⫸DE: AMOZON⫷ 💢 ⫸ DE: UNTERHALTUNG⫷ 💢 ⫸ DE: KIDS⫷ 💢 ⫸ DE: SKY CINEMA⫷ 💢 ⫸ DE: DOKUMENTAR ⫷ 💢 ⫸ DE: SKY BUNDESLIGA ⫷ 💢 ⫸ DE: SKY SPORT⫷ 💢 ⫸ DE: MAGENTA ⫷ 💢 ⫸ DE: DYN SPOR⫷ 💢 ⫸ DE: RTL + SPORT⫷ 💢 ⫸ DE: DAZN EVENT ⫷ 💢 ⫸ NL: NETHERLAND⫷  💢 ⫸ NL: DOCUMENTAIRE ⫷ 💢 ⫸ NL: KINDEREN⫷ 💢 ⫸ NL: SPORT⫷ 💢 ⫸ IT:ITALIA⫷ 💢 ⫸ IT: CINEMA⫷ 💢 ⫸ IT: SPORT⫷ 💢 ⫸ FR: FRANCE⫷ 💢 ⫸ FR● CINEMA⫷ 💢  ⫸FR: FRANCE DOCU⫸ 💢 ⫸ UK● GENERALE⫷ 💢  ⫸UK: SPORT⫸ 💢 ⫸ BE: BELGİUM ⫷     💢 ⫸ CH: SWITCH⫷ 💢  ⫸SW=SWEDEN⫸ 💢 ⫸USA: CINEMA ⫸ 💢 ⫸ USA: SPORT⫷ 💢  ⫸GR: GNERAL⫸ 💢  ⫸GR: CINEMA⫸ 💢  ⫸GR=SPORT⫸ 💢  ⫸RU: RUSKI⫸ 💢 ⫸ BG● BULGARİ⫷ 💢 ⫸ BG● CİNEMA⫷ 💢 ⫸ BG● CARTON⫷ 💢  ⫸AL: ALBENYA ⫸ 💢  ⫸EXYU=GOOLD ⫸ 💢  ⫸RO= GOLD ⫸ 💢 ⫸ PL● GOLD ⫸ 💢 ⫸ PL● POLSAT SPORT⫷ 💢  ⫸ ARABİ FUUL⫸ 💢  ⫸18=ADULT ( YETISKIN ) ⫸ ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://wu09.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://wu09.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 20 Ekim 2020 12:42
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 20 Ekim 2026 12:42
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ rtgufVPZKn2953
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 8b4CyUyQrg
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ RUZGAR
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 45.12.33.128
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ NovoServe B.V.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 09 Ağustos 2026 - 08:52
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 3476 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 3041 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://wu09.xyz:8080/get.php?username=rtgufVPZKn2953&password=8b4CyUyQrg&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://wu09.xyz:8080/xmltv.php?username=rtgufVPZKn2953&password=8b4CyUyQrg&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢⫸TR INFO⫷ 💢 ⫸TR SUPER LİG 1⫷ 💢 ⫸TR SUPER LİG 2⫷ 💢 ⫸TR SPOR TURKIYE ⫷ 💢   ⫸Tv YouTube⫷ 💢 ⫸TR S SPOR ⫷ 💢 ⫸TR S  SPOR + ⫷ 💢 ⫸TR SPOR TVBU⫷ 💢 ⫸TR SPOR TABII ⫷ 💢 ⫸TR SPOR  SMART⫷ 💢 ⫸TR SPOR  EXXEN ⫷ 💢 ⫸TR YEREL TV⫷ 💢 ⫸TR ULUSAL 1⫷ 💢 ⫸TR HABER 1 ⫷ 💢 ⫸TR ULUSAL 2 ⫷ 💢 ⫸TR HABER 2⫷ 💢 ⫸TR BELGESEL⫷ 💢 ⫸TR COCUK⫷ 💢 ⫸TR MUZIK⫷ 💢 ⫸TR KKTC⫷ 💢 ⫸TR SALON 1 ⫷ 💢 ⫸TR SALON 2 ⫷ 💢 ⫸TR SALON 3 ⫷ 💢    ⫸ 7/24 PARLIAMENT CINEMA ⫷ 💢 ⫸ 7/24 GERMANI CINEMA⫷    💢 ⫸ KUR● KURDİ⫷ 💢 ⫸AZ: AZERİ⫷ 💢  ⫸ AT: AVUSTRIA ⫷ 💢 ⫸DE: AMOZON⫷ 💢 ⫸ DE: UNTERHALTUNG⫷ 💢 ⫸ DE: KIDS⫷ 💢 ⫸ DE: SKY CINEMA⫷ 💢 ⫸ DE: DOKUMENTAR ⫷ 💢 ⫸ DE: SKY BUNDESLIGA ⫷ 💢 ⫸ DE: SKY SPORT⫷ 💢 ⫸ DE: MAGENTA ⫷ 💢 ⫸ DE: DYN SPOR⫷ 💢 ⫸ DE: RTL + SPORT⫷ 💢 ⫸ DE: DAZN EVENT ⫷ 💢 ⫸ NL: NETHERLAND⫷  💢 ⫸ NL: DOCUMENTAIRE ⫷ 💢 ⫸ NL: KINDEREN⫷ 💢 ⫸ NL: SPORT⫷ 💢 ⫸ IT:ITALIA⫷ 💢 ⫸ IT: CINEMA⫷ 💢 ⫸ IT: SPORT⫷ 💢 ⫸ FR: FRANCE⫷ 💢 ⫸ FR● CINEMA⫷ 💢  ⫸FR: FRANCE DOCU⫸ 💢 ⫸ UK● GENERALE⫷ 💢  ⫸UK: SPORT⫸ 💢 ⫸ BE: BELGİUM ⫷     💢 ⫸ CH: SWITCH⫷ 💢  ⫸SW=SWEDEN⫸ 💢 ⫸USA: CINEMA ⫸ 💢 ⫸ USA: SPORT⫷ 💢  ⫸GR: GNERAL⫸ 💢  ⫸GR: CINEMA⫸ 💢  ⫸GR=SPORT⫸ 💢  ⫸RU: RUSKI⫸ 💢 ⫸ BG● BULGARİ⫷ 💢 ⫸ BG● CİNEMA⫷ 💢 ⫸ BG● CARTON⫷ 💢  ⫸AL: ALBENYA ⫸ 💢  ⫸EXYU=GOOLD ⫸ 💢  ⫸RO= GOLD ⫸ 💢 ⫸ PL● GOLD ⫸ 💢 ⫸ PL● POLSAT SPORT⫷ 💢  ⫸ ARABİ FUUL⫸ 💢  ⫸18=ADULT ( YETISKIN ) ⫸ ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://wu09.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://wu09.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 09 Ekim 2022 19:26
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 26 Nisan 2027 10:46
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 7DXKY6F9cJBK
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ Mz3ZkXK8thhf
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ RUZGAR
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 45.12.33.128
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ NovoServe B.V.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 09 Ağustos 2026 - 10:07
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 3306 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 2065 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://wu09.xyz:8080/get.php?username=7DXKY6F9cJBK&password=Mz3ZkXK8thhf&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://wu09.xyz:8080/xmltv.php?username=7DXKY6F9cJBK&password=Mz3ZkXK8thhf&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢⫸TR INFO⫷ 💢 ⫸TR SUPER LİG 1⫷ 💢 ⫸TR SUPER LİG 2⫷ 💢 ⫸TR SPOR TURKIYE ⫷ 💢   ⫸Tv YouTube⫷ 💢 ⫸TR S SPOR ⫷ 💢 ⫸TR S  SPOR + ⫷ 💢 ⫸TR SPOR TVBU⫷ 💢 ⫸TR SPOR TABII ⫷ 💢 ⫸TR SPOR  SMART⫷ 💢 ⫸TR SPOR  EXXEN ⫷ 💢 ⫸TR YEREL TV⫷ 💢 ⫸TR ULUSAL 1⫷ 💢 ⫸TR HABER 1 ⫷ 💢 ⫸TR ULUSAL 2 ⫷ 💢 ⫸TR HABER 2⫷ 💢 ⫸TR BELGESEL⫷ 💢 ⫸TR COCUK⫷ 💢 ⫸TR MUZIK⫷ 💢 ⫸TR KKTC⫷ 💢 ⫸TR SALON 1 ⫷ 💢 ⫸TR SALON 2 ⫷ 💢 ⫸TR SALON 3 ⫷ 💢    ⫸ 7/24 PARLIAMENT CINEMA ⫷ 💢 ⫸ 7/24 GERMANI CINEMA⫷    💢 ⫸ KUR● KURDİ⫷ 💢 ⫸AZ: AZERİ⫷ 💢  ⫸ AT: AVUSTRIA ⫷ 💢 ⫸DE: AMOZON⫷ 💢 ⫸ DE: UNTERHALTUNG⫷ 💢 ⫸ DE: KIDS⫷ 💢 ⫸ DE: SKY CINEMA⫷ 💢 ⫸ DE: DOKUMENTAR ⫷ 💢 ⫸ DE: SKY BUNDESLIGA ⫷ 💢 ⫸ DE: SKY SPORT⫷ 💢 ⫸ DE: MAGENTA ⫷ 💢 ⫸ DE: DYN SPOR⫷ 💢 ⫸ DE: RTL + SPORT⫷ 💢 ⫸ DE: DAZN EVENT ⫷ 💢 ⫸ NL: NETHERLAND⫷  💢 ⫸ NL: DOCUMENTAIRE ⫷ 💢 ⫸ NL: KINDEREN⫷ 💢 ⫸ NL: SPORT⫷ 💢 ⫸ IT:ITALIA⫷ 💢 ⫸ IT: CINEMA⫷ 💢 ⫸ IT: SPORT⫷ 💢 ⫸ FR: FRANCE⫷ 💢 ⫸ FR● CINEMA⫷ 💢  ⫸FR: FRANCE DOCU⫸ 💢 ⫸ UK● GENERALE⫷ 💢  ⫸UK: SPORT⫸ 💢 ⫸ BE: BELGİUM ⫷     💢 ⫸ CH: SWITCH⫷ 💢  ⫸SW=SWEDEN⫸ 💢 ⫸USA: CINEMA ⫸ 💢 ⫸ USA: SPORT⫷ 💢  ⫸GR: GNERAL⫸ 💢  ⫸GR: CINEMA⫸ 💢  ⫸GR=SPORT⫸ 💢  ⫸RU: RUSKI⫸ 💢 ⫸ BG● BULGARİ⫷ 💢 ⫸ BG● CİNEMA⫷ 💢 ⫸ BG● CARTON⫷ 💢  ⫸AL: ALBENYA ⫸ 💢  ⫸EXYU=GOOLD ⫸ 💢  ⫸RO= GOLD ⫸ 💢 ⫸ PL● GOLD ⫸ 💢 ⫸ PL● POLSAT SPORT⫷ 💢  ⫸ ARABİ FUUL⫸ ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://wu09.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://wu09.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 25 Şubat 2026 14:07
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 25 Şubat 2027 14:07
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 05322862446
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ zvJdE39db5JA
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ RUZGAR
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 45.12.33.128
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ NovoServe B.V.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 09 Ağustos 2026 - 12:17
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 3476 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 4042 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://wu09.xyz:8080/get.php?username=05322862446&password=zvJdE39db5JA&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://wu09.xyz:8080/xmltv.php?username=05322862446&password=zvJdE39db5JA&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢⫸TR INFO⫷ 💢 ⫸TR SUPER LİG 1⫷ 💢 ⫸TR SUPER LİG 2⫷ 💢 ⫸TR SPOR TURKIYE ⫷ 💢   ⫸Tv YouTube⫷ 💢 ⫸TR S SPOR ⫷ 💢 ⫸TR S  SPOR + ⫷ 💢 ⫸TR SPOR TVBU⫷ 💢 ⫸TR SPOR TABII ⫷ 💢 ⫸TR SPOR  SMART⫷ 💢 ⫸TR SPOR  EXXEN ⫷ 💢 ⫸TR YEREL TV⫷ 💢 ⫸TR ULUSAL 1⫷ 💢 ⫸TR HABER 1 ⫷ 💢 ⫸TR ULUSAL 2 ⫷ 💢 ⫸TR HABER 2⫷ 💢 ⫸TR BELGESEL⫷ 💢 ⫸TR COCUK⫷ 💢 ⫸TR MUZIK⫷ 💢 ⫸TR KKTC⫷ 💢 ⫸TR SALON 1 ⫷ 💢 ⫸TR SALON 2 ⫷ 💢 ⫸TR SALON 3 ⫷ 💢    ⫸ 7/24 PARLIAMENT CINEMA ⫷ 💢 ⫸ 7/24 GERMANI CINEMA⫷    💢 ⫸ KUR● KURDİ⫷ 💢 ⫸AZ: AZERİ⫷ 💢  ⫸ AT: AVUSTRIA ⫷ 💢 ⫸DE: AMOZON⫷ 💢 ⫸ DE: UNTERHALTUNG⫷ 💢 ⫸ DE: KIDS⫷ 💢 ⫸ DE: SKY CINEMA⫷ 💢 ⫸ DE: DOKUMENTAR ⫷ 💢 ⫸ DE: SKY BUNDESLIGA ⫷ 💢 ⫸ DE: SKY SPORT⫷ 💢 ⫸ DE: MAGENTA ⫷ 💢 ⫸ DE: DYN SPOR⫷ 💢 ⫸ DE: RTL + SPORT⫷ 💢 ⫸ DE: DAZN EVENT ⫷ 💢 ⫸ NL: NETHERLAND⫷  💢 ⫸ NL: DOCUMENTAIRE ⫷ 💢 ⫸ NL: KINDEREN⫷ 💢 ⫸ NL: SPORT⫷ 💢 ⫸ IT:ITALIA⫷ 💢 ⫸ IT: CINEMA⫷ 💢 ⫸ IT: SPORT⫷ 💢 ⫸ FR: FRANCE⫷ 💢 ⫸ FR● CINEMA⫷ 💢  ⫸FR: FRANCE DOCU⫸ 💢 ⫸ UK● GENERALE⫷ 💢  ⫸UK: SPORT⫸ 💢 ⫸ BE: BELGİUM ⫷     💢 ⫸ CH: SWITCH⫷ 💢  ⫸SW=SWEDEN⫸ 💢 ⫸USA: CINEMA ⫸ 💢 ⫸ USA: SPORT⫷ 💢  ⫸GR: GNERAL⫸ 💢  ⫸GR: CINEMA⫸ 💢  ⫸GR=SPORT⫸ 💢  ⫸RU: RUSKI⫸ 💢 ⫸ BG● BULGARİ⫷ 💢 ⫸ BG● CİNEMA⫷ 💢 ⫸ BG● CARTON⫷ 💢  ⫸AL: ALBENYA ⫸ 💢  ⫸EXYU=GOOLD ⫸ 💢  ⫸RO= GOLD ⫸ 💢 ⫸ PL● GOLD ⫸ 💢 ⫸ PL● POLSAT SPORT⫷ 💢  ⫸ ARABİ FUUL⫸ 💢  ⫸18=ADULT ( YETISKIN ) ⫸ ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://wu09.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://wu09.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 13 Ekim 2025 16:39
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 13 Ekim 2026 16:39
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ aksen@1310
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 13km10hk25
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ RUZGAR
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 45.12.33.128
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ NovoServe B.V.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 09 Ağustos 2026 - 19:00
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 3476 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 4709 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://wu09.xyz:8080/get.php?username=aksen@1310&password=13km10hk25&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://wu09.xyz:8080/xmltv.php?username=aksen@1310&password=13km10hk25&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢⫸TR INFO⫷ 💢 ⫸TR SUPER LİG 1⫷ 💢 ⫸TR SUPER LİG 2⫷ 💢 ⫸TR SPOR TURKIYE ⫷ 💢   ⫸Tv YouTube⫷ 💢 ⫸TR S SPOR ⫷ 💢 ⫸TR S  SPOR + ⫷ 💢 ⫸TR SPOR TVBU⫷ 💢 ⫸TR SPOR TABII ⫷ 💢 ⫸TR SPOR  SMART⫷ 💢 ⫸TR SPOR  EXXEN ⫷ 💢 ⫸TR YEREL TV⫷ 💢 ⫸TR ULUSAL 1⫷ 💢 ⫸TR HABER 1 ⫷ 💢 ⫸TR ULUSAL 2 ⫷ 💢 ⫸TR HABER 2⫷ 💢 ⫸TR BELGESEL⫷ 💢 ⫸TR COCUK⫷ 💢 ⫸TR MUZIK⫷ 💢 ⫸TR KKTC⫷ 💢 ⫸TR SALON 1 ⫷ 💢 ⫸TR SALON 2 ⫷ 💢 ⫸TR SALON 3 ⫷ 💢    ⫸ 7/24 PARLIAMENT CINEMA ⫷ 💢 ⫸ 7/24 GERMANI CINEMA⫷    💢 ⫸ KUR● KURDİ⫷ 💢 ⫸AZ: AZERİ⫷ 💢  ⫸ AT: AVUSTRIA ⫷ 💢 ⫸DE: AMOZON⫷ 💢 ⫸ DE: UNTERHALTUNG⫷ 💢 ⫸ DE: KIDS⫷ 💢 ⫸ DE: SKY CINEMA⫷ 💢 ⫸ DE: DOKUMENTAR ⫷ 💢 ⫸ DE: SKY BUNDESLIGA ⫷ 💢 ⫸ DE: SKY SPORT⫷ 💢 ⫸ DE: MAGENTA ⫷ 💢 ⫸ DE: DYN SPOR⫷ 💢 ⫸ DE: RTL + SPORT⫷ 💢 ⫸ DE: DAZN EVENT ⫷ 💢 ⫸ NL: NETHERLAND⫷  💢 ⫸ NL: DOCUMENTAIRE ⫷ 💢 ⫸ NL: KINDEREN⫷ 💢 ⫸ NL: SPORT⫷ 💢 ⫸ IT:ITALIA⫷ 💢 ⫸ IT: CINEMA⫷ 💢 ⫸ IT: SPORT⫷ 💢 ⫸ FR: FRANCE⫷ 💢 ⫸ FR● CINEMA⫷ 💢  ⫸FR: FRANCE DOCU⫸ 💢 ⫸ UK● GENERALE⫷ 💢  ⫸UK: SPORT⫸ 💢 ⫸ BE: BELGİUM ⫷     💢 ⫸ CH: SWITCH⫷ 💢  ⫸SW=SWEDEN⫸ 💢 ⫸USA: CINEMA ⫸ 💢 ⫸ USA: SPORT⫷ 💢  ⫸GR: GNERAL⫸ 💢  ⫸GR: CINEMA⫸ 💢  ⫸GR=SPORT⫸ 💢  ⫸RU: RUSKI⫸ 💢 ⫸ BG● BULGARİ⫷ 💢 ⫸ BG● CİNEMA⫷ 💢 ⫸ BG● CARTON⫷ 💢  ⫸AL: ALBENYA ⫸ 💢  ⫸EXYU=GOOLD ⫸ 💢  ⫸RO= GOLD ⫸ 💢 ⫸ PL● GOLD ⫸ 💢 ⫸ PL● POLSAT SPORT⫷ 💢  ⫸ ARABİ FUUL⫸ 💢  ⫸18=ADULT ( YETISKIN ) ⫸ ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://wu09.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://wu09.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 04 Ağustos 2019 12:16
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 12 Ağustos 2026 13:05
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ mesut@1903
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ QCPQ20S55x
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ RUZGAR
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 45.12.33.128
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ NovoServe B.V.
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 09 Ağustos 2026 - 20:38
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 3478 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 4864 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 0 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://wu09.xyz:8080/get.php?username=mesut@1903&password=QCPQ20S55x&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://wu09.xyz:8080/xmltv.php?username=mesut@1903&password=QCPQ20S55x&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢⫸TR INFO⫷ 💢 ⫸TR SUPER LİG 1⫷ 💢 ⫸TR SUPER LİG 2⫷ 💢 ⫸TR SPOR TURKIYE ⫷ 💢   ⫸Tv YouTube⫷ 💢 ⫸TR S SPOR ⫷ 💢 ⫸TR S  SPOR + ⫷ 💢 ⫸TR SPOR TVBU⫷ 💢 ⫸TR SPOR TABII ⫷ 💢 ⫸TR SPOR  SMART⫷ 💢 ⫸TR SPOR  EXXEN ⫷ 💢 ⫸TR YEREL TV⫷ 💢 ⫸TR ULUSAL 1⫷ 💢 ⫸TR HABER 1 ⫷ 💢 ⫸TR ULUSAL 2 ⫷ 💢 ⫸TR HABER 2⫷ 💢 ⫸TR BELGESEL⫷ 💢 ⫸TR COCUK⫷ 💢 ⫸TR MUZIK⫷ 💢 ⫸TR KKTC⫷ 💢 ⫸TR SALON 1 ⫷ 💢 ⫸TR SALON 2 ⫷ 💢 ⫸TR SALON 3 ⫷ 💢    ⫸ 7/24 PARLIAMENT CINEMA ⫷ 💢 ⫸ 7/24 GERMANI CINEMA⫷    💢 ⫸ KUR● KURDİ⫷ 💢 ⫸AZ: AZERİ⫷ 💢  ⫸ AT: AVUSTRIA ⫷ 💢 ⫸DE: AMOZON⫷ 💢 ⫸ DE: UNTERHALTUNG⫷ 💢 ⫸ DE: KIDS⫷ 💢 ⫸ DE: SKY CINEMA⫷ 💢 ⫸ DE: DOKUMENTAR ⫷ 💢 ⫸ DE: SKY BUNDESLIGA ⫷ 💢 ⫸ DE: SKY SPORT⫷ 💢 ⫸ DE: MAGENTA ⫷ 💢 ⫸ DE: DYN SPOR⫷ 💢 ⫸ DE: RTL + SPORT⫷ 💢 ⫸ DE: DAZN EVENT ⫷ 💢 ⫸ NL: NETHERLAND⫷  💢 ⫸ NL: DOCUMENTAIRE ⫷ 💢 ⫸ NL: KINDEREN⫷ 💢 ⫸ NL: SPORT⫷ 💢 ⫸ IT:ITALIA⫷ 💢 ⫸ IT: CINEMA⫷ 💢 ⫸ IT: SPORT⫷ 💢 ⫸ FR: FRANCE⫷ 💢 ⫸ FR● CINEMA⫷ 💢  ⫸FR: FRANCE DOCU⫸ 💢 ⫸ UK● GENERALE⫷ 💢  ⫸UK: SPORT⫸ 💢 ⫸ BE: BELGİUM ⫷     💢 ⫸ CH: SWITCH⫷ 💢  ⫸SW=SWEDEN⫸ 💢 ⫸USA: CINEMA ⫸ 💢 ⫸ USA: SPORT⫷ 💢  ⫸GR: GNERAL⫸ 💢  ⫸GR: CINEMA⫸ 💢  ⫸GR=SPORT⫸ 💢  ⫸RU: RUSKI⫸ 💢 ⫸ BG● BULGARİ⫷ 💢 ⫸ BG● CİNEMA⫷ 💢 ⫸ BG● CARTON⫷ 💢  ⫸AL: ALBENYA ⫸ 💢  ⫸EXYU=GOOLD ⫸ 💢  ⫸RO= GOLD ⫸ 💢 ⫸ PL● GOLD ⫸ 💢 ⫸ PL● POLSAT SPORT⫷ 💢  ⫸ ARABİ FUUL⫸ 💢  ⫸18=ADULT ( YETISKIN ) ⫸ ✷✷ 📺
+
+========================================

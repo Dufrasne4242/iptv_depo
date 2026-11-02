@@ -1,0 +1,918 @@
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://smarterss.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://smarterss.xyz:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 29 Aralık 2024 22:02
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 30 Aralık 2026 16:10
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ anteplimurat27
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 3e235cf6eaac82a5
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kyiv
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 130.0.234.224
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Green Floid LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 16 Nisan 2026 - 00:05
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8001 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 27450 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 5815 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/get.php?username=anteplimurat27&password=3e235cf6eaac82a5&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/xmltv.php?username=anteplimurat27&password=3e235cf6eaac82a5&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✦ ULUSAL 💢 TR ✦ HEVC 💢 TR ✦ HABERLER 💢 TR ✦ BELGESEL 💢 TR ✦ ÇOCUK 💢 TR ✦ be*IN SPORTS LIVE 💢 TR ✦ SüPERLiG öZET & TEKRAR 💢 TR ✦ SPORT ARENA 💢 TR ✦ S SPORT 💢 TR ✦ TABII SPOR 💢 TR ✦ EXXEN SPORTS 💢 TR ✦ be*IN & SMART MOVIES 💢 TR ✦ DİNİ 💢 TR ✦ YEREL 💢 TR ✦ MÜZİK 💢 TR ✦ 7/24  ANİMASYON 💢 TR ✦ 7/24  BELGESEL 💢 TR ✦ 7/24 CINETURK 💢 TR ✦ 7/24  CINEVERSE 💢 TR ✦ 7/24  CINEMAXIMUM 💢 TR ✦ 7/24  CINEBOXSET 💢 TR ✦ 7/24  CINESTARS 💢 TR ✦ 7/24  YEŞİLÇAM 💢 TR ✦ 7/24  YEŞİLÇAM  DOLBY 💢 TR ✦ 7/24  MARVEL & WESTERN 💢 TR ✦ 7/24  NETFLIX CLUB 💢 TR ✦ 7/24  EXXEN SHOW 💢 TR ✦ 7/24  YERLİ DİZİLER 💢 TR ✦ 7/24  YABANCI DİZİLER 💢 KKTC ✦ KIBRIS 💢 AZ ✦ AZERBAYCAN 💢 DE ✦ DEUTSCHLAND 💢 DE ✦ HEVC 💢 DE ✦ NACHRICHTEN 💢 DE ✦ DOKU 💢 DE ✦ KINDER 💢 DE ✦ REGIONAL 💢 DE ✦ SKY BUNDESLIGA 💢 DE ✦ SKY SPORT ARENA 💢 DE ✦ DAZN SPORT ARENA 💢 DE ✦ SPORT ARENA 💢 DE ✦ MAGENTA SPORT ARENA 💢 DE ✦ DYN SPORT 💢 DE ✦ EUROSPORT EXTRA 💢 DE ✦ RTL+ SPORT ARENA ( EVENT TIME ) 💢 DE ✦ MUSIK 💢 DE ✦ SKY ENTERTAINMENT 💢 DE ✦ 24/7  SKY BOX 💢 DE ✦ 24/7  SKY SELECT 💢 DE ✦ 24/7  KINO DOLBY 💢 DE ✦ 24/7  KINOBOX 💢 DE ✦ 24/7  KINO BOXSET 💢 DE ✦ 24/7  CINESTARS 💢 DE ✦ 24/7  4K ULTRA PREMIERE 💢 DE ✦ 24/7  NETFLIX STORE 💢 DE ✦ 24/7  SERIEN STORE 💢 DE ✦ 24/7  KINDER KINO 💢 DE ✦ 24/7  KINDER STORE 💢 AT ✦ ÖSTERREICH 💢 AT ✦ ÖSTERREICH SPORT ARENA 💢 AT ✦ 24/7 KINDER 💢 EU ✦ F1 FORMULA RACING 💢 EU ✦ WORLD SPORT ARENA 💢 EU ✦ VIAPLAY SPORTS 💢 EU ✦ UFC FIGHT PASS 💢 EU ✦ NBA LEAUGE PASS 💢 EU ✦ NFL GAME PASS 💢 EU ✦ NHL GAME PASS 💢 EU ✦ 7/24   DANCE PARTY 💢 EU ✦ 7/24   CLUBBING MIX 💢 EU ✦ 7/24   DJ PERFORMANCE 💢 EU ✦ 7/24   RELAXING 💢 EU ✦ LIVE CAM 💢 TV ✦ SCREENSAVER 💢 KR ✦ KURDISH 💢 BE ✦ BELGIUM 💢 CH ✦ SWISS 💢 CH ✦ SWISS  SPORT ARENA 💢 CH ✦ SWISS CINEBOX 💢 NL ✦ NETHERLAND 💢 NL ✦ REGIONAAL 💢 NL ✦ SPORT ARENA 💢 NL ✦ DOKUMANTAIRE 💢 NL ✦ BIOSCOOP 💢 NL ✦ KIDS VOOR KINDEREN 💢 NL ✦ MUZIEK 💢 FR ✦ FRANCE 💢 FR ✦ ENFANTS 💢 FR ✦ SPORT ARENA 💢 FR ✦ DAZN SPORT ARENA 💢 FR ✦ CINEMABOX 💢 FR ✦ 24/7  A LA CARTE 💢 FR ✦ DECOUVERTE 💢 FR ✦ MUSIQUE 💢 IT ✦ ITALIA 💢 IT ✦ BAMBINI 💢 IT ✦ SKY SPORT ARENA 💢 IT ✦ DAZN SPORT ARENA 💢 IT ✦ SKY CINEBOX 💢 IT ✦ SKY CALCIO 💢 IT ✦ DOCUMENTAZIONE 💢 IT ✦ SKY PRIMAFILA 💢 UK ✦ ENGLAND 💢 UK ✦ KIDS 💢 UK ✦ SPORT ARENA 💢 UK ✦ CINEBOX 💢 UK ✦ ENTERTAINMENT 💢 UK ✦ DOCUMENTARY 💢 UK ✦ LIVE MUSIC 💢 PL ✦ POLAND 💢 PL ✦ KIDS DLA DZIECI 💢 PL ✦ SPORTY 💢 PL ✦ CINEBOX 💢 PL ✦ 24/7 CINEBOX 💢 PL ✦ DOKUMENTACJA 💢 GR ✦ Ελλάδα / GREECE 💢 GR ✦ Ελλάδα NOVA / COSMOTE κινηματογράφος 💢 GR ✦ Ελλάδα NOVA/ COSMOTE αθλητισμός 💢 GR ✦ 24/7 CINEVERSE 💢 GR ✦ παιδιά 💢 GR ✦ τεκμηρίωση 💢 ALB ✦ BIG BROTHER 💢 ALB ✦ Shqipëri ALBANIA VENDAS 💢 ALB ✦ Shqipëri PËR FËMIJË 💢 ALB ✦ Shqipëri DOKU 💢 ALB ✦ Shqipëri SPORT 💢 ALB ✦ Shqipëri Muzikë / fëmijët 💢 ALB ✦ Shqipëri FILM 💢 ALB ✦ 7/24 PLATFORMA DOLBY FILMA 💢 ALB ✦ 7/24 Serialet TURKE 💢 ALB ✦ 7/24 SERIALE TË HUAJA 💢 SRB ✦ Србија 💢 CR ✦ CROATIA 💢 EXYU ✦ SPORT ARENA 💢 EXYU ✦ BALKAN PINK 💢 EXYU ✦ CINEVERSE 💢 EXYU ✦ 24/7  FILMOVE & SERIJE 💢 EXYU ✦ DOKU 💢 EXYU ✦ KIDS 💢 BIH ✦ BOSNIA HERCEGOVINA 💢 MK ✦ MACEDONIA 💢 HU ✦ HUNGARY 💢 HU ✦ KIDS 💢 HU ✦ SPORT ARENA 💢 HU ✦ CINEBOX 💢 HU ✦ DOCUMENTARY 💢 HU ✦ MUSIK 💢 HU ✦ REGIO 💢 CZ ✦ česká REPUBLIKA 💢 CZ ✦ KIDS 💢 CZ ✦ DOCU 💢 CZ ✦ SPORT ARENA 💢 CZ ✦ CINEBOX 💢 CZ ✦ MUSIC 💢 SWE ✦ SVERIGE UNDERHALLNING 💢 SWE ✦ SVERIGER BARNKANALER 💢 SWE ✦ SVERIGE SPORT ARENA 💢 SWE ✦ SVERIGE BIOKANALER 💢 SWE ✦ SVERIGE DOKUMENTATION 💢 DK ✦ DENMARK 💢 NO ✦ GENERAL 💢 NO ✦ KIDS 💢 NO ✦ SPORTS 💢 NO ✦ ENTERTAINMENT 💢 NO ✦ CINEBOX 💢 NO ✦ DOCUMENTARY 💢 FI ✦ FINNLAND 💢 BG ✦ България BULGARIA 💢 BG ✦ спортен / SPORTEN ARENA 💢 BG ✦ документация / DOKUMENTATSIYA 💢 BG ✦ музика 💢 BG ✦ деца 💢 BG ✦ кино / KINO 💢 RO ✦ România în DIRECT 💢 RO ✦ KIDS & COPII 💢 RO ✦ SPORT ARENA 💢 RO ✦ CINEBOX 💢 RO ✦ DOCUMANTATIE 💢 RO ✦ MUZICA 💢 ES ✦ SPAIN 💢 ES ✦ INFANTIL 💢 ES ✦ DEPORTES ARENA 💢 ES ✦ DAZN SPORT ARENA 💢 ES ✦ CINEBOX 💢 ES ✦ DOCUMENTALES 💢 ES ✦ MUSIC 💢 PT ✦ PORTUGAL 💢 PT ✦ KIDS 💢 PT ✦ SPORT ARENA 💢 PT ✦ ENTERTAINMENT 💢 PT ✦ DOCUMENTARY 💢 RU ✦ Спорт 💢 RU ✦ Развлечения 💢 RU ✦ документальный 💢 RU ✦ Новости 💢 RU ✦ фильм & Серии 💢 RU ✦ Дети 💢 RU ✦ Музыка 💢 UKR ✦UKRAINE 💢 USA ✦ UNITED STATES OF AMERICA 💢 USA ✦ NEWS 💢 USA ✦ DOCUMENTARY 💢 USA ✦ KIDS 💢 USA ✦ SPORT 💢 USA ✦ CINEBOX 💢 USA ✦ MUSIC 💢 AR ✦ KIDS ARABIA 💢 AR ✦ NEWS ARABIA 💢 AR ✦ Be*IN SPORTS 💢 AR ✦ SPORTS 💢 AR ✦ STARZPLAY 💢 AR✦ ALFAJER 💢 AR ✦ AL MAJD 💢 AR ✦ CHRISTIAN 💢 AR ✦ Be*IN ENTERTAINMENT 💢 AR ✦ OSN 💢 AR ✦ MBC+ 💢 AR ✦ ROTANA ART 💢 AR ✦ ISLAMIC ARABIA 💢 AR ✦ SYRIA 💢 AR ✦ TUNUSIA 💢 AR ✦ MOROCCO 💢 AR ✦ MOROCCO TNT 💢 AR ✦ ALGERIA 💢 AR ✦ EGYPT 💢 AR ✦ SAUDI ARABIA 💢 AR ✦ OMAN QATAR 💢 AR ✦ IRAN 💢 AR ✦ LIBYA 💢 AR ✦ IRAQ 💢 AR ✦ DUBAI 💢 AR ✦ LEBENON 💢 AR ✦ KUWAIT YEMEN 💢 AR ✦ SUDAN 💢 AR ✦ PALESTINE 💢 AR ✦ JORDAN 💢 AR ✦ BAHRAIN 💢 IN ✦ INDIA 💢 IL ✦ ISRAEL 💢 AF: AFRİCA ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://smarterss.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://smarterss.xyz:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 25 Ocak 2025 18:19
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 26 Şubat 2031 22:23
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ mr1925
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ d905f53854cb3745
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kyiv
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 130.0.234.224
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Green Floid LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 16 Nisan 2026 - 00:10
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8234 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 35334 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 5899 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/get.php?username=mr1925&password=d905f53854cb3745&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/xmltv.php?username=mr1925&password=d905f53854cb3745&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✦ ULUSAL 💢 TR ✦ HEVC 💢 TR ✦ HABERLER 💢 TR ✦ BELGESEL 💢 TR ✦ ÇOCUK 💢 TR ✦ be*IN SPORTS LIVE 💢 TR ✦ SüPERLiG öZET & TEKRAR 💢 TR ✦ SPORT ARENA 💢 TR ✦ S SPORT 💢 TR ✦ TABII SPOR 💢 TR ✦ EXXEN SPORTS 💢 TR ✦ be*IN & SMART MOVIES 💢 TR ✦ DİNİ 💢 TR ✦ YEREL 💢 TR ✦ MÜZİK 💢 TR ✦ 7/24  ANİMASYON 💢 TR ✦ 7/24  BELGESEL 💢 TR ✦ 7/24 CINETURK 💢 TR ✦ 7/24  CINEVERSE 💢 TR ✦ 7/24  CINEMAXIMUM 💢 TR ✦ 7/24  CINEBOXSET 💢 TR ✦ 7/24  CINESTARS 💢 TR ✦ 7/24  YEŞİLÇAM 💢 TR ✦ 7/24  YEŞİLÇAM  DOLBY 💢 TR ✦ 7/24  MARVEL & WESTERN 💢 TR ✦ 7/24  NETFLIX CLUB 💢 TR ✦ 7/24  EXXEN SHOW 💢 TR ✦ 7/24  YERLİ DİZİLER 💢 TR ✦ 7/24  YABANCI DİZİLER 💢 KKTC ✦ KIBRIS 💢 AZ ✦ AZERBAYCAN 💢 DE ✦ DEUTSCHLAND 💢 DE ✦ HEVC 💢 DE ✦ NACHRICHTEN 💢 DE ✦ DOKU 💢 DE ✦ KINDER 💢 DE ✦ REGIONAL 💢 DE ✦ SKY BUNDESLIGA 💢 DE ✦ SKY SPORT ARENA 💢 DE ✦ DAZN SPORT ARENA 💢 DE ✦ SPORT ARENA 💢 DE ✦ MAGENTA SPORT ARENA 💢 DE ✦ DYN SPORT 💢 DE ✦ EUROSPORT EXTRA 💢 DE ✦ RTL+ SPORT ARENA ( EVENT TIME ) 💢 DE ✦ MUSIK 💢 DE ✦ SKY ENTERTAINMENT 💢 DE ✦ 24/7  SKY BOX 💢 DE ✦ 24/7  SKY SELECT 💢 DE ✦ 24/7  KINO DOLBY 💢 DE ✦ 24/7  KINOBOX 💢 DE ✦ 24/7  KINO BOXSET 💢 DE ✦ 24/7  CINESTARS 💢 DE ✦ 24/7  4K ULTRA PREMIERE 💢 DE ✦ 24/7  NETFLIX STORE 💢 DE ✦ 24/7  SERIEN STORE 💢 DE ✦ 24/7  KINDER KINO 💢 DE ✦ 24/7  KINDER STORE 💢 AT ✦ ÖSTERREICH 💢 AT ✦ ÖSTERREICH SPORT ARENA 💢 AT ✦ 24/7 KINDER 💢 EU ✦ F1 FORMULA RACING 💢 EU ✦ WORLD SPORT ARENA 💢 EU ✦ VIAPLAY SPORTS 💢 EU ✦ UFC FIGHT PASS 💢 EU ✦ NBA LEAUGE PASS 💢 EU ✦ NFL GAME PASS 💢 EU ✦ NHL GAME PASS 💢 EU ✦ 7/24   DANCE PARTY 💢 EU ✦ 7/24   CLUBBING MIX 💢 EU ✦ 7/24   DJ PERFORMANCE 💢 EU ✦ 7/24   RELAXING 💢 EU ✦ LIVE CAM 💢 TV ✦ SCREENSAVER 💢 KR ✦ KURDISH 💢 BE ✦ BELGIUM 💢 CH ✦ SWISS 💢 CH ✦ SWISS  SPORT ARENA 💢 CH ✦ SWISS CINEBOX 💢 NL ✦ NETHERLAND 💢 NL ✦ REGIONAAL 💢 NL ✦ SPORT ARENA 💢 NL ✦ DOKUMANTAIRE 💢 NL ✦ BIOSCOOP 💢 NL ✦ KIDS VOOR KINDEREN 💢 NL ✦ MUZIEK 💢 FR ✦ FRANCE 💢 FR ✦ ENFANTS 💢 FR ✦ SPORT ARENA 💢 FR ✦ DAZN SPORT ARENA 💢 FR ✦ CINEMABOX 💢 FR ✦ 24/7  A LA CARTE 💢 FR ✦ DECOUVERTE 💢 FR ✦ MUSIQUE 💢 IT ✦ ITALIA 💢 IT ✦ BAMBINI 💢 IT ✦ SKY SPORT ARENA 💢 IT ✦ DAZN SPORT ARENA 💢 IT ✦ SKY CINEBOX 💢 IT ✦ SKY CALCIO 💢 IT ✦ DOCUMENTAZIONE 💢 IT ✦ SKY PRIMAFILA 💢 UK ✦ ENGLAND 💢 UK ✦ KIDS 💢 UK ✦ SPORT ARENA 💢 UK ✦ CINEBOX 💢 UK ✦ ENTERTAINMENT 💢 UK ✦ DOCUMENTARY 💢 UK ✦ LIVE MUSIC 💢 PL ✦ POLAND 💢 PL ✦ KIDS DLA DZIECI 💢 PL ✦ SPORTY 💢 PL ✦ CINEBOX 💢 PL ✦ 24/7 CINEBOX 💢 PL ✦ DOKUMENTACJA 💢 GR ✦ Ελλάδα / GREECE 💢 GR ✦ Ελλάδα NOVA / COSMOTE κινηματογράφος 💢 GR ✦ Ελλάδα NOVA/ COSMOTE αθλητισμός 💢 GR ✦ 24/7 CINEVERSE 💢 GR ✦ παιδιά 💢 GR ✦ τεκμηρίωση 💢 ALB ✦ BIG BROTHER 💢 ALB ✦ Shqipëri ALBANIA VENDAS 💢 ALB ✦ Shqipëri PËR FËMIJË 💢 ALB ✦ Shqipëri DOKU 💢 ALB ✦ Shqipëri SPORT 💢 ALB ✦ Shqipëri Muzikë / fëmijët 💢 ALB ✦ Shqipëri FILM 💢 ALB ✦ 7/24 PLATFORMA DOLBY FILMA 💢 ALB ✦ 7/24 Serialet TURKE 💢 ALB ✦ 7/24 SERIALE TË HUAJA 💢 SRB ✦ Србија 💢 CR ✦ CROATIA 💢 EXYU ✦ SPORT ARENA 💢 EXYU ✦ BALKAN PINK 💢 EXYU ✦ CINEVERSE 💢 EXYU ✦ 24/7  FILMOVE & SERIJE 💢 EXYU ✦ DOKU 💢 EXYU ✦ KIDS 💢 BIH ✦ BOSNIA HERCEGOVINA 💢 MK ✦ MACEDONIA 💢 HU ✦ HUNGARY 💢 HU ✦ KIDS 💢 HU ✦ SPORT ARENA 💢 HU ✦ CINEBOX 💢 HU ✦ DOCUMENTARY 💢 HU ✦ MUSIK 💢 HU ✦ REGIO 💢 CZ ✦ česká REPUBLIKA 💢 CZ ✦ KIDS 💢 CZ ✦ DOCU 💢 CZ ✦ SPORT ARENA 💢 CZ ✦ CINEBOX 💢 CZ ✦ MUSIC 💢 SWE ✦ SVERIGE UNDERHALLNING 💢 SWE ✦ SVERIGER BARNKANALER 💢 SWE ✦ SVERIGE SPORT ARENA 💢 SWE ✦ SVERIGE BIOKANALER 💢 SWE ✦ SVERIGE DOKUMENTATION 💢 DK ✦ DENMARK 💢 NO ✦ GENERAL 💢 NO ✦ KIDS 💢 NO ✦ SPORTS 💢 NO ✦ ENTERTAINMENT 💢 NO ✦ CINEBOX 💢 NO ✦ DOCUMENTARY 💢 FI ✦ FINNLAND 💢 BG ✦ България BULGARIA 💢 BG ✦ спортен / SPORTEN ARENA 💢 BG ✦ документация / DOKUMENTATSIYA 💢 BG ✦ музика 💢 BG ✦ деца 💢 BG ✦ кино / KINO 💢 RO ✦ România în DIRECT 💢 RO ✦ KIDS & COPII 💢 RO ✦ SPORT ARENA 💢 RO ✦ CINEBOX 💢 RO ✦ DOCUMANTATIE 💢 RO ✦ MUZICA 💢 ES ✦ SPAIN 💢 ES ✦ INFANTIL 💢 ES ✦ DEPORTES ARENA 💢 ES ✦ DAZN SPORT ARENA 💢 ES ✦ CINEBOX 💢 ES ✦ DOCUMENTALES 💢 ES ✦ MUSIC 💢 PT ✦ PORTUGAL 💢 PT ✦ KIDS 💢 PT ✦ SPORT ARENA 💢 PT ✦ ENTERTAINMENT 💢 PT ✦ DOCUMENTARY 💢 RU ✦ Спорт 💢 RU ✦ Развлечения 💢 RU ✦ документальный 💢 RU ✦ Новости 💢 RU ✦ фильм & Серии 💢 RU ✦ Дети 💢 RU ✦ Музыка 💢 UKR ✦UKRAINE 💢 USA ✦ UNITED STATES OF AMERICA 💢 USA ✦ NEWS 💢 USA ✦ DOCUMENTARY 💢 USA ✦ KIDS 💢 USA ✦ SPORT 💢 USA ✦ CINEBOX 💢 USA ✦ MUSIC 💢 AR ✦ KIDS ARABIA 💢 AR ✦ NEWS ARABIA 💢 AR ✦ Be*IN SPORTS 💢 AR ✦ SPORTS 💢 AR ✦ STARZPLAY 💢 AR✦ ALFAJER 💢 AR ✦ AL MAJD 💢 AR ✦ CHRISTIAN 💢 AR ✦ Be*IN ENTERTAINMENT 💢 AR ✦ OSN 💢 AR ✦ MBC+ 💢 AR ✦ ROTANA ART 💢 AR ✦ ISLAMIC ARABIA 💢 AR ✦ SYRIA 💢 AR ✦ TUNUSIA 💢 AR ✦ MOROCCO 💢 AR ✦ MOROCCO TNT 💢 AR ✦ ALGERIA 💢 AR ✦ EGYPT 💢 AR ✦ SAUDI ARABIA 💢 AR ✦ OMAN QATAR 💢 AR ✦ IRAN 💢 AR ✦ LIBYA 💢 AR ✦ IRAQ 💢 AR ✦ DUBAI 💢 AR ✦ LEBENON 💢 AR ✦ KUWAIT YEMEN 💢 AR ✦ SUDAN 💢 AR ✦ PALESTINE 💢 AR ✦ JORDAN 💢 AR ✦ BAHRAIN 💢 IN ✦ INDIA 💢 AM ✦ ARMENIA 💢 IL ✦ ISRAEL 💢 AF: AFRİCA 💢 XXX  ✦ LIVE ADULT 💢 XXX ✦ DOLBY ADULT ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://smarterss.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://smarterss.xyz:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 12 Şubat 2025 18:00
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 13 Haziran 2026 03:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ yhn1172tv2
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ yhh1306gg00
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kyiv
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 130.0.234.224
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Green Floid LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 16 Nisan 2026 - 00:17
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8022 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 31800 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 5899 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/get.php?username=yhn1172tv2&password=yhh1306gg00&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/xmltv.php?username=yhn1172tv2&password=yhh1306gg00&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✦ ULUSAL 💢 TR ✦ HEVC 💢 TR ✦ HABERLER 💢 TR ✦ BELGESEL 💢 TR ✦ ÇOCUK 💢 TR ✦ be*IN SPORTS LIVE 💢 TR ✦ SüPERLiG öZET & TEKRAR 💢 TR ✦ SPORT ARENA 💢 TR ✦ S SPORT 💢 TR ✦ TABII SPOR 💢 TR ✦ EXXEN SPORTS 💢 TR ✦ be*IN & SMART MOVIES 💢 TR ✦ DİNİ 💢 TR ✦ YEREL 💢 TR ✦ MÜZİK 💢 TR ✦ 7/24  ANİMASYON 💢 TR ✦ 7/24  BELGESEL 💢 TR ✦ 7/24 CINETURK 💢 TR ✦ 7/24  CINEVERSE 💢 TR ✦ 7/24  CINEMAXIMUM 💢 TR ✦ 7/24  CINEBOXSET 💢 TR ✦ 7/24  CINESTARS 💢 TR ✦ 7/24  YEŞİLÇAM 💢 TR ✦ 7/24  YEŞİLÇAM  DOLBY 💢 TR ✦ 7/24  MARVEL & WESTERN 💢 TR ✦ 7/24  NETFLIX CLUB 💢 TR ✦ 7/24  EXXEN SHOW 💢 TR ✦ 7/24  YERLİ DİZİLER 💢 TR ✦ 7/24  YABANCI DİZİLER 💢 KKTC ✦ KIBRIS 💢 AZ ✦ AZERBAYCAN 💢 DE ✦ DEUTSCHLAND 💢 DE ✦ HEVC 💢 DE ✦ NACHRICHTEN 💢 DE ✦ DOKU 💢 DE ✦ KINDER 💢 DE ✦ REGIONAL 💢 DE ✦ SKY BUNDESLIGA 💢 DE ✦ SKY SPORT ARENA 💢 DE ✦ DAZN SPORT ARENA 💢 DE ✦ SPORT ARENA 💢 DE ✦ MAGENTA SPORT ARENA 💢 DE ✦ DYN SPORT 💢 DE ✦ EUROSPORT EXTRA 💢 DE ✦ RTL+ SPORT ARENA ( EVENT TIME ) 💢 DE ✦ MUSIK 💢 DE ✦ SKY ENTERTAINMENT 💢 DE ✦ 24/7  SKY BOX 💢 DE ✦ 24/7  SKY SELECT 💢 DE ✦ 24/7  KINO DOLBY 💢 DE ✦ 24/7  KINOBOX 💢 DE ✦ 24/7  KINO BOXSET 💢 DE ✦ 24/7  CINESTARS 💢 DE ✦ 24/7  4K ULTRA PREMIERE 💢 DE ✦ 24/7  NETFLIX STORE 💢 DE ✦ 24/7  SERIEN STORE 💢 DE ✦ 24/7  KINDER KINO 💢 DE ✦ 24/7  KINDER STORE 💢 AT ✦ ÖSTERREICH 💢 AT ✦ ÖSTERREICH SPORT ARENA 💢 AT ✦ 24/7 KINDER 💢 EU ✦ F1 FORMULA RACING 💢 EU ✦ WORLD SPORT ARENA 💢 EU ✦ VIAPLAY SPORTS 💢 EU ✦ UFC FIGHT PASS 💢 EU ✦ NBA LEAUGE PASS 💢 EU ✦ NFL GAME PASS 💢 EU ✦ NHL GAME PASS 💢 EU ✦ 7/24   DANCE PARTY 💢 EU ✦ 7/24   CLUBBING MIX 💢 EU ✦ 7/24   DJ PERFORMANCE 💢 EU ✦ 7/24   RELAXING 💢 EU ✦ LIVE CAM 💢 TV ✦ SCREENSAVER 💢 KR ✦ KURDISH 💢 BE ✦ BELGIUM 💢 CH ✦ SWISS 💢 CH ✦ SWISS  SPORT ARENA 💢 CH ✦ SWISS CINEBOX 💢 NL ✦ NETHERLAND 💢 NL ✦ REGIONAAL 💢 NL ✦ SPORT ARENA 💢 NL ✦ DOKUMANTAIRE 💢 NL ✦ BIOSCOOP 💢 NL ✦ KIDS VOOR KINDEREN 💢 NL ✦ MUZIEK 💢 FR ✦ FRANCE 💢 FR ✦ ENFANTS 💢 FR ✦ SPORT ARENA 💢 FR ✦ DAZN SPORT ARENA 💢 FR ✦ CINEMABOX 💢 FR ✦ 24/7  A LA CARTE 💢 FR ✦ DECOUVERTE 💢 FR ✦ MUSIQUE 💢 IT ✦ ITALIA 💢 IT ✦ BAMBINI 💢 IT ✦ SKY SPORT ARENA 💢 IT ✦ DAZN SPORT ARENA 💢 IT ✦ SKY CINEBOX 💢 IT ✦ SKY CALCIO 💢 IT ✦ DOCUMENTAZIONE 💢 IT ✦ SKY PRIMAFILA 💢 UK ✦ ENGLAND 💢 UK ✦ KIDS 💢 UK ✦ SPORT ARENA 💢 UK ✦ CINEBOX 💢 UK ✦ ENTERTAINMENT 💢 UK ✦ DOCUMENTARY 💢 UK ✦ LIVE MUSIC 💢 PL ✦ POLAND 💢 PL ✦ KIDS DLA DZIECI 💢 PL ✦ SPORTY 💢 PL ✦ CINEBOX 💢 PL ✦ 24/7 CINEBOX 💢 PL ✦ DOKUMENTACJA 💢 GR ✦ Ελλάδα / GREECE 💢 GR ✦ Ελλάδα NOVA / COSMOTE κινηματογράφος 💢 GR ✦ Ελλάδα NOVA/ COSMOTE αθλητισμός 💢 GR ✦ 24/7 CINEVERSE 💢 GR ✦ παιδιά 💢 GR ✦ τεκμηρίωση 💢 ALB ✦ BIG BROTHER 💢 ALB ✦ Shqipëri ALBANIA VENDAS 💢 ALB ✦ Shqipëri PËR FËMIJË 💢 ALB ✦ Shqipëri DOKU 💢 ALB ✦ Shqipëri SPORT 💢 ALB ✦ Shqipëri Muzikë / fëmijët 💢 ALB ✦ Shqipëri FILM 💢 ALB ✦ 7/24 PLATFORMA DOLBY FILMA 💢 ALB ✦ 7/24 Serialet TURKE 💢 ALB ✦ 7/24 SERIALE TË HUAJA 💢 SRB ✦ Србија 💢 CR ✦ CROATIA 💢 EXYU ✦ SPORT ARENA 💢 EXYU ✦ BALKAN PINK 💢 EXYU ✦ CINEVERSE 💢 EXYU ✦ 24/7  FILMOVE & SERIJE 💢 EXYU ✦ DOKU 💢 EXYU ✦ KIDS 💢 BIH ✦ BOSNIA HERCEGOVINA 💢 MK ✦ MACEDONIA 💢 HU ✦ HUNGARY 💢 HU ✦ KIDS 💢 HU ✦ SPORT ARENA 💢 HU ✦ CINEBOX 💢 HU ✦ DOCUMENTARY 💢 HU ✦ MUSIK 💢 HU ✦ REGIO 💢 CZ ✦ česká REPUBLIKA 💢 CZ ✦ KIDS 💢 CZ ✦ DOCU 💢 CZ ✦ SPORT ARENA 💢 CZ ✦ CINEBOX 💢 CZ ✦ MUSIC 💢 SWE ✦ SVERIGE UNDERHALLNING 💢 SWE ✦ SVERIGER BARNKANALER 💢 SWE ✦ SVERIGE SPORT ARENA 💢 SWE ✦ SVERIGE BIOKANALER 💢 SWE ✦ SVERIGE DOKUMENTATION 💢 DK ✦ DENMARK 💢 NO ✦ GENERAL 💢 NO ✦ KIDS 💢 NO ✦ SPORTS 💢 NO ✦ ENTERTAINMENT 💢 NO ✦ CINEBOX 💢 NO ✦ DOCUMENTARY 💢 FI ✦ FINNLAND 💢 BG ✦ България BULGARIA 💢 BG ✦ спортен / SPORTEN ARENA 💢 BG ✦ документация / DOKUMENTATSIYA 💢 BG ✦ музика 💢 BG ✦ деца 💢 BG ✦ кино / KINO 💢 RO ✦ România în DIRECT 💢 RO ✦ KIDS & COPII 💢 RO ✦ SPORT ARENA 💢 RO ✦ CINEBOX 💢 RO ✦ DOCUMANTATIE 💢 RO ✦ MUZICA 💢 ES ✦ SPAIN 💢 ES ✦ INFANTIL 💢 ES ✦ DEPORTES ARENA 💢 ES ✦ DAZN SPORT ARENA 💢 ES ✦ CINEBOX 💢 ES ✦ DOCUMENTALES 💢 ES ✦ MUSIC 💢 PT ✦ PORTUGAL 💢 PT ✦ KIDS 💢 PT ✦ SPORT ARENA 💢 PT ✦ ENTERTAINMENT 💢 PT ✦ DOCUMENTARY 💢 RU ✦ Спорт 💢 RU ✦ Развлечения 💢 RU ✦ документальный 💢 RU ✦ Новости 💢 RU ✦ фильм & Серии 💢 RU ✦ Дети 💢 RU ✦ Музыка 💢 UKR ✦UKRAINE 💢 USA ✦ UNITED STATES OF AMERICA 💢 USA ✦ NEWS 💢 USA ✦ DOCUMENTARY 💢 USA ✦ KIDS 💢 USA ✦ SPORT 💢 USA ✦ CINEBOX 💢 USA ✦ MUSIC 💢 AR ✦ KIDS ARABIA 💢 AR ✦ NEWS ARABIA 💢 AR ✦ Be*IN SPORTS 💢 AR ✦ SPORTS 💢 AR ✦ STARZPLAY 💢 AR✦ ALFAJER 💢 AR ✦ AL MAJD 💢 AR ✦ CHRISTIAN 💢 AR ✦ Be*IN ENTERTAINMENT 💢 AR ✦ OSN 💢 AR ✦ MBC+ 💢 AR ✦ ROTANA ART 💢 AR ✦ ISLAMIC ARABIA 💢 AR ✦ SYRIA 💢 AR ✦ TUNUSIA 💢 AR ✦ MOROCCO 💢 AR ✦ MOROCCO TNT 💢 AR ✦ ALGERIA 💢 AR ✦ EGYPT 💢 AR ✦ SAUDI ARABIA 💢 AR ✦ OMAN QATAR 💢 AR ✦ IRAN 💢 AR ✦ LIBYA 💢 AR ✦ IRAQ 💢 AR ✦ DUBAI 💢 AR ✦ LEBENON 💢 AR ✦ KUWAIT YEMEN 💢 AR ✦ SUDAN 💢 AR ✦ PALESTINE 💢 AR ✦ JORDAN 💢 AR ✦ BAHRAIN 💢 IN ✦ INDIA 💢 AM ✦ ARMENIA 💢 IL ✦ ISRAEL 💢 AF: AFRİCA ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://smarterss.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://smarterss.xyz:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 15 Kasım 2023 23:04
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 11 Ağustos 2029 23:10
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ slc0182
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ cn.2404
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kyiv
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 130.0.234.224
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Green Floid LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 16 Nisan 2026 - 00:20
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 1756 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 14897 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 3323 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/get.php?username=slc0182&password=cn.2404&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/xmltv.php?username=slc0182&password=cn.2404&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✦ ULUSAL 💢 TR ✦ HEVC 💢 TR ✦ HABERLER 💢 TR ✦ BELGESEL 💢 TR ✦ ÇOCUK 💢 TR ✦ be*IN SPORTS LIVE 💢 TR ✦ SüPERLiG öZET & TEKRAR 💢 TR ✦ SPORT ARENA 💢 TR ✦ S SPORT 💢 TR ✦ TABII SPOR 💢 TR ✦ EXXEN SPORTS 💢 TR ✦ be*IN & SMART MOVIES 💢 TR ✦ DİNİ 💢 TR ✦ YEREL 💢 TR ✦ MÜZİK 💢 TR ✦ 7/24  ANİMASYON 💢 TR ✦ 7/24  BELGESEL 💢 TR ✦ 7/24 CINETURK 💢 TR ✦ 7/24  CINEVERSE 💢 TR ✦ 7/24  CINEMAXIMUM 💢 TR ✦ 7/24  CINEBOXSET 💢 TR ✦ 7/24  CINESTARS 💢 TR ✦ 7/24  YEŞİLÇAM 💢 TR ✦ 7/24  YEŞİLÇAM  DOLBY 💢 TR ✦ 7/24  MARVEL & WESTERN 💢 TR ✦ 7/24  NETFLIX CLUB 💢 TR ✦ 7/24  EXXEN SHOW 💢 TR ✦ 7/24  YERLİ DİZİLER 💢 TR ✦ 7/24  YABANCI DİZİLER 💢 EU ✦ F1 FORMULA RACING 💢 EU ✦ WORLD SPORT ARENA 💢 EU ✦ VIAPLAY SPORTS 💢 EU ✦ UFC FIGHT PASS 💢 EU ✦ NBA LEAUGE PASS 💢 EU ✦ NFL GAME PASS 💢 EU ✦ NHL GAME PASS 💢 EU ✦ 7/24   DANCE PARTY 💢 EU ✦ 7/24   CLUBBING MIX 💢 EU ✦ 7/24   DJ PERFORMANCE 💢 EU ✦ 7/24   RELAXING 💢 EU ✦ LIVE CAM 💢 TV ✦ SCREENSAVER 💢 KR ✦ KURDISH 💢 XXX  ✦ LIVE ADULT 💢 XXX ✦ DOLBY ADULT ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://smarterss.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://smarterss.xyz:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 15 Kasım 2023 23:04
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 19 Aralık 2030 14:20
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ ykt8767
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 5pvEFgCVYMBu
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kyiv
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 130.0.234.224
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Green Floid LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 16 Nisan 2026 - 00:49
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8001 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 27450 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 5815 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/get.php?username=ykt8767&password=5pvEFgCVYMBu&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/xmltv.php?username=ykt8767&password=5pvEFgCVYMBu&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✦ ULUSAL 💢 TR ✦ HEVC 💢 TR ✦ HABERLER 💢 TR ✦ BELGESEL 💢 TR ✦ ÇOCUK 💢 TR ✦ be*IN SPORTS LIVE 💢 TR ✦ SüPERLiG öZET & TEKRAR 💢 TR ✦ SPORT ARENA 💢 TR ✦ S SPORT 💢 TR ✦ TABII SPOR 💢 TR ✦ EXXEN SPORTS 💢 TR ✦ be*IN & SMART MOVIES 💢 TR ✦ DİNİ 💢 TR ✦ YEREL 💢 TR ✦ MÜZİK 💢 TR ✦ 7/24  ANİMASYON 💢 TR ✦ 7/24  BELGESEL 💢 TR ✦ 7/24 CINETURK 💢 TR ✦ 7/24  CINEVERSE 💢 TR ✦ 7/24  CINEMAXIMUM 💢 TR ✦ 7/24  CINEBOXSET 💢 TR ✦ 7/24  CINESTARS 💢 TR ✦ 7/24  YEŞİLÇAM 💢 TR ✦ 7/24  YEŞİLÇAM  DOLBY 💢 TR ✦ 7/24  MARVEL & WESTERN 💢 TR ✦ 7/24  NETFLIX CLUB 💢 TR ✦ 7/24  EXXEN SHOW 💢 TR ✦ 7/24  YERLİ DİZİLER 💢 TR ✦ 7/24  YABANCI DİZİLER 💢 KKTC ✦ KIBRIS 💢 AZ ✦ AZERBAYCAN 💢 DE ✦ DEUTSCHLAND 💢 DE ✦ HEVC 💢 DE ✦ NACHRICHTEN 💢 DE ✦ DOKU 💢 DE ✦ KINDER 💢 DE ✦ REGIONAL 💢 DE ✦ SKY BUNDESLIGA 💢 DE ✦ SKY SPORT ARENA 💢 DE ✦ DAZN SPORT ARENA 💢 DE ✦ SPORT ARENA 💢 DE ✦ MAGENTA SPORT ARENA 💢 DE ✦ DYN SPORT 💢 DE ✦ EUROSPORT EXTRA 💢 DE ✦ RTL+ SPORT ARENA ( EVENT TIME ) 💢 DE ✦ MUSIK 💢 DE ✦ SKY ENTERTAINMENT 💢 DE ✦ 24/7  SKY BOX 💢 DE ✦ 24/7  SKY SELECT 💢 DE ✦ 24/7  KINO DOLBY 💢 DE ✦ 24/7  KINOBOX 💢 DE ✦ 24/7  KINO BOXSET 💢 DE ✦ 24/7  CINESTARS 💢 DE ✦ 24/7  4K ULTRA PREMIERE 💢 DE ✦ 24/7  NETFLIX STORE 💢 DE ✦ 24/7  SERIEN STORE 💢 DE ✦ 24/7  KINDER KINO 💢 DE ✦ 24/7  KINDER STORE 💢 AT ✦ ÖSTERREICH 💢 AT ✦ ÖSTERREICH SPORT ARENA 💢 AT ✦ 24/7 KINDER 💢 EU ✦ F1 FORMULA RACING 💢 EU ✦ WORLD SPORT ARENA 💢 EU ✦ VIAPLAY SPORTS 💢 EU ✦ UFC FIGHT PASS 💢 EU ✦ NBA LEAUGE PASS 💢 EU ✦ NFL GAME PASS 💢 EU ✦ NHL GAME PASS 💢 EU ✦ 7/24   DANCE PARTY 💢 EU ✦ 7/24   CLUBBING MIX 💢 EU ✦ 7/24   DJ PERFORMANCE 💢 EU ✦ 7/24   RELAXING 💢 EU ✦ LIVE CAM 💢 TV ✦ SCREENSAVER 💢 KR ✦ KURDISH 💢 BE ✦ BELGIUM 💢 CH ✦ SWISS 💢 CH ✦ SWISS  SPORT ARENA 💢 CH ✦ SWISS CINEBOX 💢 NL ✦ NETHERLAND 💢 NL ✦ REGIONAAL 💢 NL ✦ SPORT ARENA 💢 NL ✦ DOKUMANTAIRE 💢 NL ✦ BIOSCOOP 💢 NL ✦ KIDS VOOR KINDEREN 💢 NL ✦ MUZIEK 💢 FR ✦ FRANCE 💢 FR ✦ ENFANTS 💢 FR ✦ SPORT ARENA 💢 FR ✦ DAZN SPORT ARENA 💢 FR ✦ CINEMABOX 💢 FR ✦ 24/7  A LA CARTE 💢 FR ✦ DECOUVERTE 💢 FR ✦ MUSIQUE 💢 IT ✦ ITALIA 💢 IT ✦ BAMBINI 💢 IT ✦ SKY SPORT ARENA 💢 IT ✦ DAZN SPORT ARENA 💢 IT ✦ SKY CINEBOX 💢 IT ✦ SKY CALCIO 💢 IT ✦ DOCUMENTAZIONE 💢 IT ✦ SKY PRIMAFILA 💢 UK ✦ ENGLAND 💢 UK ✦ KIDS 💢 UK ✦ SPORT ARENA 💢 UK ✦ CINEBOX 💢 UK ✦ ENTERTAINMENT 💢 UK ✦ DOCUMENTARY 💢 UK ✦ LIVE MUSIC 💢 PL ✦ POLAND 💢 PL ✦ KIDS DLA DZIECI 💢 PL ✦ SPORTY 💢 PL ✦ CINEBOX 💢 PL ✦ 24/7 CINEBOX 💢 PL ✦ DOKUMENTACJA 💢 GR ✦ Ελλάδα / GREECE 💢 GR ✦ Ελλάδα NOVA / COSMOTE κινηματογράφος 💢 GR ✦ Ελλάδα NOVA/ COSMOTE αθλητισμός 💢 GR ✦ 24/7 CINEVERSE 💢 GR ✦ παιδιά 💢 GR ✦ τεκμηρίωση 💢 ALB ✦ BIG BROTHER 💢 ALB ✦ Shqipëri ALBANIA VENDAS 💢 ALB ✦ Shqipëri PËR FËMIJË 💢 ALB ✦ Shqipëri DOKU 💢 ALB ✦ Shqipëri SPORT 💢 ALB ✦ Shqipëri Muzikë / fëmijët 💢 ALB ✦ Shqipëri FILM 💢 ALB ✦ 7/24 PLATFORMA DOLBY FILMA 💢 ALB ✦ 7/24 Serialet TURKE 💢 ALB ✦ 7/24 SERIALE TË HUAJA 💢 SRB ✦ Србија 💢 CR ✦ CROATIA 💢 EXYU ✦ SPORT ARENA 💢 EXYU ✦ BALKAN PINK 💢 EXYU ✦ CINEVERSE 💢 EXYU ✦ 24/7  FILMOVE & SERIJE 💢 EXYU ✦ DOKU 💢 EXYU ✦ KIDS 💢 BIH ✦ BOSNIA HERCEGOVINA 💢 MK ✦ MACEDONIA 💢 HU ✦ HUNGARY 💢 HU ✦ KIDS 💢 HU ✦ SPORT ARENA 💢 HU ✦ CINEBOX 💢 HU ✦ DOCUMENTARY 💢 HU ✦ MUSIK 💢 HU ✦ REGIO 💢 CZ ✦ česká REPUBLIKA 💢 CZ ✦ KIDS 💢 CZ ✦ DOCU 💢 CZ ✦ SPORT ARENA 💢 CZ ✦ CINEBOX 💢 CZ ✦ MUSIC 💢 SWE ✦ SVERIGE UNDERHALLNING 💢 SWE ✦ SVERIGER BARNKANALER 💢 SWE ✦ SVERIGE SPORT ARENA 💢 SWE ✦ SVERIGE BIOKANALER 💢 SWE ✦ SVERIGE DOKUMENTATION 💢 DK ✦ DENMARK 💢 NO ✦ GENERAL 💢 NO ✦ KIDS 💢 NO ✦ SPORTS 💢 NO ✦ ENTERTAINMENT 💢 NO ✦ CINEBOX 💢 NO ✦ DOCUMENTARY 💢 FI ✦ FINNLAND 💢 BG ✦ България BULGARIA 💢 BG ✦ спортен / SPORTEN ARENA 💢 BG ✦ документация / DOKUMENTATSIYA 💢 BG ✦ музика 💢 BG ✦ деца 💢 BG ✦ кино / KINO 💢 RO ✦ România în DIRECT 💢 RO ✦ KIDS & COPII 💢 RO ✦ SPORT ARENA 💢 RO ✦ CINEBOX 💢 RO ✦ DOCUMANTATIE 💢 RO ✦ MUZICA 💢 ES ✦ SPAIN 💢 ES ✦ INFANTIL 💢 ES ✦ DEPORTES ARENA 💢 ES ✦ DAZN SPORT ARENA 💢 ES ✦ CINEBOX 💢 ES ✦ DOCUMENTALES 💢 ES ✦ MUSIC 💢 PT ✦ PORTUGAL 💢 PT ✦ KIDS 💢 PT ✦ SPORT ARENA 💢 PT ✦ ENTERTAINMENT 💢 PT ✦ DOCUMENTARY 💢 RU ✦ Спорт 💢 RU ✦ Развлечения 💢 RU ✦ документальный 💢 RU ✦ Новости 💢 RU ✦ фильм & Серии 💢 RU ✦ Дети 💢 RU ✦ Музыка 💢 UKR ✦UKRAINE 💢 USA ✦ UNITED STATES OF AMERICA 💢 USA ✦ NEWS 💢 USA ✦ DOCUMENTARY 💢 USA ✦ KIDS 💢 USA ✦ SPORT 💢 USA ✦ CINEBOX 💢 USA ✦ MUSIC 💢 AR ✦ KIDS ARABIA 💢 AR ✦ NEWS ARABIA 💢 AR ✦ Be*IN SPORTS 💢 AR ✦ SPORTS 💢 AR ✦ STARZPLAY 💢 AR✦ ALFAJER 💢 AR ✦ AL MAJD 💢 AR ✦ CHRISTIAN 💢 AR ✦ Be*IN ENTERTAINMENT 💢 AR ✦ OSN 💢 AR ✦ MBC+ 💢 AR ✦ ROTANA ART 💢 AR ✦ ISLAMIC ARABIA 💢 AR ✦ SYRIA 💢 AR ✦ TUNUSIA 💢 AR ✦ MOROCCO 💢 AR ✦ MOROCCO TNT 💢 AR ✦ ALGERIA 💢 AR ✦ EGYPT 💢 AR ✦ SAUDI ARABIA 💢 AR ✦ OMAN QATAR 💢 AR ✦ IRAN 💢 AR ✦ LIBYA 💢 AR ✦ IRAQ 💢 AR ✦ DUBAI 💢 AR ✦ LEBENON 💢 AR ✦ KUWAIT YEMEN 💢 AR ✦ SUDAN 💢 AR ✦ PALESTINE 💢 AR ✦ JORDAN 💢 AR ✦ BAHRAIN 💢 IN ✦ INDIA 💢 IL ✦ ISRAEL 💢 AF: AFRİCA ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://smarterss.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://smarterss.xyz:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 22 Kasım 2022 05:33
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 26 Aralık 2026 03:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ ErkanKartepeTv
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ q8eda8q58RcV
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kyiv
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 130.0.234.224
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Green Floid LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 16 Nisan 2026 - 00:50
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2575 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 24426 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 5814 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/get.php?username=ErkanKartepeTv&password=q8eda8q58RcV&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/xmltv.php?username=ErkanKartepeTv&password=q8eda8q58RcV&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✦ ULUSAL 💢 TR ✦ HEVC 💢 TR ✦ HABERLER 💢 TR ✦ BELGESEL 💢 TR ✦ ÇOCUK 💢 TR ✦ be*IN SPORTS LIVE 💢 TR ✦ SüPERLiG öZET & TEKRAR 💢 TR ✦ SPORT ARENA 💢 TR ✦ S SPORT 💢 TR ✦ TABII SPOR 💢 TR ✦ EXXEN SPORTS 💢 TR ✦ be*IN & SMART MOVIES 💢 TR ✦ DİNİ 💢 TR ✦ YEREL 💢 TR ✦ MÜZİK 💢 TR ✦ 7/24  ANİMASYON 💢 TR ✦ 7/24  BELGESEL 💢 TR ✦ 7/24 CINETURK 💢 TR ✦ 7/24  CINEVERSE 💢 TR ✦ 7/24  CINEMAXIMUM 💢 TR ✦ 7/24  CINEBOXSET 💢 TR ✦ 7/24  CINESTARS 💢 TR ✦ 7/24  YEŞİLÇAM 💢 TR ✦ 7/24  YEŞİLÇAM  DOLBY 💢 TR ✦ 7/24  MARVEL & WESTERN 💢 TR ✦ 7/24  NETFLIX CLUB 💢 TR ✦ 7/24  EXXEN SHOW 💢 TR ✦ 7/24  YERLİ DİZİLER 💢 TR ✦ 7/24  YABANCI DİZİLER 💢 DE ✦ DEUTSCHLAND 💢 DE ✦ HEVC 💢 DE ✦ NACHRICHTEN 💢 DE ✦ DOKU 💢 DE ✦ KINDER 💢 DE ✦ REGIONAL 💢 DE ✦ SKY BUNDESLIGA 💢 DE ✦ SKY SPORT ARENA 💢 DE ✦ DAZN SPORT ARENA 💢 DE ✦ SPORT ARENA 💢 DE ✦ MAGENTA SPORT ARENA 💢 DE ✦ DYN SPORT 💢 DE ✦ EUROSPORT EXTRA 💢 DE ✦ RTL+ SPORT ARENA ( EVENT TIME ) 💢 DE ✦ MUSIK 💢 DE ✦ SKY ENTERTAINMENT 💢 DE ✦ 24/7  SKY BOX 💢 DE ✦ 24/7  SKY SELECT 💢 DE ✦ 24/7  KINO DOLBY 💢 DE ✦ 24/7  KINOBOX 💢 DE ✦ 24/7  KINO BOXSET 💢 DE ✦ 24/7  CINESTARS 💢 DE ✦ 24/7  4K ULTRA PREMIERE 💢 DE ✦ 24/7  NETFLIX STORE 💢 DE ✦ 24/7  SERIEN STORE 💢 DE ✦ 24/7  KINDER KINO 💢 DE ✦ 24/7  KINDER STORE 💢 AT ✦ ÖSTERREICH 💢 AT ✦ ÖSTERREICH SPORT ARENA 💢 AT ✦ 24/7 KINDER 💢 EU ✦ VIAPLAY SPORTS 💢 EU ✦ UFC FIGHT PASS 💢 EU ✦ NBA LEAUGE PASS 💢 EU ✦ NFL GAME PASS 💢 EU ✦ NHL GAME PASS 💢 EU ✦ 7/24   DANCE PARTY 💢 EU ✦ 7/24   CLUBBING MIX 💢 EU ✦ 7/24   DJ PERFORMANCE 💢 EU ✦ 7/24   RELAXING 💢 EU ✦ LIVE CAM 💢 TV ✦ SCREENSAVER ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://smarterss.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://smarterss.xyz:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 13 Ağustos 2024 15:07
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 14 Ağustos 2029 15:07
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ mhmt6161
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ fb222fb43f63355b
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kyiv
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 130.0.234.224
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Green Floid LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 16 Nisan 2026 - 01:39
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2669 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 27430 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 5814 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/get.php?username=mhmt6161&password=fb222fb43f63355b&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/xmltv.php?username=mhmt6161&password=fb222fb43f63355b&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✦ ULUSAL 💢 TR ✦ HEVC 💢 TR ✦ HABERLER 💢 TR ✦ BELGESEL 💢 TR ✦ ÇOCUK 💢 TR ✦ be*IN SPORTS LIVE 💢 TR ✦ SüPERLiG öZET & TEKRAR 💢 TR ✦ SPORT ARENA 💢 TR ✦ S SPORT 💢 TR ✦ TABII SPOR 💢 TR ✦ EXXEN SPORTS 💢 TR ✦ be*IN & SMART MOVIES 💢 TR ✦ DİNİ 💢 TR ✦ YEREL 💢 TR ✦ MÜZİK 💢 TR ✦ 7/24  ANİMASYON 💢 TR ✦ 7/24  BELGESEL 💢 TR ✦ 7/24 CINETURK 💢 TR ✦ 7/24  CINEVERSE 💢 TR ✦ 7/24  CINEMAXIMUM 💢 TR ✦ 7/24  CINEBOXSET 💢 TR ✦ 7/24  CINESTARS 💢 TR ✦ 7/24  YEŞİLÇAM 💢 TR ✦ 7/24  YEŞİLÇAM  DOLBY 💢 TR ✦ 7/24  MARVEL & WESTERN 💢 TR ✦ 7/24  NETFLIX CLUB 💢 TR ✦ 7/24  EXXEN SHOW 💢 TR ✦ 7/24  YERLİ DİZİLER 💢 TR ✦ 7/24  YABANCI DİZİLER 💢 KKTC ✦ KIBRIS 💢 DE ✦ DEUTSCHLAND 💢 DE ✦ HEVC 💢 DE ✦ NACHRICHTEN 💢 DE ✦ DOKU 💢 DE ✦ KINDER 💢 DE ✦ REGIONAL 💢 DE ✦ SKY BUNDESLIGA 💢 DE ✦ SKY SPORT ARENA 💢 DE ✦ DAZN SPORT ARENA 💢 DE ✦ SPORT ARENA 💢 DE ✦ MAGENTA SPORT ARENA 💢 DE ✦ DYN SPORT 💢 DE ✦ EUROSPORT EXTRA 💢 DE ✦ RTL+ SPORT ARENA ( EVENT TIME ) 💢 DE ✦ MUSIK 💢 DE ✦ SKY ENTERTAINMENT 💢 DE ✦ 24/7  SKY BOX 💢 DE ✦ 24/7  SKY SELECT 💢 DE ✦ 24/7  KINO DOLBY 💢 DE ✦ 24/7  KINOBOX 💢 DE ✦ 24/7  KINO BOXSET 💢 DE ✦ 24/7  CINESTARS 💢 DE ✦ 24/7  4K ULTRA PREMIERE 💢 DE ✦ 24/7  NETFLIX STORE 💢 DE ✦ 24/7  SERIEN STORE 💢 DE ✦ 24/7  KINDER KINO 💢 DE ✦ 24/7  KINDER STORE 💢 EU ✦ F1 FORMULA RACING 💢 EU ✦ WORLD SPORT ARENA 💢 EU ✦ VIAPLAY SPORTS 💢 EU ✦ UFC FIGHT PASS 💢 EU ✦ NBA LEAUGE PASS 💢 EU ✦ NFL GAME PASS 💢 EU ✦ NHL GAME PASS 💢 EU ✦ 7/24   DANCE PARTY 💢 EU ✦ 7/24   CLUBBING MIX 💢 EU ✦ 7/24   DJ PERFORMANCE 💢 EU ✦ 7/24   RELAXING 💢 XXX  ✦ LIVE ADULT 💢 XXX ✦ DOLBY ADULT ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://smarterss.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://smarterss.xyz:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 12 Şubat 2025 18:01
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 31 Mayıs 2026 14:46
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ mcmcmc7187g
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ mcmc0901yy00
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kyiv
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 130.0.234.224
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Green Floid LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 16 Nisan 2026 - 01:40
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8234 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 35334 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 5899 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/get.php?username=mcmcmc7187g&password=mcmc0901yy00&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/xmltv.php?username=mcmcmc7187g&password=mcmc0901yy00&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✦ ULUSAL 💢 TR ✦ HEVC 💢 TR ✦ HABERLER 💢 TR ✦ BELGESEL 💢 TR ✦ ÇOCUK 💢 TR ✦ be*IN SPORTS LIVE 💢 TR ✦ SüPERLiG öZET & TEKRAR 💢 TR ✦ SPORT ARENA 💢 TR ✦ S SPORT 💢 TR ✦ TABII SPOR 💢 TR ✦ EXXEN SPORTS 💢 TR ✦ be*IN & SMART MOVIES 💢 TR ✦ DİNİ 💢 TR ✦ YEREL 💢 TR ✦ MÜZİK 💢 TR ✦ 7/24  ANİMASYON 💢 TR ✦ 7/24  BELGESEL 💢 TR ✦ 7/24 CINETURK 💢 TR ✦ 7/24  CINEVERSE 💢 TR ✦ 7/24  CINEMAXIMUM 💢 TR ✦ 7/24  CINEBOXSET 💢 TR ✦ 7/24  CINESTARS 💢 TR ✦ 7/24  YEŞİLÇAM 💢 TR ✦ 7/24  YEŞİLÇAM  DOLBY 💢 TR ✦ 7/24  MARVEL & WESTERN 💢 TR ✦ 7/24  NETFLIX CLUB 💢 TR ✦ 7/24  EXXEN SHOW 💢 TR ✦ 7/24  YERLİ DİZİLER 💢 TR ✦ 7/24  YABANCI DİZİLER 💢 KKTC ✦ KIBRIS 💢 AZ ✦ AZERBAYCAN 💢 DE ✦ DEUTSCHLAND 💢 DE ✦ HEVC 💢 DE ✦ NACHRICHTEN 💢 DE ✦ DOKU 💢 DE ✦ KINDER 💢 DE ✦ REGIONAL 💢 DE ✦ SKY BUNDESLIGA 💢 DE ✦ SKY SPORT ARENA 💢 DE ✦ DAZN SPORT ARENA 💢 DE ✦ SPORT ARENA 💢 DE ✦ MAGENTA SPORT ARENA 💢 DE ✦ DYN SPORT 💢 DE ✦ EUROSPORT EXTRA 💢 DE ✦ RTL+ SPORT ARENA ( EVENT TIME ) 💢 DE ✦ MUSIK 💢 DE ✦ SKY ENTERTAINMENT 💢 DE ✦ 24/7  SKY BOX 💢 DE ✦ 24/7  SKY SELECT 💢 DE ✦ 24/7  KINO DOLBY 💢 DE ✦ 24/7  KINOBOX 💢 DE ✦ 24/7  KINO BOXSET 💢 DE ✦ 24/7  CINESTARS 💢 DE ✦ 24/7  4K ULTRA PREMIERE 💢 DE ✦ 24/7  NETFLIX STORE 💢 DE ✦ 24/7  SERIEN STORE 💢 DE ✦ 24/7  KINDER KINO 💢 DE ✦ 24/7  KINDER STORE 💢 AT ✦ ÖSTERREICH 💢 AT ✦ ÖSTERREICH SPORT ARENA 💢 AT ✦ 24/7 KINDER 💢 EU ✦ F1 FORMULA RACING 💢 EU ✦ WORLD SPORT ARENA 💢 EU ✦ VIAPLAY SPORTS 💢 EU ✦ UFC FIGHT PASS 💢 EU ✦ NBA LEAUGE PASS 💢 EU ✦ NFL GAME PASS 💢 EU ✦ NHL GAME PASS 💢 EU ✦ 7/24   DANCE PARTY 💢 EU ✦ 7/24   CLUBBING MIX 💢 EU ✦ 7/24   DJ PERFORMANCE 💢 EU ✦ 7/24   RELAXING 💢 EU ✦ LIVE CAM 💢 TV ✦ SCREENSAVER 💢 KR ✦ KURDISH 💢 BE ✦ BELGIUM 💢 CH ✦ SWISS 💢 CH ✦ SWISS  SPORT ARENA 💢 CH ✦ SWISS CINEBOX 💢 NL ✦ NETHERLAND 💢 NL ✦ REGIONAAL 💢 NL ✦ SPORT ARENA 💢 NL ✦ DOKUMANTAIRE 💢 NL ✦ BIOSCOOP 💢 NL ✦ KIDS VOOR KINDEREN 💢 NL ✦ MUZIEK 💢 FR ✦ FRANCE 💢 FR ✦ ENFANTS 💢 FR ✦ SPORT ARENA 💢 FR ✦ DAZN SPORT ARENA 💢 FR ✦ CINEMABOX 💢 FR ✦ 24/7  A LA CARTE 💢 FR ✦ DECOUVERTE 💢 FR ✦ MUSIQUE 💢 IT ✦ ITALIA 💢 IT ✦ BAMBINI 💢 IT ✦ SKY SPORT ARENA 💢 IT ✦ DAZN SPORT ARENA 💢 IT ✦ SKY CINEBOX 💢 IT ✦ SKY CALCIO 💢 IT ✦ DOCUMENTAZIONE 💢 IT ✦ SKY PRIMAFILA 💢 UK ✦ ENGLAND 💢 UK ✦ KIDS 💢 UK ✦ SPORT ARENA 💢 UK ✦ CINEBOX 💢 UK ✦ ENTERTAINMENT 💢 UK ✦ DOCUMENTARY 💢 UK ✦ LIVE MUSIC 💢 PL ✦ POLAND 💢 PL ✦ KIDS DLA DZIECI 💢 PL ✦ SPORTY 💢 PL ✦ CINEBOX 💢 PL ✦ 24/7 CINEBOX 💢 PL ✦ DOKUMENTACJA 💢 GR ✦ Ελλάδα / GREECE 💢 GR ✦ Ελλάδα NOVA / COSMOTE κινηματογράφος 💢 GR ✦ Ελλάδα NOVA/ COSMOTE αθλητισμός 💢 GR ✦ 24/7 CINEVERSE 💢 GR ✦ παιδιά 💢 GR ✦ τεκμηρίωση 💢 ALB ✦ BIG BROTHER 💢 ALB ✦ Shqipëri ALBANIA VENDAS 💢 ALB ✦ Shqipëri PËR FËMIJË 💢 ALB ✦ Shqipëri DOKU 💢 ALB ✦ Shqipëri SPORT 💢 ALB ✦ Shqipëri Muzikë / fëmijët 💢 ALB ✦ Shqipëri FILM 💢 ALB ✦ 7/24 PLATFORMA DOLBY FILMA 💢 ALB ✦ 7/24 Serialet TURKE 💢 ALB ✦ 7/24 SERIALE TË HUAJA 💢 SRB ✦ Србија 💢 CR ✦ CROATIA 💢 EXYU ✦ SPORT ARENA 💢 EXYU ✦ BALKAN PINK 💢 EXYU ✦ CINEVERSE 💢 EXYU ✦ 24/7  FILMOVE & SERIJE 💢 EXYU ✦ DOKU 💢 EXYU ✦ KIDS 💢 BIH ✦ BOSNIA HERCEGOVINA 💢 MK ✦ MACEDONIA 💢 HU ✦ HUNGARY 💢 HU ✦ KIDS 💢 HU ✦ SPORT ARENA 💢 HU ✦ CINEBOX 💢 HU ✦ DOCUMENTARY 💢 HU ✦ MUSIK 💢 HU ✦ REGIO 💢 CZ ✦ česká REPUBLIKA 💢 CZ ✦ KIDS 💢 CZ ✦ DOCU 💢 CZ ✦ SPORT ARENA 💢 CZ ✦ CINEBOX 💢 CZ ✦ MUSIC 💢 SWE ✦ SVERIGE UNDERHALLNING 💢 SWE ✦ SVERIGER BARNKANALER 💢 SWE ✦ SVERIGE SPORT ARENA 💢 SWE ✦ SVERIGE BIOKANALER 💢 SWE ✦ SVERIGE DOKUMENTATION 💢 DK ✦ DENMARK 💢 NO ✦ GENERAL 💢 NO ✦ KIDS 💢 NO ✦ SPORTS 💢 NO ✦ ENTERTAINMENT 💢 NO ✦ CINEBOX 💢 NO ✦ DOCUMENTARY 💢 FI ✦ FINNLAND 💢 BG ✦ България BULGARIA 💢 BG ✦ спортен / SPORTEN ARENA 💢 BG ✦ документация / DOKUMENTATSIYA 💢 BG ✦ музика 💢 BG ✦ деца 💢 BG ✦ кино / KINO 💢 RO ✦ România în DIRECT 💢 RO ✦ KIDS & COPII 💢 RO ✦ SPORT ARENA 💢 RO ✦ CINEBOX 💢 RO ✦ DOCUMANTATIE 💢 RO ✦ MUZICA 💢 ES ✦ SPAIN 💢 ES ✦ INFANTIL 💢 ES ✦ DEPORTES ARENA 💢 ES ✦ DAZN SPORT ARENA 💢 ES ✦ CINEBOX 💢 ES ✦ DOCUMENTALES 💢 ES ✦ MUSIC 💢 PT ✦ PORTUGAL 💢 PT ✦ KIDS 💢 PT ✦ SPORT ARENA 💢 PT ✦ ENTERTAINMENT 💢 PT ✦ DOCUMENTARY 💢 RU ✦ Спорт 💢 RU ✦ Развлечения 💢 RU ✦ документальный 💢 RU ✦ Новости 💢 RU ✦ фильм & Серии 💢 RU ✦ Дети 💢 RU ✦ Музыка 💢 UKR ✦UKRAINE 💢 USA ✦ UNITED STATES OF AMERICA 💢 USA ✦ NEWS 💢 USA ✦ DOCUMENTARY 💢 USA ✦ KIDS 💢 USA ✦ SPORT 💢 USA ✦ CINEBOX 💢 USA ✦ MUSIC 💢 AR ✦ KIDS ARABIA 💢 AR ✦ NEWS ARABIA 💢 AR ✦ Be*IN SPORTS 💢 AR ✦ SPORTS 💢 AR ✦ STARZPLAY 💢 AR✦ ALFAJER 💢 AR ✦ AL MAJD 💢 AR ✦ CHRISTIAN 💢 AR ✦ Be*IN ENTERTAINMENT 💢 AR ✦ OSN 💢 AR ✦ MBC+ 💢 AR ✦ ROTANA ART 💢 AR ✦ ISLAMIC ARABIA 💢 AR ✦ SYRIA 💢 AR ✦ TUNUSIA 💢 AR ✦ MOROCCO 💢 AR ✦ MOROCCO TNT 💢 AR ✦ ALGERIA 💢 AR ✦ EGYPT 💢 AR ✦ SAUDI ARABIA 💢 AR ✦ OMAN QATAR 💢 AR ✦ IRAN 💢 AR ✦ LIBYA 💢 AR ✦ IRAQ 💢 AR ✦ DUBAI 💢 AR ✦ LEBENON 💢 AR ✦ KUWAIT YEMEN 💢 AR ✦ SUDAN 💢 AR ✦ PALESTINE 💢 AR ✦ JORDAN 💢 AR ✦ BAHRAIN 💢 IN ✦ INDIA 💢 AM ✦ ARMENIA 💢 IL ✦ ISRAEL 💢 AF: AFRİCA 💢 XXX  ✦ LIVE ADULT 💢 XXX ✦ DOLBY ADULT ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://smarterss.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://smarterss.xyz:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 12 Şubat 2025 18:01
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 31 Mayıs 2026 14:51
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ mhmt7697cep
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ mhmt2902yy00
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kyiv
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 130.0.234.224
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Green Floid LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 16 Nisan 2026 - 01:41
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8234 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 35334 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 5899 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/get.php?username=mhmt7697cep&password=mhmt2902yy00&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/xmltv.php?username=mhmt7697cep&password=mhmt2902yy00&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✦ ULUSAL 💢 TR ✦ HEVC 💢 TR ✦ HABERLER 💢 TR ✦ BELGESEL 💢 TR ✦ ÇOCUK 💢 TR ✦ be*IN SPORTS LIVE 💢 TR ✦ SüPERLiG öZET & TEKRAR 💢 TR ✦ SPORT ARENA 💢 TR ✦ S SPORT 💢 TR ✦ TABII SPOR 💢 TR ✦ EXXEN SPORTS 💢 TR ✦ be*IN & SMART MOVIES 💢 TR ✦ DİNİ 💢 TR ✦ YEREL 💢 TR ✦ MÜZİK 💢 TR ✦ 7/24  ANİMASYON 💢 TR ✦ 7/24  BELGESEL 💢 TR ✦ 7/24 CINETURK 💢 TR ✦ 7/24  CINEVERSE 💢 TR ✦ 7/24  CINEMAXIMUM 💢 TR ✦ 7/24  CINEBOXSET 💢 TR ✦ 7/24  CINESTARS 💢 TR ✦ 7/24  YEŞİLÇAM 💢 TR ✦ 7/24  YEŞİLÇAM  DOLBY 💢 TR ✦ 7/24  MARVEL & WESTERN 💢 TR ✦ 7/24  NETFLIX CLUB 💢 TR ✦ 7/24  EXXEN SHOW 💢 TR ✦ 7/24  YERLİ DİZİLER 💢 TR ✦ 7/24  YABANCI DİZİLER 💢 KKTC ✦ KIBRIS 💢 AZ ✦ AZERBAYCAN 💢 DE ✦ DEUTSCHLAND 💢 DE ✦ HEVC 💢 DE ✦ NACHRICHTEN 💢 DE ✦ DOKU 💢 DE ✦ KINDER 💢 DE ✦ REGIONAL 💢 DE ✦ SKY BUNDESLIGA 💢 DE ✦ SKY SPORT ARENA 💢 DE ✦ DAZN SPORT ARENA 💢 DE ✦ SPORT ARENA 💢 DE ✦ MAGENTA SPORT ARENA 💢 DE ✦ DYN SPORT 💢 DE ✦ EUROSPORT EXTRA 💢 DE ✦ RTL+ SPORT ARENA ( EVENT TIME ) 💢 DE ✦ MUSIK 💢 DE ✦ SKY ENTERTAINMENT 💢 DE ✦ 24/7  SKY BOX 💢 DE ✦ 24/7  SKY SELECT 💢 DE ✦ 24/7  KINO DOLBY 💢 DE ✦ 24/7  KINOBOX 💢 DE ✦ 24/7  KINO BOXSET 💢 DE ✦ 24/7  CINESTARS 💢 DE ✦ 24/7  4K ULTRA PREMIERE 💢 DE ✦ 24/7  NETFLIX STORE 💢 DE ✦ 24/7  SERIEN STORE 💢 DE ✦ 24/7  KINDER KINO 💢 DE ✦ 24/7  KINDER STORE 💢 AT ✦ ÖSTERREICH 💢 AT ✦ ÖSTERREICH SPORT ARENA 💢 AT ✦ 24/7 KINDER 💢 EU ✦ F1 FORMULA RACING 💢 EU ✦ WORLD SPORT ARENA 💢 EU ✦ VIAPLAY SPORTS 💢 EU ✦ UFC FIGHT PASS 💢 EU ✦ NBA LEAUGE PASS 💢 EU ✦ NFL GAME PASS 💢 EU ✦ NHL GAME PASS 💢 EU ✦ 7/24   DANCE PARTY 💢 EU ✦ 7/24   CLUBBING MIX 💢 EU ✦ 7/24   DJ PERFORMANCE 💢 EU ✦ 7/24   RELAXING 💢 EU ✦ LIVE CAM 💢 TV ✦ SCREENSAVER 💢 KR ✦ KURDISH 💢 BE ✦ BELGIUM 💢 CH ✦ SWISS 💢 CH ✦ SWISS  SPORT ARENA 💢 CH ✦ SWISS CINEBOX 💢 NL ✦ NETHERLAND 💢 NL ✦ REGIONAAL 💢 NL ✦ SPORT ARENA 💢 NL ✦ DOKUMANTAIRE 💢 NL ✦ BIOSCOOP 💢 NL ✦ KIDS VOOR KINDEREN 💢 NL ✦ MUZIEK 💢 FR ✦ FRANCE 💢 FR ✦ ENFANTS 💢 FR ✦ SPORT ARENA 💢 FR ✦ DAZN SPORT ARENA 💢 FR ✦ CINEMABOX 💢 FR ✦ 24/7  A LA CARTE 💢 FR ✦ DECOUVERTE 💢 FR ✦ MUSIQUE 💢 IT ✦ ITALIA 💢 IT ✦ BAMBINI 💢 IT ✦ SKY SPORT ARENA 💢 IT ✦ DAZN SPORT ARENA 💢 IT ✦ SKY CINEBOX 💢 IT ✦ SKY CALCIO 💢 IT ✦ DOCUMENTAZIONE 💢 IT ✦ SKY PRIMAFILA 💢 UK ✦ ENGLAND 💢 UK ✦ KIDS 💢 UK ✦ SPORT ARENA 💢 UK ✦ CINEBOX 💢 UK ✦ ENTERTAINMENT 💢 UK ✦ DOCUMENTARY 💢 UK ✦ LIVE MUSIC 💢 PL ✦ POLAND 💢 PL ✦ KIDS DLA DZIECI 💢 PL ✦ SPORTY 💢 PL ✦ CINEBOX 💢 PL ✦ 24/7 CINEBOX 💢 PL ✦ DOKUMENTACJA 💢 GR ✦ Ελλάδα / GREECE 💢 GR ✦ Ελλάδα NOVA / COSMOTE κινηματογράφος 💢 GR ✦ Ελλάδα NOVA/ COSMOTE αθλητισμός 💢 GR ✦ 24/7 CINEVERSE 💢 GR ✦ παιδιά 💢 GR ✦ τεκμηρίωση 💢 ALB ✦ BIG BROTHER 💢 ALB ✦ Shqipëri ALBANIA VENDAS 💢 ALB ✦ Shqipëri PËR FËMIJË 💢 ALB ✦ Shqipëri DOKU 💢 ALB ✦ Shqipëri SPORT 💢 ALB ✦ Shqipëri Muzikë / fëmijët 💢 ALB ✦ Shqipëri FILM 💢 ALB ✦ 7/24 PLATFORMA DOLBY FILMA 💢 ALB ✦ 7/24 Serialet TURKE 💢 ALB ✦ 7/24 SERIALE TË HUAJA 💢 SRB ✦ Србија 💢 CR ✦ CROATIA 💢 EXYU ✦ SPORT ARENA 💢 EXYU ✦ BALKAN PINK 💢 EXYU ✦ CINEVERSE 💢 EXYU ✦ 24/7  FILMOVE & SERIJE 💢 EXYU ✦ DOKU 💢 EXYU ✦ KIDS 💢 BIH ✦ BOSNIA HERCEGOVINA 💢 MK ✦ MACEDONIA 💢 HU ✦ HUNGARY 💢 HU ✦ KIDS 💢 HU ✦ SPORT ARENA 💢 HU ✦ CINEBOX 💢 HU ✦ DOCUMENTARY 💢 HU ✦ MUSIK 💢 HU ✦ REGIO 💢 CZ ✦ česká REPUBLIKA 💢 CZ ✦ KIDS 💢 CZ ✦ DOCU 💢 CZ ✦ SPORT ARENA 💢 CZ ✦ CINEBOX 💢 CZ ✦ MUSIC 💢 SWE ✦ SVERIGE UNDERHALLNING 💢 SWE ✦ SVERIGER BARNKANALER 💢 SWE ✦ SVERIGE SPORT ARENA 💢 SWE ✦ SVERIGE BIOKANALER 💢 SWE ✦ SVERIGE DOKUMENTATION 💢 DK ✦ DENMARK 💢 NO ✦ GENERAL 💢 NO ✦ KIDS 💢 NO ✦ SPORTS 💢 NO ✦ ENTERTAINMENT 💢 NO ✦ CINEBOX 💢 NO ✦ DOCUMENTARY 💢 FI ✦ FINNLAND 💢 BG ✦ България BULGARIA 💢 BG ✦ спортен / SPORTEN ARENA 💢 BG ✦ документация / DOKUMENTATSIYA 💢 BG ✦ музика 💢 BG ✦ деца 💢 BG ✦ кино / KINO 💢 RO ✦ România în DIRECT 💢 RO ✦ KIDS & COPII 💢 RO ✦ SPORT ARENA 💢 RO ✦ CINEBOX 💢 RO ✦ DOCUMANTATIE 💢 RO ✦ MUZICA 💢 ES ✦ SPAIN 💢 ES ✦ INFANTIL 💢 ES ✦ DEPORTES ARENA 💢 ES ✦ DAZN SPORT ARENA 💢 ES ✦ CINEBOX 💢 ES ✦ DOCUMENTALES 💢 ES ✦ MUSIC 💢 PT ✦ PORTUGAL 💢 PT ✦ KIDS 💢 PT ✦ SPORT ARENA 💢 PT ✦ ENTERTAINMENT 💢 PT ✦ DOCUMENTARY 💢 RU ✦ Спорт 💢 RU ✦ Развлечения 💢 RU ✦ документальный 💢 RU ✦ Новости 💢 RU ✦ фильм & Серии 💢 RU ✦ Дети 💢 RU ✦ Музыка 💢 UKR ✦UKRAINE 💢 USA ✦ UNITED STATES OF AMERICA 💢 USA ✦ NEWS 💢 USA ✦ DOCUMENTARY 💢 USA ✦ KIDS 💢 USA ✦ SPORT 💢 USA ✦ CINEBOX 💢 USA ✦ MUSIC 💢 AR ✦ KIDS ARABIA 💢 AR ✦ NEWS ARABIA 💢 AR ✦ Be*IN SPORTS 💢 AR ✦ SPORTS 💢 AR ✦ STARZPLAY 💢 AR✦ ALFAJER 💢 AR ✦ AL MAJD 💢 AR ✦ CHRISTIAN 💢 AR ✦ Be*IN ENTERTAINMENT 💢 AR ✦ OSN 💢 AR ✦ MBC+ 💢 AR ✦ ROTANA ART 💢 AR ✦ ISLAMIC ARABIA 💢 AR ✦ SYRIA 💢 AR ✦ TUNUSIA 💢 AR ✦ MOROCCO 💢 AR ✦ MOROCCO TNT 💢 AR ✦ ALGERIA 💢 AR ✦ EGYPT 💢 AR ✦ SAUDI ARABIA 💢 AR ✦ OMAN QATAR 💢 AR ✦ IRAN 💢 AR ✦ LIBYA 💢 AR ✦ IRAQ 💢 AR ✦ DUBAI 💢 AR ✦ LEBENON 💢 AR ✦ KUWAIT YEMEN 💢 AR ✦ SUDAN 💢 AR ✦ PALESTINE 💢 AR ✦ JORDAN 💢 AR ✦ BAHRAIN 💢 IN ✦ INDIA 💢 AM ✦ ARMENIA 💢 IL ✦ ISRAEL 💢 AF: AFRİCA 💢 XXX  ✦ LIVE ADULT 💢 XXX ✦ DOLBY ADULT ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://smarterss.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://smarterss.xyz:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 02 Aralık 2023 14:01
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 04 Aralık 2028 17:05
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ mrngn2466
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ cn.02122023
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kyiv
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 130.0.234.224
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Green Floid LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 16 Nisan 2026 - 02:21
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2669 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 27430 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 5814 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/get.php?username=mrngn2466&password=cn.02122023&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/xmltv.php?username=mrngn2466&password=cn.02122023&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✦ ULUSAL 💢 TR ✦ HEVC 💢 TR ✦ HABERLER 💢 TR ✦ BELGESEL 💢 TR ✦ ÇOCUK 💢 TR ✦ be*IN SPORTS LIVE 💢 TR ✦ SüPERLiG öZET & TEKRAR 💢 TR ✦ SPORT ARENA 💢 TR ✦ S SPORT 💢 TR ✦ TABII SPOR 💢 TR ✦ EXXEN SPORTS 💢 TR ✦ be*IN & SMART MOVIES 💢 TR ✦ DİNİ 💢 TR ✦ YEREL 💢 TR ✦ MÜZİK 💢 TR ✦ 7/24  ANİMASYON 💢 TR ✦ 7/24  BELGESEL 💢 TR ✦ 7/24 CINETURK 💢 TR ✦ 7/24  CINEVERSE 💢 TR ✦ 7/24  CINEMAXIMUM 💢 TR ✦ 7/24  CINEBOXSET 💢 TR ✦ 7/24  CINESTARS 💢 TR ✦ 7/24  YEŞİLÇAM 💢 TR ✦ 7/24  YEŞİLÇAM  DOLBY 💢 TR ✦ 7/24  MARVEL & WESTERN 💢 TR ✦ 7/24  NETFLIX CLUB 💢 TR ✦ 7/24  EXXEN SHOW 💢 TR ✦ 7/24  YERLİ DİZİLER 💢 TR ✦ 7/24  YABANCI DİZİLER 💢 KKTC ✦ KIBRIS 💢 DE ✦ DEUTSCHLAND 💢 DE ✦ HEVC 💢 DE ✦ NACHRICHTEN 💢 DE ✦ DOKU 💢 DE ✦ KINDER 💢 DE ✦ REGIONAL 💢 DE ✦ SKY BUNDESLIGA 💢 DE ✦ SKY SPORT ARENA 💢 DE ✦ DAZN SPORT ARENA 💢 DE ✦ SPORT ARENA 💢 DE ✦ MAGENTA SPORT ARENA 💢 DE ✦ DYN SPORT 💢 DE ✦ EUROSPORT EXTRA 💢 DE ✦ RTL+ SPORT ARENA ( EVENT TIME ) 💢 DE ✦ MUSIK 💢 DE ✦ SKY ENTERTAINMENT 💢 DE ✦ 24/7  SKY BOX 💢 DE ✦ 24/7  SKY SELECT 💢 DE ✦ 24/7  KINO DOLBY 💢 DE ✦ 24/7  KINOBOX 💢 DE ✦ 24/7  KINO BOXSET 💢 DE ✦ 24/7  CINESTARS 💢 DE ✦ 24/7  4K ULTRA PREMIERE 💢 DE ✦ 24/7  NETFLIX STORE 💢 DE ✦ 24/7  SERIEN STORE 💢 DE ✦ 24/7  KINDER KINO 💢 DE ✦ 24/7  KINDER STORE 💢 EU ✦ F1 FORMULA RACING 💢 EU ✦ WORLD SPORT ARENA 💢 EU ✦ VIAPLAY SPORTS 💢 EU ✦ UFC FIGHT PASS 💢 EU ✦ NBA LEAUGE PASS 💢 EU ✦ NFL GAME PASS 💢 EU ✦ NHL GAME PASS 💢 EU ✦ 7/24   DANCE PARTY 💢 EU ✦ 7/24   CLUBBING MIX 💢 EU ✦ 7/24   DJ PERFORMANCE 💢 EU ✦ 7/24   RELAXING 💢 XXX  ✦ LIVE ADULT 💢 XXX ✦ DOLBY ADULT ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://smarterss.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://smarterss.xyz:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 12 Şubat 2025 18:39
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 04 Haziran 2026 11:22
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ frfr6030
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ fr00xx2411
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kyiv
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 130.0.234.224
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Green Floid LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 16 Nisan 2026 - 02:28
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8234 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 42374 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 5899 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/get.php?username=frfr6030&password=fr00xx2411&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/xmltv.php?username=frfr6030&password=fr00xx2411&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✦ ULUSAL 💢 TR ✦ HEVC 💢 TR ✦ HABERLER 💢 TR ✦ BELGESEL 💢 TR ✦ ÇOCUK 💢 TR ✦ be*IN SPORTS LIVE 💢 TR ✦ SüPERLiG öZET & TEKRAR 💢 TR ✦ SPORT ARENA 💢 TR ✦ S SPORT 💢 TR ✦ TABII SPOR 💢 TR ✦ EXXEN SPORTS 💢 TR ✦ be*IN & SMART MOVIES 💢 TR ✦ DİNİ 💢 TR ✦ YEREL 💢 TR ✦ MÜZİK 💢 TR ✦ 7/24  ANİMASYON 💢 TR ✦ 7/24  BELGESEL 💢 TR ✦ 7/24 CINETURK 💢 TR ✦ 7/24  CINEVERSE 💢 TR ✦ 7/24  CINEMAXIMUM 💢 TR ✦ 7/24  CINEBOXSET 💢 TR ✦ 7/24  CINESTARS 💢 TR ✦ 7/24  YEŞİLÇAM 💢 TR ✦ 7/24  YEŞİLÇAM  DOLBY 💢 TR ✦ 7/24  MARVEL & WESTERN 💢 TR ✦ 7/24  NETFLIX CLUB 💢 TR ✦ 7/24  EXXEN SHOW 💢 TR ✦ 7/24  YERLİ DİZİLER 💢 TR ✦ 7/24  YABANCI DİZİLER 💢 KKTC ✦ KIBRIS 💢 AZ ✦ AZERBAYCAN 💢 DE ✦ DEUTSCHLAND 💢 DE ✦ HEVC 💢 DE ✦ NACHRICHTEN 💢 DE ✦ DOKU 💢 DE ✦ KINDER 💢 DE ✦ REGIONAL 💢 DE ✦ SKY BUNDESLIGA 💢 DE ✦ SKY SPORT ARENA 💢 DE ✦ DAZN SPORT ARENA 💢 DE ✦ SPORT ARENA 💢 DE ✦ MAGENTA SPORT ARENA 💢 DE ✦ DYN SPORT 💢 DE ✦ EUROSPORT EXTRA 💢 DE ✦ RTL+ SPORT ARENA ( EVENT TIME ) 💢 DE ✦ MUSIK 💢 DE ✦ SKY ENTERTAINMENT 💢 DE ✦ 24/7  SKY BOX 💢 DE ✦ 24/7  SKY SELECT 💢 DE ✦ 24/7  KINO DOLBY 💢 DE ✦ 24/7  KINOBOX 💢 DE ✦ 24/7  KINO BOXSET 💢 DE ✦ 24/7  CINESTARS 💢 DE ✦ 24/7  4K ULTRA PREMIERE 💢 DE ✦ 24/7  NETFLIX STORE 💢 DE ✦ 24/7  SERIEN STORE 💢 DE ✦ 24/7  KINDER KINO 💢 DE ✦ 24/7  KINDER STORE 💢 AT ✦ ÖSTERREICH 💢 AT ✦ ÖSTERREICH SPORT ARENA 💢 AT ✦ 24/7 KINDER 💢 EU ✦ F1 FORMULA RACING 💢 EU ✦ WORLD SPORT ARENA 💢 EU ✦ VIAPLAY SPORTS 💢 EU ✦ UFC FIGHT PASS 💢 EU ✦ NBA LEAUGE PASS 💢 EU ✦ NFL GAME PASS 💢 EU ✦ NHL GAME PASS 💢 EU ✦ 7/24   DANCE PARTY 💢 EU ✦ 7/24   CLUBBING MIX 💢 EU ✦ 7/24   DJ PERFORMANCE 💢 EU ✦ 7/24   RELAXING 💢 EU ✦ LIVE CAM 💢 TV ✦ SCREENSAVER 💢 KR ✦ KURDISH 💢 BE ✦ BELGIUM 💢 CH ✦ SWISS 💢 CH ✦ SWISS  SPORT ARENA 💢 CH ✦ SWISS CINEBOX 💢 NL ✦ NETHERLAND 💢 NL ✦ REGIONAAL 💢 NL ✦ SPORT ARENA 💢 NL ✦ DOKUMANTAIRE 💢 NL ✦ BIOSCOOP 💢 NL ✦ KIDS VOOR KINDEREN 💢 NL ✦ MUZIEK 💢 FR ✦ FRANCE 💢 FR ✦ ENFANTS 💢 FR ✦ SPORT ARENA 💢 FR ✦ DAZN SPORT ARENA 💢 FR ✦ CINEMABOX 💢 FR ✦ 24/7  A LA CARTE 💢 FR ✦ DECOUVERTE 💢 FR ✦ MUSIQUE 💢 IT ✦ ITALIA 💢 IT ✦ BAMBINI 💢 IT ✦ SKY SPORT ARENA 💢 IT ✦ DAZN SPORT ARENA 💢 IT ✦ SKY CINEBOX 💢 IT ✦ SKY CALCIO 💢 IT ✦ DOCUMENTAZIONE 💢 IT ✦ SKY PRIMAFILA 💢 UK ✦ ENGLAND 💢 UK ✦ KIDS 💢 UK ✦ SPORT ARENA 💢 UK ✦ CINEBOX 💢 UK ✦ ENTERTAINMENT 💢 UK ✦ DOCUMENTARY 💢 UK ✦ LIVE MUSIC 💢 PL ✦ POLAND 💢 PL ✦ KIDS DLA DZIECI 💢 PL ✦ SPORTY 💢 PL ✦ CINEBOX 💢 PL ✦ 24/7 CINEBOX 💢 PL ✦ DOKUMENTACJA 💢 GR ✦ Ελλάδα / GREECE 💢 GR ✦ Ελλάδα NOVA / COSMOTE κινηματογράφος 💢 GR ✦ Ελλάδα NOVA/ COSMOTE αθλητισμός 💢 GR ✦ 24/7 CINEVERSE 💢 GR ✦ παιδιά 💢 GR ✦ τεκμηρίωση 💢 ALB ✦ BIG BROTHER 💢 ALB ✦ Shqipëri ALBANIA VENDAS 💢 ALB ✦ Shqipëri PËR FËMIJË 💢 ALB ✦ Shqipëri DOKU 💢 ALB ✦ Shqipëri SPORT 💢 ALB ✦ Shqipëri Muzikë / fëmijët 💢 ALB ✦ Shqipëri FILM 💢 ALB ✦ 7/24 PLATFORMA DOLBY FILMA 💢 ALB ✦ 7/24 Serialet TURKE 💢 ALB ✦ 7/24 SERIALE TË HUAJA 💢 SRB ✦ Србија 💢 CR ✦ CROATIA 💢 EXYU ✦ SPORT ARENA 💢 EXYU ✦ BALKAN PINK 💢 EXYU ✦ CINEVERSE 💢 EXYU ✦ 24/7  FILMOVE & SERIJE 💢 EXYU ✦ DOKU 💢 EXYU ✦ KIDS 💢 BIH ✦ BOSNIA HERCEGOVINA 💢 MK ✦ MACEDONIA 💢 HU ✦ HUNGARY 💢 HU ✦ KIDS 💢 HU ✦ SPORT ARENA 💢 HU ✦ CINEBOX 💢 HU ✦ DOCUMENTARY 💢 HU ✦ MUSIK 💢 HU ✦ REGIO 💢 CZ ✦ česká REPUBLIKA 💢 CZ ✦ KIDS 💢 CZ ✦ DOCU 💢 CZ ✦ SPORT ARENA 💢 CZ ✦ CINEBOX 💢 CZ ✦ MUSIC 💢 SWE ✦ SVERIGE UNDERHALLNING 💢 SWE ✦ SVERIGER BARNKANALER 💢 SWE ✦ SVERIGE SPORT ARENA 💢 SWE ✦ SVERIGE BIOKANALER 💢 SWE ✦ SVERIGE DOKUMENTATION 💢 DK ✦ DENMARK 💢 NO ✦ GENERAL 💢 NO ✦ KIDS 💢 NO ✦ SPORTS 💢 NO ✦ ENTERTAINMENT 💢 NO ✦ CINEBOX 💢 NO ✦ DOCUMENTARY 💢 FI ✦ FINNLAND 💢 BG ✦ България BULGARIA 💢 BG ✦ спортен / SPORTEN ARENA 💢 BG ✦ документация / DOKUMENTATSIYA 💢 BG ✦ музика 💢 BG ✦ деца 💢 BG ✦ кино / KINO 💢 RO ✦ România în DIRECT 💢 RO ✦ KIDS & COPII 💢 RO ✦ SPORT ARENA 💢 RO ✦ CINEBOX 💢 RO ✦ DOCUMANTATIE 💢 RO ✦ MUZICA 💢 ES ✦ SPAIN 💢 ES ✦ INFANTIL 💢 ES ✦ DEPORTES ARENA 💢 ES ✦ DAZN SPORT ARENA 💢 ES ✦ CINEBOX 💢 ES ✦ DOCUMENTALES 💢 ES ✦ MUSIC 💢 PT ✦ PORTUGAL 💢 PT ✦ KIDS 💢 PT ✦ SPORT ARENA 💢 PT ✦ ENTERTAINMENT 💢 PT ✦ DOCUMENTARY 💢 RU ✦ Спорт 💢 RU ✦ Развлечения 💢 RU ✦ документальный 💢 RU ✦ Новости 💢 RU ✦ фильм & Серии 💢 RU ✦ Дети 💢 RU ✦ Музыка 💢 UKR ✦UKRAINE 💢 USA ✦ UNITED STATES OF AMERICA 💢 USA ✦ NEWS 💢 USA ✦ DOCUMENTARY 💢 USA ✦ KIDS 💢 USA ✦ SPORT 💢 USA ✦ CINEBOX 💢 USA ✦ MUSIC 💢 AR ✦ KIDS ARABIA 💢 AR ✦ NEWS ARABIA 💢 AR ✦ Be*IN SPORTS 💢 AR ✦ SPORTS 💢 AR ✦ STARZPLAY 💢 AR✦ ALFAJER 💢 AR ✦ AL MAJD 💢 AR ✦ CHRISTIAN 💢 AR ✦ Be*IN ENTERTAINMENT 💢 AR ✦ OSN 💢 AR ✦ MBC+ 💢 AR ✦ ROTANA ART 💢 AR ✦ ISLAMIC ARABIA 💢 AR ✦ SYRIA 💢 AR ✦ TUNUSIA 💢 AR ✦ MOROCCO 💢 AR ✦ MOROCCO TNT 💢 AR ✦ ALGERIA 💢 AR ✦ EGYPT 💢 AR ✦ SAUDI ARABIA 💢 AR ✦ OMAN QATAR 💢 AR ✦ IRAN 💢 AR ✦ LIBYA 💢 AR ✦ IRAQ 💢 AR ✦ DUBAI 💢 AR ✦ LEBENON 💢 AR ✦ KUWAIT YEMEN 💢 AR ✦ SUDAN 💢 AR ✦ PALESTINE 💢 AR ✦ JORDAN 💢 AR ✦ BAHRAIN 💢 IN ✦ INDIA 💢 AM ✦ ARMENIA 💢 IL ✦ ISRAEL 💢 AF: AFRİCA 💢 XXX  ✦ LIVE ADULT 💢 XXX ✦ DOLBY ADULT ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://smarterss.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://smarterss.xyz:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 29 Mart 2025 21:26
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 29 Mart 2031 21:26
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ nsby8597
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ fc428a49b43a1c32
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kyiv
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 130.0.234.224
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Green Floid LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 16 Nisan 2026 - 02:30
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8001 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 27450 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 5815 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/get.php?username=nsby8597&password=fc428a49b43a1c32&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/xmltv.php?username=nsby8597&password=fc428a49b43a1c32&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✦ ULUSAL 💢 TR ✦ HEVC 💢 TR ✦ HABERLER 💢 TR ✦ BELGESEL 💢 TR ✦ ÇOCUK 💢 TR ✦ be*IN SPORTS LIVE 💢 TR ✦ SüPERLiG öZET & TEKRAR 💢 TR ✦ SPORT ARENA 💢 TR ✦ S SPORT 💢 TR ✦ TABII SPOR 💢 TR ✦ EXXEN SPORTS 💢 TR ✦ be*IN & SMART MOVIES 💢 TR ✦ DİNİ 💢 TR ✦ YEREL 💢 TR ✦ MÜZİK 💢 TR ✦ 7/24  ANİMASYON 💢 TR ✦ 7/24  BELGESEL 💢 TR ✦ 7/24 CINETURK 💢 TR ✦ 7/24  CINEVERSE 💢 TR ✦ 7/24  CINEMAXIMUM 💢 TR ✦ 7/24  CINEBOXSET 💢 TR ✦ 7/24  CINESTARS 💢 TR ✦ 7/24  YEŞİLÇAM 💢 TR ✦ 7/24  YEŞİLÇAM  DOLBY 💢 TR ✦ 7/24  MARVEL & WESTERN 💢 TR ✦ 7/24  NETFLIX CLUB 💢 TR ✦ 7/24  EXXEN SHOW 💢 TR ✦ 7/24  YERLİ DİZİLER 💢 TR ✦ 7/24  YABANCI DİZİLER 💢 KKTC ✦ KIBRIS 💢 AZ ✦ AZERBAYCAN 💢 DE ✦ DEUTSCHLAND 💢 DE ✦ HEVC 💢 DE ✦ NACHRICHTEN 💢 DE ✦ DOKU 💢 DE ✦ KINDER 💢 DE ✦ REGIONAL 💢 DE ✦ SKY BUNDESLIGA 💢 DE ✦ SKY SPORT ARENA 💢 DE ✦ DAZN SPORT ARENA 💢 DE ✦ SPORT ARENA 💢 DE ✦ MAGENTA SPORT ARENA 💢 DE ✦ DYN SPORT 💢 DE ✦ EUROSPORT EXTRA 💢 DE ✦ RTL+ SPORT ARENA ( EVENT TIME ) 💢 DE ✦ MUSIK 💢 DE ✦ SKY ENTERTAINMENT 💢 DE ✦ 24/7  SKY BOX 💢 DE ✦ 24/7  SKY SELECT 💢 DE ✦ 24/7  KINO DOLBY 💢 DE ✦ 24/7  KINOBOX 💢 DE ✦ 24/7  KINO BOXSET 💢 DE ✦ 24/7  CINESTARS 💢 DE ✦ 24/7  4K ULTRA PREMIERE 💢 DE ✦ 24/7  NETFLIX STORE 💢 DE ✦ 24/7  SERIEN STORE 💢 DE ✦ 24/7  KINDER KINO 💢 DE ✦ 24/7  KINDER STORE 💢 AT ✦ ÖSTERREICH 💢 AT ✦ ÖSTERREICH SPORT ARENA 💢 AT ✦ 24/7 KINDER 💢 EU ✦ F1 FORMULA RACING 💢 EU ✦ WORLD SPORT ARENA 💢 EU ✦ VIAPLAY SPORTS 💢 EU ✦ UFC FIGHT PASS 💢 EU ✦ NBA LEAUGE PASS 💢 EU ✦ NFL GAME PASS 💢 EU ✦ NHL GAME PASS 💢 EU ✦ 7/24   DANCE PARTY 💢 EU ✦ 7/24   CLUBBING MIX 💢 EU ✦ 7/24   DJ PERFORMANCE 💢 EU ✦ 7/24   RELAXING 💢 EU ✦ LIVE CAM 💢 TV ✦ SCREENSAVER 💢 KR ✦ KURDISH 💢 BE ✦ BELGIUM 💢 CH ✦ SWISS 💢 CH ✦ SWISS  SPORT ARENA 💢 CH ✦ SWISS CINEBOX 💢 NL ✦ NETHERLAND 💢 NL ✦ REGIONAAL 💢 NL ✦ SPORT ARENA 💢 NL ✦ DOKUMANTAIRE 💢 NL ✦ BIOSCOOP 💢 NL ✦ KIDS VOOR KINDEREN 💢 NL ✦ MUZIEK 💢 FR ✦ FRANCE 💢 FR ✦ ENFANTS 💢 FR ✦ SPORT ARENA 💢 FR ✦ DAZN SPORT ARENA 💢 FR ✦ CINEMABOX 💢 FR ✦ 24/7  A LA CARTE 💢 FR ✦ DECOUVERTE 💢 FR ✦ MUSIQUE 💢 IT ✦ ITALIA 💢 IT ✦ BAMBINI 💢 IT ✦ SKY SPORT ARENA 💢 IT ✦ DAZN SPORT ARENA 💢 IT ✦ SKY CINEBOX 💢 IT ✦ SKY CALCIO 💢 IT ✦ DOCUMENTAZIONE 💢 IT ✦ SKY PRIMAFILA 💢 UK ✦ ENGLAND 💢 UK ✦ KIDS 💢 UK ✦ SPORT ARENA 💢 UK ✦ CINEBOX 💢 UK ✦ ENTERTAINMENT 💢 UK ✦ DOCUMENTARY 💢 UK ✦ LIVE MUSIC 💢 PL ✦ POLAND 💢 PL ✦ KIDS DLA DZIECI 💢 PL ✦ SPORTY 💢 PL ✦ CINEBOX 💢 PL ✦ 24/7 CINEBOX 💢 PL ✦ DOKUMENTACJA 💢 GR ✦ Ελλάδα / GREECE 💢 GR ✦ Ελλάδα NOVA / COSMOTE κινηματογράφος 💢 GR ✦ Ελλάδα NOVA/ COSMOTE αθλητισμός 💢 GR ✦ 24/7 CINEVERSE 💢 GR ✦ παιδιά 💢 GR ✦ τεκμηρίωση 💢 ALB ✦ BIG BROTHER 💢 ALB ✦ Shqipëri ALBANIA VENDAS 💢 ALB ✦ Shqipëri PËR FËMIJË 💢 ALB ✦ Shqipëri DOKU 💢 ALB ✦ Shqipëri SPORT 💢 ALB ✦ Shqipëri Muzikë / fëmijët 💢 ALB ✦ Shqipëri FILM 💢 ALB ✦ 7/24 PLATFORMA DOLBY FILMA 💢 ALB ✦ 7/24 Serialet TURKE 💢 ALB ✦ 7/24 SERIALE TË HUAJA 💢 SRB ✦ Србија 💢 CR ✦ CROATIA 💢 EXYU ✦ SPORT ARENA 💢 EXYU ✦ BALKAN PINK 💢 EXYU ✦ CINEVERSE 💢 EXYU ✦ 24/7  FILMOVE & SERIJE 💢 EXYU ✦ DOKU 💢 EXYU ✦ KIDS 💢 BIH ✦ BOSNIA HERCEGOVINA 💢 MK ✦ MACEDONIA 💢 HU ✦ HUNGARY 💢 HU ✦ KIDS 💢 HU ✦ SPORT ARENA 💢 HU ✦ CINEBOX 💢 HU ✦ DOCUMENTARY 💢 HU ✦ MUSIK 💢 HU ✦ REGIO 💢 CZ ✦ česká REPUBLIKA 💢 CZ ✦ KIDS 💢 CZ ✦ DOCU 💢 CZ ✦ SPORT ARENA 💢 CZ ✦ CINEBOX 💢 CZ ✦ MUSIC 💢 SWE ✦ SVERIGE UNDERHALLNING 💢 SWE ✦ SVERIGER BARNKANALER 💢 SWE ✦ SVERIGE SPORT ARENA 💢 SWE ✦ SVERIGE BIOKANALER 💢 SWE ✦ SVERIGE DOKUMENTATION 💢 DK ✦ DENMARK 💢 NO ✦ GENERAL 💢 NO ✦ KIDS 💢 NO ✦ SPORTS 💢 NO ✦ ENTERTAINMENT 💢 NO ✦ CINEBOX 💢 NO ✦ DOCUMENTARY 💢 FI ✦ FINNLAND 💢 BG ✦ България BULGARIA 💢 BG ✦ спортен / SPORTEN ARENA 💢 BG ✦ документация / DOKUMENTATSIYA 💢 BG ✦ музика 💢 BG ✦ деца 💢 BG ✦ кино / KINO 💢 RO ✦ România în DIRECT 💢 RO ✦ KIDS & COPII 💢 RO ✦ SPORT ARENA 💢 RO ✦ CINEBOX 💢 RO ✦ DOCUMANTATIE 💢 RO ✦ MUZICA 💢 ES ✦ SPAIN 💢 ES ✦ INFANTIL 💢 ES ✦ DEPORTES ARENA 💢 ES ✦ DAZN SPORT ARENA 💢 ES ✦ CINEBOX 💢 ES ✦ DOCUMENTALES 💢 ES ✦ MUSIC 💢 PT ✦ PORTUGAL 💢 PT ✦ KIDS 💢 PT ✦ SPORT ARENA 💢 PT ✦ ENTERTAINMENT 💢 PT ✦ DOCUMENTARY 💢 RU ✦ Спорт 💢 RU ✦ Развлечения 💢 RU ✦ документальный 💢 RU ✦ Новости 💢 RU ✦ фильм & Серии 💢 RU ✦ Дети 💢 RU ✦ Музыка 💢 UKR ✦UKRAINE 💢 USA ✦ UNITED STATES OF AMERICA 💢 USA ✦ NEWS 💢 USA ✦ DOCUMENTARY 💢 USA ✦ KIDS 💢 USA ✦ SPORT 💢 USA ✦ CINEBOX 💢 USA ✦ MUSIC 💢 AR ✦ KIDS ARABIA 💢 AR ✦ NEWS ARABIA 💢 AR ✦ Be*IN SPORTS 💢 AR ✦ SPORTS 💢 AR ✦ STARZPLAY 💢 AR✦ ALFAJER 💢 AR ✦ AL MAJD 💢 AR ✦ CHRISTIAN 💢 AR ✦ Be*IN ENTERTAINMENT 💢 AR ✦ OSN 💢 AR ✦ MBC+ 💢 AR ✦ ROTANA ART 💢 AR ✦ ISLAMIC ARABIA 💢 AR ✦ SYRIA 💢 AR ✦ TUNUSIA 💢 AR ✦ MOROCCO 💢 AR ✦ MOROCCO TNT 💢 AR ✦ ALGERIA 💢 AR ✦ EGYPT 💢 AR ✦ SAUDI ARABIA 💢 AR ✦ OMAN QATAR 💢 AR ✦ IRAN 💢 AR ✦ LIBYA 💢 AR ✦ IRAQ 💢 AR ✦ DUBAI 💢 AR ✦ LEBENON 💢 AR ✦ KUWAIT YEMEN 💢 AR ✦ SUDAN 💢 AR ✦ PALESTINE 💢 AR ✦ JORDAN 💢 AR ✦ BAHRAIN 💢 IN ✦ INDIA 💢 IL ✦ ISRAEL 💢 AF: AFRİCA ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://smarterss.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://smarterss.xyz:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 30 Mayıs 2023 23:40
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 30 Mayıs 2026 20:40
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ Zekai3709
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ karakaya3709
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kyiv
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 130.0.234.224
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Green Floid LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 16 Nisan 2026 - 03:08
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8018 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 30984 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 5815 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/get.php?username=Zekai3709&password=karakaya3709&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/xmltv.php?username=Zekai3709&password=karakaya3709&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✦ ULUSAL 💢 TR ✦ HEVC 💢 TR ✦ HABERLER 💢 TR ✦ BELGESEL 💢 TR ✦ ÇOCUK 💢 TR ✦ be*IN SPORTS LIVE 💢 TR ✦ SüPERLiG öZET & TEKRAR 💢 TR ✦ SPORT ARENA 💢 TR ✦ S SPORT 💢 TR ✦ TABII SPOR 💢 TR ✦ EXXEN SPORTS 💢 TR ✦ be*IN & SMART MOVIES 💢 TR ✦ DİNİ 💢 TR ✦ YEREL 💢 TR ✦ MÜZİK 💢 TR ✦ 7/24  ANİMASYON 💢 TR ✦ 7/24  BELGESEL 💢 TR ✦ 7/24 CINETURK 💢 TR ✦ 7/24  CINEVERSE 💢 TR ✦ 7/24  CINEMAXIMUM 💢 TR ✦ 7/24  CINEBOXSET 💢 TR ✦ 7/24  CINESTARS 💢 TR ✦ 7/24  YEŞİLÇAM 💢 TR ✦ 7/24  YEŞİLÇAM  DOLBY 💢 TR ✦ 7/24  MARVEL & WESTERN 💢 TR ✦ 7/24  NETFLIX CLUB 💢 TR ✦ 7/24  EXXEN SHOW 💢 TR ✦ 7/24  YERLİ DİZİLER 💢 TR ✦ 7/24  YABANCI DİZİLER 💢 KKTC ✦ KIBRIS 💢 AZ ✦ AZERBAYCAN 💢 DE ✦ DEUTSCHLAND 💢 DE ✦ HEVC 💢 DE ✦ NACHRICHTEN 💢 DE ✦ DOKU 💢 DE ✦ KINDER 💢 DE ✦ REGIONAL 💢 DE ✦ SKY BUNDESLIGA 💢 DE ✦ SKY SPORT ARENA 💢 DE ✦ DAZN SPORT ARENA 💢 DE ✦ SPORT ARENA 💢 DE ✦ MAGENTA SPORT ARENA 💢 DE ✦ DYN SPORT 💢 DE ✦ EUROSPORT EXTRA 💢 DE ✦ RTL+ SPORT ARENA ( EVENT TIME ) 💢 DE ✦ MUSIK 💢 DE ✦ SKY ENTERTAINMENT 💢 DE ✦ 24/7  SKY BOX 💢 DE ✦ 24/7  SKY SELECT 💢 DE ✦ 24/7  KINO DOLBY 💢 DE ✦ 24/7  KINOBOX 💢 DE ✦ 24/7  KINO BOXSET 💢 DE ✦ 24/7  CINESTARS 💢 DE ✦ 24/7  4K ULTRA PREMIERE 💢 DE ✦ 24/7  NETFLIX STORE 💢 DE ✦ 24/7  SERIEN STORE 💢 DE ✦ 24/7  KINDER KINO 💢 DE ✦ 24/7  KINDER STORE 💢 AT ✦ ÖSTERREICH 💢 AT ✦ ÖSTERREICH SPORT ARENA 💢 AT ✦ 24/7 KINDER 💢 EU ✦ F1 FORMULA RACING 💢 EU ✦ WORLD SPORT ARENA 💢 EU ✦ VIAPLAY SPORTS 💢 EU ✦ UFC FIGHT PASS 💢 EU ✦ NBA LEAUGE PASS 💢 EU ✦ NFL GAME PASS 💢 EU ✦ NHL GAME PASS 💢 EU ✦ 7/24   DANCE PARTY 💢 EU ✦ 7/24   CLUBBING MIX 💢 EU ✦ 7/24   DJ PERFORMANCE 💢 EU ✦ 7/24   RELAXING 💢 EU ✦ LIVE CAM 💢 TV ✦ SCREENSAVER 💢 KR ✦ KURDISH 💢 BE ✦ BELGIUM 💢 CH ✦ SWISS 💢 CH ✦ SWISS  SPORT ARENA 💢 CH ✦ SWISS CINEBOX 💢 NL ✦ NETHERLAND 💢 NL ✦ REGIONAAL 💢 NL ✦ SPORT ARENA 💢 NL ✦ DOKUMANTAIRE 💢 NL ✦ BIOSCOOP 💢 NL ✦ KIDS VOOR KINDEREN 💢 NL ✦ MUZIEK 💢 FR ✦ FRANCE 💢 FR ✦ ENFANTS 💢 FR ✦ SPORT ARENA 💢 FR ✦ DAZN SPORT ARENA 💢 FR ✦ CINEMABOX 💢 FR ✦ 24/7  A LA CARTE 💢 FR ✦ DECOUVERTE 💢 FR ✦ MUSIQUE 💢 IT ✦ ITALIA 💢 IT ✦ BAMBINI 💢 IT ✦ SKY SPORT ARENA 💢 IT ✦ DAZN SPORT ARENA 💢 IT ✦ SKY CINEBOX 💢 IT ✦ SKY CALCIO 💢 IT ✦ DOCUMENTAZIONE 💢 IT ✦ SKY PRIMAFILA 💢 UK ✦ ENGLAND 💢 UK ✦ KIDS 💢 UK ✦ SPORT ARENA 💢 UK ✦ CINEBOX 💢 UK ✦ ENTERTAINMENT 💢 UK ✦ DOCUMENTARY 💢 UK ✦ LIVE MUSIC 💢 PL ✦ POLAND 💢 PL ✦ KIDS DLA DZIECI 💢 PL ✦ SPORTY 💢 PL ✦ CINEBOX 💢 PL ✦ 24/7 CINEBOX 💢 PL ✦ DOKUMENTACJA 💢 GR ✦ Ελλάδα / GREECE 💢 GR ✦ Ελλάδα NOVA / COSMOTE κινηματογράφος 💢 GR ✦ Ελλάδα NOVA/ COSMOTE αθλητισμός 💢 GR ✦ 24/7 CINEVERSE 💢 GR ✦ παιδιά 💢 GR ✦ τεκμηρίωση 💢 ALB ✦ BIG BROTHER 💢 ALB ✦ Shqipëri ALBANIA VENDAS 💢 ALB ✦ Shqipëri PËR FËMIJË 💢 ALB ✦ Shqipëri DOKU 💢 ALB ✦ Shqipëri SPORT 💢 ALB ✦ Shqipëri Muzikë / fëmijët 💢 ALB ✦ Shqipëri FILM 💢 ALB ✦ 7/24 PLATFORMA DOLBY FILMA 💢 ALB ✦ 7/24 Serialet TURKE 💢 ALB ✦ 7/24 SERIALE TË HUAJA 💢 SRB ✦ Србија 💢 CR ✦ CROATIA 💢 EXYU ✦ SPORT ARENA 💢 EXYU ✦ BALKAN PINK 💢 EXYU ✦ CINEVERSE 💢 EXYU ✦ 24/7  FILMOVE & SERIJE 💢 EXYU ✦ DOKU 💢 EXYU ✦ KIDS 💢 BIH ✦ BOSNIA HERCEGOVINA 💢 MK ✦ MACEDONIA 💢 HU ✦ HUNGARY 💢 HU ✦ KIDS 💢 HU ✦ SPORT ARENA 💢 HU ✦ CINEBOX 💢 HU ✦ DOCUMENTARY 💢 HU ✦ MUSIK 💢 HU ✦ REGIO 💢 CZ ✦ česká REPUBLIKA 💢 CZ ✦ KIDS 💢 CZ ✦ DOCU 💢 CZ ✦ SPORT ARENA 💢 CZ ✦ CINEBOX 💢 CZ ✦ MUSIC 💢 SWE ✦ SVERIGE UNDERHALLNING 💢 SWE ✦ SVERIGER BARNKANALER 💢 SWE ✦ SVERIGE SPORT ARENA 💢 SWE ✦ SVERIGE BIOKANALER 💢 SWE ✦ SVERIGE DOKUMENTATION 💢 DK ✦ DENMARK 💢 NO ✦ GENERAL 💢 NO ✦ KIDS 💢 NO ✦ SPORTS 💢 NO ✦ ENTERTAINMENT 💢 NO ✦ CINEBOX 💢 NO ✦ DOCUMENTARY 💢 FI ✦ FINNLAND 💢 BG ✦ България BULGARIA 💢 BG ✦ спортен / SPORTEN ARENA 💢 BG ✦ документация / DOKUMENTATSIYA 💢 BG ✦ музика 💢 BG ✦ деца 💢 BG ✦ кино / KINO 💢 RO ✦ România în DIRECT 💢 RO ✦ KIDS & COPII 💢 RO ✦ SPORT ARENA 💢 RO ✦ CINEBOX 💢 RO ✦ DOCUMANTATIE 💢 RO ✦ MUZICA 💢 ES ✦ SPAIN 💢 ES ✦ INFANTIL 💢 ES ✦ DEPORTES ARENA 💢 ES ✦ DAZN SPORT ARENA 💢 ES ✦ CINEBOX 💢 ES ✦ DOCUMENTALES 💢 ES ✦ MUSIC 💢 PT ✦ PORTUGAL 💢 PT ✦ KIDS 💢 PT ✦ SPORT ARENA 💢 PT ✦ ENTERTAINMENT 💢 PT ✦ DOCUMENTARY 💢 RU ✦ Спорт 💢 RU ✦ Развлечения 💢 RU ✦ документальный 💢 RU ✦ Новости 💢 RU ✦ фильм & Серии 💢 RU ✦ Дети 💢 RU ✦ Музыка 💢 UKR ✦UKRAINE 💢 USA ✦ UNITED STATES OF AMERICA 💢 USA ✦ NEWS 💢 USA ✦ DOCUMENTARY 💢 USA ✦ KIDS 💢 USA ✦ SPORT 💢 USA ✦ CINEBOX 💢 USA ✦ MUSIC 💢 AR ✦ KIDS ARABIA 💢 AR ✦ NEWS ARABIA 💢 AR ✦ Be*IN SPORTS 💢 AR ✦ SPORTS 💢 AR ✦ STARZPLAY 💢 AR✦ ALFAJER 💢 AR ✦ AL MAJD 💢 AR ✦ CHRISTIAN 💢 AR ✦ Be*IN ENTERTAINMENT 💢 AR ✦ OSN 💢 AR ✦ MBC+ 💢 AR ✦ ROTANA ART 💢 AR ✦ ISLAMIC ARABIA 💢 AR ✦ SYRIA 💢 AR ✦ TUNUSIA 💢 AR ✦ MOROCCO 💢 AR ✦ MOROCCO TNT 💢 AR ✦ ALGERIA 💢 AR ✦ EGYPT 💢 AR ✦ SAUDI ARABIA 💢 AR ✦ OMAN QATAR 💢 AR ✦ IRAN 💢 AR ✦ LIBYA 💢 AR ✦ IRAQ 💢 AR ✦ DUBAI 💢 AR ✦ LEBENON 💢 AR ✦ KUWAIT YEMEN 💢 AR ✦ SUDAN 💢 AR ✦ PALESTINE 💢 AR ✦ JORDAN 💢 AR ✦ BAHRAIN 💢 IN ✦ INDIA 💢 IL ✦ ISRAEL 💢 XXX  ✦ LIVE ADULT 💢 XXX ✦ DOLBY ADULT ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://smarterss.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://smarterss.xyz:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 17 Eylül 2025 20:28
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 19 Eylül 2026 15:55
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 2dnn1026
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ etrDnncEfx
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kyiv
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 130.0.234.224
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Green Floid LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 16 Nisan 2026 - 03:09
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2669 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 27430 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 5814 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/get.php?username=2dnn1026&password=etrDnncEfx&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/xmltv.php?username=2dnn1026&password=etrDnncEfx&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✦ ULUSAL 💢 TR ✦ HEVC 💢 TR ✦ HABERLER 💢 TR ✦ BELGESEL 💢 TR ✦ ÇOCUK 💢 TR ✦ be*IN SPORTS LIVE 💢 TR ✦ SüPERLiG öZET & TEKRAR 💢 TR ✦ SPORT ARENA 💢 TR ✦ S SPORT 💢 TR ✦ TABII SPOR 💢 TR ✦ EXXEN SPORTS 💢 TR ✦ be*IN & SMART MOVIES 💢 TR ✦ DİNİ 💢 TR ✦ YEREL 💢 TR ✦ MÜZİK 💢 TR ✦ 7/24  ANİMASYON 💢 TR ✦ 7/24  BELGESEL 💢 TR ✦ 7/24 CINETURK 💢 TR ✦ 7/24  CINEVERSE 💢 TR ✦ 7/24  CINEMAXIMUM 💢 TR ✦ 7/24  CINEBOXSET 💢 TR ✦ 7/24  CINESTARS 💢 TR ✦ 7/24  YEŞİLÇAM 💢 TR ✦ 7/24  YEŞİLÇAM  DOLBY 💢 TR ✦ 7/24  MARVEL & WESTERN 💢 TR ✦ 7/24  NETFLIX CLUB 💢 TR ✦ 7/24  EXXEN SHOW 💢 TR ✦ 7/24  YERLİ DİZİLER 💢 TR ✦ 7/24  YABANCI DİZİLER 💢 KKTC ✦ KIBRIS 💢 DE ✦ DEUTSCHLAND 💢 DE ✦ HEVC 💢 DE ✦ NACHRICHTEN 💢 DE ✦ DOKU 💢 DE ✦ KINDER 💢 DE ✦ REGIONAL 💢 DE ✦ SKY BUNDESLIGA 💢 DE ✦ SKY SPORT ARENA 💢 DE ✦ DAZN SPORT ARENA 💢 DE ✦ SPORT ARENA 💢 DE ✦ MAGENTA SPORT ARENA 💢 DE ✦ DYN SPORT 💢 DE ✦ EUROSPORT EXTRA 💢 DE ✦ RTL+ SPORT ARENA ( EVENT TIME ) 💢 DE ✦ MUSIK 💢 DE ✦ SKY ENTERTAINMENT 💢 DE ✦ 24/7  SKY BOX 💢 DE ✦ 24/7  SKY SELECT 💢 DE ✦ 24/7  KINO DOLBY 💢 DE ✦ 24/7  KINOBOX 💢 DE ✦ 24/7  KINO BOXSET 💢 DE ✦ 24/7  CINESTARS 💢 DE ✦ 24/7  4K ULTRA PREMIERE 💢 DE ✦ 24/7  NETFLIX STORE 💢 DE ✦ 24/7  SERIEN STORE 💢 DE ✦ 24/7  KINDER KINO 💢 DE ✦ 24/7  KINDER STORE 💢 EU ✦ F1 FORMULA RACING 💢 EU ✦ WORLD SPORT ARENA 💢 EU ✦ VIAPLAY SPORTS 💢 EU ✦ UFC FIGHT PASS 💢 EU ✦ NBA LEAUGE PASS 💢 EU ✦ NFL GAME PASS 💢 EU ✦ NHL GAME PASS 💢 EU ✦ 7/24   DANCE PARTY 💢 EU ✦ 7/24   CLUBBING MIX 💢 EU ✦ 7/24   DJ PERFORMANCE 💢 EU ✦ 7/24   RELAXING 💢 XXX  ✦ LIVE ADULT 💢 XXX ✦ DOLBY ADULT ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://smarterss.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://smarterss.xyz:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 12 Şubat 2025 18:01
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 26 Eylül 2026 03:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ mhmt7886
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ mh2609dd00
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kyiv
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 130.0.234.224
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Green Floid LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 16 Nisan 2026 - 09:37
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8022 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 31800 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 5900 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/get.php?username=mhmt7886&password=mh2609dd00&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/xmltv.php?username=mhmt7886&password=mh2609dd00&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✦ ULUSAL 💢 TR ✦ HEVC 💢 TR ✦ HABERLER 💢 TR ✦ BELGESEL 💢 TR ✦ ÇOCUK 💢 TR ✦ be*IN SPORTS LIVE 💢 TR ✦ SüPERLiG öZET & TEKRAR 💢 TR ✦ SPORT ARENA 💢 TR ✦ S SPORT 💢 TR ✦ TABII SPOR 💢 TR ✦ EXXEN SPORTS 💢 TR ✦ be*IN & SMART MOVIES 💢 TR ✦ DİNİ 💢 TR ✦ YEREL 💢 TR ✦ MÜZİK 💢 TR ✦ 7/24  ANİMASYON 💢 TR ✦ 7/24  BELGESEL 💢 TR ✦ 7/24 CINETURK 💢 TR ✦ 7/24  CINEVERSE 💢 TR ✦ 7/24  CINEMAXIMUM 💢 TR ✦ 7/24  CINEBOXSET 💢 TR ✦ 7/24  CINESTARS 💢 TR ✦ 7/24  YEŞİLÇAM 💢 TR ✦ 7/24  YEŞİLÇAM  DOLBY 💢 TR ✦ 7/24  MARVEL & WESTERN 💢 TR ✦ 7/24  NETFLIX CLUB 💢 TR ✦ 7/24  EXXEN SHOW 💢 TR ✦ 7/24  YERLİ DİZİLER 💢 TR ✦ 7/24  YABANCI DİZİLER 💢 KKTC ✦ KIBRIS 💢 AZ ✦ AZERBAYCAN 💢 DE ✦ DEUTSCHLAND 💢 DE ✦ HEVC 💢 DE ✦ NACHRICHTEN 💢 DE ✦ DOKU 💢 DE ✦ KINDER 💢 DE ✦ REGIONAL 💢 DE ✦ SKY BUNDESLIGA 💢 DE ✦ SKY SPORT ARENA 💢 DE ✦ DAZN SPORT ARENA 💢 DE ✦ SPORT ARENA 💢 DE ✦ MAGENTA SPORT ARENA 💢 DE ✦ DYN SPORT 💢 DE ✦ EUROSPORT EXTRA 💢 DE ✦ RTL+ SPORT ARENA ( EVENT TIME ) 💢 DE ✦ MUSIK 💢 DE ✦ SKY ENTERTAINMENT 💢 DE ✦ 24/7  SKY BOX 💢 DE ✦ 24/7  SKY SELECT 💢 DE ✦ 24/7  KINO DOLBY 💢 DE ✦ 24/7  KINOBOX 💢 DE ✦ 24/7  KINO BOXSET 💢 DE ✦ 24/7  CINESTARS 💢 DE ✦ 24/7  4K ULTRA PREMIERE 💢 DE ✦ 24/7  NETFLIX STORE 💢 DE ✦ 24/7  SERIEN STORE 💢 DE ✦ 24/7  KINDER KINO 💢 DE ✦ 24/7  KINDER STORE 💢 AT ✦ ÖSTERREICH 💢 AT ✦ ÖSTERREICH SPORT ARENA 💢 AT ✦ 24/7 KINDER 💢 EU ✦ F1 FORMULA RACING 💢 EU ✦ WORLD SPORT ARENA 💢 EU ✦ VIAPLAY SPORTS 💢 EU ✦ UFC FIGHT PASS 💢 EU ✦ NBA LEAUGE PASS 💢 EU ✦ NFL GAME PASS 💢 EU ✦ NHL GAME PASS 💢 EU ✦ 7/24   DANCE PARTY 💢 EU ✦ 7/24   CLUBBING MIX 💢 EU ✦ 7/24   DJ PERFORMANCE 💢 EU ✦ 7/24   RELAXING 💢 EU ✦ LIVE CAM 💢 TV ✦ SCREENSAVER 💢 KR ✦ KURDISH 💢 BE ✦ BELGIUM 💢 CH ✦ SWISS 💢 CH ✦ SWISS  SPORT ARENA 💢 CH ✦ SWISS CINEBOX 💢 NL ✦ NETHERLAND 💢 NL ✦ REGIONAAL 💢 NL ✦ SPORT ARENA 💢 NL ✦ DOKUMANTAIRE 💢 NL ✦ BIOSCOOP 💢 NL ✦ KIDS VOOR KINDEREN 💢 NL ✦ MUZIEK 💢 FR ✦ FRANCE 💢 FR ✦ ENFANTS 💢 FR ✦ SPORT ARENA 💢 FR ✦ DAZN SPORT ARENA 💢 FR ✦ CINEMABOX 💢 FR ✦ 24/7  A LA CARTE 💢 FR ✦ DECOUVERTE 💢 FR ✦ MUSIQUE 💢 IT ✦ ITALIA 💢 IT ✦ BAMBINI 💢 IT ✦ SKY SPORT ARENA 💢 IT ✦ DAZN SPORT ARENA 💢 IT ✦ SKY CINEBOX 💢 IT ✦ SKY CALCIO 💢 IT ✦ DOCUMENTAZIONE 💢 IT ✦ SKY PRIMAFILA 💢 UK ✦ ENGLAND 💢 UK ✦ KIDS 💢 UK ✦ SPORT ARENA 💢 UK ✦ CINEBOX 💢 UK ✦ ENTERTAINMENT 💢 UK ✦ DOCUMENTARY 💢 UK ✦ LIVE MUSIC 💢 PL ✦ POLAND 💢 PL ✦ KIDS DLA DZIECI 💢 PL ✦ SPORTY 💢 PL ✦ CINEBOX 💢 PL ✦ 24/7 CINEBOX 💢 PL ✦ DOKUMENTACJA 💢 GR ✦ Ελλάδα / GREECE 💢 GR ✦ Ελλάδα NOVA / COSMOTE κινηματογράφος 💢 GR ✦ Ελλάδα NOVA/ COSMOTE αθλητισμός 💢 GR ✦ 24/7 CINEVERSE 💢 GR ✦ παιδιά 💢 GR ✦ τεκμηρίωση 💢 ALB ✦ BIG BROTHER 💢 ALB ✦ Shqipëri ALBANIA VENDAS 💢 ALB ✦ Shqipëri PËR FËMIJË 💢 ALB ✦ Shqipëri DOKU 💢 ALB ✦ Shqipëri SPORT 💢 ALB ✦ Shqipëri Muzikë / fëmijët 💢 ALB ✦ Shqipëri FILM 💢 ALB ✦ 7/24 PLATFORMA DOLBY FILMA 💢 ALB ✦ 7/24 Serialet TURKE 💢 ALB ✦ 7/24 SERIALE TË HUAJA 💢 SRB ✦ Србија 💢 CR ✦ CROATIA 💢 EXYU ✦ SPORT ARENA 💢 EXYU ✦ BALKAN PINK 💢 EXYU ✦ CINEVERSE 💢 EXYU ✦ 24/7  FILMOVE & SERIJE 💢 EXYU ✦ DOKU 💢 EXYU ✦ KIDS 💢 BIH ✦ BOSNIA HERCEGOVINA 💢 MK ✦ MACEDONIA 💢 HU ✦ HUNGARY 💢 HU ✦ KIDS 💢 HU ✦ SPORT ARENA 💢 HU ✦ CINEBOX 💢 HU ✦ DOCUMENTARY 💢 HU ✦ MUSIK 💢 HU ✦ REGIO 💢 CZ ✦ česká REPUBLIKA 💢 CZ ✦ KIDS 💢 CZ ✦ DOCU 💢 CZ ✦ SPORT ARENA 💢 CZ ✦ CINEBOX 💢 CZ ✦ MUSIC 💢 SWE ✦ SVERIGE UNDERHALLNING 💢 SWE ✦ SVERIGER BARNKANALER 💢 SWE ✦ SVERIGE SPORT ARENA 💢 SWE ✦ SVERIGE BIOKANALER 💢 SWE ✦ SVERIGE DOKUMENTATION 💢 DK ✦ DENMARK 💢 NO ✦ GENERAL 💢 NO ✦ KIDS 💢 NO ✦ SPORTS 💢 NO ✦ ENTERTAINMENT 💢 NO ✦ CINEBOX 💢 NO ✦ DOCUMENTARY 💢 FI ✦ FINNLAND 💢 BG ✦ България BULGARIA 💢 BG ✦ спортен / SPORTEN ARENA 💢 BG ✦ документация / DOKUMENTATSIYA 💢 BG ✦ музика 💢 BG ✦ деца 💢 BG ✦ кино / KINO 💢 RO ✦ România în DIRECT 💢 RO ✦ KIDS & COPII 💢 RO ✦ SPORT ARENA 💢 RO ✦ CINEBOX 💢 RO ✦ DOCUMANTATIE 💢 RO ✦ MUZICA 💢 ES ✦ SPAIN 💢 ES ✦ INFANTIL 💢 ES ✦ DEPORTES ARENA 💢 ES ✦ DAZN SPORT ARENA 💢 ES ✦ CINEBOX 💢 ES ✦ DOCUMENTALES 💢 ES ✦ MUSIC 💢 PT ✦ PORTUGAL 💢 PT ✦ KIDS 💢 PT ✦ SPORT ARENA 💢 PT ✦ ENTERTAINMENT 💢 PT ✦ DOCUMENTARY 💢 RU ✦ Спорт 💢 RU ✦ Развлечения 💢 RU ✦ документальный 💢 RU ✦ Новости 💢 RU ✦ фильм & Серии 💢 RU ✦ Дети 💢 RU ✦ Музыка 💢 UKR ✦UKRAINE 💢 USA ✦ UNITED STATES OF AMERICA 💢 USA ✦ NEWS 💢 USA ✦ DOCUMENTARY 💢 USA ✦ KIDS 💢 USA ✦ SPORT 💢 USA ✦ CINEBOX 💢 USA ✦ MUSIC 💢 AR ✦ KIDS ARABIA 💢 AR ✦ NEWS ARABIA 💢 AR ✦ Be*IN SPORTS 💢 AR ✦ SPORTS 💢 AR ✦ STARZPLAY 💢 AR✦ ALFAJER 💢 AR ✦ AL MAJD 💢 AR ✦ CHRISTIAN 💢 AR ✦ Be*IN ENTERTAINMENT 💢 AR ✦ OSN 💢 AR ✦ MBC+ 💢 AR ✦ ROTANA ART 💢 AR ✦ ISLAMIC ARABIA 💢 AR ✦ SYRIA 💢 AR ✦ TUNUSIA 💢 AR ✦ MOROCCO 💢 AR ✦ MOROCCO TNT 💢 AR ✦ ALGERIA 💢 AR ✦ EGYPT 💢 AR ✦ SAUDI ARABIA 💢 AR ✦ OMAN QATAR 💢 AR ✦ IRAN 💢 AR ✦ LIBYA 💢 AR ✦ IRAQ 💢 AR ✦ DUBAI 💢 AR ✦ LEBENON 💢 AR ✦ KUWAIT YEMEN 💢 AR ✦ SUDAN 💢 AR ✦ PALESTINE 💢 AR ✦ JORDAN 💢 AR ✦ BAHRAIN 💢 IN ✦ INDIA 💢 AM ✦ ARMENIA 💢 IL ✦ ISRAEL 💢 AF: AFRİCA ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://smarterss.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://smarterss.xyz:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 12 Şubat 2025 18:01
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 12 Haziran 2026 10:15
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ nkkh0969cep2
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ nkk1503ss00
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kyiv
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 130.0.234.224
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Green Floid LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 16 Nisan 2026 - 09:40
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8234 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 35334 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 5900 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/get.php?username=nkkh0969cep2&password=nkk1503ss00&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/xmltv.php?username=nkkh0969cep2&password=nkk1503ss00&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✦ ULUSAL 💢 TR ✦ HEVC 💢 TR ✦ HABERLER 💢 TR ✦ BELGESEL 💢 TR ✦ ÇOCUK 💢 TR ✦ be*IN SPORTS LIVE 💢 TR ✦ SüPERLiG öZET & TEKRAR 💢 TR ✦ SPORT ARENA 💢 TR ✦ S SPORT 💢 TR ✦ TABII SPOR 💢 TR ✦ EXXEN SPORTS 💢 TR ✦ be*IN & SMART MOVIES 💢 TR ✦ DİNİ 💢 TR ✦ YEREL 💢 TR ✦ MÜZİK 💢 TR ✦ 7/24  ANİMASYON 💢 TR ✦ 7/24  BELGESEL 💢 TR ✦ 7/24 CINETURK 💢 TR ✦ 7/24  CINEVERSE 💢 TR ✦ 7/24  CINEMAXIMUM 💢 TR ✦ 7/24  CINEBOXSET 💢 TR ✦ 7/24  CINESTARS 💢 TR ✦ 7/24  YEŞİLÇAM 💢 TR ✦ 7/24  YEŞİLÇAM  DOLBY 💢 TR ✦ 7/24  MARVEL & WESTERN 💢 TR ✦ 7/24  NETFLIX CLUB 💢 TR ✦ 7/24  EXXEN SHOW 💢 TR ✦ 7/24  YERLİ DİZİLER 💢 TR ✦ 7/24  YABANCI DİZİLER 💢 KKTC ✦ KIBRIS 💢 AZ ✦ AZERBAYCAN 💢 DE ✦ DEUTSCHLAND 💢 DE ✦ HEVC 💢 DE ✦ NACHRICHTEN 💢 DE ✦ DOKU 💢 DE ✦ KINDER 💢 DE ✦ REGIONAL 💢 DE ✦ SKY BUNDESLIGA 💢 DE ✦ SKY SPORT ARENA 💢 DE ✦ DAZN SPORT ARENA 💢 DE ✦ SPORT ARENA 💢 DE ✦ MAGENTA SPORT ARENA 💢 DE ✦ DYN SPORT 💢 DE ✦ EUROSPORT EXTRA 💢 DE ✦ RTL+ SPORT ARENA ( EVENT TIME ) 💢 DE ✦ MUSIK 💢 DE ✦ SKY ENTERTAINMENT 💢 DE ✦ 24/7  SKY BOX 💢 DE ✦ 24/7  SKY SELECT 💢 DE ✦ 24/7  KINO DOLBY 💢 DE ✦ 24/7  KINOBOX 💢 DE ✦ 24/7  KINO BOXSET 💢 DE ✦ 24/7  CINESTARS 💢 DE ✦ 24/7  4K ULTRA PREMIERE 💢 DE ✦ 24/7  NETFLIX STORE 💢 DE ✦ 24/7  SERIEN STORE 💢 DE ✦ 24/7  KINDER KINO 💢 DE ✦ 24/7  KINDER STORE 💢 AT ✦ ÖSTERREICH 💢 AT ✦ ÖSTERREICH SPORT ARENA 💢 AT ✦ 24/7 KINDER 💢 EU ✦ F1 FORMULA RACING 💢 EU ✦ WORLD SPORT ARENA 💢 EU ✦ VIAPLAY SPORTS 💢 EU ✦ UFC FIGHT PASS 💢 EU ✦ NBA LEAUGE PASS 💢 EU ✦ NFL GAME PASS 💢 EU ✦ NHL GAME PASS 💢 EU ✦ 7/24   DANCE PARTY 💢 EU ✦ 7/24   CLUBBING MIX 💢 EU ✦ 7/24   DJ PERFORMANCE 💢 EU ✦ 7/24   RELAXING 💢 EU ✦ LIVE CAM 💢 TV ✦ SCREENSAVER 💢 KR ✦ KURDISH 💢 BE ✦ BELGIUM 💢 CH ✦ SWISS 💢 CH ✦ SWISS  SPORT ARENA 💢 CH ✦ SWISS CINEBOX 💢 NL ✦ NETHERLAND 💢 NL ✦ REGIONAAL 💢 NL ✦ SPORT ARENA 💢 NL ✦ DOKUMANTAIRE 💢 NL ✦ BIOSCOOP 💢 NL ✦ KIDS VOOR KINDEREN 💢 NL ✦ MUZIEK 💢 FR ✦ FRANCE 💢 FR ✦ ENFANTS 💢 FR ✦ SPORT ARENA 💢 FR ✦ DAZN SPORT ARENA 💢 FR ✦ CINEMABOX 💢 FR ✦ 24/7  A LA CARTE 💢 FR ✦ DECOUVERTE 💢 FR ✦ MUSIQUE 💢 IT ✦ ITALIA 💢 IT ✦ BAMBINI 💢 IT ✦ SKY SPORT ARENA 💢 IT ✦ DAZN SPORT ARENA 💢 IT ✦ SKY CINEBOX 💢 IT ✦ SKY CALCIO 💢 IT ✦ DOCUMENTAZIONE 💢 IT ✦ SKY PRIMAFILA 💢 UK ✦ ENGLAND 💢 UK ✦ KIDS 💢 UK ✦ SPORT ARENA 💢 UK ✦ CINEBOX 💢 UK ✦ ENTERTAINMENT 💢 UK ✦ DOCUMENTARY 💢 UK ✦ LIVE MUSIC 💢 PL ✦ POLAND 💢 PL ✦ KIDS DLA DZIECI 💢 PL ✦ SPORTY 💢 PL ✦ CINEBOX 💢 PL ✦ 24/7 CINEBOX 💢 PL ✦ DOKUMENTACJA 💢 GR ✦ Ελλάδα / GREECE 💢 GR ✦ Ελλάδα NOVA / COSMOTE κινηματογράφος 💢 GR ✦ Ελλάδα NOVA/ COSMOTE αθλητισμός 💢 GR ✦ 24/7 CINEVERSE 💢 GR ✦ παιδιά 💢 GR ✦ τεκμηρίωση 💢 ALB ✦ BIG BROTHER 💢 ALB ✦ Shqipëri ALBANIA VENDAS 💢 ALB ✦ Shqipëri PËR FËMIJË 💢 ALB ✦ Shqipëri DOKU 💢 ALB ✦ Shqipëri SPORT 💢 ALB ✦ Shqipëri Muzikë / fëmijët 💢 ALB ✦ Shqipëri FILM 💢 ALB ✦ 7/24 PLATFORMA DOLBY FILMA 💢 ALB ✦ 7/24 Serialet TURKE 💢 ALB ✦ 7/24 SERIALE TË HUAJA 💢 SRB ✦ Србија 💢 CR ✦ CROATIA 💢 EXYU ✦ SPORT ARENA 💢 EXYU ✦ BALKAN PINK 💢 EXYU ✦ CINEVERSE 💢 EXYU ✦ 24/7  FILMOVE & SERIJE 💢 EXYU ✦ DOKU 💢 EXYU ✦ KIDS 💢 BIH ✦ BOSNIA HERCEGOVINA 💢 MK ✦ MACEDONIA 💢 HU ✦ HUNGARY 💢 HU ✦ KIDS 💢 HU ✦ SPORT ARENA 💢 HU ✦ CINEBOX 💢 HU ✦ DOCUMENTARY 💢 HU ✦ MUSIK 💢 HU ✦ REGIO 💢 CZ ✦ česká REPUBLIKA 💢 CZ ✦ KIDS 💢 CZ ✦ DOCU 💢 CZ ✦ SPORT ARENA 💢 CZ ✦ CINEBOX 💢 CZ ✦ MUSIC 💢 SWE ✦ SVERIGE UNDERHALLNING 💢 SWE ✦ SVERIGER BARNKANALER 💢 SWE ✦ SVERIGE SPORT ARENA 💢 SWE ✦ SVERIGE BIOKANALER 💢 SWE ✦ SVERIGE DOKUMENTATION 💢 DK ✦ DENMARK 💢 NO ✦ GENERAL 💢 NO ✦ KIDS 💢 NO ✦ SPORTS 💢 NO ✦ ENTERTAINMENT 💢 NO ✦ CINEBOX 💢 NO ✦ DOCUMENTARY 💢 FI ✦ FINNLAND 💢 BG ✦ България BULGARIA 💢 BG ✦ спортен / SPORTEN ARENA 💢 BG ✦ документация / DOKUMENTATSIYA 💢 BG ✦ музика 💢 BG ✦ деца 💢 BG ✦ кино / KINO 💢 RO ✦ România în DIRECT 💢 RO ✦ KIDS & COPII 💢 RO ✦ SPORT ARENA 💢 RO ✦ CINEBOX 💢 RO ✦ DOCUMANTATIE 💢 RO ✦ MUZICA 💢 ES ✦ SPAIN 💢 ES ✦ INFANTIL 💢 ES ✦ DEPORTES ARENA 💢 ES ✦ DAZN SPORT ARENA 💢 ES ✦ CINEBOX 💢 ES ✦ DOCUMENTALES 💢 ES ✦ MUSIC 💢 PT ✦ PORTUGAL 💢 PT ✦ KIDS 💢 PT ✦ SPORT ARENA 💢 PT ✦ ENTERTAINMENT 💢 PT ✦ DOCUMENTARY 💢 RU ✦ Спорт 💢 RU ✦ Развлечения 💢 RU ✦ документальный 💢 RU ✦ Новости 💢 RU ✦ фильм & Серии 💢 RU ✦ Дети 💢 RU ✦ Музыка 💢 UKR ✦UKRAINE 💢 USA ✦ UNITED STATES OF AMERICA 💢 USA ✦ NEWS 💢 USA ✦ DOCUMENTARY 💢 USA ✦ KIDS 💢 USA ✦ SPORT 💢 USA ✦ CINEBOX 💢 USA ✦ MUSIC 💢 AR ✦ KIDS ARABIA 💢 AR ✦ NEWS ARABIA 💢 AR ✦ Be*IN SPORTS 💢 AR ✦ SPORTS 💢 AR ✦ STARZPLAY 💢 AR✦ ALFAJER 💢 AR ✦ AL MAJD 💢 AR ✦ CHRISTIAN 💢 AR ✦ Be*IN ENTERTAINMENT 💢 AR ✦ OSN 💢 AR ✦ MBC+ 💢 AR ✦ ROTANA ART 💢 AR ✦ ISLAMIC ARABIA 💢 AR ✦ SYRIA 💢 AR ✦ TUNUSIA 💢 AR ✦ MOROCCO 💢 AR ✦ MOROCCO TNT 💢 AR ✦ ALGERIA 💢 AR ✦ EGYPT 💢 AR ✦ SAUDI ARABIA 💢 AR ✦ OMAN QATAR 💢 AR ✦ IRAN 💢 AR ✦ LIBYA 💢 AR ✦ IRAQ 💢 AR ✦ DUBAI 💢 AR ✦ LEBENON 💢 AR ✦ KUWAIT YEMEN 💢 AR ✦ SUDAN 💢 AR ✦ PALESTINE 💢 AR ✦ JORDAN 💢 AR ✦ BAHRAIN 💢 IN ✦ INDIA 💢 AM ✦ ARMENIA 💢 IL ✦ ISRAEL 💢 AF: AFRİCA 💢 XXX  ✦ LIVE ADULT 💢 XXX ✦ DOLBY ADULT ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://smarterss.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://smarterss.xyz:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 12 Şubat 2025 18:39
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 10 Haziran 2026 21:44
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ fth2273tv1
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ ff0306gg00
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kyiv
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 130.0.234.224
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Green Floid LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 16 Nisan 2026 - 09:46
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8022 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 31800 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 5900 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/get.php?username=fth2273tv1&password=ff0306gg00&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/xmltv.php?username=fth2273tv1&password=ff0306gg00&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✦ ULUSAL 💢 TR ✦ HEVC 💢 TR ✦ HABERLER 💢 TR ✦ BELGESEL 💢 TR ✦ ÇOCUK 💢 TR ✦ be*IN SPORTS LIVE 💢 TR ✦ SüPERLiG öZET & TEKRAR 💢 TR ✦ SPORT ARENA 💢 TR ✦ S SPORT 💢 TR ✦ TABII SPOR 💢 TR ✦ EXXEN SPORTS 💢 TR ✦ be*IN & SMART MOVIES 💢 TR ✦ DİNİ 💢 TR ✦ YEREL 💢 TR ✦ MÜZİK 💢 TR ✦ 7/24  ANİMASYON 💢 TR ✦ 7/24  BELGESEL 💢 TR ✦ 7/24 CINETURK 💢 TR ✦ 7/24  CINEVERSE 💢 TR ✦ 7/24  CINEMAXIMUM 💢 TR ✦ 7/24  CINEBOXSET 💢 TR ✦ 7/24  CINESTARS 💢 TR ✦ 7/24  YEŞİLÇAM 💢 TR ✦ 7/24  YEŞİLÇAM  DOLBY 💢 TR ✦ 7/24  MARVEL & WESTERN 💢 TR ✦ 7/24  NETFLIX CLUB 💢 TR ✦ 7/24  EXXEN SHOW 💢 TR ✦ 7/24  YERLİ DİZİLER 💢 TR ✦ 7/24  YABANCI DİZİLER 💢 KKTC ✦ KIBRIS 💢 AZ ✦ AZERBAYCAN 💢 DE ✦ DEUTSCHLAND 💢 DE ✦ HEVC 💢 DE ✦ NACHRICHTEN 💢 DE ✦ DOKU 💢 DE ✦ KINDER 💢 DE ✦ REGIONAL 💢 DE ✦ SKY BUNDESLIGA 💢 DE ✦ SKY SPORT ARENA 💢 DE ✦ DAZN SPORT ARENA 💢 DE ✦ SPORT ARENA 💢 DE ✦ MAGENTA SPORT ARENA 💢 DE ✦ DYN SPORT 💢 DE ✦ EUROSPORT EXTRA 💢 DE ✦ RTL+ SPORT ARENA ( EVENT TIME ) 💢 DE ✦ MUSIK 💢 DE ✦ SKY ENTERTAINMENT 💢 DE ✦ 24/7  SKY BOX 💢 DE ✦ 24/7  SKY SELECT 💢 DE ✦ 24/7  KINO DOLBY 💢 DE ✦ 24/7  KINOBOX 💢 DE ✦ 24/7  KINO BOXSET 💢 DE ✦ 24/7  CINESTARS 💢 DE ✦ 24/7  4K ULTRA PREMIERE 💢 DE ✦ 24/7  NETFLIX STORE 💢 DE ✦ 24/7  SERIEN STORE 💢 DE ✦ 24/7  KINDER KINO 💢 DE ✦ 24/7  KINDER STORE 💢 AT ✦ ÖSTERREICH 💢 AT ✦ ÖSTERREICH SPORT ARENA 💢 AT ✦ 24/7 KINDER 💢 EU ✦ F1 FORMULA RACING 💢 EU ✦ WORLD SPORT ARENA 💢 EU ✦ VIAPLAY SPORTS 💢 EU ✦ UFC FIGHT PASS 💢 EU ✦ NBA LEAUGE PASS 💢 EU ✦ NFL GAME PASS 💢 EU ✦ NHL GAME PASS 💢 EU ✦ 7/24   DANCE PARTY 💢 EU ✦ 7/24   CLUBBING MIX 💢 EU ✦ 7/24   DJ PERFORMANCE 💢 EU ✦ 7/24   RELAXING 💢 EU ✦ LIVE CAM 💢 TV ✦ SCREENSAVER 💢 KR ✦ KURDISH 💢 BE ✦ BELGIUM 💢 CH ✦ SWISS 💢 CH ✦ SWISS  SPORT ARENA 💢 CH ✦ SWISS CINEBOX 💢 NL ✦ NETHERLAND 💢 NL ✦ REGIONAAL 💢 NL ✦ SPORT ARENA 💢 NL ✦ DOKUMANTAIRE 💢 NL ✦ BIOSCOOP 💢 NL ✦ KIDS VOOR KINDEREN 💢 NL ✦ MUZIEK 💢 FR ✦ FRANCE 💢 FR ✦ ENFANTS 💢 FR ✦ SPORT ARENA 💢 FR ✦ DAZN SPORT ARENA 💢 FR ✦ CINEMABOX 💢 FR ✦ 24/7  A LA CARTE 💢 FR ✦ DECOUVERTE 💢 FR ✦ MUSIQUE 💢 IT ✦ ITALIA 💢 IT ✦ BAMBINI 💢 IT ✦ SKY SPORT ARENA 💢 IT ✦ DAZN SPORT ARENA 💢 IT ✦ SKY CINEBOX 💢 IT ✦ SKY CALCIO 💢 IT ✦ DOCUMENTAZIONE 💢 IT ✦ SKY PRIMAFILA 💢 UK ✦ ENGLAND 💢 UK ✦ KIDS 💢 UK ✦ SPORT ARENA 💢 UK ✦ CINEBOX 💢 UK ✦ ENTERTAINMENT 💢 UK ✦ DOCUMENTARY 💢 UK ✦ LIVE MUSIC 💢 PL ✦ POLAND 💢 PL ✦ KIDS DLA DZIECI 💢 PL ✦ SPORTY 💢 PL ✦ CINEBOX 💢 PL ✦ 24/7 CINEBOX 💢 PL ✦ DOKUMENTACJA 💢 GR ✦ Ελλάδα / GREECE 💢 GR ✦ Ελλάδα NOVA / COSMOTE κινηματογράφος 💢 GR ✦ Ελλάδα NOVA/ COSMOTE αθλητισμός 💢 GR ✦ 24/7 CINEVERSE 💢 GR ✦ παιδιά 💢 GR ✦ τεκμηρίωση 💢 ALB ✦ BIG BROTHER 💢 ALB ✦ Shqipëri ALBANIA VENDAS 💢 ALB ✦ Shqipëri PËR FËMIJË 💢 ALB ✦ Shqipëri DOKU 💢 ALB ✦ Shqipëri SPORT 💢 ALB ✦ Shqipëri Muzikë / fëmijët 💢 ALB ✦ Shqipëri FILM 💢 ALB ✦ 7/24 PLATFORMA DOLBY FILMA 💢 ALB ✦ 7/24 Serialet TURKE 💢 ALB ✦ 7/24 SERIALE TË HUAJA 💢 SRB ✦ Србија 💢 CR ✦ CROATIA 💢 EXYU ✦ SPORT ARENA 💢 EXYU ✦ BALKAN PINK 💢 EXYU ✦ CINEVERSE 💢 EXYU ✦ 24/7  FILMOVE & SERIJE 💢 EXYU ✦ DOKU 💢 EXYU ✦ KIDS 💢 BIH ✦ BOSNIA HERCEGOVINA 💢 MK ✦ MACEDONIA 💢 HU ✦ HUNGARY 💢 HU ✦ KIDS 💢 HU ✦ SPORT ARENA 💢 HU ✦ CINEBOX 💢 HU ✦ DOCUMENTARY 💢 HU ✦ MUSIK 💢 HU ✦ REGIO 💢 CZ ✦ česká REPUBLIKA 💢 CZ ✦ KIDS 💢 CZ ✦ DOCU 💢 CZ ✦ SPORT ARENA 💢 CZ ✦ CINEBOX 💢 CZ ✦ MUSIC 💢 SWE ✦ SVERIGE UNDERHALLNING 💢 SWE ✦ SVERIGER BARNKANALER 💢 SWE ✦ SVERIGE SPORT ARENA 💢 SWE ✦ SVERIGE BIOKANALER 💢 SWE ✦ SVERIGE DOKUMENTATION 💢 DK ✦ DENMARK 💢 NO ✦ GENERAL 💢 NO ✦ KIDS 💢 NO ✦ SPORTS 💢 NO ✦ ENTERTAINMENT 💢 NO ✦ CINEBOX 💢 NO ✦ DOCUMENTARY 💢 FI ✦ FINNLAND 💢 BG ✦ България BULGARIA 💢 BG ✦ спортен / SPORTEN ARENA 💢 BG ✦ документация / DOKUMENTATSIYA 💢 BG ✦ музика 💢 BG ✦ деца 💢 BG ✦ кино / KINO 💢 RO ✦ România în DIRECT 💢 RO ✦ KIDS & COPII 💢 RO ✦ SPORT ARENA 💢 RO ✦ CINEBOX 💢 RO ✦ DOCUMANTATIE 💢 RO ✦ MUZICA 💢 ES ✦ SPAIN 💢 ES ✦ INFANTIL 💢 ES ✦ DEPORTES ARENA 💢 ES ✦ DAZN SPORT ARENA 💢 ES ✦ CINEBOX 💢 ES ✦ DOCUMENTALES 💢 ES ✦ MUSIC 💢 PT ✦ PORTUGAL 💢 PT ✦ KIDS 💢 PT ✦ SPORT ARENA 💢 PT ✦ ENTERTAINMENT 💢 PT ✦ DOCUMENTARY 💢 RU ✦ Спорт 💢 RU ✦ Развлечения 💢 RU ✦ документальный 💢 RU ✦ Новости 💢 RU ✦ фильм & Серии 💢 RU ✦ Дети 💢 RU ✦ Музыка 💢 UKR ✦UKRAINE 💢 USA ✦ UNITED STATES OF AMERICA 💢 USA ✦ NEWS 💢 USA ✦ DOCUMENTARY 💢 USA ✦ KIDS 💢 USA ✦ SPORT 💢 USA ✦ CINEBOX 💢 USA ✦ MUSIC 💢 AR ✦ KIDS ARABIA 💢 AR ✦ NEWS ARABIA 💢 AR ✦ Be*IN SPORTS 💢 AR ✦ SPORTS 💢 AR ✦ STARZPLAY 💢 AR✦ ALFAJER 💢 AR ✦ AL MAJD 💢 AR ✦ CHRISTIAN 💢 AR ✦ Be*IN ENTERTAINMENT 💢 AR ✦ OSN 💢 AR ✦ MBC+ 💢 AR ✦ ROTANA ART 💢 AR ✦ ISLAMIC ARABIA 💢 AR ✦ SYRIA 💢 AR ✦ TUNUSIA 💢 AR ✦ MOROCCO 💢 AR ✦ MOROCCO TNT 💢 AR ✦ ALGERIA 💢 AR ✦ EGYPT 💢 AR ✦ SAUDI ARABIA 💢 AR ✦ OMAN QATAR 💢 AR ✦ IRAN 💢 AR ✦ LIBYA 💢 AR ✦ IRAQ 💢 AR ✦ DUBAI 💢 AR ✦ LEBENON 💢 AR ✦ KUWAIT YEMEN 💢 AR ✦ SUDAN 💢 AR ✦ PALESTINE 💢 AR ✦ JORDAN 💢 AR ✦ BAHRAIN 💢 IN ✦ INDIA 💢 AM ✦ ARMENIA 💢 IL ✦ ISRAEL 💢 AF: AFRİCA ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://smarterss.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://smarterss.xyz:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 09 Şubat 2025 19:39
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 09 Ağustos 2026 19:39
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 1sebo7452
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 1sebo.7452
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kyiv
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 130.0.234.224
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Green Floid LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 16 Nisan 2026 - 09:47
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8234 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 35334 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 5900 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/get.php?username=1sebo7452&password=1sebo.7452&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/xmltv.php?username=1sebo7452&password=1sebo.7452&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✦ ULUSAL 💢 TR ✦ HEVC 💢 TR ✦ HABERLER 💢 TR ✦ BELGESEL 💢 TR ✦ ÇOCUK 💢 TR ✦ be*IN SPORTS LIVE 💢 TR ✦ SüPERLiG öZET & TEKRAR 💢 TR ✦ SPORT ARENA 💢 TR ✦ S SPORT 💢 TR ✦ TABII SPOR 💢 TR ✦ EXXEN SPORTS 💢 TR ✦ be*IN & SMART MOVIES 💢 TR ✦ DİNİ 💢 TR ✦ YEREL 💢 TR ✦ MÜZİK 💢 TR ✦ 7/24  ANİMASYON 💢 TR ✦ 7/24  BELGESEL 💢 TR ✦ 7/24 CINETURK 💢 TR ✦ 7/24  CINEVERSE 💢 TR ✦ 7/24  CINEMAXIMUM 💢 TR ✦ 7/24  CINEBOXSET 💢 TR ✦ 7/24  CINESTARS 💢 TR ✦ 7/24  YEŞİLÇAM 💢 TR ✦ 7/24  YEŞİLÇAM  DOLBY 💢 TR ✦ 7/24  MARVEL & WESTERN 💢 TR ✦ 7/24  NETFLIX CLUB 💢 TR ✦ 7/24  EXXEN SHOW 💢 TR ✦ 7/24  YERLİ DİZİLER 💢 TR ✦ 7/24  YABANCI DİZİLER 💢 KKTC ✦ KIBRIS 💢 AZ ✦ AZERBAYCAN 💢 DE ✦ DEUTSCHLAND 💢 DE ✦ HEVC 💢 DE ✦ NACHRICHTEN 💢 DE ✦ DOKU 💢 DE ✦ KINDER 💢 DE ✦ REGIONAL 💢 DE ✦ SKY BUNDESLIGA 💢 DE ✦ SKY SPORT ARENA 💢 DE ✦ DAZN SPORT ARENA 💢 DE ✦ SPORT ARENA 💢 DE ✦ MAGENTA SPORT ARENA 💢 DE ✦ DYN SPORT 💢 DE ✦ EUROSPORT EXTRA 💢 DE ✦ RTL+ SPORT ARENA ( EVENT TIME ) 💢 DE ✦ MUSIK 💢 DE ✦ SKY ENTERTAINMENT 💢 DE ✦ 24/7  SKY BOX 💢 DE ✦ 24/7  SKY SELECT 💢 DE ✦ 24/7  KINO DOLBY 💢 DE ✦ 24/7  KINOBOX 💢 DE ✦ 24/7  KINO BOXSET 💢 DE ✦ 24/7  CINESTARS 💢 DE ✦ 24/7  4K ULTRA PREMIERE 💢 DE ✦ 24/7  NETFLIX STORE 💢 DE ✦ 24/7  SERIEN STORE 💢 DE ✦ 24/7  KINDER KINO 💢 DE ✦ 24/7  KINDER STORE 💢 AT ✦ ÖSTERREICH 💢 AT ✦ ÖSTERREICH SPORT ARENA 💢 AT ✦ 24/7 KINDER 💢 EU ✦ F1 FORMULA RACING 💢 EU ✦ WORLD SPORT ARENA 💢 EU ✦ VIAPLAY SPORTS 💢 EU ✦ UFC FIGHT PASS 💢 EU ✦ NBA LEAUGE PASS 💢 EU ✦ NFL GAME PASS 💢 EU ✦ NHL GAME PASS 💢 EU ✦ 7/24   DANCE PARTY 💢 EU ✦ 7/24   CLUBBING MIX 💢 EU ✦ 7/24   DJ PERFORMANCE 💢 EU ✦ 7/24   RELAXING 💢 EU ✦ LIVE CAM 💢 TV ✦ SCREENSAVER 💢 KR ✦ KURDISH 💢 BE ✦ BELGIUM 💢 CH ✦ SWISS 💢 CH ✦ SWISS  SPORT ARENA 💢 CH ✦ SWISS CINEBOX 💢 NL ✦ NETHERLAND 💢 NL ✦ REGIONAAL 💢 NL ✦ SPORT ARENA 💢 NL ✦ DOKUMANTAIRE 💢 NL ✦ BIOSCOOP 💢 NL ✦ KIDS VOOR KINDEREN 💢 NL ✦ MUZIEK 💢 FR ✦ FRANCE 💢 FR ✦ ENFANTS 💢 FR ✦ SPORT ARENA 💢 FR ✦ DAZN SPORT ARENA 💢 FR ✦ CINEMABOX 💢 FR ✦ 24/7  A LA CARTE 💢 FR ✦ DECOUVERTE 💢 FR ✦ MUSIQUE 💢 IT ✦ ITALIA 💢 IT ✦ BAMBINI 💢 IT ✦ SKY SPORT ARENA 💢 IT ✦ DAZN SPORT ARENA 💢 IT ✦ SKY CINEBOX 💢 IT ✦ SKY CALCIO 💢 IT ✦ DOCUMENTAZIONE 💢 IT ✦ SKY PRIMAFILA 💢 UK ✦ ENGLAND 💢 UK ✦ KIDS 💢 UK ✦ SPORT ARENA 💢 UK ✦ CINEBOX 💢 UK ✦ ENTERTAINMENT 💢 UK ✦ DOCUMENTARY 💢 UK ✦ LIVE MUSIC 💢 PL ✦ POLAND 💢 PL ✦ KIDS DLA DZIECI 💢 PL ✦ SPORTY 💢 PL ✦ CINEBOX 💢 PL ✦ 24/7 CINEBOX 💢 PL ✦ DOKUMENTACJA 💢 GR ✦ Ελλάδα / GREECE 💢 GR ✦ Ελλάδα NOVA / COSMOTE κινηματογράφος 💢 GR ✦ Ελλάδα NOVA/ COSMOTE αθλητισμός 💢 GR ✦ 24/7 CINEVERSE 💢 GR ✦ παιδιά 💢 GR ✦ τεκμηρίωση 💢 ALB ✦ BIG BROTHER 💢 ALB ✦ Shqipëri ALBANIA VENDAS 💢 ALB ✦ Shqipëri PËR FËMIJË 💢 ALB ✦ Shqipëri DOKU 💢 ALB ✦ Shqipëri SPORT 💢 ALB ✦ Shqipëri Muzikë / fëmijët 💢 ALB ✦ Shqipëri FILM 💢 ALB ✦ 7/24 PLATFORMA DOLBY FILMA 💢 ALB ✦ 7/24 Serialet TURKE 💢 ALB ✦ 7/24 SERIALE TË HUAJA 💢 SRB ✦ Србија 💢 CR ✦ CROATIA 💢 EXYU ✦ SPORT ARENA 💢 EXYU ✦ BALKAN PINK 💢 EXYU ✦ CINEVERSE 💢 EXYU ✦ 24/7  FILMOVE & SERIJE 💢 EXYU ✦ DOKU 💢 EXYU ✦ KIDS 💢 BIH ✦ BOSNIA HERCEGOVINA 💢 MK ✦ MACEDONIA 💢 HU ✦ HUNGARY 💢 HU ✦ KIDS 💢 HU ✦ SPORT ARENA 💢 HU ✦ CINEBOX 💢 HU ✦ DOCUMENTARY 💢 HU ✦ MUSIK 💢 HU ✦ REGIO 💢 CZ ✦ česká REPUBLIKA 💢 CZ ✦ KIDS 💢 CZ ✦ DOCU 💢 CZ ✦ SPORT ARENA 💢 CZ ✦ CINEBOX 💢 CZ ✦ MUSIC 💢 SWE ✦ SVERIGE UNDERHALLNING 💢 SWE ✦ SVERIGER BARNKANALER 💢 SWE ✦ SVERIGE SPORT ARENA 💢 SWE ✦ SVERIGE BIOKANALER 💢 SWE ✦ SVERIGE DOKUMENTATION 💢 DK ✦ DENMARK 💢 NO ✦ GENERAL 💢 NO ✦ KIDS 💢 NO ✦ SPORTS 💢 NO ✦ ENTERTAINMENT 💢 NO ✦ CINEBOX 💢 NO ✦ DOCUMENTARY 💢 FI ✦ FINNLAND 💢 BG ✦ България BULGARIA 💢 BG ✦ спортен / SPORTEN ARENA 💢 BG ✦ документация / DOKUMENTATSIYA 💢 BG ✦ музика 💢 BG ✦ деца 💢 BG ✦ кино / KINO 💢 RO ✦ România în DIRECT 💢 RO ✦ KIDS & COPII 💢 RO ✦ SPORT ARENA 💢 RO ✦ CINEBOX 💢 RO ✦ DOCUMANTATIE 💢 RO ✦ MUZICA 💢 ES ✦ SPAIN 💢 ES ✦ INFANTIL 💢 ES ✦ DEPORTES ARENA 💢 ES ✦ DAZN SPORT ARENA 💢 ES ✦ CINEBOX 💢 ES ✦ DOCUMENTALES 💢 ES ✦ MUSIC 💢 PT ✦ PORTUGAL 💢 PT ✦ KIDS 💢 PT ✦ SPORT ARENA 💢 PT ✦ ENTERTAINMENT 💢 PT ✦ DOCUMENTARY 💢 RU ✦ Спорт 💢 RU ✦ Развлечения 💢 RU ✦ документальный 💢 RU ✦ Новости 💢 RU ✦ фильм & Серии 💢 RU ✦ Дети 💢 RU ✦ Музыка 💢 UKR ✦UKRAINE 💢 USA ✦ UNITED STATES OF AMERICA 💢 USA ✦ NEWS 💢 USA ✦ DOCUMENTARY 💢 USA ✦ KIDS 💢 USA ✦ SPORT 💢 USA ✦ CINEBOX 💢 USA ✦ MUSIC 💢 AR ✦ KIDS ARABIA 💢 AR ✦ NEWS ARABIA 💢 AR ✦ Be*IN SPORTS 💢 AR ✦ SPORTS 💢 AR ✦ STARZPLAY 💢 AR✦ ALFAJER 💢 AR ✦ AL MAJD 💢 AR ✦ CHRISTIAN 💢 AR ✦ Be*IN ENTERTAINMENT 💢 AR ✦ OSN 💢 AR ✦ MBC+ 💢 AR ✦ ROTANA ART 💢 AR ✦ ISLAMIC ARABIA 💢 AR ✦ SYRIA 💢 AR ✦ TUNUSIA 💢 AR ✦ MOROCCO 💢 AR ✦ MOROCCO TNT 💢 AR ✦ ALGERIA 💢 AR ✦ EGYPT 💢 AR ✦ SAUDI ARABIA 💢 AR ✦ OMAN QATAR 💢 AR ✦ IRAN 💢 AR ✦ LIBYA 💢 AR ✦ IRAQ 💢 AR ✦ DUBAI 💢 AR ✦ LEBENON 💢 AR ✦ KUWAIT YEMEN 💢 AR ✦ SUDAN 💢 AR ✦ PALESTINE 💢 AR ✦ JORDAN 💢 AR ✦ BAHRAIN 💢 IN ✦ INDIA 💢 AM ✦ ARMENIA 💢 IL ✦ ISRAEL 💢 AF: AFRİCA 💢 XXX  ✦ LIVE ADULT 💢 XXX ✦ DOLBY ADULT ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://smarterss.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://smarterss.xyz:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 12 Şubat 2025 18:01
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 02 Haziran 2026 12:22
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ kbby2553chz2
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ kkbb0604kk00
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kyiv
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 130.0.234.224
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Green Floid LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 16 Nisan 2026 - 10:21
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8022 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 31800 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 5900 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/get.php?username=kbby2553chz2&password=kkbb0604kk00&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/xmltv.php?username=kbby2553chz2&password=kkbb0604kk00&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✦ ULUSAL 💢 TR ✦ HEVC 💢 TR ✦ HABERLER 💢 TR ✦ BELGESEL 💢 TR ✦ ÇOCUK 💢 TR ✦ be*IN SPORTS LIVE 💢 TR ✦ SüPERLiG öZET & TEKRAR 💢 TR ✦ SPORT ARENA 💢 TR ✦ S SPORT 💢 TR ✦ TABII SPOR 💢 TR ✦ EXXEN SPORTS 💢 TR ✦ be*IN & SMART MOVIES 💢 TR ✦ DİNİ 💢 TR ✦ YEREL 💢 TR ✦ MÜZİK 💢 TR ✦ 7/24  ANİMASYON 💢 TR ✦ 7/24  BELGESEL 💢 TR ✦ 7/24 CINETURK 💢 TR ✦ 7/24  CINEVERSE 💢 TR ✦ 7/24  CINEMAXIMUM 💢 TR ✦ 7/24  CINEBOXSET 💢 TR ✦ 7/24  CINESTARS 💢 TR ✦ 7/24  YEŞİLÇAM 💢 TR ✦ 7/24  YEŞİLÇAM  DOLBY 💢 TR ✦ 7/24  MARVEL & WESTERN 💢 TR ✦ 7/24  NETFLIX CLUB 💢 TR ✦ 7/24  EXXEN SHOW 💢 TR ✦ 7/24  YERLİ DİZİLER 💢 TR ✦ 7/24  YABANCI DİZİLER 💢 KKTC ✦ KIBRIS 💢 AZ ✦ AZERBAYCAN 💢 DE ✦ DEUTSCHLAND 💢 DE ✦ HEVC 💢 DE ✦ NACHRICHTEN 💢 DE ✦ DOKU 💢 DE ✦ KINDER 💢 DE ✦ REGIONAL 💢 DE ✦ SKY BUNDESLIGA 💢 DE ✦ SKY SPORT ARENA 💢 DE ✦ DAZN SPORT ARENA 💢 DE ✦ SPORT ARENA 💢 DE ✦ MAGENTA SPORT ARENA 💢 DE ✦ DYN SPORT 💢 DE ✦ EUROSPORT EXTRA 💢 DE ✦ RTL+ SPORT ARENA ( EVENT TIME ) 💢 DE ✦ MUSIK 💢 DE ✦ SKY ENTERTAINMENT 💢 DE ✦ 24/7  SKY BOX 💢 DE ✦ 24/7  SKY SELECT 💢 DE ✦ 24/7  KINO DOLBY 💢 DE ✦ 24/7  KINOBOX 💢 DE ✦ 24/7  KINO BOXSET 💢 DE ✦ 24/7  CINESTARS 💢 DE ✦ 24/7  4K ULTRA PREMIERE 💢 DE ✦ 24/7  NETFLIX STORE 💢 DE ✦ 24/7  SERIEN STORE 💢 DE ✦ 24/7  KINDER KINO 💢 DE ✦ 24/7  KINDER STORE 💢 AT ✦ ÖSTERREICH 💢 AT ✦ ÖSTERREICH SPORT ARENA 💢 AT ✦ 24/7 KINDER 💢 EU ✦ F1 FORMULA RACING 💢 EU ✦ WORLD SPORT ARENA 💢 EU ✦ VIAPLAY SPORTS 💢 EU ✦ UFC FIGHT PASS 💢 EU ✦ NBA LEAUGE PASS 💢 EU ✦ NFL GAME PASS 💢 EU ✦ NHL GAME PASS 💢 EU ✦ 7/24   DANCE PARTY 💢 EU ✦ 7/24   CLUBBING MIX 💢 EU ✦ 7/24   DJ PERFORMANCE 💢 EU ✦ 7/24   RELAXING 💢 EU ✦ LIVE CAM 💢 TV ✦ SCREENSAVER 💢 KR ✦ KURDISH 💢 BE ✦ BELGIUM 💢 CH ✦ SWISS 💢 CH ✦ SWISS  SPORT ARENA 💢 CH ✦ SWISS CINEBOX 💢 NL ✦ NETHERLAND 💢 NL ✦ REGIONAAL 💢 NL ✦ SPORT ARENA 💢 NL ✦ DOKUMANTAIRE 💢 NL ✦ BIOSCOOP 💢 NL ✦ KIDS VOOR KINDEREN 💢 NL ✦ MUZIEK 💢 FR ✦ FRANCE 💢 FR ✦ ENFANTS 💢 FR ✦ SPORT ARENA 💢 FR ✦ DAZN SPORT ARENA 💢 FR ✦ CINEMABOX 💢 FR ✦ 24/7  A LA CARTE 💢 FR ✦ DECOUVERTE 💢 FR ✦ MUSIQUE 💢 IT ✦ ITALIA 💢 IT ✦ BAMBINI 💢 IT ✦ SKY SPORT ARENA 💢 IT ✦ DAZN SPORT ARENA 💢 IT ✦ SKY CINEBOX 💢 IT ✦ SKY CALCIO 💢 IT ✦ DOCUMENTAZIONE 💢 IT ✦ SKY PRIMAFILA 💢 UK ✦ ENGLAND 💢 UK ✦ KIDS 💢 UK ✦ SPORT ARENA 💢 UK ✦ CINEBOX 💢 UK ✦ ENTERTAINMENT 💢 UK ✦ DOCUMENTARY 💢 UK ✦ LIVE MUSIC 💢 PL ✦ POLAND 💢 PL ✦ KIDS DLA DZIECI 💢 PL ✦ SPORTY 💢 PL ✦ CINEBOX 💢 PL ✦ 24/7 CINEBOX 💢 PL ✦ DOKUMENTACJA 💢 GR ✦ Ελλάδα / GREECE 💢 GR ✦ Ελλάδα NOVA / COSMOTE κινηματογράφος 💢 GR ✦ Ελλάδα NOVA/ COSMOTE αθλητισμός 💢 GR ✦ 24/7 CINEVERSE 💢 GR ✦ παιδιά 💢 GR ✦ τεκμηρίωση 💢 ALB ✦ BIG BROTHER 💢 ALB ✦ Shqipëri ALBANIA VENDAS 💢 ALB ✦ Shqipëri PËR FËMIJË 💢 ALB ✦ Shqipëri DOKU 💢 ALB ✦ Shqipëri SPORT 💢 ALB ✦ Shqipëri Muzikë / fëmijët 💢 ALB ✦ Shqipëri FILM 💢 ALB ✦ 7/24 PLATFORMA DOLBY FILMA 💢 ALB ✦ 7/24 Serialet TURKE 💢 ALB ✦ 7/24 SERIALE TË HUAJA 💢 SRB ✦ Србија 💢 CR ✦ CROATIA 💢 EXYU ✦ SPORT ARENA 💢 EXYU ✦ BALKAN PINK 💢 EXYU ✦ CINEVERSE 💢 EXYU ✦ 24/7  FILMOVE & SERIJE 💢 EXYU ✦ DOKU 💢 EXYU ✦ KIDS 💢 BIH ✦ BOSNIA HERCEGOVINA 💢 MK ✦ MACEDONIA 💢 HU ✦ HUNGARY 💢 HU ✦ KIDS 💢 HU ✦ SPORT ARENA 💢 HU ✦ CINEBOX 💢 HU ✦ DOCUMENTARY 💢 HU ✦ MUSIK 💢 HU ✦ REGIO 💢 CZ ✦ česká REPUBLIKA 💢 CZ ✦ KIDS 💢 CZ ✦ DOCU 💢 CZ ✦ SPORT ARENA 💢 CZ ✦ CINEBOX 💢 CZ ✦ MUSIC 💢 SWE ✦ SVERIGE UNDERHALLNING 💢 SWE ✦ SVERIGER BARNKANALER 💢 SWE ✦ SVERIGE SPORT ARENA 💢 SWE ✦ SVERIGE BIOKANALER 💢 SWE ✦ SVERIGE DOKUMENTATION 💢 DK ✦ DENMARK 💢 NO ✦ GENERAL 💢 NO ✦ KIDS 💢 NO ✦ SPORTS 💢 NO ✦ ENTERTAINMENT 💢 NO ✦ CINEBOX 💢 NO ✦ DOCUMENTARY 💢 FI ✦ FINNLAND 💢 BG ✦ България BULGARIA 💢 BG ✦ спортен / SPORTEN ARENA 💢 BG ✦ документация / DOKUMENTATSIYA 💢 BG ✦ музика 💢 BG ✦ деца 💢 BG ✦ кино / KINO 💢 RO ✦ România în DIRECT 💢 RO ✦ KIDS & COPII 💢 RO ✦ SPORT ARENA 💢 RO ✦ CINEBOX 💢 RO ✦ DOCUMANTATIE 💢 RO ✦ MUZICA 💢 ES ✦ SPAIN 💢 ES ✦ INFANTIL 💢 ES ✦ DEPORTES ARENA 💢 ES ✦ DAZN SPORT ARENA 💢 ES ✦ CINEBOX 💢 ES ✦ DOCUMENTALES 💢 ES ✦ MUSIC 💢 PT ✦ PORTUGAL 💢 PT ✦ KIDS 💢 PT ✦ SPORT ARENA 💢 PT ✦ ENTERTAINMENT 💢 PT ✦ DOCUMENTARY 💢 RU ✦ Спорт 💢 RU ✦ Развлечения 💢 RU ✦ документальный 💢 RU ✦ Новости 💢 RU ✦ фильм & Серии 💢 RU ✦ Дети 💢 RU ✦ Музыка 💢 UKR ✦UKRAINE 💢 USA ✦ UNITED STATES OF AMERICA 💢 USA ✦ NEWS 💢 USA ✦ DOCUMENTARY 💢 USA ✦ KIDS 💢 USA ✦ SPORT 💢 USA ✦ CINEBOX 💢 USA ✦ MUSIC 💢 AR ✦ KIDS ARABIA 💢 AR ✦ NEWS ARABIA 💢 AR ✦ Be*IN SPORTS 💢 AR ✦ SPORTS 💢 AR ✦ STARZPLAY 💢 AR✦ ALFAJER 💢 AR ✦ AL MAJD 💢 AR ✦ CHRISTIAN 💢 AR ✦ Be*IN ENTERTAINMENT 💢 AR ✦ OSN 💢 AR ✦ MBC+ 💢 AR ✦ ROTANA ART 💢 AR ✦ ISLAMIC ARABIA 💢 AR ✦ SYRIA 💢 AR ✦ TUNUSIA 💢 AR ✦ MOROCCO 💢 AR ✦ MOROCCO TNT 💢 AR ✦ ALGERIA 💢 AR ✦ EGYPT 💢 AR ✦ SAUDI ARABIA 💢 AR ✦ OMAN QATAR 💢 AR ✦ IRAN 💢 AR ✦ LIBYA 💢 AR ✦ IRAQ 💢 AR ✦ DUBAI 💢 AR ✦ LEBENON 💢 AR ✦ KUWAIT YEMEN 💢 AR ✦ SUDAN 💢 AR ✦ PALESTINE 💢 AR ✦ JORDAN 💢 AR ✦ BAHRAIN 💢 IN ✦ INDIA 💢 AM ✦ ARMENIA 💢 IL ✦ ISRAEL 💢 AF: AFRİCA ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://smarterss.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://smarterss.xyz:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 12 Şubat 2025 18:00
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 06 Ekim 2026 03:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ mhttintmrc
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ rHF8Wsb5ux
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kyiv
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 130.0.234.224
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Green Floid LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 16 Nisan 2026 - 10:38
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 2553 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 29289 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 5846 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/get.php?username=mhttintmrc&password=rHF8Wsb5ux&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/xmltv.php?username=mhttintmrc&password=rHF8Wsb5ux&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✦ ULUSAL 💢 TR ✦ HEVC 💢 TR ✦ HABERLER 💢 TR ✦ BELGESEL 💢 TR ✦ ÇOCUK 💢 TR ✦ be*IN SPORTS LIVE 💢 TR ✦ SüPERLiG öZET & TEKRAR 💢 TR ✦ SPORT ARENA 💢 TR ✦ S SPORT 💢 TR ✦ TABII SPOR 💢 TR ✦ EXXEN SPORTS 💢 TR ✦ be*IN & SMART MOVIES 💢 TR ✦ DİNİ 💢 TR ✦ YEREL 💢 TR ✦ MÜZİK 💢 TR ✦ 7/24  ANİMASYON 💢 TR ✦ 7/24  BELGESEL 💢 TR ✦ 7/24 CINETURK 💢 TR ✦ 7/24  CINEVERSE 💢 TR ✦ 7/24  CINEMAXIMUM 💢 TR ✦ 7/24  CINEBOXSET 💢 TR ✦ 7/24  CINESTARS 💢 TR ✦ 7/24  YEŞİLÇAM 💢 TR ✦ 7/24  YEŞİLÇAM  DOLBY 💢 TR ✦ 7/24  MARVEL & WESTERN 💢 TR ✦ 7/24  NETFLIX CLUB 💢 TR ✦ 7/24  EXXEN SHOW 💢 TR ✦ 7/24  YERLİ DİZİLER 💢 TR ✦ 7/24  YABANCI DİZİLER 💢 DE ✦ DEUTSCHLAND 💢 DE ✦ HEVC 💢 DE ✦ NACHRICHTEN 💢 DE ✦ DOKU 💢 DE ✦ KINDER 💢 DE ✦ REGIONAL 💢 DE ✦ SKY BUNDESLIGA 💢 DE ✦ SKY SPORT ARENA 💢 DE ✦ DAZN SPORT ARENA 💢 DE ✦ SPORT ARENA 💢 DE ✦ MAGENTA SPORT ARENA 💢 DE ✦ DYN SPORT 💢 DE ✦ EUROSPORT EXTRA 💢 DE ✦ RTL+ SPORT ARENA ( EVENT TIME ) 💢 DE ✦ MUSIK 💢 DE ✦ SKY ENTERTAINMENT 💢 DE ✦ 24/7  SKY BOX 💢 DE ✦ 24/7  SKY SELECT 💢 DE ✦ 24/7  KINO DOLBY 💢 DE ✦ 24/7  KINOBOX 💢 DE ✦ 24/7  KINO BOXSET 💢 DE ✦ 24/7  CINESTARS 💢 DE ✦ 24/7  4K ULTRA PREMIERE 💢 DE ✦ 24/7  NETFLIX STORE 💢 DE ✦ 24/7  SERIEN STORE 💢 DE ✦ 24/7  KINDER KINO 💢 DE ✦ 24/7  KINDER STORE 💢 EU ✦ F1 FORMULA RACING 💢 EU ✦ WORLD SPORT ARENA 💢 EU ✦ VIAPLAY SPORTS 💢 EU ✦ UFC FIGHT PASS 💢 EU ✦ NBA LEAUGE PASS 💢 EU ✦ NFL GAME PASS 💢 EU ✦ NHL GAME PASS 💢 EU ✦ 7/24   DANCE PARTY 💢 EU ✦ 7/24   CLUBBING MIX 💢 EU ✦ 7/24   DJ PERFORMANCE 💢 EU ✦ 7/24   RELAXING 💢 EU ✦ LIVE CAM 💢 TV ✦ SCREENSAVER 💢 NL ✦ NETHERLAND 💢 NL ✦ MUZIEK ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://smarterss.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://smarterss.xyz:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 12 Şubat 2025 18:01
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 09 Eylül 2026 03:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ yhhh0819
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ yh002711yy
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kyiv
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 130.0.234.224
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Green Floid LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 16 Nisan 2026 - 10:57
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8022 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 31800 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 5900 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/get.php?username=yhhh0819&password=yh002711yy&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/xmltv.php?username=yhhh0819&password=yh002711yy&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✦ ULUSAL 💢 TR ✦ HEVC 💢 TR ✦ HABERLER 💢 TR ✦ BELGESEL 💢 TR ✦ ÇOCUK 💢 TR ✦ be*IN SPORTS LIVE 💢 TR ✦ SüPERLiG öZET & TEKRAR 💢 TR ✦ SPORT ARENA 💢 TR ✦ S SPORT 💢 TR ✦ TABII SPOR 💢 TR ✦ EXXEN SPORTS 💢 TR ✦ be*IN & SMART MOVIES 💢 TR ✦ DİNİ 💢 TR ✦ YEREL 💢 TR ✦ MÜZİK 💢 TR ✦ 7/24  ANİMASYON 💢 TR ✦ 7/24  BELGESEL 💢 TR ✦ 7/24 CINETURK 💢 TR ✦ 7/24  CINEVERSE 💢 TR ✦ 7/24  CINEMAXIMUM 💢 TR ✦ 7/24  CINEBOXSET 💢 TR ✦ 7/24  CINESTARS 💢 TR ✦ 7/24  YEŞİLÇAM 💢 TR ✦ 7/24  YEŞİLÇAM  DOLBY 💢 TR ✦ 7/24  MARVEL & WESTERN 💢 TR ✦ 7/24  NETFLIX CLUB 💢 TR ✦ 7/24  EXXEN SHOW 💢 TR ✦ 7/24  YERLİ DİZİLER 💢 TR ✦ 7/24  YABANCI DİZİLER 💢 KKTC ✦ KIBRIS 💢 AZ ✦ AZERBAYCAN 💢 DE ✦ DEUTSCHLAND 💢 DE ✦ HEVC 💢 DE ✦ NACHRICHTEN 💢 DE ✦ DOKU 💢 DE ✦ KINDER 💢 DE ✦ REGIONAL 💢 DE ✦ SKY BUNDESLIGA 💢 DE ✦ SKY SPORT ARENA 💢 DE ✦ DAZN SPORT ARENA 💢 DE ✦ SPORT ARENA 💢 DE ✦ MAGENTA SPORT ARENA 💢 DE ✦ DYN SPORT 💢 DE ✦ EUROSPORT EXTRA 💢 DE ✦ RTL+ SPORT ARENA ( EVENT TIME ) 💢 DE ✦ MUSIK 💢 DE ✦ SKY ENTERTAINMENT 💢 DE ✦ 24/7  SKY BOX 💢 DE ✦ 24/7  SKY SELECT 💢 DE ✦ 24/7  KINO DOLBY 💢 DE ✦ 24/7  KINOBOX 💢 DE ✦ 24/7  KINO BOXSET 💢 DE ✦ 24/7  CINESTARS 💢 DE ✦ 24/7  4K ULTRA PREMIERE 💢 DE ✦ 24/7  NETFLIX STORE 💢 DE ✦ 24/7  SERIEN STORE 💢 DE ✦ 24/7  KINDER KINO 💢 DE ✦ 24/7  KINDER STORE 💢 AT ✦ ÖSTERREICH 💢 AT ✦ ÖSTERREICH SPORT ARENA 💢 AT ✦ 24/7 KINDER 💢 EU ✦ F1 FORMULA RACING 💢 EU ✦ WORLD SPORT ARENA 💢 EU ✦ VIAPLAY SPORTS 💢 EU ✦ UFC FIGHT PASS 💢 EU ✦ NBA LEAUGE PASS 💢 EU ✦ NFL GAME PASS 💢 EU ✦ NHL GAME PASS 💢 EU ✦ 7/24   DANCE PARTY 💢 EU ✦ 7/24   CLUBBING MIX 💢 EU ✦ 7/24   DJ PERFORMANCE 💢 EU ✦ 7/24   RELAXING 💢 EU ✦ LIVE CAM 💢 TV ✦ SCREENSAVER 💢 KR ✦ KURDISH 💢 BE ✦ BELGIUM 💢 CH ✦ SWISS 💢 CH ✦ SWISS  SPORT ARENA 💢 CH ✦ SWISS CINEBOX 💢 NL ✦ NETHERLAND 💢 NL ✦ REGIONAAL 💢 NL ✦ SPORT ARENA 💢 NL ✦ DOKUMANTAIRE 💢 NL ✦ BIOSCOOP 💢 NL ✦ KIDS VOOR KINDEREN 💢 NL ✦ MUZIEK 💢 FR ✦ FRANCE 💢 FR ✦ ENFANTS 💢 FR ✦ SPORT ARENA 💢 FR ✦ DAZN SPORT ARENA 💢 FR ✦ CINEMABOX 💢 FR ✦ 24/7  A LA CARTE 💢 FR ✦ DECOUVERTE 💢 FR ✦ MUSIQUE 💢 IT ✦ ITALIA 💢 IT ✦ BAMBINI 💢 IT ✦ SKY SPORT ARENA 💢 IT ✦ DAZN SPORT ARENA 💢 IT ✦ SKY CINEBOX 💢 IT ✦ SKY CALCIO 💢 IT ✦ DOCUMENTAZIONE 💢 IT ✦ SKY PRIMAFILA 💢 UK ✦ ENGLAND 💢 UK ✦ KIDS 💢 UK ✦ SPORT ARENA 💢 UK ✦ CINEBOX 💢 UK ✦ ENTERTAINMENT 💢 UK ✦ DOCUMENTARY 💢 UK ✦ LIVE MUSIC 💢 PL ✦ POLAND 💢 PL ✦ KIDS DLA DZIECI 💢 PL ✦ SPORTY 💢 PL ✦ CINEBOX 💢 PL ✦ 24/7 CINEBOX 💢 PL ✦ DOKUMENTACJA 💢 GR ✦ Ελλάδα / GREECE 💢 GR ✦ Ελλάδα NOVA / COSMOTE κινηματογράφος 💢 GR ✦ Ελλάδα NOVA/ COSMOTE αθλητισμός 💢 GR ✦ 24/7 CINEVERSE 💢 GR ✦ παιδιά 💢 GR ✦ τεκμηρίωση 💢 ALB ✦ BIG BROTHER 💢 ALB ✦ Shqipëri ALBANIA VENDAS 💢 ALB ✦ Shqipëri PËR FËMIJË 💢 ALB ✦ Shqipëri DOKU 💢 ALB ✦ Shqipëri SPORT 💢 ALB ✦ Shqipëri Muzikë / fëmijët 💢 ALB ✦ Shqipëri FILM 💢 ALB ✦ 7/24 PLATFORMA DOLBY FILMA 💢 ALB ✦ 7/24 Serialet TURKE 💢 ALB ✦ 7/24 SERIALE TË HUAJA 💢 SRB ✦ Србија 💢 CR ✦ CROATIA 💢 EXYU ✦ SPORT ARENA 💢 EXYU ✦ BALKAN PINK 💢 EXYU ✦ CINEVERSE 💢 EXYU ✦ 24/7  FILMOVE & SERIJE 💢 EXYU ✦ DOKU 💢 EXYU ✦ KIDS 💢 BIH ✦ BOSNIA HERCEGOVINA 💢 MK ✦ MACEDONIA 💢 HU ✦ HUNGARY 💢 HU ✦ KIDS 💢 HU ✦ SPORT ARENA 💢 HU ✦ CINEBOX 💢 HU ✦ DOCUMENTARY 💢 HU ✦ MUSIK 💢 HU ✦ REGIO 💢 CZ ✦ česká REPUBLIKA 💢 CZ ✦ KIDS 💢 CZ ✦ DOCU 💢 CZ ✦ SPORT ARENA 💢 CZ ✦ CINEBOX 💢 CZ ✦ MUSIC 💢 SWE ✦ SVERIGE UNDERHALLNING 💢 SWE ✦ SVERIGER BARNKANALER 💢 SWE ✦ SVERIGE SPORT ARENA 💢 SWE ✦ SVERIGE BIOKANALER 💢 SWE ✦ SVERIGE DOKUMENTATION 💢 DK ✦ DENMARK 💢 NO ✦ GENERAL 💢 NO ✦ KIDS 💢 NO ✦ SPORTS 💢 NO ✦ ENTERTAINMENT 💢 NO ✦ CINEBOX 💢 NO ✦ DOCUMENTARY 💢 FI ✦ FINNLAND 💢 BG ✦ България BULGARIA 💢 BG ✦ спортен / SPORTEN ARENA 💢 BG ✦ документация / DOKUMENTATSIYA 💢 BG ✦ музика 💢 BG ✦ деца 💢 BG ✦ кино / KINO 💢 RO ✦ România în DIRECT 💢 RO ✦ KIDS & COPII 💢 RO ✦ SPORT ARENA 💢 RO ✦ CINEBOX 💢 RO ✦ DOCUMANTATIE 💢 RO ✦ MUZICA 💢 ES ✦ SPAIN 💢 ES ✦ INFANTIL 💢 ES ✦ DEPORTES ARENA 💢 ES ✦ DAZN SPORT ARENA 💢 ES ✦ CINEBOX 💢 ES ✦ DOCUMENTALES 💢 ES ✦ MUSIC 💢 PT ✦ PORTUGAL 💢 PT ✦ KIDS 💢 PT ✦ SPORT ARENA 💢 PT ✦ ENTERTAINMENT 💢 PT ✦ DOCUMENTARY 💢 RU ✦ Спорт 💢 RU ✦ Развлечения 💢 RU ✦ документальный 💢 RU ✦ Новости 💢 RU ✦ фильм & Серии 💢 RU ✦ Дети 💢 RU ✦ Музыка 💢 UKR ✦UKRAINE 💢 USA ✦ UNITED STATES OF AMERICA 💢 USA ✦ NEWS 💢 USA ✦ DOCUMENTARY 💢 USA ✦ KIDS 💢 USA ✦ SPORT 💢 USA ✦ CINEBOX 💢 USA ✦ MUSIC 💢 AR ✦ KIDS ARABIA 💢 AR ✦ NEWS ARABIA 💢 AR ✦ Be*IN SPORTS 💢 AR ✦ SPORTS 💢 AR ✦ STARZPLAY 💢 AR✦ ALFAJER 💢 AR ✦ AL MAJD 💢 AR ✦ CHRISTIAN 💢 AR ✦ Be*IN ENTERTAINMENT 💢 AR ✦ OSN 💢 AR ✦ MBC+ 💢 AR ✦ ROTANA ART 💢 AR ✦ ISLAMIC ARABIA 💢 AR ✦ SYRIA 💢 AR ✦ TUNUSIA 💢 AR ✦ MOROCCO 💢 AR ✦ MOROCCO TNT 💢 AR ✦ ALGERIA 💢 AR ✦ EGYPT 💢 AR ✦ SAUDI ARABIA 💢 AR ✦ OMAN QATAR 💢 AR ✦ IRAN 💢 AR ✦ LIBYA 💢 AR ✦ IRAQ 💢 AR ✦ DUBAI 💢 AR ✦ LEBENON 💢 AR ✦ KUWAIT YEMEN 💢 AR ✦ SUDAN 💢 AR ✦ PALESTINE 💢 AR ✦ JORDAN 💢 AR ✦ BAHRAIN 💢 IN ✦ INDIA 💢 AM ✦ ARMENIA 💢 IL ✦ ISRAEL 💢 AF: AFRİCA ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://smarterss.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://smarterss.xyz:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 30 Temmuz 2024 19:04
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 01 Ocak 2030 19:04
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ sdt5423
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 619a25c991f313a9
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kyiv
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 130.0.234.224
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Green Floid LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 16 Nisan 2026 - 11:41
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 1724 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 14367 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 3324 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/get.php?username=sdt5423&password=619a25c991f313a9&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/xmltv.php?username=sdt5423&password=619a25c991f313a9&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✦ ULUSAL 💢 TR ✦ HEVC 💢 TR ✦ HABERLER 💢 TR ✦ BELGESEL 💢 TR ✦ ÇOCUK 💢 TR ✦ be*IN SPORTS LIVE 💢 TR ✦ SüPERLiG öZET & TEKRAR 💢 TR ✦ SPORT ARENA 💢 TR ✦ S SPORT 💢 TR ✦ TABII SPOR 💢 TR ✦ EXXEN SPORTS 💢 TR ✦ be*IN & SMART MOVIES 💢 TR ✦ DİNİ 💢 TR ✦ YEREL 💢 TR ✦ MÜZİK 💢 TR ✦ 7/24  ANİMASYON 💢 TR ✦ 7/24  BELGESEL 💢 TR ✦ 7/24 CINETURK 💢 TR ✦ 7/24  CINEVERSE 💢 TR ✦ 7/24  CINEMAXIMUM 💢 TR ✦ 7/24  CINEBOXSET 💢 TR ✦ 7/24  CINESTARS 💢 TR ✦ 7/24  YEŞİLÇAM 💢 TR ✦ 7/24  YEŞİLÇAM  DOLBY 💢 TR ✦ 7/24  MARVEL & WESTERN 💢 TR ✦ 7/24  NETFLIX CLUB 💢 TR ✦ 7/24  EXXEN SHOW 💢 TR ✦ 7/24  YERLİ DİZİLER 💢 TR ✦ 7/24  YABANCI DİZİLER 💢 EU ✦ F1 FORMULA RACING 💢 EU ✦ WORLD SPORT ARENA 💢 EU ✦ VIAPLAY SPORTS 💢 EU ✦ UFC FIGHT PASS 💢 EU ✦ NBA LEAUGE PASS 💢 EU ✦ NFL GAME PASS 💢 EU ✦ NHL GAME PASS 💢 EU ✦ 7/24   DANCE PARTY 💢 EU ✦ 7/24   CLUBBING MIX 💢 EU ✦ 7/24   DJ PERFORMANCE 💢 EU ✦ 7/24   RELAXING 💢 EU ✦ LIVE CAM 💢 TV ✦ SCREENSAVER 💢 XXX  ✦ LIVE ADULT 💢 XXX ✦ DOLBY ADULT ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://smarterss.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://smarterss.xyz:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 12 Şubat 2025 18:39
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 03 Haziran 2026 14:30
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ brknt1931cep
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ brk2404ss00
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kyiv
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 130.0.234.224
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Green Floid LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 16 Nisan 2026 - 13:13
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8234 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 35334 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 5900 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/get.php?username=brknt1931cep&password=brk2404ss00&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/xmltv.php?username=brknt1931cep&password=brk2404ss00&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✦ ULUSAL 💢 TR ✦ HEVC 💢 TR ✦ HABERLER 💢 TR ✦ BELGESEL 💢 TR ✦ ÇOCUK 💢 TR ✦ be*IN SPORTS LIVE 💢 TR ✦ SüPERLiG öZET & TEKRAR 💢 TR ✦ SPORT ARENA 💢 TR ✦ S SPORT 💢 TR ✦ TABII SPOR 💢 TR ✦ EXXEN SPORTS 💢 TR ✦ be*IN & SMART MOVIES 💢 TR ✦ DİNİ 💢 TR ✦ YEREL 💢 TR ✦ MÜZİK 💢 TR ✦ 7/24  ANİMASYON 💢 TR ✦ 7/24  BELGESEL 💢 TR ✦ 7/24 CINETURK 💢 TR ✦ 7/24  CINEVERSE 💢 TR ✦ 7/24  CINEMAXIMUM 💢 TR ✦ 7/24  CINEBOXSET 💢 TR ✦ 7/24  CINESTARS 💢 TR ✦ 7/24  YEŞİLÇAM 💢 TR ✦ 7/24  YEŞİLÇAM  DOLBY 💢 TR ✦ 7/24  MARVEL & WESTERN 💢 TR ✦ 7/24  NETFLIX CLUB 💢 TR ✦ 7/24  EXXEN SHOW 💢 TR ✦ 7/24  YERLİ DİZİLER 💢 TR ✦ 7/24  YABANCI DİZİLER 💢 KKTC ✦ KIBRIS 💢 AZ ✦ AZERBAYCAN 💢 DE ✦ DEUTSCHLAND 💢 DE ✦ HEVC 💢 DE ✦ NACHRICHTEN 💢 DE ✦ DOKU 💢 DE ✦ KINDER 💢 DE ✦ REGIONAL 💢 DE ✦ SKY BUNDESLIGA 💢 DE ✦ SKY SPORT ARENA 💢 DE ✦ DAZN SPORT ARENA 💢 DE ✦ SPORT ARENA 💢 DE ✦ MAGENTA SPORT ARENA 💢 DE ✦ DYN SPORT 💢 DE ✦ EUROSPORT EXTRA 💢 DE ✦ RTL+ SPORT ARENA ( EVENT TIME ) 💢 DE ✦ MUSIK 💢 DE ✦ SKY ENTERTAINMENT 💢 DE ✦ 24/7  SKY BOX 💢 DE ✦ 24/7  SKY SELECT 💢 DE ✦ 24/7  KINO DOLBY 💢 DE ✦ 24/7  KINOBOX 💢 DE ✦ 24/7  KINO BOXSET 💢 DE ✦ 24/7  CINESTARS 💢 DE ✦ 24/7  4K ULTRA PREMIERE 💢 DE ✦ 24/7  NETFLIX STORE 💢 DE ✦ 24/7  SERIEN STORE 💢 DE ✦ 24/7  KINDER KINO 💢 DE ✦ 24/7  KINDER STORE 💢 AT ✦ ÖSTERREICH 💢 AT ✦ ÖSTERREICH SPORT ARENA 💢 AT ✦ 24/7 KINDER 💢 EU ✦ F1 FORMULA RACING 💢 EU ✦ WORLD SPORT ARENA 💢 EU ✦ VIAPLAY SPORTS 💢 EU ✦ UFC FIGHT PASS 💢 EU ✦ NBA LEAUGE PASS 💢 EU ✦ NFL GAME PASS 💢 EU ✦ NHL GAME PASS 💢 EU ✦ 7/24   DANCE PARTY 💢 EU ✦ 7/24   CLUBBING MIX 💢 EU ✦ 7/24   DJ PERFORMANCE 💢 EU ✦ 7/24   RELAXING 💢 EU ✦ LIVE CAM 💢 TV ✦ SCREENSAVER 💢 KR ✦ KURDISH 💢 BE ✦ BELGIUM 💢 CH ✦ SWISS 💢 CH ✦ SWISS  SPORT ARENA 💢 CH ✦ SWISS CINEBOX 💢 NL ✦ NETHERLAND 💢 NL ✦ REGIONAAL 💢 NL ✦ SPORT ARENA 💢 NL ✦ DOKUMANTAIRE 💢 NL ✦ BIOSCOOP 💢 NL ✦ KIDS VOOR KINDEREN 💢 NL ✦ MUZIEK 💢 FR ✦ FRANCE 💢 FR ✦ ENFANTS 💢 FR ✦ SPORT ARENA 💢 FR ✦ DAZN SPORT ARENA 💢 FR ✦ CINEMABOX 💢 FR ✦ 24/7  A LA CARTE 💢 FR ✦ DECOUVERTE 💢 FR ✦ MUSIQUE 💢 IT ✦ ITALIA 💢 IT ✦ BAMBINI 💢 IT ✦ SKY SPORT ARENA 💢 IT ✦ DAZN SPORT ARENA 💢 IT ✦ SKY CINEBOX 💢 IT ✦ SKY CALCIO 💢 IT ✦ DOCUMENTAZIONE 💢 IT ✦ SKY PRIMAFILA 💢 UK ✦ ENGLAND 💢 UK ✦ KIDS 💢 UK ✦ SPORT ARENA 💢 UK ✦ CINEBOX 💢 UK ✦ ENTERTAINMENT 💢 UK ✦ DOCUMENTARY 💢 UK ✦ LIVE MUSIC 💢 PL ✦ POLAND 💢 PL ✦ KIDS DLA DZIECI 💢 PL ✦ SPORTY 💢 PL ✦ CINEBOX 💢 PL ✦ 24/7 CINEBOX 💢 PL ✦ DOKUMENTACJA 💢 GR ✦ Ελλάδα / GREECE 💢 GR ✦ Ελλάδα NOVA / COSMOTE κινηματογράφος 💢 GR ✦ Ελλάδα NOVA/ COSMOTE αθλητισμός 💢 GR ✦ 24/7 CINEVERSE 💢 GR ✦ παιδιά 💢 GR ✦ τεκμηρίωση 💢 ALB ✦ BIG BROTHER 💢 ALB ✦ Shqipëri ALBANIA VENDAS 💢 ALB ✦ Shqipëri PËR FËMIJË 💢 ALB ✦ Shqipëri DOKU 💢 ALB ✦ Shqipëri SPORT 💢 ALB ✦ Shqipëri Muzikë / fëmijët 💢 ALB ✦ Shqipëri FILM 💢 ALB ✦ 7/24 PLATFORMA DOLBY FILMA 💢 ALB ✦ 7/24 Serialet TURKE 💢 ALB ✦ 7/24 SERIALE TË HUAJA 💢 SRB ✦ Србија 💢 CR ✦ CROATIA 💢 EXYU ✦ SPORT ARENA 💢 EXYU ✦ BALKAN PINK 💢 EXYU ✦ CINEVERSE 💢 EXYU ✦ 24/7  FILMOVE & SERIJE 💢 EXYU ✦ DOKU 💢 EXYU ✦ KIDS 💢 BIH ✦ BOSNIA HERCEGOVINA 💢 MK ✦ MACEDONIA 💢 HU ✦ HUNGARY 💢 HU ✦ KIDS 💢 HU ✦ SPORT ARENA 💢 HU ✦ CINEBOX 💢 HU ✦ DOCUMENTARY 💢 HU ✦ MUSIK 💢 HU ✦ REGIO 💢 CZ ✦ česká REPUBLIKA 💢 CZ ✦ KIDS 💢 CZ ✦ DOCU 💢 CZ ✦ SPORT ARENA 💢 CZ ✦ CINEBOX 💢 CZ ✦ MUSIC 💢 SWE ✦ SVERIGE UNDERHALLNING 💢 SWE ✦ SVERIGER BARNKANALER 💢 SWE ✦ SVERIGE SPORT ARENA 💢 SWE ✦ SVERIGE BIOKANALER 💢 SWE ✦ SVERIGE DOKUMENTATION 💢 DK ✦ DENMARK 💢 NO ✦ GENERAL 💢 NO ✦ KIDS 💢 NO ✦ SPORTS 💢 NO ✦ ENTERTAINMENT 💢 NO ✦ CINEBOX 💢 NO ✦ DOCUMENTARY 💢 FI ✦ FINNLAND 💢 BG ✦ България BULGARIA 💢 BG ✦ спортен / SPORTEN ARENA 💢 BG ✦ документация / DOKUMENTATSIYA 💢 BG ✦ музика 💢 BG ✦ деца 💢 BG ✦ кино / KINO 💢 RO ✦ România în DIRECT 💢 RO ✦ KIDS & COPII 💢 RO ✦ SPORT ARENA 💢 RO ✦ CINEBOX 💢 RO ✦ DOCUMANTATIE 💢 RO ✦ MUZICA 💢 ES ✦ SPAIN 💢 ES ✦ INFANTIL 💢 ES ✦ DEPORTES ARENA 💢 ES ✦ DAZN SPORT ARENA 💢 ES ✦ CINEBOX 💢 ES ✦ DOCUMENTALES 💢 ES ✦ MUSIC 💢 PT ✦ PORTUGAL 💢 PT ✦ KIDS 💢 PT ✦ SPORT ARENA 💢 PT ✦ ENTERTAINMENT 💢 PT ✦ DOCUMENTARY 💢 RU ✦ Спорт 💢 RU ✦ Развлечения 💢 RU ✦ документальный 💢 RU ✦ Новости 💢 RU ✦ фильм & Серии 💢 RU ✦ Дети 💢 RU ✦ Музыка 💢 UKR ✦UKRAINE 💢 USA ✦ UNITED STATES OF AMERICA 💢 USA ✦ NEWS 💢 USA ✦ DOCUMENTARY 💢 USA ✦ KIDS 💢 USA ✦ SPORT 💢 USA ✦ CINEBOX 💢 USA ✦ MUSIC 💢 AR ✦ KIDS ARABIA 💢 AR ✦ NEWS ARABIA 💢 AR ✦ Be*IN SPORTS 💢 AR ✦ SPORTS 💢 AR ✦ STARZPLAY 💢 AR✦ ALFAJER 💢 AR ✦ AL MAJD 💢 AR ✦ CHRISTIAN 💢 AR ✦ Be*IN ENTERTAINMENT 💢 AR ✦ OSN 💢 AR ✦ MBC+ 💢 AR ✦ ROTANA ART 💢 AR ✦ ISLAMIC ARABIA 💢 AR ✦ SYRIA 💢 AR ✦ TUNUSIA 💢 AR ✦ MOROCCO 💢 AR ✦ MOROCCO TNT 💢 AR ✦ ALGERIA 💢 AR ✦ EGYPT 💢 AR ✦ SAUDI ARABIA 💢 AR ✦ OMAN QATAR 💢 AR ✦ IRAN 💢 AR ✦ LIBYA 💢 AR ✦ IRAQ 💢 AR ✦ DUBAI 💢 AR ✦ LEBENON 💢 AR ✦ KUWAIT YEMEN 💢 AR ✦ SUDAN 💢 AR ✦ PALESTINE 💢 AR ✦ JORDAN 💢 AR ✦ BAHRAIN 💢 IN ✦ INDIA 💢 AM ✦ ARMENIA 💢 IL ✦ ISRAEL 💢 AF: AFRİCA 💢 XXX  ✦ LIVE ADULT 💢 XXX ✦ DOLBY ADULT ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://smarterss.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://smarterss.xyz:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 25 Aralık 2023 23:30
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 08 Ocak 2027 18:53
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ bgcn9856
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ cn.25122023
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kyiv
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 130.0.234.224
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Green Floid LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 16 Nisan 2026 - 17:50
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8001 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 27450 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 5816 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/get.php?username=bgcn9856&password=cn.25122023&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/xmltv.php?username=bgcn9856&password=cn.25122023&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✦ ULUSAL 💢 TR ✦ HEVC 💢 TR ✦ HABERLER 💢 TR ✦ BELGESEL 💢 TR ✦ ÇOCUK 💢 TR ✦ be*IN SPORTS LIVE 💢 TR ✦ SüPERLiG öZET & TEKRAR 💢 TR ✦ SPORT ARENA 💢 TR ✦ S SPORT 💢 TR ✦ TABII SPOR 💢 TR ✦ EXXEN SPORTS 💢 TR ✦ be*IN & SMART MOVIES 💢 TR ✦ DİNİ 💢 TR ✦ YEREL 💢 TR ✦ MÜZİK 💢 TR ✦ 7/24  ANİMASYON 💢 TR ✦ 7/24  BELGESEL 💢 TR ✦ 7/24 CINETURK 💢 TR ✦ 7/24  CINEVERSE 💢 TR ✦ 7/24  CINEMAXIMUM 💢 TR ✦ 7/24  CINEBOXSET 💢 TR ✦ 7/24  CINESTARS 💢 TR ✦ 7/24  YEŞİLÇAM 💢 TR ✦ 7/24  YEŞİLÇAM  DOLBY 💢 TR ✦ 7/24  MARVEL & WESTERN 💢 TR ✦ 7/24  NETFLIX CLUB 💢 TR ✦ 7/24  EXXEN SHOW 💢 TR ✦ 7/24  YERLİ DİZİLER 💢 TR ✦ 7/24  YABANCI DİZİLER 💢 KKTC ✦ KIBRIS 💢 AZ ✦ AZERBAYCAN 💢 DE ✦ DEUTSCHLAND 💢 DE ✦ HEVC 💢 DE ✦ NACHRICHTEN 💢 DE ✦ DOKU 💢 DE ✦ KINDER 💢 DE ✦ REGIONAL 💢 DE ✦ SKY BUNDESLIGA 💢 DE ✦ SKY SPORT ARENA 💢 DE ✦ DAZN SPORT ARENA 💢 DE ✦ SPORT ARENA 💢 DE ✦ MAGENTA SPORT ARENA 💢 DE ✦ DYN SPORT 💢 DE ✦ EUROSPORT EXTRA 💢 DE ✦ RTL+ SPORT ARENA ( EVENT TIME ) 💢 DE ✦ MUSIK 💢 DE ✦ SKY ENTERTAINMENT 💢 DE ✦ 24/7  SKY BOX 💢 DE ✦ 24/7  SKY SELECT 💢 DE ✦ 24/7  KINO DOLBY 💢 DE ✦ 24/7  KINOBOX 💢 DE ✦ 24/7  KINO BOXSET 💢 DE ✦ 24/7  CINESTARS 💢 DE ✦ 24/7  4K ULTRA PREMIERE 💢 DE ✦ 24/7  NETFLIX STORE 💢 DE ✦ 24/7  SERIEN STORE 💢 DE ✦ 24/7  KINDER KINO 💢 DE ✦ 24/7  KINDER STORE 💢 AT ✦ ÖSTERREICH 💢 AT ✦ ÖSTERREICH SPORT ARENA 💢 AT ✦ 24/7 KINDER 💢 EU ✦ F1 FORMULA RACING 💢 EU ✦ WORLD SPORT ARENA 💢 EU ✦ VIAPLAY SPORTS 💢 EU ✦ UFC FIGHT PASS 💢 EU ✦ NBA LEAUGE PASS 💢 EU ✦ NFL GAME PASS 💢 EU ✦ NHL GAME PASS 💢 EU ✦ 7/24   DANCE PARTY 💢 EU ✦ 7/24   CLUBBING MIX 💢 EU ✦ 7/24   DJ PERFORMANCE 💢 EU ✦ 7/24   RELAXING 💢 EU ✦ LIVE CAM 💢 TV ✦ SCREENSAVER 💢 KR ✦ KURDISH 💢 BE ✦ BELGIUM 💢 CH ✦ SWISS 💢 CH ✦ SWISS  SPORT ARENA 💢 CH ✦ SWISS CINEBOX 💢 NL ✦ NETHERLAND 💢 NL ✦ REGIONAAL 💢 NL ✦ SPORT ARENA 💢 NL ✦ DOKUMANTAIRE 💢 NL ✦ BIOSCOOP 💢 NL ✦ KIDS VOOR KINDEREN 💢 NL ✦ MUZIEK 💢 FR ✦ FRANCE 💢 FR ✦ ENFANTS 💢 FR ✦ SPORT ARENA 💢 FR ✦ DAZN SPORT ARENA 💢 FR ✦ CINEMABOX 💢 FR ✦ 24/7  A LA CARTE 💢 FR ✦ DECOUVERTE 💢 FR ✦ MUSIQUE 💢 IT ✦ ITALIA 💢 IT ✦ BAMBINI 💢 IT ✦ SKY SPORT ARENA 💢 IT ✦ DAZN SPORT ARENA 💢 IT ✦ SKY CINEBOX 💢 IT ✦ SKY CALCIO 💢 IT ✦ DOCUMENTAZIONE 💢 IT ✦ SKY PRIMAFILA 💢 UK ✦ ENGLAND 💢 UK ✦ KIDS 💢 UK ✦ SPORT ARENA 💢 UK ✦ CINEBOX 💢 UK ✦ ENTERTAINMENT 💢 UK ✦ DOCUMENTARY 💢 UK ✦ LIVE MUSIC 💢 PL ✦ POLAND 💢 PL ✦ KIDS DLA DZIECI 💢 PL ✦ SPORTY 💢 PL ✦ CINEBOX 💢 PL ✦ 24/7 CINEBOX 💢 PL ✦ DOKUMENTACJA 💢 GR ✦ Ελλάδα / GREECE 💢 GR ✦ Ελλάδα NOVA / COSMOTE κινηματογράφος 💢 GR ✦ Ελλάδα NOVA/ COSMOTE αθλητισμός 💢 GR ✦ 24/7 CINEVERSE 💢 GR ✦ παιδιά 💢 GR ✦ τεκμηρίωση 💢 ALB ✦ BIG BROTHER 💢 ALB ✦ Shqipëri ALBANIA VENDAS 💢 ALB ✦ Shqipëri PËR FËMIJË 💢 ALB ✦ Shqipëri DOKU 💢 ALB ✦ Shqipëri SPORT 💢 ALB ✦ Shqipëri Muzikë / fëmijët 💢 ALB ✦ Shqipëri FILM 💢 ALB ✦ 7/24 PLATFORMA DOLBY FILMA 💢 ALB ✦ 7/24 Serialet TURKE 💢 ALB ✦ 7/24 SERIALE TË HUAJA 💢 SRB ✦ Србија 💢 CR ✦ CROATIA 💢 EXYU ✦ SPORT ARENA 💢 EXYU ✦ BALKAN PINK 💢 EXYU ✦ CINEVERSE 💢 EXYU ✦ 24/7  FILMOVE & SERIJE 💢 EXYU ✦ DOKU 💢 EXYU ✦ KIDS 💢 BIH ✦ BOSNIA HERCEGOVINA 💢 MK ✦ MACEDONIA 💢 HU ✦ HUNGARY 💢 HU ✦ KIDS 💢 HU ✦ SPORT ARENA 💢 HU ✦ CINEBOX 💢 HU ✦ DOCUMENTARY 💢 HU ✦ MUSIK 💢 HU ✦ REGIO 💢 CZ ✦ česká REPUBLIKA 💢 CZ ✦ KIDS 💢 CZ ✦ DOCU 💢 CZ ✦ SPORT ARENA 💢 CZ ✦ CINEBOX 💢 CZ ✦ MUSIC 💢 SWE ✦ SVERIGE UNDERHALLNING 💢 SWE ✦ SVERIGER BARNKANALER 💢 SWE ✦ SVERIGE SPORT ARENA 💢 SWE ✦ SVERIGE BIOKANALER 💢 SWE ✦ SVERIGE DOKUMENTATION 💢 DK ✦ DENMARK 💢 NO ✦ GENERAL 💢 NO ✦ KIDS 💢 NO ✦ SPORTS 💢 NO ✦ ENTERTAINMENT 💢 NO ✦ CINEBOX 💢 NO ✦ DOCUMENTARY 💢 FI ✦ FINNLAND 💢 BG ✦ България BULGARIA 💢 BG ✦ спортен / SPORTEN ARENA 💢 BG ✦ документация / DOKUMENTATSIYA 💢 BG ✦ музика 💢 BG ✦ деца 💢 BG ✦ кино / KINO 💢 RO ✦ România în DIRECT 💢 RO ✦ KIDS & COPII 💢 RO ✦ SPORT ARENA 💢 RO ✦ CINEBOX 💢 RO ✦ DOCUMANTATIE 💢 RO ✦ MUZICA 💢 ES ✦ SPAIN 💢 ES ✦ INFANTIL 💢 ES ✦ DEPORTES ARENA 💢 ES ✦ DAZN SPORT ARENA 💢 ES ✦ CINEBOX 💢 ES ✦ DOCUMENTALES 💢 ES ✦ MUSIC 💢 PT ✦ PORTUGAL 💢 PT ✦ KIDS 💢 PT ✦ SPORT ARENA 💢 PT ✦ ENTERTAINMENT 💢 PT ✦ DOCUMENTARY 💢 RU ✦ Спорт 💢 RU ✦ Развлечения 💢 RU ✦ документальный 💢 RU ✦ Новости 💢 RU ✦ фильм & Серии 💢 RU ✦ Дети 💢 RU ✦ Музыка 💢 UKR ✦UKRAINE 💢 USA ✦ UNITED STATES OF AMERICA 💢 USA ✦ NEWS 💢 USA ✦ DOCUMENTARY 💢 USA ✦ KIDS 💢 USA ✦ SPORT 💢 USA ✦ CINEBOX 💢 USA ✦ MUSIC 💢 AR ✦ KIDS ARABIA 💢 AR ✦ NEWS ARABIA 💢 AR ✦ Be*IN SPORTS 💢 AR ✦ SPORTS 💢 AR ✦ STARZPLAY 💢 AR✦ ALFAJER 💢 AR ✦ AL MAJD 💢 AR ✦ CHRISTIAN 💢 AR ✦ Be*IN ENTERTAINMENT 💢 AR ✦ OSN 💢 AR ✦ MBC+ 💢 AR ✦ ROTANA ART 💢 AR ✦ ISLAMIC ARABIA 💢 AR ✦ SYRIA 💢 AR ✦ TUNUSIA 💢 AR ✦ MOROCCO 💢 AR ✦ MOROCCO TNT 💢 AR ✦ ALGERIA 💢 AR ✦ EGYPT 💢 AR ✦ SAUDI ARABIA 💢 AR ✦ OMAN QATAR 💢 AR ✦ IRAN 💢 AR ✦ LIBYA 💢 AR ✦ IRAQ 💢 AR ✦ DUBAI 💢 AR ✦ LEBENON 💢 AR ✦ KUWAIT YEMEN 💢 AR ✦ SUDAN 💢 AR ✦ PALESTINE 💢 AR ✦ JORDAN 💢 AR ✦ BAHRAIN 💢 IN ✦ INDIA 💢 IL ✦ ISRAEL 💢 AF: AFRİCA ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://smarterss.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://smarterss.xyz:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 12 Şubat 2025 18:01
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 06 Haziran 2026 03:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ hkn8696
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ hkn1403ss00
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kyiv
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 130.0.234.224
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Green Floid LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 16 Nisan 2026 - 18:27
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 1370 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 190 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 1195 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/get.php?username=hkn8696&password=hkn1403ss00&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/xmltv.php?username=hkn8696&password=hkn1403ss00&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✦ ULUSAL 💢 TR ✦ HEVC 💢 TR ✦ HABERLER 💢 TR ✦ BELGESEL 💢 TR ✦ ÇOCUK 💢 TR ✦ be*IN SPORTS LIVE 💢 TR ✦ SüPERLiG öZET & TEKRAR 💢 TR ✦ SPORT ARENA 💢 TR ✦ S SPORT 💢 TR ✦ TABII SPOR 💢 TR ✦ EXXEN SPORTS 💢 TR ✦ be*IN & SMART MOVIES 💢 TR ✦ DİNİ 💢 TR ✦ YEREL 💢 TR ✦ MÜZİK 💢 TR ✦ 7/24  ANİMASYON 💢 TR ✦ 7/24  BELGESEL 💢 TR ✦ 7/24 CINETURK 💢 TR ✦ 7/24  CINEVERSE 💢 TR ✦ 7/24  CINEMAXIMUM 💢 TR ✦ 7/24  CINEBOXSET 💢 TR ✦ 7/24  CINESTARS 💢 TR ✦ 7/24  YEŞİLÇAM 💢 TR ✦ 7/24  YEŞİLÇAM  DOLBY 💢 TR ✦ 7/24  MARVEL & WESTERN 💢 TR ✦ 7/24  NETFLIX CLUB 💢 TR ✦ 7/24  EXXEN SHOW 💢 TR ✦ 7/24  YERLİ DİZİLER 💢 TR ✦ 7/24  YABANCI DİZİLER 💢 EU ✦ VIAPLAY SPORTS 💢 EU ✦ UFC FIGHT PASS 💢 EU ✦ NBA LEAUGE PASS 💢 EU ✦ NFL GAME PASS 💢 EU ✦ NHL GAME PASS 💢 EU ✦ 7/24   DANCE PARTY 💢 EU ✦ 7/24   CLUBBING MIX 💢 EU ✦ 7/24   DJ PERFORMANCE 💢 EU ✦ 7/24   RELAXING 💢 TV ✦ SCREENSAVER ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://smarterss.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://smarterss.xyz:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 12 Şubat 2025 18:01
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 01 Haziran 2026 13:37
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ smnnn6011
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ smn2312yy00
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kyiv
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 130.0.234.224
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Green Floid LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 16 Nisan 2026 - 18:52
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8022 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 31800 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 5900 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/get.php?username=smnnn6011&password=smn2312yy00&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/xmltv.php?username=smnnn6011&password=smn2312yy00&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✦ ULUSAL 💢 TR ✦ HEVC 💢 TR ✦ HABERLER 💢 TR ✦ BELGESEL 💢 TR ✦ ÇOCUK 💢 TR ✦ be*IN SPORTS LIVE 💢 TR ✦ SüPERLiG öZET & TEKRAR 💢 TR ✦ SPORT ARENA 💢 TR ✦ S SPORT 💢 TR ✦ TABII SPOR 💢 TR ✦ EXXEN SPORTS 💢 TR ✦ be*IN & SMART MOVIES 💢 TR ✦ DİNİ 💢 TR ✦ YEREL 💢 TR ✦ MÜZİK 💢 TR ✦ 7/24  ANİMASYON 💢 TR ✦ 7/24  BELGESEL 💢 TR ✦ 7/24 CINETURK 💢 TR ✦ 7/24  CINEVERSE 💢 TR ✦ 7/24  CINEMAXIMUM 💢 TR ✦ 7/24  CINEBOXSET 💢 TR ✦ 7/24  CINESTARS 💢 TR ✦ 7/24  YEŞİLÇAM 💢 TR ✦ 7/24  YEŞİLÇAM  DOLBY 💢 TR ✦ 7/24  MARVEL & WESTERN 💢 TR ✦ 7/24  NETFLIX CLUB 💢 TR ✦ 7/24  EXXEN SHOW 💢 TR ✦ 7/24  YERLİ DİZİLER 💢 TR ✦ 7/24  YABANCI DİZİLER 💢 KKTC ✦ KIBRIS 💢 AZ ✦ AZERBAYCAN 💢 DE ✦ DEUTSCHLAND 💢 DE ✦ HEVC 💢 DE ✦ NACHRICHTEN 💢 DE ✦ DOKU 💢 DE ✦ KINDER 💢 DE ✦ REGIONAL 💢 DE ✦ SKY BUNDESLIGA 💢 DE ✦ SKY SPORT ARENA 💢 DE ✦ DAZN SPORT ARENA 💢 DE ✦ SPORT ARENA 💢 DE ✦ MAGENTA SPORT ARENA 💢 DE ✦ DYN SPORT 💢 DE ✦ EUROSPORT EXTRA 💢 DE ✦ RTL+ SPORT ARENA ( EVENT TIME ) 💢 DE ✦ MUSIK 💢 DE ✦ SKY ENTERTAINMENT 💢 DE ✦ 24/7  SKY BOX 💢 DE ✦ 24/7  SKY SELECT 💢 DE ✦ 24/7  KINO DOLBY 💢 DE ✦ 24/7  KINOBOX 💢 DE ✦ 24/7  KINO BOXSET 💢 DE ✦ 24/7  CINESTARS 💢 DE ✦ 24/7  4K ULTRA PREMIERE 💢 DE ✦ 24/7  NETFLIX STORE 💢 DE ✦ 24/7  SERIEN STORE 💢 DE ✦ 24/7  KINDER KINO 💢 DE ✦ 24/7  KINDER STORE 💢 AT ✦ ÖSTERREICH 💢 AT ✦ ÖSTERREICH SPORT ARENA 💢 AT ✦ 24/7 KINDER 💢 EU ✦ F1 FORMULA RACING 💢 EU ✦ WORLD SPORT ARENA 💢 EU ✦ VIAPLAY SPORTS 💢 EU ✦ UFC FIGHT PASS 💢 EU ✦ NBA LEAUGE PASS 💢 EU ✦ NFL GAME PASS 💢 EU ✦ NHL GAME PASS 💢 EU ✦ 7/24   DANCE PARTY 💢 EU ✦ 7/24   CLUBBING MIX 💢 EU ✦ 7/24   DJ PERFORMANCE 💢 EU ✦ 7/24   RELAXING 💢 EU ✦ LIVE CAM 💢 TV ✦ SCREENSAVER 💢 KR ✦ KURDISH 💢 BE ✦ BELGIUM 💢 CH ✦ SWISS 💢 CH ✦ SWISS  SPORT ARENA 💢 CH ✦ SWISS CINEBOX 💢 NL ✦ NETHERLAND 💢 NL ✦ REGIONAAL 💢 NL ✦ SPORT ARENA 💢 NL ✦ DOKUMANTAIRE 💢 NL ✦ BIOSCOOP 💢 NL ✦ KIDS VOOR KINDEREN 💢 NL ✦ MUZIEK 💢 FR ✦ FRANCE 💢 FR ✦ ENFANTS 💢 FR ✦ SPORT ARENA 💢 FR ✦ DAZN SPORT ARENA 💢 FR ✦ CINEMABOX 💢 FR ✦ 24/7  A LA CARTE 💢 FR ✦ DECOUVERTE 💢 FR ✦ MUSIQUE 💢 IT ✦ ITALIA 💢 IT ✦ BAMBINI 💢 IT ✦ SKY SPORT ARENA 💢 IT ✦ DAZN SPORT ARENA 💢 IT ✦ SKY CINEBOX 💢 IT ✦ SKY CALCIO 💢 IT ✦ DOCUMENTAZIONE 💢 IT ✦ SKY PRIMAFILA 💢 UK ✦ ENGLAND 💢 UK ✦ KIDS 💢 UK ✦ SPORT ARENA 💢 UK ✦ CINEBOX 💢 UK ✦ ENTERTAINMENT 💢 UK ✦ DOCUMENTARY 💢 UK ✦ LIVE MUSIC 💢 PL ✦ POLAND 💢 PL ✦ KIDS DLA DZIECI 💢 PL ✦ SPORTY 💢 PL ✦ CINEBOX 💢 PL ✦ 24/7 CINEBOX 💢 PL ✦ DOKUMENTACJA 💢 GR ✦ Ελλάδα / GREECE 💢 GR ✦ Ελλάδα NOVA / COSMOTE κινηματογράφος 💢 GR ✦ Ελλάδα NOVA/ COSMOTE αθλητισμός 💢 GR ✦ 24/7 CINEVERSE 💢 GR ✦ παιδιά 💢 GR ✦ τεκμηρίωση 💢 ALB ✦ BIG BROTHER 💢 ALB ✦ Shqipëri ALBANIA VENDAS 💢 ALB ✦ Shqipëri PËR FËMIJË 💢 ALB ✦ Shqipëri DOKU 💢 ALB ✦ Shqipëri SPORT 💢 ALB ✦ Shqipëri Muzikë / fëmijët 💢 ALB ✦ Shqipëri FILM 💢 ALB ✦ 7/24 PLATFORMA DOLBY FILMA 💢 ALB ✦ 7/24 Serialet TURKE 💢 ALB ✦ 7/24 SERIALE TË HUAJA 💢 SRB ✦ Србија 💢 CR ✦ CROATIA 💢 EXYU ✦ SPORT ARENA 💢 EXYU ✦ BALKAN PINK 💢 EXYU ✦ CINEVERSE 💢 EXYU ✦ 24/7  FILMOVE & SERIJE 💢 EXYU ✦ DOKU 💢 EXYU ✦ KIDS 💢 BIH ✦ BOSNIA HERCEGOVINA 💢 MK ✦ MACEDONIA 💢 HU ✦ HUNGARY 💢 HU ✦ KIDS 💢 HU ✦ SPORT ARENA 💢 HU ✦ CINEBOX 💢 HU ✦ DOCUMENTARY 💢 HU ✦ MUSIK 💢 HU ✦ REGIO 💢 CZ ✦ česká REPUBLIKA 💢 CZ ✦ KIDS 💢 CZ ✦ DOCU 💢 CZ ✦ SPORT ARENA 💢 CZ ✦ CINEBOX 💢 CZ ✦ MUSIC 💢 SWE ✦ SVERIGE UNDERHALLNING 💢 SWE ✦ SVERIGER BARNKANALER 💢 SWE ✦ SVERIGE SPORT ARENA 💢 SWE ✦ SVERIGE BIOKANALER 💢 SWE ✦ SVERIGE DOKUMENTATION 💢 DK ✦ DENMARK 💢 NO ✦ GENERAL 💢 NO ✦ KIDS 💢 NO ✦ SPORTS 💢 NO ✦ ENTERTAINMENT 💢 NO ✦ CINEBOX 💢 NO ✦ DOCUMENTARY 💢 FI ✦ FINNLAND 💢 BG ✦ България BULGARIA 💢 BG ✦ спортен / SPORTEN ARENA 💢 BG ✦ документация / DOKUMENTATSIYA 💢 BG ✦ музика 💢 BG ✦ деца 💢 BG ✦ кино / KINO 💢 RO ✦ România în DIRECT 💢 RO ✦ KIDS & COPII 💢 RO ✦ SPORT ARENA 💢 RO ✦ CINEBOX 💢 RO ✦ DOCUMANTATIE 💢 RO ✦ MUZICA 💢 ES ✦ SPAIN 💢 ES ✦ INFANTIL 💢 ES ✦ DEPORTES ARENA 💢 ES ✦ DAZN SPORT ARENA 💢 ES ✦ CINEBOX 💢 ES ✦ DOCUMENTALES 💢 ES ✦ MUSIC 💢 PT ✦ PORTUGAL 💢 PT ✦ KIDS 💢 PT ✦ SPORT ARENA 💢 PT ✦ ENTERTAINMENT 💢 PT ✦ DOCUMENTARY 💢 RU ✦ Спорт 💢 RU ✦ Развлечения 💢 RU ✦ документальный 💢 RU ✦ Новости 💢 RU ✦ фильм & Серии 💢 RU ✦ Дети 💢 RU ✦ Музыка 💢 UKR ✦UKRAINE 💢 USA ✦ UNITED STATES OF AMERICA 💢 USA ✦ NEWS 💢 USA ✦ DOCUMENTARY 💢 USA ✦ KIDS 💢 USA ✦ SPORT 💢 USA ✦ CINEBOX 💢 USA ✦ MUSIC 💢 AR ✦ KIDS ARABIA 💢 AR ✦ NEWS ARABIA 💢 AR ✦ Be*IN SPORTS 💢 AR ✦ SPORTS 💢 AR ✦ STARZPLAY 💢 AR✦ ALFAJER 💢 AR ✦ AL MAJD 💢 AR ✦ CHRISTIAN 💢 AR ✦ Be*IN ENTERTAINMENT 💢 AR ✦ OSN 💢 AR ✦ MBC+ 💢 AR ✦ ROTANA ART 💢 AR ✦ ISLAMIC ARABIA 💢 AR ✦ SYRIA 💢 AR ✦ TUNUSIA 💢 AR ✦ MOROCCO 💢 AR ✦ MOROCCO TNT 💢 AR ✦ ALGERIA 💢 AR ✦ EGYPT 💢 AR ✦ SAUDI ARABIA 💢 AR ✦ OMAN QATAR 💢 AR ✦ IRAN 💢 AR ✦ LIBYA 💢 AR ✦ IRAQ 💢 AR ✦ DUBAI 💢 AR ✦ LEBENON 💢 AR ✦ KUWAIT YEMEN 💢 AR ✦ SUDAN 💢 AR ✦ PALESTINE 💢 AR ✦ JORDAN 💢 AR ✦ BAHRAIN 💢 IN ✦ INDIA 💢 AM ✦ ARMENIA 💢 IL ✦ ISRAEL 💢 AF: AFRİCA ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://smarterss.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://smarterss.xyz:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 12 Şubat 2025 18:01
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 01 Haziran 2026 13:37
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ mhmh9078
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ mhmh5353yy5353
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kyiv
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 130.0.234.224
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Green Floid LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 16 Nisan 2026 - 21:43
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8022 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 31800 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 5900 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/get.php?username=mhmh9078&password=mhmh5353yy5353&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/xmltv.php?username=mhmh9078&password=mhmh5353yy5353&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✦ ULUSAL 💢 TR ✦ HEVC 💢 TR ✦ HABERLER 💢 TR ✦ BELGESEL 💢 TR ✦ ÇOCUK 💢 TR ✦ be*IN SPORTS LIVE 💢 TR ✦ SüPERLiG öZET & TEKRAR 💢 TR ✦ SPORT ARENA 💢 TR ✦ S SPORT 💢 TR ✦ TABII SPOR 💢 TR ✦ EXXEN SPORTS 💢 TR ✦ be*IN & SMART MOVIES 💢 TR ✦ DİNİ 💢 TR ✦ YEREL 💢 TR ✦ MÜZİK 💢 TR ✦ 7/24  ANİMASYON 💢 TR ✦ 7/24  BELGESEL 💢 TR ✦ 7/24 CINETURK 💢 TR ✦ 7/24  CINEVERSE 💢 TR ✦ 7/24  CINEMAXIMUM 💢 TR ✦ 7/24  CINEBOXSET 💢 TR ✦ 7/24  CINESTARS 💢 TR ✦ 7/24  YEŞİLÇAM 💢 TR ✦ 7/24  YEŞİLÇAM  DOLBY 💢 TR ✦ 7/24  MARVEL & WESTERN 💢 TR ✦ 7/24  NETFLIX CLUB 💢 TR ✦ 7/24  EXXEN SHOW 💢 TR ✦ 7/24  YERLİ DİZİLER 💢 TR ✦ 7/24  YABANCI DİZİLER 💢 KKTC ✦ KIBRIS 💢 AZ ✦ AZERBAYCAN 💢 DE ✦ DEUTSCHLAND 💢 DE ✦ HEVC 💢 DE ✦ NACHRICHTEN 💢 DE ✦ DOKU 💢 DE ✦ KINDER 💢 DE ✦ REGIONAL 💢 DE ✦ SKY BUNDESLIGA 💢 DE ✦ SKY SPORT ARENA 💢 DE ✦ DAZN SPORT ARENA 💢 DE ✦ SPORT ARENA 💢 DE ✦ MAGENTA SPORT ARENA 💢 DE ✦ DYN SPORT 💢 DE ✦ EUROSPORT EXTRA 💢 DE ✦ RTL+ SPORT ARENA ( EVENT TIME ) 💢 DE ✦ MUSIK 💢 DE ✦ SKY ENTERTAINMENT 💢 DE ✦ 24/7  SKY BOX 💢 DE ✦ 24/7  SKY SELECT 💢 DE ✦ 24/7  KINO DOLBY 💢 DE ✦ 24/7  KINOBOX 💢 DE ✦ 24/7  KINO BOXSET 💢 DE ✦ 24/7  CINESTARS 💢 DE ✦ 24/7  4K ULTRA PREMIERE 💢 DE ✦ 24/7  NETFLIX STORE 💢 DE ✦ 24/7  SERIEN STORE 💢 DE ✦ 24/7  KINDER KINO 💢 DE ✦ 24/7  KINDER STORE 💢 AT ✦ ÖSTERREICH 💢 AT ✦ ÖSTERREICH SPORT ARENA 💢 AT ✦ 24/7 KINDER 💢 EU ✦ F1 FORMULA RACING 💢 EU ✦ WORLD SPORT ARENA 💢 EU ✦ VIAPLAY SPORTS 💢 EU ✦ UFC FIGHT PASS 💢 EU ✦ NBA LEAUGE PASS 💢 EU ✦ NFL GAME PASS 💢 EU ✦ NHL GAME PASS 💢 EU ✦ 7/24   DANCE PARTY 💢 EU ✦ 7/24   CLUBBING MIX 💢 EU ✦ 7/24   DJ PERFORMANCE 💢 EU ✦ 7/24   RELAXING 💢 EU ✦ LIVE CAM 💢 TV ✦ SCREENSAVER 💢 KR ✦ KURDISH 💢 BE ✦ BELGIUM 💢 CH ✦ SWISS 💢 CH ✦ SWISS  SPORT ARENA 💢 CH ✦ SWISS CINEBOX 💢 NL ✦ NETHERLAND 💢 NL ✦ REGIONAAL 💢 NL ✦ SPORT ARENA 💢 NL ✦ DOKUMANTAIRE 💢 NL ✦ BIOSCOOP 💢 NL ✦ KIDS VOOR KINDEREN 💢 NL ✦ MUZIEK 💢 FR ✦ FRANCE 💢 FR ✦ ENFANTS 💢 FR ✦ SPORT ARENA 💢 FR ✦ DAZN SPORT ARENA 💢 FR ✦ CINEMABOX 💢 FR ✦ 24/7  A LA CARTE 💢 FR ✦ DECOUVERTE 💢 FR ✦ MUSIQUE 💢 IT ✦ ITALIA 💢 IT ✦ BAMBINI 💢 IT ✦ SKY SPORT ARENA 💢 IT ✦ DAZN SPORT ARENA 💢 IT ✦ SKY CINEBOX 💢 IT ✦ SKY CALCIO 💢 IT ✦ DOCUMENTAZIONE 💢 IT ✦ SKY PRIMAFILA 💢 UK ✦ ENGLAND 💢 UK ✦ KIDS 💢 UK ✦ SPORT ARENA 💢 UK ✦ CINEBOX 💢 UK ✦ ENTERTAINMENT 💢 UK ✦ DOCUMENTARY 💢 UK ✦ LIVE MUSIC 💢 PL ✦ POLAND 💢 PL ✦ KIDS DLA DZIECI 💢 PL ✦ SPORTY 💢 PL ✦ CINEBOX 💢 PL ✦ 24/7 CINEBOX 💢 PL ✦ DOKUMENTACJA 💢 GR ✦ Ελλάδα / GREECE 💢 GR ✦ Ελλάδα NOVA / COSMOTE κινηματογράφος 💢 GR ✦ Ελλάδα NOVA/ COSMOTE αθλητισμός 💢 GR ✦ 24/7 CINEVERSE 💢 GR ✦ παιδιά 💢 GR ✦ τεκμηρίωση 💢 ALB ✦ BIG BROTHER 💢 ALB ✦ Shqipëri ALBANIA VENDAS 💢 ALB ✦ Shqipëri PËR FËMIJË 💢 ALB ✦ Shqipëri DOKU 💢 ALB ✦ Shqipëri SPORT 💢 ALB ✦ Shqipëri Muzikë / fëmijët 💢 ALB ✦ Shqipëri FILM 💢 ALB ✦ 7/24 PLATFORMA DOLBY FILMA 💢 ALB ✦ 7/24 Serialet TURKE 💢 ALB ✦ 7/24 SERIALE TË HUAJA 💢 SRB ✦ Србија 💢 CR ✦ CROATIA 💢 EXYU ✦ SPORT ARENA 💢 EXYU ✦ BALKAN PINK 💢 EXYU ✦ CINEVERSE 💢 EXYU ✦ 24/7  FILMOVE & SERIJE 💢 EXYU ✦ DOKU 💢 EXYU ✦ KIDS 💢 BIH ✦ BOSNIA HERCEGOVINA 💢 MK ✦ MACEDONIA 💢 HU ✦ HUNGARY 💢 HU ✦ KIDS 💢 HU ✦ SPORT ARENA 💢 HU ✦ CINEBOX 💢 HU ✦ DOCUMENTARY 💢 HU ✦ MUSIK 💢 HU ✦ REGIO 💢 CZ ✦ česká REPUBLIKA 💢 CZ ✦ KIDS 💢 CZ ✦ DOCU 💢 CZ ✦ SPORT ARENA 💢 CZ ✦ CINEBOX 💢 CZ ✦ MUSIC 💢 SWE ✦ SVERIGE UNDERHALLNING 💢 SWE ✦ SVERIGER BARNKANALER 💢 SWE ✦ SVERIGE SPORT ARENA 💢 SWE ✦ SVERIGE BIOKANALER 💢 SWE ✦ SVERIGE DOKUMENTATION 💢 DK ✦ DENMARK 💢 NO ✦ GENERAL 💢 NO ✦ KIDS 💢 NO ✦ SPORTS 💢 NO ✦ ENTERTAINMENT 💢 NO ✦ CINEBOX 💢 NO ✦ DOCUMENTARY 💢 FI ✦ FINNLAND 💢 BG ✦ България BULGARIA 💢 BG ✦ спортен / SPORTEN ARENA 💢 BG ✦ документация / DOKUMENTATSIYA 💢 BG ✦ музика 💢 BG ✦ деца 💢 BG ✦ кино / KINO 💢 RO ✦ România în DIRECT 💢 RO ✦ KIDS & COPII 💢 RO ✦ SPORT ARENA 💢 RO ✦ CINEBOX 💢 RO ✦ DOCUMANTATIE 💢 RO ✦ MUZICA 💢 ES ✦ SPAIN 💢 ES ✦ INFANTIL 💢 ES ✦ DEPORTES ARENA 💢 ES ✦ DAZN SPORT ARENA 💢 ES ✦ CINEBOX 💢 ES ✦ DOCUMENTALES 💢 ES ✦ MUSIC 💢 PT ✦ PORTUGAL 💢 PT ✦ KIDS 💢 PT ✦ SPORT ARENA 💢 PT ✦ ENTERTAINMENT 💢 PT ✦ DOCUMENTARY 💢 RU ✦ Спорт 💢 RU ✦ Развлечения 💢 RU ✦ документальный 💢 RU ✦ Новости 💢 RU ✦ фильм & Серии 💢 RU ✦ Дети 💢 RU ✦ Музыка 💢 UKR ✦UKRAINE 💢 USA ✦ UNITED STATES OF AMERICA 💢 USA ✦ NEWS 💢 USA ✦ DOCUMENTARY 💢 USA ✦ KIDS 💢 USA ✦ SPORT 💢 USA ✦ CINEBOX 💢 USA ✦ MUSIC 💢 AR ✦ KIDS ARABIA 💢 AR ✦ NEWS ARABIA 💢 AR ✦ Be*IN SPORTS 💢 AR ✦ SPORTS 💢 AR ✦ STARZPLAY 💢 AR✦ ALFAJER 💢 AR ✦ AL MAJD 💢 AR ✦ CHRISTIAN 💢 AR ✦ Be*IN ENTERTAINMENT 💢 AR ✦ OSN 💢 AR ✦ MBC+ 💢 AR ✦ ROTANA ART 💢 AR ✦ ISLAMIC ARABIA 💢 AR ✦ SYRIA 💢 AR ✦ TUNUSIA 💢 AR ✦ MOROCCO 💢 AR ✦ MOROCCO TNT 💢 AR ✦ ALGERIA 💢 AR ✦ EGYPT 💢 AR ✦ SAUDI ARABIA 💢 AR ✦ OMAN QATAR 💢 AR ✦ IRAN 💢 AR ✦ LIBYA 💢 AR ✦ IRAQ 💢 AR ✦ DUBAI 💢 AR ✦ LEBENON 💢 AR ✦ KUWAIT YEMEN 💢 AR ✦ SUDAN 💢 AR ✦ PALESTINE 💢 AR ✦ JORDAN 💢 AR ✦ BAHRAIN 💢 IN ✦ INDIA 💢 AM ✦ ARMENIA 💢 IL ✦ ISRAEL 💢 AF: AFRİCA ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://smarterss.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://smarterss.xyz:2095
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 15 Kasım 2023 23:04
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 05 Mayıs 2027 17:45
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ grr9918
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ gr.g5
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇺🇦 Ukraine
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Kyiv
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 130.0.234.224
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Green Floid LLC
+├✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 16 Nisan 2026 - 21:44
+╰✷ 📡 𝚈𝚊𝚢ı𝚗 𝙳𝚞𝚛𝚞𝚖𝚞 ➢ 🇹🇷 GÖRÜNTÜ YOK ❌ 🙈
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  ⓓⓤⓕⓡⓐⓢⓝⓔッ
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 8213 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 30984 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 5816 ]
+
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/get.php?username=grr9918&password=gr.g5&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://smarterss.xyz:8080/xmltv.php?username=grr9918&password=gr.g5&type=xml_plus
+
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢TR ✦ ULUSAL 💢 TR ✦ HEVC 💢 TR ✦ HABERLER 💢 TR ✦ BELGESEL 💢 TR ✦ ÇOCUK 💢 TR ✦ be*IN SPORTS LIVE 💢 TR ✦ SüPERLiG öZET & TEKRAR 💢 TR ✦ SPORT ARENA 💢 TR ✦ S SPORT 💢 TR ✦ TABII SPOR 💢 TR ✦ EXXEN SPORTS 💢 TR ✦ be*IN & SMART MOVIES 💢 TR ✦ DİNİ 💢 TR ✦ YEREL 💢 TR ✦ MÜZİK 💢 TR ✦ 7/24  ANİMASYON 💢 TR ✦ 7/24  BELGESEL 💢 TR ✦ 7/24 CINETURK 💢 TR ✦ 7/24  CINEVERSE 💢 TR ✦ 7/24  CINEMAXIMUM 💢 TR ✦ 7/24  CINEBOXSET 💢 TR ✦ 7/24  CINESTARS 💢 TR ✦ 7/24  YEŞİLÇAM 💢 TR ✦ 7/24  YEŞİLÇAM  DOLBY 💢 TR ✦ 7/24  MARVEL & WESTERN 💢 TR ✦ 7/24  NETFLIX CLUB 💢 TR ✦ 7/24  EXXEN SHOW 💢 TR ✦ 7/24  YERLİ DİZİLER 💢 TR ✦ 7/24  YABANCI DİZİLER 💢 KKTC ✦ KIBRIS 💢 AZ ✦ AZERBAYCAN 💢 DE ✦ DEUTSCHLAND 💢 DE ✦ HEVC 💢 DE ✦ NACHRICHTEN 💢 DE ✦ DOKU 💢 DE ✦ KINDER 💢 DE ✦ REGIONAL 💢 DE ✦ SKY BUNDESLIGA 💢 DE ✦ SKY SPORT ARENA 💢 DE ✦ DAZN SPORT ARENA 💢 DE ✦ SPORT ARENA 💢 DE ✦ MAGENTA SPORT ARENA 💢 DE ✦ DYN SPORT 💢 DE ✦ EUROSPORT EXTRA 💢 DE ✦ RTL+ SPORT ARENA ( EVENT TIME ) 💢 DE ✦ MUSIK 💢 DE ✦ SKY ENTERTAINMENT 💢 DE ✦ 24/7  SKY BOX 💢 DE ✦ 24/7  SKY SELECT 💢 DE ✦ 24/7  KINO DOLBY 💢 DE ✦ 24/7  KINOBOX 💢 DE ✦ 24/7  KINO BOXSET 💢 DE ✦ 24/7  CINESTARS 💢 DE ✦ 24/7  4K ULTRA PREMIERE 💢 DE ✦ 24/7  NETFLIX STORE 💢 DE ✦ 24/7  SERIEN STORE 💢 DE ✦ 24/7  KINDER KINO 💢 DE ✦ 24/7  KINDER STORE 💢 AT ✦ ÖSTERREICH 💢 AT ✦ ÖSTERREICH SPORT ARENA 💢 AT ✦ 24/7 KINDER 💢 EU ✦ F1 FORMULA RACING 💢 EU ✦ WORLD SPORT ARENA 💢 EU ✦ VIAPLAY SPORTS 💢 EU ✦ UFC FIGHT PASS 💢 EU ✦ NBA LEAUGE PASS 💢 EU ✦ NFL GAME PASS 💢 EU ✦ NHL GAME PASS 💢 EU ✦ 7/24   DANCE PARTY 💢 EU ✦ 7/24   CLUBBING MIX 💢 EU ✦ 7/24   DJ PERFORMANCE 💢 EU ✦ 7/24   RELAXING 💢 EU ✦ LIVE CAM 💢 TV ✦ SCREENSAVER 💢 KR ✦ KURDISH 💢 BE ✦ BELGIUM 💢 CH ✦ SWISS 💢 CH ✦ SWISS  SPORT ARENA 💢 CH ✦ SWISS CINEBOX 💢 NL ✦ NETHERLAND 💢 NL ✦ REGIONAAL 💢 NL ✦ SPORT ARENA 💢 NL ✦ DOKUMANTAIRE 💢 NL ✦ BIOSCOOP 💢 NL ✦ KIDS VOOR KINDEREN 💢 NL ✦ MUZIEK 💢 FR ✦ FRANCE 💢 FR ✦ ENFANTS 💢 FR ✦ SPORT ARENA 💢 FR ✦ DAZN SPORT ARENA 💢 FR ✦ CINEMABOX 💢 FR ✦ 24/7  A LA CARTE 💢 FR ✦ DECOUVERTE 💢 FR ✦ MUSIQUE 💢 IT ✦ ITALIA 💢 IT ✦ BAMBINI 💢 IT ✦ SKY SPORT ARENA 💢 IT ✦ DAZN SPORT ARENA 💢 IT ✦ SKY CINEBOX 💢 IT ✦ SKY CALCIO 💢 IT ✦ DOCUMENTAZIONE 💢 IT ✦ SKY PRIMAFILA 💢 UK ✦ ENGLAND 💢 UK ✦ KIDS 💢 UK ✦ SPORT ARENA 💢 UK ✦ CINEBOX 💢 UK ✦ ENTERTAINMENT 💢 UK ✦ DOCUMENTARY 💢 UK ✦ LIVE MUSIC 💢 PL ✦ POLAND 💢 PL ✦ KIDS DLA DZIECI 💢 PL ✦ SPORTY 💢 PL ✦ CINEBOX 💢 PL ✦ 24/7 CINEBOX 💢 PL ✦ DOKUMENTACJA 💢 GR ✦ Ελλάδα / GREECE 💢 GR ✦ Ελλάδα NOVA / COSMOTE κινηματογράφος 💢 GR ✦ Ελλάδα NOVA/ COSMOTE αθλητισμός 💢 GR ✦ 24/7 CINEVERSE 💢 GR ✦ παιδιά 💢 GR ✦ τεκμηρίωση 💢 ALB ✦ BIG BROTHER 💢 ALB ✦ Shqipëri ALBANIA VENDAS 💢 ALB ✦ Shqipëri PËR FËMIJË 💢 ALB ✦ Shqipëri DOKU 💢 ALB ✦ Shqipëri SPORT 💢 ALB ✦ Shqipëri Muzikë / fëmijët 💢 ALB ✦ Shqipëri FILM 💢 ALB ✦ 7/24 PLATFORMA DOLBY FILMA 💢 ALB ✦ 7/24 Serialet TURKE 💢 ALB ✦ 7/24 SERIALE TË HUAJA 💢 SRB ✦ Србија 💢 CR ✦ CROATIA 💢 EXYU ✦ SPORT ARENA 💢 EXYU ✦ BALKAN PINK 💢 EXYU ✦ CINEVERSE 💢 EXYU ✦ 24/7  FILMOVE & SERIJE 💢 EXYU ✦ DOKU 💢 EXYU ✦ KIDS 💢 BIH ✦ BOSNIA HERCEGOVINA 💢 MK ✦ MACEDONIA 💢 HU ✦ HUNGARY 💢 HU ✦ KIDS 💢 HU ✦ SPORT ARENA 💢 HU ✦ CINEBOX 💢 HU ✦ DOCUMENTARY 💢 HU ✦ MUSIK 💢 HU ✦ REGIO 💢 CZ ✦ česká REPUBLIKA 💢 CZ ✦ KIDS 💢 CZ ✦ DOCU 💢 CZ ✦ SPORT ARENA 💢 CZ ✦ CINEBOX 💢 CZ ✦ MUSIC 💢 SWE ✦ SVERIGE UNDERHALLNING 💢 SWE ✦ SVERIGER BARNKANALER 💢 SWE ✦ SVERIGE SPORT ARENA 💢 SWE ✦ SVERIGE BIOKANALER 💢 SWE ✦ SVERIGE DOKUMENTATION 💢 DK ✦ DENMARK 💢 NO ✦ GENERAL 💢 NO ✦ KIDS 💢 NO ✦ SPORTS 💢 NO ✦ ENTERTAINMENT 💢 NO ✦ CINEBOX 💢 NO ✦ DOCUMENTARY 💢 FI ✦ FINNLAND 💢 BG ✦ България BULGARIA 💢 BG ✦ спортен / SPORTEN ARENA 💢 BG ✦ документация / DOKUMENTATSIYA 💢 BG ✦ музика 💢 BG ✦ деца 💢 BG ✦ кино / KINO 💢 RO ✦ România în DIRECT 💢 RO ✦ KIDS & COPII 💢 RO ✦ SPORT ARENA 💢 RO ✦ CINEBOX 💢 RO ✦ DOCUMANTATIE 💢 RO ✦ MUZICA 💢 ES ✦ SPAIN 💢 ES ✦ INFANTIL 💢 ES ✦ DEPORTES ARENA 💢 ES ✦ DAZN SPORT ARENA 💢 ES ✦ CINEBOX 💢 ES ✦ DOCUMENTALES 💢 ES ✦ MUSIC 💢 PT ✦ PORTUGAL 💢 PT ✦ KIDS 💢 PT ✦ SPORT ARENA 💢 PT ✦ ENTERTAINMENT 💢 PT ✦ DOCUMENTARY 💢 RU ✦ Спорт 💢 RU ✦ Развлечения 💢 RU ✦ документальный 💢 RU ✦ Новости 💢 RU ✦ фильм & Серии 💢 RU ✦ Дети 💢 RU ✦ Музыка 💢 UKR ✦UKRAINE 💢 USA ✦ UNITED STATES OF AMERICA 💢 USA ✦ NEWS 💢 USA ✦ DOCUMENTARY 💢 USA ✦ KIDS 💢 USA ✦ SPORT 💢 USA ✦ CINEBOX 💢 USA ✦ MUSIC 💢 AR ✦ KIDS ARABIA 💢 AR ✦ NEWS ARABIA 💢 AR ✦ Be*IN SPORTS 💢 AR ✦ SPORTS 💢 AR ✦ STARZPLAY 💢 AR✦ ALFAJER 💢 AR ✦ AL MAJD 💢 AR ✦ CHRISTIAN 💢 AR ✦ Be*IN ENTERTAINMENT 💢 AR ✦ OSN 💢 AR ✦ MBC+ 💢 AR ✦ ROTANA ART 💢 AR ✦ ISLAMIC ARABIA 💢 AR ✦ SYRIA 💢 AR ✦ TUNUSIA 💢 AR ✦ MOROCCO 💢 AR ✦ MOROCCO TNT 💢 AR ✦ ALGERIA 💢 AR ✦ EGYPT 💢 AR ✦ SAUDI ARABIA 💢 AR ✦ OMAN QATAR 💢 AR ✦ IRAN 💢 AR ✦ LIBYA 💢 AR ✦ IRAQ 💢 AR ✦ DUBAI 💢 AR ✦ LEBENON 💢 AR ✦ KUWAIT YEMEN 💢 AR ✦ SUDAN 💢 AR ✦ PALESTINE 💢 AR ✦ JORDAN 💢 AR ✦ BAHRAIN 💢 IN ✦ INDIA 💢 IL ✦ ISRAEL 💢 AF: AFRİCA 💢 XXX  ✦ LIVE ADULT 💢 XXX ✦ DOLBY ADULT ✷✷ 📺
+
+========================================

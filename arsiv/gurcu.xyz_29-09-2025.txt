@@ -1,0 +1,448 @@
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://gurcu.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://gurcu.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 21 Nisan 2024 21:30
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 01 Mayıs 2026 14:10
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ mbuMWgV2vduu
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ qSvpZ9BYeFVU
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 102.129.200.6
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Hbing Limited
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Eylül 2025 - 16:59
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Nihat Acet
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 651 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 2407 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 806 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://gurcu.xyz:8080/get.php?username=mbuMWgV2vduu&password=qSvpZ9BYeFVU&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://gurcu.xyz:8080/xmltv.php?username=mbuMWgV2vduu&password=qSvpZ9BYeFVU&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢⫸ TR● INFO⫷ 💢 ⫸ TR●SUPER LİG⫷ 💢 ⫸ TR● SUPER LİG EXTRA⫷ 💢 ⫸ TR● SUPER LİG MAC TIME⫷ 💢 ⫸ TR● SPORT TURKIYE⫷ 💢 ⫸ TR● SPOR DİJİTAL TV⫷ 💢 ⫸ TR● ULUSAL  TV ⫷ 💢 ⫸ TR● ULUSAL 2 TV ⫷ 💢 ⫸ TR● HABER TV ⫷ 💢 ⫸ TR● HABER 2 TV ⫷ 💢 ⫸ TR● YEREL TV ⫷ 💢 ⫸ TR●SERİES ⫷ 💢 ⫸ TR● CINE MAX ⫷ 💢 ⫸ TR● MY_MEDYA ⫷ 💢 ⫸ TR● BELGESEL TV ⫷ 💢 ⫸ TR● COCUK ⫷ 💢 ⫸ AT● AVUST⫷ 💢 ⫸ DE● UNTERHALTUNG⫷ 💢 ⫸ NL● REGIONAAL⫷ 💢 ⫸ NL●7/24 FILM SERIE ⫷ 💢 ⫸ NL● DOCUMENTAIRE ⫷ 💢 ⫸ BE● BELGİUM ⫷     💢 ⫸ GR● GREECE ⫷ ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://gurcu.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://gurcu.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 21 Nisan 2025 13:40
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 21 Nisan 2026 13:40
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 7zAKaxtM3G
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ Stdcxv2e6Y
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 102.129.200.6
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Hbing Limited
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Eylül 2025 - 17:06
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Nihat Acet
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 4581 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 2548 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 806 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://gurcu.xyz:8080/get.php?username=7zAKaxtM3G&password=Stdcxv2e6Y&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://gurcu.xyz:8080/xmltv.php?username=7zAKaxtM3G&password=Stdcxv2e6Y&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢⫸ TR● INFO⫷ 💢 ⫸ TR●SUPER LİG⫷ 💢 ⫸ TR● SUPER LİG EXTRA⫷ 💢 ⫸ TR● SUPER LİG MAC TIME⫷ 💢 ⫸ TR● SPORT TURKIYE⫷ 💢 ⫸ TR● SPOR DİJİTAL TV⫷ 💢 ⫸ TR● ULUSAL  TV ⫷ 💢 ⫸ TR● ULUSAL 2 TV ⫷ 💢 ⫸ TR● HABER TV ⫷ 💢 ⫸ TR● HABER 2 TV ⫷ 💢 ⫸ TR● YEREL TV ⫷ 💢 ⫸ TR●SERİES ⫷ 💢 ⫸ TR● CINE MAX ⫷ 💢 ⫸ TR● MY_MEDYA ⫷ 💢 ⫸ TR● BELGESEL TV ⫷ 💢 ⫸ TR● COCUK ⫷ 💢 ⫸ TR●MELODİ ⫸ 💢 ⫸ AT● AVUST⫷ 💢 ⫸ DE● UNTERHALTUNG⫷ 💢 ⫸ DE● KINDER⫷ 💢 ⫸ DE● SKY CINEMA⫷ 💢 ⫸ DE● DOKUMENTAR ⫷ 💢 ⫸ DE●SKY BUNDESLIGA ⫷ 💢 ⫸ DE●SKY SPORT⫷ 💢 ⫸ DE●DAZN NFL⫷ 💢 ⫸ DE●MAGENTA ⫷ 💢 ⫸ DE●S DEUTSCHLAND⫷ 💢 ⫸ DE●SKY F 1⫷ 💢 ⫸ DE●DYN SPOR⫷ 💢 ⫸ DE●UFC EVENT⫷ 💢 ⫸ DE● RTL + SPORT⫷ 💢 ⫸ DE●DAZN EVENT ⫷ 💢 ⫸ NL●  NETHERLAND⫷  💢 ⫸ NL● REGIONAAL⫷ 💢 ⫸ NL● FILIM⫷ 💢 ⫸ NL●7/24 FILM SERIE ⫷ 💢 ⫸ NL● DOCUMENTAIRE ⫷ 💢 ⫸ NL● KINDEREN⫷ 💢 ⫸ NL● MUZIEK  ⫷ 💢 ⫸ UK● ITV ⫷ 💢  ⫸UK: CINEMA ⫸ 💢  ⫸UK: BBC ⫸ 💢  ⫸UK: SKY SPORT ⫸ 💢 ⫸ IT●ITALIA⫷ 💢 ⫸ SW●  SWEDEN⫷ 💢 ⫸ ES● SPAİN⫷ 💢 ⫸ FR● FRANCE⫷ 💢 ⫸ USA● UNİTED⫷ 💢 ⫸ BE● BELGİUM ⫷     💢 ⫸ GR● GREECE ⫷ 💢 ⫸ BIH●  BOSNİA⫷    💢 ⫸ BG● BULGARİ⫷ 💢 ⫸RU● RUSSIA⫷ 💢  ⫸PING=GOLD ⫸ 💢  ⫸HR=GOOLD ⫸ 💢  ⫸EXYU=GOOLD ⫸ 💢  ⫸SL= GOOLD ⫸ 💢  ⫸AL=GOLD ⫸ 💢  ⫸MK=GOLD ⫸ 💢  ⫸HU=MACARİSTAN ⫸ 💢  ⫸RO= GOLD ⫸ 💢  ⫸PL=GOLD ⫸ 💢  ⫸PT=GOLD ⫸ 💢  ⫸DK=GOLD ⫸ 💢  ⫸AR: ARABİ ⫸ 💢  ⫸IR: IR ⫸ 💢  ⫸IRAQ: IRA ⫸ 💢  ⫸MBC: MBC ⫸ 💢  ⫸OSN:OSN ⫸ 💢  ⫸ARNS:AR_NS ⫸ 💢  ⫸EGY: EGY ⫸ 💢  ⫸CR: CR ⫸ 💢  ⫸MA: MA ⫸ 💢 ⫸ KUR● KURDİ⫷ 💢  ⫸18=ADULT ( YETISKIN ) ⫸ ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://gurcu.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://gurcu.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 22 Ağustos 2022 17:01
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 23 Ağustos 2026 12:03
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 05354839292@
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ @28032023@
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 102.129.200.6
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Hbing Limited
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Eylül 2025 - 17:06
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Nihat Acet
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 4581 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 2548 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 806 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://gurcu.xyz:8080/get.php?username=05354839292@&password=@28032023@&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://gurcu.xyz:8080/xmltv.php?username=05354839292@&password=@28032023@&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢⫸ TR● INFO⫷ 💢 ⫸ TR●SUPER LİG⫷ 💢 ⫸ TR● SUPER LİG EXTRA⫷ 💢 ⫸ TR● SUPER LİG MAC TIME⫷ 💢 ⫸ TR● SPORT TURKIYE⫷ 💢 ⫸ TR● SPOR DİJİTAL TV⫷ 💢 ⫸ TR● ULUSAL  TV ⫷ 💢 ⫸ TR● ULUSAL 2 TV ⫷ 💢 ⫸ TR● HABER TV ⫷ 💢 ⫸ TR● HABER 2 TV ⫷ 💢 ⫸ TR● YEREL TV ⫷ 💢 ⫸ TR●SERİES ⫷ 💢 ⫸ TR● CINE MAX ⫷ 💢 ⫸ TR● MY_MEDYA ⫷ 💢 ⫸ TR● BELGESEL TV ⫷ 💢 ⫸ TR● COCUK ⫷ 💢 ⫸ TR●MELODİ ⫸ 💢 ⫸ AT● AVUST⫷ 💢 ⫸ DE● UNTERHALTUNG⫷ 💢 ⫸ DE● KINDER⫷ 💢 ⫸ DE● SKY CINEMA⫷ 💢 ⫸ DE● DOKUMENTAR ⫷ 💢 ⫸ DE●SKY BUNDESLIGA ⫷ 💢 ⫸ DE●SKY SPORT⫷ 💢 ⫸ DE●DAZN NFL⫷ 💢 ⫸ DE●MAGENTA ⫷ 💢 ⫸ DE●S DEUTSCHLAND⫷ 💢 ⫸ DE●SKY F 1⫷ 💢 ⫸ DE●DYN SPOR⫷ 💢 ⫸ DE●UFC EVENT⫷ 💢 ⫸ DE● RTL + SPORT⫷ 💢 ⫸ DE●DAZN EVENT ⫷ 💢 ⫸ NL●  NETHERLAND⫷  💢 ⫸ NL● REGIONAAL⫷ 💢 ⫸ NL● FILIM⫷ 💢 ⫸ NL●7/24 FILM SERIE ⫷ 💢 ⫸ NL● DOCUMENTAIRE ⫷ 💢 ⫸ NL● KINDEREN⫷ 💢 ⫸ NL● MUZIEK  ⫷ 💢 ⫸ UK● ITV ⫷ 💢  ⫸UK: CINEMA ⫸ 💢  ⫸UK: BBC ⫸ 💢  ⫸UK: SKY SPORT ⫸ 💢 ⫸ IT●ITALIA⫷ 💢 ⫸ SW●  SWEDEN⫷ 💢 ⫸ ES● SPAİN⫷ 💢 ⫸ FR● FRANCE⫷ 💢 ⫸ USA● UNİTED⫷ 💢 ⫸ BE● BELGİUM ⫷     💢 ⫸ GR● GREECE ⫷ 💢 ⫸ BIH●  BOSNİA⫷    💢 ⫸ BG● BULGARİ⫷ 💢 ⫸RU● RUSSIA⫷ 💢  ⫸PING=GOLD ⫸ 💢  ⫸HR=GOOLD ⫸ 💢  ⫸EXYU=GOOLD ⫸ 💢  ⫸SL= GOOLD ⫸ 💢  ⫸AL=GOLD ⫸ 💢  ⫸MK=GOLD ⫸ 💢  ⫸HU=MACARİSTAN ⫸ 💢  ⫸RO= GOLD ⫸ 💢  ⫸PL=GOLD ⫸ 💢  ⫸PT=GOLD ⫸ 💢  ⫸DK=GOLD ⫸ 💢  ⫸AR: ARABİ ⫸ 💢  ⫸IR: IR ⫸ 💢  ⫸IRAQ: IRA ⫸ 💢  ⫸MBC: MBC ⫸ 💢  ⫸OSN:OSN ⫸ 💢  ⫸ARNS:AR_NS ⫸ 💢  ⫸EGY: EGY ⫸ 💢  ⫸CR: CR ⫸ 💢  ⫸MA: MA ⫸ 💢 ⫸ KUR● KURDİ⫷ 💢  ⫸18=ADULT ( YETISKIN ) ⫸ ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://gurcu.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://gurcu.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 11 Eylül 2025 19:10
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 11 Eylül 2026 19:10
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ 05314988196
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ hGprvMJCQTCT
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 102.129.200.6
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Hbing Limited
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Eylül 2025 - 17:06
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Nihat Acet
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 4401 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 2407 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 806 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://gurcu.xyz:8080/get.php?username=05314988196&password=hGprvMJCQTCT&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://gurcu.xyz:8080/xmltv.php?username=05314988196&password=hGprvMJCQTCT&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢⫸ TR● INFO⫷ 💢 ⫸ TR●SUPER LİG⫷ 💢 ⫸ TR● SUPER LİG EXTRA⫷ 💢 ⫸ TR● SUPER LİG MAC TIME⫷ 💢 ⫸ TR● SPORT TURKIYE⫷ 💢 ⫸ TR● SPOR DİJİTAL TV⫷ 💢 ⫸ TR● ULUSAL  TV ⫷ 💢 ⫸ TR● ULUSAL 2 TV ⫷ 💢 ⫸ TR● HABER TV ⫷ 💢 ⫸ TR● HABER 2 TV ⫷ 💢 ⫸ TR● YEREL TV ⫷ 💢 ⫸ TR●SERİES ⫷ 💢 ⫸ TR● CINE MAX ⫷ 💢 ⫸ TR● MY_MEDYA ⫷ 💢 ⫸ TR● BELGESEL TV ⫷ 💢 ⫸ TR● COCUK ⫷ 💢 ⫸ TR●MELODİ ⫸ 💢 ⫸ AT● AVUST⫷ 💢 ⫸ DE● UNTERHALTUNG⫷ 💢 ⫸ DE● KINDER⫷ 💢 ⫸ DE● SKY CINEMA⫷ 💢 ⫸ DE● DOKUMENTAR ⫷ 💢 ⫸ DE●SKY BUNDESLIGA ⫷ 💢 ⫸ DE●SKY SPORT⫷ 💢 ⫸ DE●DAZN NFL⫷ 💢 ⫸ DE●MAGENTA ⫷ 💢 ⫸ DE●S DEUTSCHLAND⫷ 💢 ⫸ DE●SKY F 1⫷ 💢 ⫸ DE●DYN SPOR⫷ 💢 ⫸ DE●UFC EVENT⫷ 💢 ⫸ DE● RTL + SPORT⫷ 💢 ⫸ DE●DAZN EVENT ⫷ 💢 ⫸ NL●  NETHERLAND⫷  💢 ⫸ NL● REGIONAAL⫷ 💢 ⫸ NL● FILIM⫷ 💢 ⫸ NL●7/24 FILM SERIE ⫷ 💢 ⫸ NL● DOCUMENTAIRE ⫷ 💢 ⫸ NL● KINDEREN⫷ 💢 ⫸ NL● MUZIEK  ⫷ 💢 ⫸ UK● ITV ⫷ 💢  ⫸UK: CINEMA ⫸ 💢  ⫸UK: BBC ⫸ 💢  ⫸UK: SKY SPORT ⫸ 💢 ⫸ IT●ITALIA⫷ 💢 ⫸ SW●  SWEDEN⫷ 💢 ⫸ ES● SPAİN⫷ 💢 ⫸ FR● FRANCE⫷ 💢 ⫸ USA● UNİTED⫷ 💢 ⫸ BE● BELGİUM ⫷     💢 ⫸ GR● GREECE ⫷ 💢 ⫸ BIH●  BOSNİA⫷    💢 ⫸ BG● BULGARİ⫷ 💢 ⫸RU● RUSSIA⫷ 💢  ⫸PING=GOLD ⫸ 💢  ⫸HR=GOOLD ⫸ 💢  ⫸EXYU=GOOLD ⫸ 💢  ⫸SL= GOOLD ⫸ 💢  ⫸AL=GOLD ⫸ 💢  ⫸MK=GOLD ⫸ 💢  ⫸HU=MACARİSTAN ⫸ 💢  ⫸RO= GOLD ⫸ 💢  ⫸PL=GOLD ⫸ 💢  ⫸PT=GOLD ⫸ 💢  ⫸DK=GOLD ⫸ 💢  ⫸AR: ARABİ ⫸ 💢  ⫸IR: IR ⫸ 💢  ⫸IRAQ: IRA ⫸ 💢  ⫸MBC: MBC ⫸ 💢  ⫸OSN:OSN ⫸ 💢  ⫸ARNS:AR_NS ⫸ 💢  ⫸EGY: EGY ⫸ 💢  ⫸CR: CR ⫸ 💢  ⫸MA: MA ⫸ 💢 ⫸ KUR● KURDİ⫷ ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://gurcu.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://gurcu.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 14 Eylül 2025 19:31
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 14 Eylül 2026 19:31
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ emrah@bb@
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ zm94KVXSju
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 2
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 102.129.200.6
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Hbing Limited
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Eylül 2025 - 17:06
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Nihat Acet
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 4581 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 2548 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 806 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://gurcu.xyz:8080/get.php?username=emrah@bb@&password=zm94KVXSju&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://gurcu.xyz:8080/xmltv.php?username=emrah@bb@&password=zm94KVXSju&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢⫸ TR● INFO⫷ 💢 ⫸ TR●SUPER LİG⫷ 💢 ⫸ TR● SUPER LİG EXTRA⫷ 💢 ⫸ TR● SUPER LİG MAC TIME⫷ 💢 ⫸ TR● SPORT TURKIYE⫷ 💢 ⫸ TR● SPOR DİJİTAL TV⫷ 💢 ⫸ TR● ULUSAL  TV ⫷ 💢 ⫸ TR● ULUSAL 2 TV ⫷ 💢 ⫸ TR● HABER TV ⫷ 💢 ⫸ TR● HABER 2 TV ⫷ 💢 ⫸ TR● YEREL TV ⫷ 💢 ⫸ TR●SERİES ⫷ 💢 ⫸ TR● CINE MAX ⫷ 💢 ⫸ TR● MY_MEDYA ⫷ 💢 ⫸ TR● BELGESEL TV ⫷ 💢 ⫸ TR● COCUK ⫷ 💢 ⫸ TR●MELODİ ⫸ 💢 ⫸ AT● AVUST⫷ 💢 ⫸ DE● UNTERHALTUNG⫷ 💢 ⫸ DE● KINDER⫷ 💢 ⫸ DE● SKY CINEMA⫷ 💢 ⫸ DE● DOKUMENTAR ⫷ 💢 ⫸ DE●SKY BUNDESLIGA ⫷ 💢 ⫸ DE●SKY SPORT⫷ 💢 ⫸ DE●DAZN NFL⫷ 💢 ⫸ DE●MAGENTA ⫷ 💢 ⫸ DE●S DEUTSCHLAND⫷ 💢 ⫸ DE●SKY F 1⫷ 💢 ⫸ DE●DYN SPOR⫷ 💢 ⫸ DE●UFC EVENT⫷ 💢 ⫸ DE● RTL + SPORT⫷ 💢 ⫸ DE●DAZN EVENT ⫷ 💢 ⫸ NL●  NETHERLAND⫷  💢 ⫸ NL● REGIONAAL⫷ 💢 ⫸ NL● FILIM⫷ 💢 ⫸ NL●7/24 FILM SERIE ⫷ 💢 ⫸ NL● DOCUMENTAIRE ⫷ 💢 ⫸ NL● KINDEREN⫷ 💢 ⫸ NL● MUZIEK  ⫷ 💢 ⫸ UK● ITV ⫷ 💢  ⫸UK: CINEMA ⫸ 💢  ⫸UK: BBC ⫸ 💢  ⫸UK: SKY SPORT ⫸ 💢 ⫸ IT●ITALIA⫷ 💢 ⫸ SW●  SWEDEN⫷ 💢 ⫸ ES● SPAİN⫷ 💢 ⫸ FR● FRANCE⫷ 💢 ⫸ USA● UNİTED⫷ 💢 ⫸ BE● BELGİUM ⫷     💢 ⫸ GR● GREECE ⫷ 💢 ⫸ BIH●  BOSNİA⫷    💢 ⫸ BG● BULGARİ⫷ 💢 ⫸RU● RUSSIA⫷ 💢  ⫸PING=GOLD ⫸ 💢  ⫸HR=GOOLD ⫸ 💢  ⫸EXYU=GOOLD ⫸ 💢  ⫸SL= GOOLD ⫸ 💢  ⫸AL=GOLD ⫸ 💢  ⫸MK=GOLD ⫸ 💢  ⫸HU=MACARİSTAN ⫸ 💢  ⫸RO= GOLD ⫸ 💢  ⫸PL=GOLD ⫸ 💢  ⫸PT=GOLD ⫸ 💢  ⫸DK=GOLD ⫸ 💢  ⫸AR: ARABİ ⫸ 💢  ⫸IR: IR ⫸ 💢  ⫸IRAQ: IRA ⫸ 💢  ⫸MBC: MBC ⫸ 💢  ⫸OSN:OSN ⫸ 💢  ⫸ARNS:AR_NS ⫸ 💢  ⫸EGY: EGY ⫸ 💢  ⫸CR: CR ⫸ 💢  ⫸MA: MA ⫸ 💢 ⫸ KUR● KURDİ⫷ 💢  ⫸18=ADULT ( YETISKIN ) ⫸ ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://gurcu.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://gurcu.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 01 Eylül 2025 20:42
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 01 Eylül 2026 20:42
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ kL2fy2VPAF
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 5LyaW7Qrwj
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 102.129.200.6
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Hbing Limited
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Eylül 2025 - 17:06
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Nihat Acet
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 4581 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 2548 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 806 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://gurcu.xyz:8080/get.php?username=kL2fy2VPAF&password=5LyaW7Qrwj&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://gurcu.xyz:8080/xmltv.php?username=kL2fy2VPAF&password=5LyaW7Qrwj&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢⫸ TR● INFO⫷ 💢 ⫸ TR●SUPER LİG⫷ 💢 ⫸ TR● SUPER LİG EXTRA⫷ 💢 ⫸ TR● SUPER LİG MAC TIME⫷ 💢 ⫸ TR● SPORT TURKIYE⫷ 💢 ⫸ TR● SPOR DİJİTAL TV⫷ 💢 ⫸ TR● ULUSAL  TV ⫷ 💢 ⫸ TR● ULUSAL 2 TV ⫷ 💢 ⫸ TR● HABER TV ⫷ 💢 ⫸ TR● HABER 2 TV ⫷ 💢 ⫸ TR● YEREL TV ⫷ 💢 ⫸ TR●SERİES ⫷ 💢 ⫸ TR● CINE MAX ⫷ 💢 ⫸ TR● MY_MEDYA ⫷ 💢 ⫸ TR● BELGESEL TV ⫷ 💢 ⫸ TR● COCUK ⫷ 💢 ⫸ TR●MELODİ ⫸ 💢 ⫸ AT● AVUST⫷ 💢 ⫸ DE● UNTERHALTUNG⫷ 💢 ⫸ DE● KINDER⫷ 💢 ⫸ DE● SKY CINEMA⫷ 💢 ⫸ DE● DOKUMENTAR ⫷ 💢 ⫸ DE●SKY BUNDESLIGA ⫷ 💢 ⫸ DE●SKY SPORT⫷ 💢 ⫸ DE●DAZN NFL⫷ 💢 ⫸ DE●MAGENTA ⫷ 💢 ⫸ DE●S DEUTSCHLAND⫷ 💢 ⫸ DE●SKY F 1⫷ 💢 ⫸ DE●DYN SPOR⫷ 💢 ⫸ DE●UFC EVENT⫷ 💢 ⫸ DE● RTL + SPORT⫷ 💢 ⫸ DE●DAZN EVENT ⫷ 💢 ⫸ NL●  NETHERLAND⫷  💢 ⫸ NL● REGIONAAL⫷ 💢 ⫸ NL● FILIM⫷ 💢 ⫸ NL●7/24 FILM SERIE ⫷ 💢 ⫸ NL● DOCUMENTAIRE ⫷ 💢 ⫸ NL● KINDEREN⫷ 💢 ⫸ NL● MUZIEK  ⫷ 💢 ⫸ UK● ITV ⫷ 💢  ⫸UK: CINEMA ⫸ 💢  ⫸UK: BBC ⫸ 💢  ⫸UK: SKY SPORT ⫸ 💢 ⫸ IT●ITALIA⫷ 💢 ⫸ SW●  SWEDEN⫷ 💢 ⫸ ES● SPAİN⫷ 💢 ⫸ FR● FRANCE⫷ 💢 ⫸ USA● UNİTED⫷ 💢 ⫸ BE● BELGİUM ⫷     💢 ⫸ GR● GREECE ⫷ 💢 ⫸ BIH●  BOSNİA⫷    💢 ⫸ BG● BULGARİ⫷ 💢 ⫸RU● RUSSIA⫷ 💢  ⫸PING=GOLD ⫸ 💢  ⫸HR=GOOLD ⫸ 💢  ⫸EXYU=GOOLD ⫸ 💢  ⫸SL= GOOLD ⫸ 💢  ⫸AL=GOLD ⫸ 💢  ⫸MK=GOLD ⫸ 💢  ⫸HU=MACARİSTAN ⫸ 💢  ⫸RO= GOLD ⫸ 💢  ⫸PL=GOLD ⫸ 💢  ⫸PT=GOLD ⫸ 💢  ⫸DK=GOLD ⫸ 💢  ⫸AR: ARABİ ⫸ 💢  ⫸IR: IR ⫸ 💢  ⫸IRAQ: IRA ⫸ 💢  ⫸MBC: MBC ⫸ 💢  ⫸OSN:OSN ⫸ 💢  ⫸ARNS:AR_NS ⫸ 💢  ⫸EGY: EGY ⫸ 💢  ⫸CR: CR ⫸ 💢  ⫸MA: MA ⫸ 💢 ⫸ KUR● KURDİ⫷ 💢  ⫸18=ADULT ( YETISKIN ) ⫸ ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://gurcu.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://gurcu.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 23 Ağustos 2025 18:41
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 23 Ağustos 2026 18:41
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ YvJZp7zHvSFg
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ rKBFWGHeqq2e
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 102.129.200.6
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Hbing Limited
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Eylül 2025 - 17:06
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Nihat Acet
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 4581 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 2548 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 806 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://gurcu.xyz:8080/get.php?username=YvJZp7zHvSFg&password=rKBFWGHeqq2e&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://gurcu.xyz:8080/xmltv.php?username=YvJZp7zHvSFg&password=rKBFWGHeqq2e&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢⫸ TR● INFO⫷ 💢 ⫸ TR●SUPER LİG⫷ 💢 ⫸ TR● SUPER LİG EXTRA⫷ 💢 ⫸ TR● SUPER LİG MAC TIME⫷ 💢 ⫸ TR● SPORT TURKIYE⫷ 💢 ⫸ TR● SPOR DİJİTAL TV⫷ 💢 ⫸ TR● ULUSAL  TV ⫷ 💢 ⫸ TR● ULUSAL 2 TV ⫷ 💢 ⫸ TR● HABER TV ⫷ 💢 ⫸ TR● HABER 2 TV ⫷ 💢 ⫸ TR● YEREL TV ⫷ 💢 ⫸ TR●SERİES ⫷ 💢 ⫸ TR● CINE MAX ⫷ 💢 ⫸ TR● MY_MEDYA ⫷ 💢 ⫸ TR● BELGESEL TV ⫷ 💢 ⫸ TR● COCUK ⫷ 💢 ⫸ TR●MELODİ ⫸ 💢 ⫸ AT● AVUST⫷ 💢 ⫸ DE● UNTERHALTUNG⫷ 💢 ⫸ DE● KINDER⫷ 💢 ⫸ DE● SKY CINEMA⫷ 💢 ⫸ DE● DOKUMENTAR ⫷ 💢 ⫸ DE●SKY BUNDESLIGA ⫷ 💢 ⫸ DE●SKY SPORT⫷ 💢 ⫸ DE●DAZN NFL⫷ 💢 ⫸ DE●MAGENTA ⫷ 💢 ⫸ DE●S DEUTSCHLAND⫷ 💢 ⫸ DE●SKY F 1⫷ 💢 ⫸ DE●DYN SPOR⫷ 💢 ⫸ DE●UFC EVENT⫷ 💢 ⫸ DE● RTL + SPORT⫷ 💢 ⫸ DE●DAZN EVENT ⫷ 💢 ⫸ NL●  NETHERLAND⫷  💢 ⫸ NL● REGIONAAL⫷ 💢 ⫸ NL● FILIM⫷ 💢 ⫸ NL●7/24 FILM SERIE ⫷ 💢 ⫸ NL● DOCUMENTAIRE ⫷ 💢 ⫸ NL● KINDEREN⫷ 💢 ⫸ NL● MUZIEK  ⫷ 💢 ⫸ UK● ITV ⫷ 💢  ⫸UK: CINEMA ⫸ 💢  ⫸UK: BBC ⫸ 💢  ⫸UK: SKY SPORT ⫸ 💢 ⫸ IT●ITALIA⫷ 💢 ⫸ SW●  SWEDEN⫷ 💢 ⫸ ES● SPAİN⫷ 💢 ⫸ FR● FRANCE⫷ 💢 ⫸ USA● UNİTED⫷ 💢 ⫸ BE● BELGİUM ⫷     💢 ⫸ GR● GREECE ⫷ 💢 ⫸ BIH●  BOSNİA⫷    💢 ⫸ BG● BULGARİ⫷ 💢 ⫸RU● RUSSIA⫷ 💢  ⫸PING=GOLD ⫸ 💢  ⫸HR=GOOLD ⫸ 💢  ⫸EXYU=GOOLD ⫸ 💢  ⫸SL= GOOLD ⫸ 💢  ⫸AL=GOLD ⫸ 💢  ⫸MK=GOLD ⫸ 💢  ⫸HU=MACARİSTAN ⫸ 💢  ⫸RO= GOLD ⫸ 💢  ⫸PL=GOLD ⫸ 💢  ⫸PT=GOLD ⫸ 💢  ⫸DK=GOLD ⫸ 💢  ⫸AR: ARABİ ⫸ 💢  ⫸IR: IR ⫸ 💢  ⫸IRAQ: IRA ⫸ 💢  ⫸MBC: MBC ⫸ 💢  ⫸OSN:OSN ⫸ 💢  ⫸ARNS:AR_NS ⫸ 💢  ⫸EGY: EGY ⫸ 💢  ⫸CR: CR ⫸ 💢  ⫸MA: MA ⫸ 💢 ⫸ KUR● KURDİ⫷ 💢  ⫸18=ADULT ( YETISKIN ) ⫸ ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://gurcu.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://gurcu.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 27 Eylül 2025 19:48
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 27 Eylül 2026 19:47
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ sdkkB9rvkf
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ 5TuQT4yKAU
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 102.129.200.6
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Hbing Limited
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Eylül 2025 - 17:06
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Nihat Acet
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 4581 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 2548 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 806 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://gurcu.xyz:8080/get.php?username=sdkkB9rvkf&password=5TuQT4yKAU&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://gurcu.xyz:8080/xmltv.php?username=sdkkB9rvkf&password=5TuQT4yKAU&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢⫸ TR● INFO⫷ 💢 ⫸ TR●SUPER LİG⫷ 💢 ⫸ TR● SUPER LİG EXTRA⫷ 💢 ⫸ TR● SUPER LİG MAC TIME⫷ 💢 ⫸ TR● SPORT TURKIYE⫷ 💢 ⫸ TR● SPOR DİJİTAL TV⫷ 💢 ⫸ TR● ULUSAL  TV ⫷ 💢 ⫸ TR● ULUSAL 2 TV ⫷ 💢 ⫸ TR● HABER TV ⫷ 💢 ⫸ TR● HABER 2 TV ⫷ 💢 ⫸ TR● YEREL TV ⫷ 💢 ⫸ TR●SERİES ⫷ 💢 ⫸ TR● CINE MAX ⫷ 💢 ⫸ TR● MY_MEDYA ⫷ 💢 ⫸ TR● BELGESEL TV ⫷ 💢 ⫸ TR● COCUK ⫷ 💢 ⫸ TR●MELODİ ⫸ 💢 ⫸ AT● AVUST⫷ 💢 ⫸ DE● UNTERHALTUNG⫷ 💢 ⫸ DE● KINDER⫷ 💢 ⫸ DE● SKY CINEMA⫷ 💢 ⫸ DE● DOKUMENTAR ⫷ 💢 ⫸ DE●SKY BUNDESLIGA ⫷ 💢 ⫸ DE●SKY SPORT⫷ 💢 ⫸ DE●DAZN NFL⫷ 💢 ⫸ DE●MAGENTA ⫷ 💢 ⫸ DE●S DEUTSCHLAND⫷ 💢 ⫸ DE●SKY F 1⫷ 💢 ⫸ DE●DYN SPOR⫷ 💢 ⫸ DE●UFC EVENT⫷ 💢 ⫸ DE● RTL + SPORT⫷ 💢 ⫸ DE●DAZN EVENT ⫷ 💢 ⫸ NL●  NETHERLAND⫷  💢 ⫸ NL● REGIONAAL⫷ 💢 ⫸ NL● FILIM⫷ 💢 ⫸ NL●7/24 FILM SERIE ⫷ 💢 ⫸ NL● DOCUMENTAIRE ⫷ 💢 ⫸ NL● KINDEREN⫷ 💢 ⫸ NL● MUZIEK  ⫷ 💢 ⫸ UK● ITV ⫷ 💢  ⫸UK: CINEMA ⫸ 💢  ⫸UK: BBC ⫸ 💢  ⫸UK: SKY SPORT ⫸ 💢 ⫸ IT●ITALIA⫷ 💢 ⫸ SW●  SWEDEN⫷ 💢 ⫸ ES● SPAİN⫷ 💢 ⫸ FR● FRANCE⫷ 💢 ⫸ USA● UNİTED⫷ 💢 ⫸ BE● BELGİUM ⫷     💢 ⫸ GR● GREECE ⫷ 💢 ⫸ BIH●  BOSNİA⫷    💢 ⫸ BG● BULGARİ⫷ 💢 ⫸RU● RUSSIA⫷ 💢  ⫸PING=GOLD ⫸ 💢  ⫸HR=GOOLD ⫸ 💢  ⫸EXYU=GOOLD ⫸ 💢  ⫸SL= GOOLD ⫸ 💢  ⫸AL=GOLD ⫸ 💢  ⫸MK=GOLD ⫸ 💢  ⫸HU=MACARİSTAN ⫸ 💢  ⫸RO= GOLD ⫸ 💢  ⫸PL=GOLD ⫸ 💢  ⫸PT=GOLD ⫸ 💢  ⫸DK=GOLD ⫸ 💢  ⫸AR: ARABİ ⫸ 💢  ⫸IR: IR ⫸ 💢  ⫸IRAQ: IRA ⫸ 💢  ⫸MBC: MBC ⫸ 💢  ⫸OSN:OSN ⫸ 💢  ⫸ARNS:AR_NS ⫸ 💢  ⫸EGY: EGY ⫸ 💢  ⫸CR: CR ⫸ 💢  ⫸MA: MA ⫸ 💢 ⫸ KUR● KURDİ⫷ 💢  ⫸18=ADULT ( YETISKIN ) ⫸ ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://gurcu.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://gurcu.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 17 Haziran 2023 14:40
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 03 Ağustos 2026 21:12
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ bAarDAqVDVVE
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ jFrdM4tN7DFK
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 102.129.200.6
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Hbing Limited
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Eylül 2025 - 17:06
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Nihat Acet
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 4581 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 2548 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 806 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://gurcu.xyz:8080/get.php?username=bAarDAqVDVVE&password=jFrdM4tN7DFK&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://gurcu.xyz:8080/xmltv.php?username=bAarDAqVDVVE&password=jFrdM4tN7DFK&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢⫸ TR● INFO⫷ 💢 ⫸ TR●SUPER LİG⫷ 💢 ⫸ TR● SUPER LİG EXTRA⫷ 💢 ⫸ TR● SUPER LİG MAC TIME⫷ 💢 ⫸ TR● SPORT TURKIYE⫷ 💢 ⫸ TR● SPOR DİJİTAL TV⫷ 💢 ⫸ TR● ULUSAL  TV ⫷ 💢 ⫸ TR● ULUSAL 2 TV ⫷ 💢 ⫸ TR● HABER TV ⫷ 💢 ⫸ TR● HABER 2 TV ⫷ 💢 ⫸ TR● YEREL TV ⫷ 💢 ⫸ TR●SERİES ⫷ 💢 ⫸ TR● CINE MAX ⫷ 💢 ⫸ TR● MY_MEDYA ⫷ 💢 ⫸ TR● BELGESEL TV ⫷ 💢 ⫸ TR● COCUK ⫷ 💢 ⫸ TR●MELODİ ⫸ 💢 ⫸ AT● AVUST⫷ 💢 ⫸ DE● UNTERHALTUNG⫷ 💢 ⫸ DE● KINDER⫷ 💢 ⫸ DE● SKY CINEMA⫷ 💢 ⫸ DE● DOKUMENTAR ⫷ 💢 ⫸ DE●SKY BUNDESLIGA ⫷ 💢 ⫸ DE●SKY SPORT⫷ 💢 ⫸ DE●DAZN NFL⫷ 💢 ⫸ DE●MAGENTA ⫷ 💢 ⫸ DE●S DEUTSCHLAND⫷ 💢 ⫸ DE●SKY F 1⫷ 💢 ⫸ DE●DYN SPOR⫷ 💢 ⫸ DE●UFC EVENT⫷ 💢 ⫸ DE● RTL + SPORT⫷ 💢 ⫸ DE●DAZN EVENT ⫷ 💢 ⫸ NL●  NETHERLAND⫷  💢 ⫸ NL● REGIONAAL⫷ 💢 ⫸ NL● FILIM⫷ 💢 ⫸ NL●7/24 FILM SERIE ⫷ 💢 ⫸ NL● DOCUMENTAIRE ⫷ 💢 ⫸ NL● KINDEREN⫷ 💢 ⫸ NL● MUZIEK  ⫷ 💢 ⫸ UK● ITV ⫷ 💢  ⫸UK: CINEMA ⫸ 💢  ⫸UK: BBC ⫸ 💢  ⫸UK: SKY SPORT ⫸ 💢 ⫸ IT●ITALIA⫷ 💢 ⫸ SW●  SWEDEN⫷ 💢 ⫸ ES● SPAİN⫷ 💢 ⫸ FR● FRANCE⫷ 💢 ⫸ USA● UNİTED⫷ 💢 ⫸ BE● BELGİUM ⫷     💢 ⫸ GR● GREECE ⫷ 💢 ⫸ BIH●  BOSNİA⫷    💢 ⫸ BG● BULGARİ⫷ 💢 ⫸RU● RUSSIA⫷ 💢  ⫸PING=GOLD ⫸ 💢  ⫸HR=GOOLD ⫸ 💢  ⫸EXYU=GOOLD ⫸ 💢  ⫸SL= GOOLD ⫸ 💢  ⫸AL=GOLD ⫸ 💢  ⫸MK=GOLD ⫸ 💢  ⫸HU=MACARİSTAN ⫸ 💢  ⫸RO= GOLD ⫸ 💢  ⫸PL=GOLD ⫸ 💢  ⫸PT=GOLD ⫸ 💢  ⫸DK=GOLD ⫸ 💢  ⫸AR: ARABİ ⫸ 💢  ⫸IR: IR ⫸ 💢  ⫸IRAQ: IRA ⫸ 💢  ⫸MBC: MBC ⫸ 💢  ⫸OSN:OSN ⫸ 💢  ⫸ARNS:AR_NS ⫸ 💢  ⫸EGY: EGY ⫸ 💢  ⫸CR: CR ⫸ 💢  ⫸MA: MA ⫸ 💢 ⫸ KUR● KURDİ⫷ 💢  ⫸18=ADULT ( YETISKIN ) ⫸ ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://gurcu.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://gurcu.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 11 Nisan 2025 21:07
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 10 Aralık 2025 21:07
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ yrkn0501rk
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ kry753yk
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 102.129.200.6
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Hbing Limited
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Eylül 2025 - 17:06
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Nihat Acet
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 4581 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 2548 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 806 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://gurcu.xyz:8080/get.php?username=yrkn0501rk&password=kry753yk&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://gurcu.xyz:8080/xmltv.php?username=yrkn0501rk&password=kry753yk&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢⫸ TR● INFO⫷ 💢 ⫸ TR●SUPER LİG⫷ 💢 ⫸ TR● SUPER LİG EXTRA⫷ 💢 ⫸ TR● SUPER LİG MAC TIME⫷ 💢 ⫸ TR● SPORT TURKIYE⫷ 💢 ⫸ TR● SPOR DİJİTAL TV⫷ 💢 ⫸ TR● ULUSAL  TV ⫷ 💢 ⫸ TR● ULUSAL 2 TV ⫷ 💢 ⫸ TR● HABER TV ⫷ 💢 ⫸ TR● HABER 2 TV ⫷ 💢 ⫸ TR● YEREL TV ⫷ 💢 ⫸ TR●SERİES ⫷ 💢 ⫸ TR● CINE MAX ⫷ 💢 ⫸ TR● MY_MEDYA ⫷ 💢 ⫸ TR● BELGESEL TV ⫷ 💢 ⫸ TR● COCUK ⫷ 💢 ⫸ TR●MELODİ ⫸ 💢 ⫸ AT● AVUST⫷ 💢 ⫸ DE● UNTERHALTUNG⫷ 💢 ⫸ DE● KINDER⫷ 💢 ⫸ DE● SKY CINEMA⫷ 💢 ⫸ DE● DOKUMENTAR ⫷ 💢 ⫸ DE●SKY BUNDESLIGA ⫷ 💢 ⫸ DE●SKY SPORT⫷ 💢 ⫸ DE●DAZN NFL⫷ 💢 ⫸ DE●MAGENTA ⫷ 💢 ⫸ DE●S DEUTSCHLAND⫷ 💢 ⫸ DE●SKY F 1⫷ 💢 ⫸ DE●DYN SPOR⫷ 💢 ⫸ DE●UFC EVENT⫷ 💢 ⫸ DE● RTL + SPORT⫷ 💢 ⫸ DE●DAZN EVENT ⫷ 💢 ⫸ NL●  NETHERLAND⫷  💢 ⫸ NL● REGIONAAL⫷ 💢 ⫸ NL● FILIM⫷ 💢 ⫸ NL●7/24 FILM SERIE ⫷ 💢 ⫸ NL● DOCUMENTAIRE ⫷ 💢 ⫸ NL● KINDEREN⫷ 💢 ⫸ NL● MUZIEK  ⫷ 💢 ⫸ UK● ITV ⫷ 💢  ⫸UK: CINEMA ⫸ 💢  ⫸UK: BBC ⫸ 💢  ⫸UK: SKY SPORT ⫸ 💢 ⫸ IT●ITALIA⫷ 💢 ⫸ SW●  SWEDEN⫷ 💢 ⫸ ES● SPAİN⫷ 💢 ⫸ FR● FRANCE⫷ 💢 ⫸ USA● UNİTED⫷ 💢 ⫸ BE● BELGİUM ⫷     💢 ⫸ GR● GREECE ⫷ 💢 ⫸ BIH●  BOSNİA⫷    💢 ⫸ BG● BULGARİ⫷ 💢 ⫸RU● RUSSIA⫷ 💢  ⫸PING=GOLD ⫸ 💢  ⫸HR=GOOLD ⫸ 💢  ⫸EXYU=GOOLD ⫸ 💢  ⫸SL= GOOLD ⫸ 💢  ⫸AL=GOLD ⫸ 💢  ⫸MK=GOLD ⫸ 💢  ⫸HU=MACARİSTAN ⫸ 💢  ⫸RO= GOLD ⫸ 💢  ⫸PL=GOLD ⫸ 💢  ⫸PT=GOLD ⫸ 💢  ⫸DK=GOLD ⫸ 💢  ⫸AR: ARABİ ⫸ 💢  ⫸IR: IR ⫸ 💢  ⫸IRAQ: IRA ⫸ 💢  ⫸MBC: MBC ⫸ 💢  ⫸OSN:OSN ⫸ 💢  ⫸ARNS:AR_NS ⫸ 💢  ⫸EGY: EGY ⫸ 💢  ⫸CR: CR ⫸ 💢  ⫸MA: MA ⫸ 💢 ⫸ KUR● KURDİ⫷ 💢  ⫸18=ADULT ( YETISKIN ) ⫸ ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://gurcu.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://gurcu.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 05 Ocak 2024 13:00
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 05 Ocak 2026 13:00
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ cancaptany
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ seaeaseasert
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 102.129.200.6
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Hbing Limited
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Eylül 2025 - 17:06
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Nihat Acet
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 3820 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 2548 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 770 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://gurcu.xyz:8080/get.php?username=cancaptany&password=seaeaseasert&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://gurcu.xyz:8080/xmltv.php?username=cancaptany&password=seaeaseasert&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢⫸ TR● INFO⫷ 💢 ⫸ TR●SUPER LİG⫷ 💢 ⫸ TR● SUPER LİG EXTRA⫷ 💢 ⫸ TR● SUPER LİG MAC TIME⫷ 💢 ⫸ TR● SPORT TURKIYE⫷ 💢 ⫸ TR● SPOR DİJİTAL TV⫷ 💢 ⫸ TR● ULUSAL  TV ⫷ 💢 ⫸ TR● ULUSAL 2 TV ⫷ 💢 ⫸ TR● HABER TV ⫷ 💢 ⫸ TR● HABER 2 TV ⫷ 💢 ⫸ TR● YEREL TV ⫷ 💢 ⫸ TR●SERİES ⫷ 💢 ⫸ TR● CINE MAX ⫷ 💢 ⫸ TR● MY_MEDYA ⫷ 💢 ⫸ TR● BELGESEL TV ⫷ 💢 ⫸ TR● COCUK ⫷ 💢 ⫸ TR●MELODİ ⫸ 💢 ⫸ AT● AVUST⫷ 💢 ⫸ DE● UNTERHALTUNG⫷ 💢 ⫸ DE● KINDER⫷ 💢 ⫸ DE● SKY CINEMA⫷ 💢 ⫸ DE● DOKUMENTAR ⫷ 💢 ⫸ DE●SKY BUNDESLIGA ⫷ 💢 ⫸ DE●SKY SPORT⫷ 💢 ⫸ DE●DAZN NFL⫷ 💢 ⫸ DE●MAGENTA ⫷ 💢 ⫸ DE●S DEUTSCHLAND⫷ 💢 ⫸ DE●SKY F 1⫷ 💢 ⫸ DE●DYN SPOR⫷ 💢 ⫸ DE●UFC EVENT⫷ 💢 ⫸ DE● RTL + SPORT⫷ 💢 ⫸ DE●DAZN EVENT ⫷ 💢 ⫸ NL●  NETHERLAND⫷  💢 ⫸ NL● REGIONAAL⫷ 💢 ⫸ NL● FILIM⫷ 💢 ⫸ NL●7/24 FILM SERIE ⫷ 💢 ⫸ NL● DOCUMENTAIRE ⫷ 💢 ⫸ NL● KINDEREN⫷ 💢 ⫸ NL● MUZIEK  ⫷ 💢 ⫸ UK● ITV ⫷ 💢  ⫸UK: CINEMA ⫸ 💢  ⫸UK: BBC ⫸ 💢  ⫸UK: SKY SPORT ⫸ 💢 ⫸ IT●ITALIA⫷ 💢 ⫸ SW●  SWEDEN⫷ 💢 ⫸ ES● SPAİN⫷ 💢 ⫸ FR● FRANCE⫷ 💢 ⫸ USA● UNİTED⫷ 💢 ⫸ BE● BELGİUM ⫷     💢 ⫸ GR● GREECE ⫷ 💢 ⫸ BIH●  BOSNİA⫷    💢 ⫸ BG● BULGARİ⫷ 💢 ⫸RU● RUSSIA⫷ 💢  ⫸PING=GOLD ⫸ 💢  ⫸HR=GOOLD ⫸ 💢  ⫸EXYU=GOOLD ⫸ 💢  ⫸SL= GOOLD ⫸ 💢  ⫸AL=GOLD ⫸ 💢  ⫸MK=GOLD ⫸ 💢  ⫸HU=MACARİSTAN ⫸ 💢  ⫸RO= GOLD ⫸ 💢  ⫸PL=GOLD ⫸ 💢  ⫸PT=GOLD ⫸ 💢  ⫸DK=GOLD ⫸ 💢 ⫸ KUR● KURDİ⫷ 💢  ⫸18=ADULT ( YETISKIN ) ⫸ ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://gurcu.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://gurcu.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 02 Ekim 2021 15:23
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 06 Ekim 2025 15:09
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ zQyce7r4GwGk
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ qfGE9SHMJ9zk
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 0
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 102.129.200.6
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Hbing Limited
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Eylül 2025 - 17:06
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Nihat Acet
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 3820 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 2548 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 770 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://gurcu.xyz:8080/get.php?username=zQyce7r4GwGk&password=qfGE9SHMJ9zk&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://gurcu.xyz:8080/xmltv.php?username=zQyce7r4GwGk&password=qfGE9SHMJ9zk&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢⫸ TR● INFO⫷ 💢 ⫸ TR●SUPER LİG⫷ 💢 ⫸ TR● SUPER LİG EXTRA⫷ 💢 ⫸ TR● SUPER LİG MAC TIME⫷ 💢 ⫸ TR● SPORT TURKIYE⫷ 💢 ⫸ TR● SPOR DİJİTAL TV⫷ 💢 ⫸ TR● ULUSAL  TV ⫷ 💢 ⫸ TR● ULUSAL 2 TV ⫷ 💢 ⫸ TR● HABER TV ⫷ 💢 ⫸ TR● HABER 2 TV ⫷ 💢 ⫸ TR● YEREL TV ⫷ 💢 ⫸ TR●SERİES ⫷ 💢 ⫸ TR● CINE MAX ⫷ 💢 ⫸ TR● MY_MEDYA ⫷ 💢 ⫸ TR● BELGESEL TV ⫷ 💢 ⫸ TR● COCUK ⫷ 💢 ⫸ TR●MELODİ ⫸ 💢 ⫸ AT● AVUST⫷ 💢 ⫸ DE● UNTERHALTUNG⫷ 💢 ⫸ DE● KINDER⫷ 💢 ⫸ DE● SKY CINEMA⫷ 💢 ⫸ DE● DOKUMENTAR ⫷ 💢 ⫸ DE●SKY BUNDESLIGA ⫷ 💢 ⫸ DE●SKY SPORT⫷ 💢 ⫸ DE●DAZN NFL⫷ 💢 ⫸ DE●MAGENTA ⫷ 💢 ⫸ DE●S DEUTSCHLAND⫷ 💢 ⫸ DE●SKY F 1⫷ 💢 ⫸ DE●DYN SPOR⫷ 💢 ⫸ DE●UFC EVENT⫷ 💢 ⫸ DE● RTL + SPORT⫷ 💢 ⫸ DE●DAZN EVENT ⫷ 💢 ⫸ NL●  NETHERLAND⫷  💢 ⫸ NL● REGIONAAL⫷ 💢 ⫸ NL● FILIM⫷ 💢 ⫸ NL●7/24 FILM SERIE ⫷ 💢 ⫸ NL● DOCUMENTAIRE ⫷ 💢 ⫸ NL● KINDEREN⫷ 💢 ⫸ NL● MUZIEK  ⫷ 💢 ⫸ UK● ITV ⫷ 💢  ⫸UK: CINEMA ⫸ 💢  ⫸UK: BBC ⫸ 💢  ⫸UK: SKY SPORT ⫸ 💢 ⫸ IT●ITALIA⫷ 💢 ⫸ SW●  SWEDEN⫷ 💢 ⫸ ES● SPAİN⫷ 💢 ⫸ FR● FRANCE⫷ 💢 ⫸ USA● UNİTED⫷ 💢 ⫸ BE● BELGİUM ⫷     💢 ⫸ GR● GREECE ⫷ 💢 ⫸ BIH●  BOSNİA⫷    💢 ⫸ BG● BULGARİ⫷ 💢 ⫸RU● RUSSIA⫷ 💢  ⫸PING=GOLD ⫸ 💢  ⫸HR=GOOLD ⫸ 💢  ⫸EXYU=GOOLD ⫸ 💢  ⫸SL= GOOLD ⫸ 💢  ⫸AL=GOLD ⫸ 💢  ⫸MK=GOLD ⫸ 💢  ⫸HU=MACARİSTAN ⫸ 💢  ⫸RO= GOLD ⫸ 💢  ⫸PL=GOLD ⫸ 💢  ⫸PT=GOLD ⫸ 💢  ⫸DK=GOLD ⫸ 💢 ⫸ KUR● KURDİ⫷ 💢  ⫸18=ADULT ( YETISKIN ) ⫸ ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://gurcu.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://gurcu.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 03 Ekim 2020 16:46
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 04 Ekim 2025 13:12
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ CvbzMRuj2GLx
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ c5wb27rY9SNS
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 102.129.200.6
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Hbing Limited
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Eylül 2025 - 17:06
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Nihat Acet
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 3820 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 2548 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 770 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://gurcu.xyz:8080/get.php?username=CvbzMRuj2GLx&password=c5wb27rY9SNS&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://gurcu.xyz:8080/xmltv.php?username=CvbzMRuj2GLx&password=c5wb27rY9SNS&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢⫸ TR● INFO⫷ 💢 ⫸ TR●SUPER LİG⫷ 💢 ⫸ TR● SUPER LİG EXTRA⫷ 💢 ⫸ TR● SUPER LİG MAC TIME⫷ 💢 ⫸ TR● SPORT TURKIYE⫷ 💢 ⫸ TR● SPOR DİJİTAL TV⫷ 💢 ⫸ TR● ULUSAL  TV ⫷ 💢 ⫸ TR● ULUSAL 2 TV ⫷ 💢 ⫸ TR● HABER TV ⫷ 💢 ⫸ TR● HABER 2 TV ⫷ 💢 ⫸ TR● YEREL TV ⫷ 💢 ⫸ TR●SERİES ⫷ 💢 ⫸ TR● CINE MAX ⫷ 💢 ⫸ TR● MY_MEDYA ⫷ 💢 ⫸ TR● BELGESEL TV ⫷ 💢 ⫸ TR● COCUK ⫷ 💢 ⫸ TR●MELODİ ⫸ 💢 ⫸ AT● AVUST⫷ 💢 ⫸ DE● UNTERHALTUNG⫷ 💢 ⫸ DE● KINDER⫷ 💢 ⫸ DE● SKY CINEMA⫷ 💢 ⫸ DE● DOKUMENTAR ⫷ 💢 ⫸ DE●SKY BUNDESLIGA ⫷ 💢 ⫸ DE●SKY SPORT⫷ 💢 ⫸ DE●DAZN NFL⫷ 💢 ⫸ DE●MAGENTA ⫷ 💢 ⫸ DE●S DEUTSCHLAND⫷ 💢 ⫸ DE●SKY F 1⫷ 💢 ⫸ DE●DYN SPOR⫷ 💢 ⫸ DE●UFC EVENT⫷ 💢 ⫸ DE● RTL + SPORT⫷ 💢 ⫸ DE●DAZN EVENT ⫷ 💢 ⫸ NL●  NETHERLAND⫷  💢 ⫸ NL● REGIONAAL⫷ 💢 ⫸ NL● FILIM⫷ 💢 ⫸ NL●7/24 FILM SERIE ⫷ 💢 ⫸ NL● DOCUMENTAIRE ⫷ 💢 ⫸ NL● KINDEREN⫷ 💢 ⫸ NL● MUZIEK  ⫷ 💢 ⫸ UK● ITV ⫷ 💢  ⫸UK: CINEMA ⫸ 💢  ⫸UK: BBC ⫸ 💢  ⫸UK: SKY SPORT ⫸ 💢 ⫸ IT●ITALIA⫷ 💢 ⫸ SW●  SWEDEN⫷ 💢 ⫸ ES● SPAİN⫷ 💢 ⫸ FR● FRANCE⫷ 💢 ⫸ USA● UNİTED⫷ 💢 ⫸ BE● BELGİUM ⫷     💢 ⫸ GR● GREECE ⫷ 💢 ⫸ BIH●  BOSNİA⫷    💢 ⫸ BG● BULGARİ⫷ 💢 ⫸RU● RUSSIA⫷ 💢  ⫸PING=GOLD ⫸ 💢  ⫸HR=GOOLD ⫸ 💢  ⫸EXYU=GOOLD ⫸ 💢  ⫸SL= GOOLD ⫸ 💢  ⫸AL=GOLD ⫸ 💢  ⫸MK=GOLD ⫸ 💢  ⫸HU=MACARİSTAN ⫸ 💢  ⫸RO= GOLD ⫸ 💢  ⫸PL=GOLD ⫸ 💢  ⫸PT=GOLD ⫸ 💢  ⫸DK=GOLD ⫸ 💢 ⫸ KUR● KURDİ⫷ 💢  ⫸18=ADULT ( YETISKIN ) ⫸ ✷✷ 📺
+
+========================================
+
+ ♕  𝙳𝚞𝚏𝚛𝚊𝚜𝚗𝚎 𝙼𝟹𝚄 𝙲𝚘𝚗𝚝𝚛𝚘𝚕 𝚟𝟷 ♕
+╭✷ 🌐 𝙿𝚊𝚗𝚎𝚕 ➢ http://gurcu.xyz:8080
+├✷ 🪩 𝙶𝚎𝚛𝚌𝚎𝚔 𝚄𝚁𝙻 ➢ http://gurcu.xyz:8080
+├✷ 📆 𝙱𝚊𝚜𝚕𝚊𝚖𝚊 𝚃𝚊𝚛 ➢ 24 Aralık 2023 21:50
+├✷ 📅 𝙱𝚒𝚝𝚒𝚜 𝚃𝚊𝚛 ➢ 25 Aralık 2025 13:37
+├✷ 🪪 𝙺𝚞𝚕𝚕𝚊𝚗ı𝚌ı ➢ Erd@l@biKardes10
+├✷ 🔑 𝚂𝚒𝚏𝚛𝚎 ➢ SMdn7js89hC6
+├✷ 🚦 𝙳𝚞𝚛𝚞𝚖 ➢ Aktif 🟢
+├✷ 👤 𝙰𝚔𝚝𝚒𝚏 𝙺𝚞𝚕 ➢ 1
+├✷ 👥️ 𝙼𝚊𝚡 𝙺𝚞𝚕 ➢ 1
+├✷ 🌏 𝚄̈𝚕𝚔𝚎 ➢ 🇳🇱 The Netherlands
+├✷ 🕒 𝚉𝚊𝚖𝚊𝚗 𝙳𝚒𝚕𝚒𝚖𝚒 ➢ Europe/Amsterdam
+├✷ 📧 𝙼𝚎𝚜𝚊𝚓 ➢ Mesaj yok
+├✷ 📌 𝚂𝚞𝚗𝚞𝚌𝚞 𝚒𝚙 ➢ 102.129.200.6
+├✷ 💻 𝚂𝚞𝚗𝚞𝚌𝚞 𝙰𝚍ı ➢ Hbing Limited
+╰✷ 🗓️ 𝚃𝚊𝚛𝚊𝚖𝚊 𝚉𝚊𝚖𝚊𝚗ı ➢ 29 Eylül 2025 - 17:07
+
+╭✷ 👨‍💻  𝙲𝚑𝚎𝚌𝚔𝚎𝚍 𝙱𝚢
+╰➢  Nihat Acet
+
+╭✷📽 𝙺𝚊𝚗𝚊𝚕 𝚂𝚊𝚢ı𝚜ı ➢[ 3820 ]
+├✷📽 𝙵𝚒𝚕𝚖 𝚂𝚊𝚢ı𝚜ı ➢[ 2548 ]
+╰✷📽 𝙳𝚒𝚣𝚒 𝚂𝚊𝚢ı𝚜ı ➢[ 770 ]
+    
+╭✷📀 𝙼𝟹𝚞_𝚄𝚛𝚕 ➢ http://gurcu.xyz:8080/get.php?username=Erd@l@biKardes10&password=SMdn7js89hC6&type=m3u_plus
+╰✷💿 𝙴𝚙𝚐_𝚄𝚛𝚕 ➢ http://gurcu.xyz:8080/xmltv.php?username=Erd@l@biKardes10&password=SMdn7js89hC6&type=xml_plus
+    
+╭✷« 𝙺𝚊𝚝𝚎𝚐𝚘𝚛𝚒 »✷
+╰➢⫸ TR● INFO⫷ 💢 ⫸ TR●SUPER LİG⫷ 💢 ⫸ TR● SUPER LİG EXTRA⫷ 💢 ⫸ TR● SUPER LİG MAC TIME⫷ 💢 ⫸ TR● SPORT TURKIYE⫷ 💢 ⫸ TR● SPOR DİJİTAL TV⫷ 💢 ⫸ TR● ULUSAL  TV ⫷ 💢 ⫸ TR● ULUSAL 2 TV ⫷ 💢 ⫸ TR● HABER TV ⫷ 💢 ⫸ TR● HABER 2 TV ⫷ 💢 ⫸ TR● YEREL TV ⫷ 💢 ⫸ TR●SERİES ⫷ 💢 ⫸ TR● CINE MAX ⫷ 💢 ⫸ TR● MY_MEDYA ⫷ 💢 ⫸ TR● BELGESEL TV ⫷ 💢 ⫸ TR● COCUK ⫷ 💢 ⫸ TR●MELODİ ⫸ 💢 ⫸ AT● AVUST⫷ 💢 ⫸ DE● UNTERHALTUNG⫷ 💢 ⫸ DE● KINDER⫷ 💢 ⫸ DE● SKY CINEMA⫷ 💢 ⫸ DE● DOKUMENTAR ⫷ 💢 ⫸ DE●SKY BUNDESLIGA ⫷ 💢 ⫸ DE●SKY SPORT⫷ 💢 ⫸ DE●DAZN NFL⫷ 💢 ⫸ DE●MAGENTA ⫷ 💢 ⫸ DE●S DEUTSCHLAND⫷ 💢 ⫸ DE●SKY F 1⫷ 💢 ⫸ DE●DYN SPOR⫷ 💢 ⫸ DE●UFC EVENT⫷ 💢 ⫸ DE● RTL + SPORT⫷ 💢 ⫸ DE●DAZN EVENT ⫷ 💢 ⫸ NL●  NETHERLAND⫷  💢 ⫸ NL● REGIONAAL⫷ 💢 ⫸ NL● FILIM⫷ 💢 ⫸ NL●7/24 FILM SERIE ⫷ 💢 ⫸ NL● DOCUMENTAIRE ⫷ 💢 ⫸ NL● KINDEREN⫷ 💢 ⫸ NL● MUZIEK  ⫷ 💢 ⫸ UK● ITV ⫷ 💢  ⫸UK: CINEMA ⫸ 💢  ⫸UK: BBC ⫸ 💢  ⫸UK: SKY SPORT ⫸ 💢 ⫸ IT●ITALIA⫷ 💢 ⫸ SW●  SWEDEN⫷ 💢 ⫸ ES● SPAİN⫷ 💢 ⫸ FR● FRANCE⫷ 💢 ⫸ USA● UNİTED⫷ 💢 ⫸ BE● BELGİUM ⫷     💢 ⫸ GR● GREECE ⫷ 💢 ⫸ BIH●  BOSNİA⫷    💢 ⫸ BG● BULGARİ⫷ 💢 ⫸RU● RUSSIA⫷ 💢  ⫸PING=GOLD ⫸ 💢  ⫸HR=GOOLD ⫸ 💢  ⫸EXYU=GOOLD ⫸ 💢  ⫸SL= GOOLD ⫸ 💢  ⫸AL=GOLD ⫸ 💢  ⫸MK=GOLD ⫸ 💢  ⫸HU=MACARİSTAN ⫸ 💢  ⫸RO= GOLD ⫸ 💢  ⫸PL=GOLD ⫸ 💢  ⫸PT=GOLD ⫸ 💢  ⫸DK=GOLD ⫸ 💢 ⫸ KUR● KURDİ⫷ 💢  ⫸18=ADULT ( YETISKIN ) ⫸ ✷✷ 📺
+
+========================================
